@@ -1016,17 +1016,78 @@
 <sub><a href="https://x.com/modaalbuilder/status/2103053680945868989">Original post ↗</a> · <a href="../../prompts/2103053680945868989.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="../../prompts/2102743212922384673.md"><img src="../gifs/2102743212922384673.gif" alt="Human History and AI Evolution Animation Prompt" width="256" height="144" /></a><br>
-<sub>Create a short origami /<br>doodle-style animation...</sub><br>
-<sub><a href="https://x.com/songkeys/status/2102743212922384673">Original post ↗</a> · <a href="../../prompts/2102743212922384673.md">Prompt ↗</a></sub>
+<a href="../../prompts/2103019799614034026.md"><img src="../gifs/2103019799614034026.gif" alt="Paper Cut-Out Shadow Theatre Animation" width="256" height="144" /></a><br>
+<sub>Create a pure javascript<br>animation. 30-60s, vertical...</sub><br>
+<sub><a href="https://x.com/x4b47x/status/2103019799614034026">Original post ↗</a> · <a href="../../prompts/2103019799614034026.md">Prompt ↗</a></sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="../../prompts/2102973867656614053.md"><img src="../gifs/2102973867656614053.gif" alt="Claude Humor Test Video Prompt" width="256" height="144" /></a><br>
+<sub>make a funny video. it can be<br>about anything. length: 10...</sub><br>
+<sub><a href="https://x.com/NemTudo_/status/2102973867656614053">Original post ↗</a> · <a href="../../prompts/2102973867656614053.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2102971287224135914.md"><img src="../gifs/2102971287224135914.gif" alt="Interactive Explosion Simulation Prompt" width="256" height="144" /></a><br>
+<sub>Create the most impressive<br>explosion effect you can and...</sub><br>
+<sub><a href="https://x.com/FornYapayZeka/status/2102971287224135914">Original post ↗</a> · <a href="../../prompts/2102971287224135914.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2102924409124389221.md"><img src="../gifs/2102924409124389221.gif" alt="Video Music and Aspect Ratio Formatting Prompt" width="256" height="144" /></a><br>
+<sub>Add a good fast royalty free<br>music to this video, and...</sub><br>
+<sub><a href="https://x.com/PalashBagchi11/status/2102924409124389221">Original post ↗</a> · <a href="../../prompts/2102924409124389221.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2102908742518100086.md"><img src="../gifs/2102908742518100086.gif" alt="Silent Short Film Prompt" width="256" height="144" /></a><br>
+<sub>Make a 45-second silent short<br>film with no dialogue, where...</sub><br>
+<sub><a href="https://x.com/KamStudioLabs/status/2102908742518100086">Original post ↗</a> · <a href="../../prompts/2102908742518100086.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2102906701552726206.md"><img src="../gifs/2102906701552726206.gif" alt="Animated Mosaic Film in WebGL2" width="256" height="144" /></a><br>
+<sub>Make an 80 second square<br>animated film as a single...</sub><br>
+<sub><a href="https://x.com/zeezomb/status/2102906701552726206">Original post ↗</a> · <a href="../../prompts/2102906701552726206.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2102903173161877996.md"><img src="../gifs/2102903173161877996.gif" alt="Animated Short of an Unfixable Bug" width="256" height="144" /></a><br>
+<sub>Make a 90-second animated short<br>film about a bug that...</sub><br>
+<sub><a href="https://x.com/KamStudioLabs/status/2102903173161877996">Original post ↗</a> · <a href="../../prompts/2102903173161877996.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2102899866762440893.md"><img src="../gifs/2102899866762440893.gif" alt="Synthesized Music Collision Machine" width="256" height="144" /></a><br>
+<sub>Build a 45-second machine that<br>plays an original piece of...</sub><br>
+<sub><a href="https://x.com/KamStudioLabs/status/2102899866762440893">Original post ↗</a> · <a href="../../prompts/2102899866762440893.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2102897651008344202.md"><img src="../gifs/2102897651008344202.gif" alt="Opus 5.5 Promotional Reel Prompt" width="256" height="144" /></a><br>
+<sub>I need you to make a reel with<br>this info in 10 seconds,...</sub><br>
+<sub><a href="https://x.com/GonzaloMacagno/status/2102897651008344202">Original post ↗</a> · <a href="../../prompts/2102897651008344202.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2102888241443795431.md"><img src="../gifs/2102888241443795431.gif" alt="Interactive Fireworks and Particle Simulation" width="256" height="144" /></a><br>
+<sub>Produce the most impressive<br>fireworks or luminous...</sub><br>
+<sub><a href="https://x.com/FornYapayZeka/status/2102888241443795431">Original post ↗</a> · <a href="../../prompts/2102888241443795431.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2102861376184054015.md"><img src="../gifs/2102861376184054015.gif" alt="Paper Fractal Visualizer Prompt" width="256" height="144" /></a><br>
+<sub>build an art project which is a<br>fractal visulizer...</sub><br>
+<sub><a href="https://x.com/jrayon/status/2102861376184054015">Original post ↗</a> · <a href="../../prompts/2102861376184054015.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2102743212922384673.md"><img src="../gifs/2102743212922384673.gif" alt="Human History and AI Evolution Animation Prompt" width="256" height="144" /></a><br>
+<sub>Create a short origami /<br>doodle-style animation...</sub><br>
+<sub><a href="https://x.com/songkeys/status/2102743212922384673">Original post ↗</a> · <a href="../../prompts/2102743212922384673.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2102476258948927543.md"><img src="../gifs/2102476258948927543.gif" alt="Animated Pixel Art Wizard in Canvas 2D" width="256" height="144" /></a><br>
 <sub>Create a single self-contained<br>HTML file that renders an...</sub><br>
 <sub><a href="https://x.com/majidmanzarpour/status/2102476258948927543">Original post ↗</a> · <a href="../../prompts/2102476258948927543.md">Prompt ↗</a></sub>
-</td><td></td><td></td>
+</td>
 </tr>
 </table>
 

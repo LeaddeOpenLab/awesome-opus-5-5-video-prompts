@@ -142,7 +142,17 @@
 <a href="../../prompts/2103128559174971663.md"><img src="../gifs/2103128559174971663.gif" alt="Manim Derivative Concept Educational Video Prompt" width="256" height="144" /></a><br>
 <sub>Please make a video for<br>learning the concept of...</sub><br>
 <sub><a href="https://x.com/LinearUncle/status/2103128559174971663">Original post ↗</a> · <a href="../../prompts/2103128559174971663.md">Prompt ↗</a></sub>
-</td><td></td><td></td>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2102867033100616097.md"><img src="../gifs/2102867033100616097.gif" alt="Stop-Motion DeFi Saver Animation" width="256" height="144" /></a><br>
+<sub>make a hand-drawn stop-motion<br>animation; story: you're...</sub><br>
+<sub><a href="https://x.com/_nikolajankovic/status/2102867033100616097">Original post ↗</a> · <a href="../../prompts/2102867033100616097.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2102847039415476517.md"><img src="../gifs/2102847039415476517.gif" alt="Datagran Explainer Video Prompt" width="256" height="144" /></a><br>
+<sub>I Want you to make a modern<br>slick and punchy video for...</sub><br>
+<sub><a href="https://x.com/charlesmendez/status/2102847039415476517">Original post ↗</a> · <a href="../../prompts/2102847039415476517.md">Prompt ↗</a></sub>
+</td>
 </tr>
 </table>
 

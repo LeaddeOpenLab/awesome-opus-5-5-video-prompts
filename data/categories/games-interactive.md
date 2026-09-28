@@ -132,10 +132,22 @@
 <sub><a href="https://x.com/BuildFastWithAI/status/2103152898708582551">Original post ↗</a> · <a href="../../prompts/2103152898708582551.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2102989395359887481.md"><img src="../gifs/2102989395359887481.gif" alt="Three.js Animated Story Prompt" width="256" height="144" /></a><br>
+<sub>I want you to imagine a story.<br>And then using threejs I...</sub><br>
+<sub><a href="https://x.com/Ryzoft/status/2102989395359887481">Original post ↗</a> · <a href="../../prompts/2102989395359887481.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2102986585004511319.md"><img src="../gifs/2102986585004511319.gif" alt="Make a Tron Game Prompt" width="256" height="144" /></a><br>
+<sub>make a Tron game.<br>&nbsp;</sub><br>
+<sub><a href="https://x.com/0xRathi/status/2102986585004511319">Original post ↗</a> · <a href="../../prompts/2102986585004511319.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2102919394775220530.md"><img src="../gifs/2102919394775220530.gif" alt="90s-Style Demoscene Demo Prompt" width="256" height="144" /></a><br>
 <sub>I would like you to create a<br>kickass, impressive 1990s...</sub><br>
 <sub><a href="https://x.com/gandamu_ml/status/2102919394775220530">Original post ↗</a> · <a href="../../prompts/2102919394775220530.md">Prompt ↗</a></sub>
-</td>
+</td><td></td>
 </tr>
 </table>
 
