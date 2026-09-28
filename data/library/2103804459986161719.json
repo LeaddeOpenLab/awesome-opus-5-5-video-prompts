@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:49:15.885Z",
+  "model": "opus5.5",
+  "prompt": "create a video summarizing political life in Morocco since independence",
+  "promptTranslations": {
+    "en": "create a video summarizing political life in Morocco since independence"
+  },
+  "summary": "Trig-lycee shares a video generated through prompts using Claude Opus 5.5 to summarize Moroccan political history since independence.",
+  "summaryEn": "Video Summarizing Political Life in Morocco",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103804459986161719",
+    "canonicalUrl": "https://x.com/TrigLyceee/status/2103804459986161719",
+    "author": {
+      "username": "TrigLyceee",
+      "displayName": "Trig-lycee",
+      "profileUrl": "https://x.com/TrigLyceee"
+    },
+    "publishedAt": "2026-09-26T11:10:44.000Z",
+    "collectedAt": "2026-09-28T07:47:50.314Z",
+    "language": "fr",
+    "originalText": "Fascinant ce que peut proposer Claude Opus 5.5 avec deux/trois prompt.. sur la base de « réalise une vidéo résumant la vie politique au Maroc depuis l’indépendance » https://t.co/Wl9XL1tzl0",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/TrigLyceee/status/2103804459986161719",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103804301537685504/img/NEvTJUs3hgZ583ko.jpg",
+        "analysisUrl": "https://x.com/TrigLyceee/status/2103804459986161719"
+      }
+    ],
+    "metrics": {
+      "likeCount": 17,
+      "repostCount": 3,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 9418
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/TrigLyceee/status/2103804459986161719",
+        "text": "Trig-lycee on X: \"Fascinant ce que peut proposer Claude Opus 5.5 avec deux/trois prompt.. sur la base de « réalise une vidéo résumant la vie politique au Maroc depuis l’indépendance »\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nTrig-lycee on X: \"Fascinant ce que peut proposer Claude Opus 5.5 avec deux/trois prompt.. sur la base de « réalise une vidéo résumant la vie politique au Maroc depuis l’indépendance »\"\n\n\n\nTrig-lycee\n@TrigLyceee\n\n\n\n\nShow translation\nFascinant ce que peut proposer Claude Opus 5.5 avec deux/trois prompt.. sur la base de « réalise une vidéo résumant la vie politique au Maroc depuis l’indépendance »\n\n\n00:00\n\n\n\n\n\n\n\n\n11:10 AM · Sep 26, 2026·9,418\nViews\n\n\n\n1\n3\n17\n10\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nTrig-lycee@TrigLyceeeFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrig-lycee\n@TrigLyceee\n\n\n\n\nShow translation\nFascinant ce que peut proposer Claude Opus 5.5 avec deux/trois prompt.. sur la base de « réalise une vidéo résumant la vie politique au Maroc depuis l’indépendance »\n\n\n00:00\n\n\n\n\n\n\n\n\n11:10 AM · Sep 26, 2026·9,418\nViews\n\n\n\n1\n3\n17\n10\n\n\n\n\n\n\n\n\n\nNero.\n@saguaross\n7h\n\n\nIl a mit le moment où vous normalisez avec Israël aussi ou pas ?\n\n\n\n\n\n9\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "TrigLyceee"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/TrigLyceee/status/2103804459986161719",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103804301537685504/img/NEvTJUs3hgZ583ko.jpg",
+  "coverPath": "data/covers/2103804459986161719-wide.jpg",
+  "gifPath": "data/gifs/2103804459986161719.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103804301537685504",
+    "x-post:2103804459986161719"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Video Summarizing Political Life in Morocco",
+      "summary": "Trig-lycee shares a video generated through prompts using Claude Opus 5.5 to summarize Moroccan political history since independence.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "réalise une vidéo résumant la vie politique au Maroc depuis l’indépendance",
+        "englishText": "create a video summarizing political life in Morocco since independence",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/TrigLyceee/status/2103804459986161719",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/TrigLyceee/status/2103804459986161719",
+        "start": 89,
+        "end": 163
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/TrigLyceee/status/2103804459986161719",
+        "author": "TrigLyceee",
+        "postId": "2103804459986161719",
+        "publishedAt": "2026-09-26T11:10:44.000Z"
+      },
+      "checkedAt": "2026-09-28T07:48:08.191Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index"
+    },
+    "summary": "Trig-lycee shares a video generated through prompts using Claude Opus 5.5 to summarize Moroccan political history since independence.",
+    "summaryEn": "Video Summarizing Political Life in Morocco",
+    "originalPrompt": "réalise une vidéo résumant la vie politique au Maroc depuis l’indépendance",
+    "sourceRange": {
+      "start": 89,
+      "end": 163
+    },
+    "translations": {
+      "zh": "réalise une vidéo résumant la vie politique au Maroc depuis l’indépendance",
+      "en": "create a video summarizing political life in Morocco since independence"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Trig-lycee shares a video generated through prompts using Claude Opus 5.5 to summarize Moroccan political history since independence.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
