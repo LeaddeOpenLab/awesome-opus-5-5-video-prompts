@@ -8,6 +8,23 @@
 <sub><a href="https://x.com/itnavi2022/status/2104468704490909880">Original post ↗</a> · <a href="../../prompts/2104468704490909880.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2104519528873103773.md"><img src="../gifs/2104519528873103773.gif" alt="Opus 5.5 制作《星际穿越里的真物理》黑洞篇动效科普视频" width="256" height="144" /></a><br>
+<sub>The Real Physics of<br>Interstellar: The Black Hole...</sub><br>
+<sub><a href="https://x.com/AndyL5cc/status/2104519528873103773">Original post ↗</a> · <a href="../../prompts/2104519528873103773.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2104490962139385936.md"><img src="../gifs/2104490962139385936.gif" alt="Opus 5.5 Product Explainer Video Generation" width="256" height="144" /></a><br>
+<sub>Take a look at our Youtube for<br>example animated explainer...</sub><br>
+<sub><a href="https://x.com/andrewmichaelsa/status/2104490962139385936">Original post ↗</a> · <a href="../../prompts/2104490962139385936.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2104474644279697754.md"><img src="../gifs/2104474644279697754.gif" alt="India's Got Latent Explainer Breakdown" width="256" height="144" /></a><br>
+<sub>break down what India’s Got<br>Lalent really is</sub><br>
+<sub><a href="https://x.com/ratnakshtyagi27/status/2104474644279697754">Original post ↗</a> · <a href="../../prompts/2104474644279697754.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2104466394859593915.md"><img src="../gifs/2104466394859593915.gif" alt="Remotion Search History 15s Timeline Animation" width="256" height="144" /></a><br>
 <sub>- From 1996 to 2015, neon-style<br>year markers slam in while...</sub><br>
 <sub><a href="https://x.com/rpa_dake/status/2104466394859593915">Original post ↗</a> · <a href="../../prompts/2104466394859593915.md">Prompt ↗</a></sub>
