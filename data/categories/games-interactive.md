@@ -81,6 +81,23 @@
 <sub><a href="https://x.com/0xChuckstock/status/2103804606794879327">Original post ↗</a> · <a href="../../prompts/2103804606794879327.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2103789415323562325.md"><img src="../gifs/2103789415323562325.gif" alt="Police Chase Arcade Game PRD Prompt" width="256" height="144" /></a><br>
+<sub>PRD — Police Chase Arcade Game<br>Working title: Heatwave...</sub><br>
+<sub><a href="https://x.com/froessell/status/2103789415323562325">Original post ↗</a> · <a href="../../prompts/2103789415323562325.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2103763192971461057.md"><img src="../gifs/2103763192971461057.gif" alt="Pixel Art Hearthstone-Style Card Game Prompt" width="256" height="144" /></a><br>
+<sub>Create a 1-on-1 card game like<br>Hearthstone. Just make it....</sub><br>
+<sub><a href="https://x.com/aisongman/status/2103763192971461057">Original post ↗</a> · <a href="../../prompts/2103763192971461057.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103743617848459762.md"><img src="../gifs/2103743617848459762.gif" alt="Motoseyir App Motion Design Promo" width="256" height="144" /></a><br>
+<sub>Make a 45–50 second vertical<br>video for my app: a glance...</sub><br>
+<sub><a href="https://x.com/Bilimfili1/status/2103743617848459762">Original post ↗</a> · <a href="../../prompts/2103743617848459762.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2103194052850241739.md"><img src="../gifs/2103194052850241739.gif" alt="Cinematic Browser-Based 3D World Prompt" width="256" height="144" /></a><br>
 <sub>Create a cinematic<br>browser-based 3D world that...</sub><br>
 <sub><a href="https://x.com/LexnLin/status/2103194052850241739">Original post ↗</a> · <a href="../../prompts/2103194052850241739.md">Prompt ↗</a></sub>
