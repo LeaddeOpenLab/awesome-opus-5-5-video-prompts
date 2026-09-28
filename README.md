@@ -12,7 +12,7 @@ Updated continuously · Original creator links included · [Explore Leadde](http
 <tr>
 <td width="45%" valign="top">
 
-https://github.com/user-attachments/assets/c455ea0f-2a64-4563-b187-14b614d8100c
+https://github.com/user-attachments/assets/f53f15b9-a6f2-4067-8d27-605bd029d101
 
 </td>
 <td width="55%" valign="top">
@@ -26,7 +26,7 @@ can you make a 3d game where you walk around and spot cats inside of a van gogh 
 <tr>
 <td width="45%" valign="top">
 
-https://github.com/user-attachments/assets/07896c8c-0ec6-43a1-aff9-a0edcbc34de0
+https://github.com/user-attachments/assets/bab85056-797e-431f-9d27-b007bb97252e
 
 </td>
 <td width="55%" valign="top">
@@ -40,7 +40,7 @@ Use only: JavaScript, Playwright, and FFmpeg. Make a modern, elegant, and impact
 <tr>
 <td width="45%" valign="top">
 
-https://github.com/user-attachments/assets/4ee502bd-a31d-4405-b2e1-1cf60ac79578
+https://github.com/user-attachments/assets/b4df86c0-07f7-4cdf-86c4-7073a3befb9d
 
 </td>
 <td width="55%" valign="top">
