@@ -1,6 +1,22 @@
 # Awesome Opus 5.5 Video Prompts
 
-Continuously updated Opus prompts and the videos they create.
+A growing collection of videos and animations made with **Claude Opus 5.5**, paired with the prompts their creators shared.
+
+Explore motion graphics, explainers, 3D scenes and interactive experiments. Pick a result, copy its prompt, and try it with your own agent.
+
+Updated continuously · Original creator links included · [Explore Leadde](https://Leadde.ai)
+
+## Contents
+
+- [Motion graphics](categories/motion-graphics.md) (7)
+- [Explainers](categories/explainers.md) (5)
+- [3D scenes](categories/3d-scenes.md) (1)
+- [Games & interactive](categories/games-interactive.md) (7)
+- [How to use a prompt](#how-to-use)
+- [Credits](#credits)
+- [More creator sources](DISCOVERY.md)
+
+## Video + prompt gallery
 
 <table>
 <tr>
@@ -142,5 +158,7 @@ Opus directs or writes the code for these videos, animations and interactive rec
 [Review queue](REVIEW-QUEUE.md) · [Contribute](CONTRIBUTING.md) · [Attribution & corrections](RIGHTS.md)
 
 </details>
+
+## Credits
 
 Maintained by [LeaddeOpenLab](https://github.com/LeaddeOpenLab) · [Leadde.ai](https://Leadde.ai). All works and prompts belong to their linked creators. Independent collection.
