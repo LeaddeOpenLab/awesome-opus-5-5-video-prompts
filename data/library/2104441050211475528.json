@@ -2,42 +2,12 @@
   "schemaVersion": 1,
   "storedAt": "2026-09-28T06:23:18.363Z",
   "model": "opus5.5",
-  "prompt": "介绍自己能做什么样的视频",
+  "prompt": "Introduce what kind of videos you can make",
   "promptTranslations": {
-    "en": "Introduce what kind of videos you can make",
-    "zh": "介绍自己能做什么样的视频",
-    "zh-TW": "介紹自己能做什麼樣的影片",
-    "ja-JP": "自分がどのような動画を作れるかを紹介してください",
-    "ko-KR": "자신이 어떤 종류의 비디오를 만들 수 있는지 소개해 주세요",
-    "th-TH": "แนะนำตัวเองว่าสามารถทำวิดีโอประเภทไหนได้บ้าง",
-    "vi-VN": "Giới thiệu bản thân có thể làm được những loại video nào",
-    "hi-IN": "परिचय दें कि आप किस प्रकार के वीडियो बना सकते हैं",
-    "es-ES": "Presenta qué tipo de vídeos puedes hacer",
-    "es-419": "Presenta qué tipo de videos puedes hacer",
-    "de-DE": "Stelle vor, welche Art von Videos du erstellen kannst",
-    "fr-FR": "Présentez quel type de vidéos vous pouvez réaliser",
-    "it-IT": "Presenta che tipo di video sei in grado di realizzare",
-    "pt-BR": "Apresente que tipo de vídeos você pode fazer",
-    "pt-PT": "Apresente que tipo de vídeos pode fazer",
-    "tr-TR": "Ne tür videolar yapabildiğinizi tanıtın"
+    "en": "Introduce what kind of videos you can make"
   },
   "summaryTranslations": {
-    "en": "The author asks Opus 5.5 to introduce what types of videos it can create, and the model conceives an animated film titled \"I Can Only Write\" and generates a frame-by-frame drawn Canvas/code animation script along with voiceover.",
-    "zh": "作者让 Opus 5.5 介绍自己能制作何种类型的视频，模型构思了动画片《我只会写字》并生成逐帧绘制的 Canvas/代码动画脚本与旁白。",
-    "zh-TW": "作者讓 Opus 5.5 介紹自己能製作何種類型的影片，模型構思了動畫片《我只會寫字》並生成逐幀繪製的 Canvas/程式碼動畫腳本與旁白。",
-    "ja-JP": "作者がOpus 5.5にどのような動画を制作できるか自己紹介を求めたところ、モデルはアニメーション『私は文字しか書けない』を構想し、フレーム単位で描画するCanvas/コードアニメーションスクリプトとナレーションを生成しました。",
-    "ko-KR": "작성자가 Opus 5.5에게 어떤 유형의 비디오를 만들 수 있는지 소개하도록 요청하자, 모델은 애니메이션 <난 글만 쓸 줄 알아>를 구상하고 프레임별로 렌더링되는 Canvas/코드 애니메이션 스크립트와 내레이션을 생성했습니다.",
-    "th-TH": "ผู้เขียนขอให้ Opus 5.5 แนะนำประเภทวิดีโอที่สามารถสร้างได้ ตัวโมเดลจึงคิดค้นแอนิเมชันเรื่อง \"ฉันเขียนได้แต่ตัวหนังสือ\" ขึ้นมา พร้อมทั้งสร้างสคริปต์แอนิเมชัน Canvas/โค้ดที่วาดทีละเฟรมและบทบรรยาย",
-    "vi-VN": "Tác giả yêu cầu Opus 5.5 giới thiệu loại video mà nó có thể tạo ra; mô hình đã lên ý tưởng cho bộ phim hoạt hình \"Tôi chỉ biết viết chữ\" và tạo ra kịch bản hoạt hình Canvas/mã nguồn vẽ từng khung hình cùng lời thuyết minh.",
-    "hi-IN": "लेखक ने Opus 5.5 से यह बताने को कहा कि वह किस प्रकार के वीडियो बना सकता है; मॉडल ने \"मुझे केवल लिखना आता है\" नामक एक एनीमेशन की कल्पना की और फ्रेम-दर-फ्रेम रेंडर किया गया Canvas/कोड एनीमेशन स्क्रिप्ट और वॉयसओवर तैयार किया।",
-    "es-ES": "El autor le pidió a Opus 5.5 que presentara qué tipos de vídeos puede producir; el modelo concibió la animación «Solo sé escribir» y generó un guion de animación Canvas/código dibujado fotograma a fotograma junto con la narración.",
-    "es-419": "El autor le pidió a Opus 5.5 que presentara qué tipos de videos puede producir; el modelo concibió la animación «Solo sé escribir» y generó un guion de animación Canvas/código dibujado cuadro por cuadro junto con la narración.",
-    "de-DE": "Der Autor bat Opus 5.5 vorzustellen, welche Arten von Videos es erstellen kann; das Modell konzipierte den Animationsfilm „Ich kann nur schreiben“ und generierte ein bildweise gezeichnetes Canvas-/Code-Animationsskript samt Begleitkommentar.",
-    "fr-FR": "L'auteur a demandé à Opus 5.5 de présenter les types de vidéos qu'il peut produire ; le modèle a imaginé l'animation « Je ne sais qu'écrire » et a généré un script d'animation Canvas/code dessiné image par image accompagné d'une voix off.",
-    "it-IT": "L'autore ha chiesto a Opus 5.5 di presentare quali tipi di video è in grado di produrre; il modello ha ideato l'animazione «So solo scrivere» e ha generato uno script di animazione Canvas/codice disegnato fotogramma per fotogramma con tanto di narrazione.",
-    "pt-BR": "O autor pediu para o Opus 5.5 apresentar que tipos de vídeo ele pode produzir; o modelo idealizou a animação \"Eu só sei escrever\" e gerou um script de animação em Canvas/código desenhado quadro a quadro com narração.",
-    "pt-PT": "O autor pediu ao Opus 5.5 para apresentar que tipos de vídeo pode produzir; o modelo idealizou a animação «Eu só sei escrever» e gerou um guião de animação em Canvas/código desenhado fotograma a fotograma com narração.",
-    "tr-TR": "Yazar, Opus 5.5'ten ne tür videolar üretebileceğini tanıtmasını istedi; model \"Ben Sadece Yazmayı Bilirim\" adlı bir animasyon tasarladı ve kare kare çizilen Canvas/kod animasyon senaryosu ile seslendirme metni oluşturdu."
+    "en": "The author asks Opus 5.5 to introduce what types of videos it can create, and the model conceives an animated film titled \"I Can Only Write\" and generates a frame-by-frame drawn Canvas/code animation script along with voiceover."
   },
   "translationVersion": 2,
   "summary": "作者让 Opus 5.5 介绍自己能制作何种类型的视频，模型构思了动画片《我只会写字》并生成逐帧绘制的 Canvas/代码动画脚本与旁白。",
@@ -122,7 +92,8 @@
           "用于生成完整视频脚本的完整原始提示词",
           "驱动动画逐帧渲染的 JavaScript/Canvas 源码",
           "配音合成与音频工程调用指令"
-        ]
+        ],
+        "englishText": "Introduce what kind of videos you can make"
       },
       "result": {
         "kind": "video",
@@ -217,5 +188,6 @@
       "safety": [],
       "copyright": []
     }
-  }
+  },
+  "translationStatus": "complete"
 }

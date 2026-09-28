@@ -2,42 +2,12 @@
   "schemaVersion": 1,
   "storedAt": "2026-09-28T06:24:26.827Z",
   "model": "opus5.5",
-  "prompt": "寫一個飛機模擬器",
+  "prompt": "Write a flight simulator",
   "promptTranslations": {
-    "en": "Write a flight simulator",
-    "zh": "写一个飞机模拟器",
-    "zh-TW": "寫一個飛機模擬器",
-    "ja-JP": "フライトシミュレーターを書いて",
-    "ko-KR": "비행기 시뮬레이터 만들기",
-    "th-TH": "เขียนโปรแกรมจำลองการบินของเครื่องบิน",
-    "vi-VN": "Viết một trình mô phỏng máy bay",
-    "hi-IN": "एक हवाई जहाज सिम्युलेटर लिखें",
-    "es-ES": "Escribe un simulador de aviones",
-    "es-419": "Escribe un simulador de aviones",
-    "de-DE": "Schreibe einen Flugzeugsimulator",
-    "fr-FR": "Écris un simulateur d'avion",
-    "it-IT": "Scrivi un simulatore di aereo",
-    "pt-BR": "Escreva um simulador de avião",
-    "pt-PT": "Escreve um simulador de avião",
-    "tr-TR": "Bir uçak simülatörü yaz"
+    "en": "Write a flight simulator"
   },
   "summaryTranslations": {
-    "en": "Author demonstrates a 3D flight simulator project created by prompting Claude Opus 5.5, featuring cockpit instrumentation, switchable camera angles, and city navigation.",
-    "zh": "作者展示了一个通过提示 Claude Opus 5.5 创建的 3D 飞行模拟器项目，该项目具有驾驶舱仪表、可切换的视角以及城市导航功能。",
-    "zh-TW": "作者展示了一個透過提示 Claude Opus 5.5 建立的 3D 飛行模擬器專案，該專案具有駕駛艙儀表、可切換的視角以及城市導航功能。",
-    "ja-JP": "著者がClaude Opus 5.5へのプロンプトによって作成された3Dフライトシミュレータープロジェクトを実演し、コックピット計器、切り替え可能なカメラアングル、都市ナビゲーションを備えています。",
-    "ko-KR": "작성자가 Claude Opus 5.5에 프롬프트를 입력하여 제작한 3D 비행 시뮬레이터 프로젝트를 시연하며, 조종석 계기판, 전환 가능한 카메라 각도, 도시 내비게이션 기능을 갖추고 있습니다.",
-    "th-TH": "ผู้เขียนสาธิตโปรเจกต์เครื่องจำลองการบิน 3 มิติที่สร้างขึ้นโดยการป้อนพรอมต์ให้ Claude Opus 5.5 ซึ่งมาพร้อมแผงหน้าปัดในห้องนักบิน มุมกล้องที่สลับได้ และการนำทางในเมือง",
-    "vi-VN": "Tác giả trình bày một dự án mô phỏng chuyến bay 3D được tạo ra bằng cách nhắc lệnh cho Claude Opus 5.5, nổi bật với hệ thống thiết bị đo buồng lái, các góc nhìn camera có thể chuyển đổi và khả năng điều hướng trong thành phố.",
-    "hi-IN": "लेखक Claude Opus 5.5 को प्रॉम्प्ट देकर बनाई गई एक 3D फ़्लाइट सिम्युलेटर परियोजना का प्रदर्शन करता है, जिसमें कॉकपिट उपकरण, बदलने योग्य कैमरा कोण और शहर नेविगेशन शामिल हैं।",
-    "es-ES": "El autor muestra un proyecto de simulador de vuelo 3D creado mediante instrucciones a Claude Opus 5.5, que incluye instrumentación de cabina, ángulos de cámara intercambiables y navegación por la ciudad.",
-    "es-419": "El autor muestra un proyecto de simulador de vuelo en 3D creado mediante instrucciones a Claude Opus 5.5, que incluye instrumentación de cabina, ángulos de cámara intercambiables y navegación por la ciudad.",
-    "de-DE": "Der Autor demonstriert ein 3D-Flugsimulatorprojekt, das durch Prompts an Claude Opus 5.5 erstellt wurde und Cockpit-Instrumente, umschaltbare Kamerawinkel sowie Navigation durch eine Stadt bietet.",
-    "fr-FR": "L'auteur présente un projet de simulateur de vol 3D créé en utilisant des invites avec Claude Opus 5.5, comprenant des instruments de cockpit, des angles de caméra commutables et la navigation dans une ville.",
-    "it-IT": "L'autore mostra un progetto di simulatore di volo 3D creato tramite prompt con Claude Opus 5.5, dotato di strumentazione della cabina di pilotaggio, angolazioni della telecamera commutabili e navigazione cittadina.",
-    "pt-BR": "O autor demonstra um projeto de simulador de voo 3D criado por meio de prompts para o Claude Opus 5.5, com instrumentação de cabine, ângulos de câmera alternáveis e navegação urbana.",
-    "pt-PT": "O autor demonstra um projeto de simulador de voo 3D criado através de instruções ao Claude Opus 5.5, com instrumentação do cockpit, ângulos de câmara alternáveis e navegação urbana.",
-    "tr-TR": "Yazar, Claude Opus 5.5'e komut verilerek oluşturulan, kokpit göstergeleri, değiştirilebilir kamera açıları ve şehir navigasyonu içeren bir 3D uçuş simülatörü projesini sergiliyor."
+    "en": "Author demonstrates a 3D flight simulator project created by prompting Claude Opus 5.5, featuring cockpit instrumentation, switchable camera angles, and city navigation."
   },
   "translationVersion": 2,
   "summary": "Author demonstrates a 3D flight simulator project created by prompting Claude Opus 5.5, featuring cockpit instrumentation, switchable camera angles, and city navigation.",
@@ -123,7 +93,8 @@
           "simulation physics requirements",
           "camera controls and view specifications",
           "asset and scene setup parameters"
-        ]
+        ],
+        "englishText": "Write a flight simulator"
       },
       "result": {
         "kind": "screen_recording",
@@ -208,5 +179,6 @@
       "safety": [],
       "copyright": []
     }
-  }
+  },
+  "translationStatus": "complete"
 }

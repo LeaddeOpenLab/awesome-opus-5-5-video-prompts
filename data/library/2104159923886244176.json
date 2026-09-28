@@ -4,40 +4,10 @@
   "model": "opus5.5",
   "prompt": "create the glitter sticker effect",
   "promptTranslations": {
-    "en": "create the glitter sticker effect",
-    "zh": "创建闪光贴纸效果",
-    "zh-TW": "建立閃光貼紙效果",
-    "ja-JP": "グリッターステッカー効果を作成",
-    "ko-KR": "글리터 스티커 효과 만들기",
-    "th-TH": "สร้างเอฟเฟกต์สติกเกอร์กากเพชร",
-    "vi-VN": "tạo hiệu ứng nhãn dán kim tuyến",
-    "hi-IN": "ग्लिटर स्टिकर प्रभाव बनाएं",
-    "es-ES": "crear el efecto de pegatina con purpurina",
-    "es-419": "crear el efecto de calcomanía con brillantina",
-    "de-DE": "Erstelle den Glitzer-Sticker-Effekt",
-    "fr-FR": "créer l'effet d'autocollant pailleté",
-    "it-IT": "crea l'effetto adesivo glitterato",
-    "pt-BR": "criar o efeito de adesivo com glitter",
-    "pt-PT": "criar o efeito de autocolante com glitter",
-    "tr-TR": "simli çıkartma efekti oluştur"
+    "en": "create the glitter sticker effect"
   },
   "summaryTranslations": {
-    "en": "Ann Nguyen tests Claude Opus 5.5 against GPT-6 Sol on building an interactive glitter sticker effect with tilt and peel animations.",
-    "zh": "Ann Nguyen 测试 Claude Opus 5.5 与 GPT-6 Sol，构建具有倾斜和剥离动画的交互式闪光贴纸效果。",
-    "zh-TW": "Ann Nguyen 測試 Claude Opus 5.5 與 GPT-6 Sol，構建具有傾斜與剝離動畫的互動式閃光貼紙效果。",
-    "ja-JP": "Ann Nguyenが、傾きや剥がれのアニメーションを備えたインタラクティブなグリッターステッカー効果の作成において、Claude Opus 5.5とGPT-6 Solを比較テストします。",
-    "ko-KR": "Ann Nguyen이 기울기 및 벗겨짐 애니메이션이 포함된 대화형 글리터 스티커 효과 제작을 두고 Claude Opus 5.5와 GPT-6 Sol을 비교 테스트합니다。",
-    "th-TH": "Ann Nguyen ทดสอบ Claude Opus 5.5 เทียบกับ GPT-6 Sol ในการสร้างเอฟเฟกต์สติกเกอร์กากเพชรแบบโต้ตอบพร้อมแอนิเมชันการเอียงและการลอก",
-    "vi-VN": "Ann Nguyen thử nghiệm Claude Opus 5.5 so với GPT-6 Sol trong việc xây dựng hiệu ứng nhãn dán kim tuyến tương tác với hoạt ảnh nghiêng và bóc tách.",
-    "hi-IN": "Ann Nguyen झुकाव और छीलने वाले एनिमेशन के साथ एक इंटरैक्टिव ग्लिटर स्टिकर प्रभाव बनाने पर GPT-6 Sol के विरुद्ध Claude Opus 5.5 का परीक्षण करती हैं।",
-    "es-ES": "Ann Nguyen pone a prueba Claude Opus 5.5 frente a GPT-6 Sol en la creación de un efecto interactivo de pegatina con purpurina con animaciones de inclinación y despegue.",
-    "es-419": "Ann Nguyen pone a prueba Claude Opus 5.5 frente a GPT-6 Sol en la creación de un efecto interactivo de calcomanía con brillantina con animaciones de inclinación y despegado.",
-    "de-DE": "Ann Nguyen testet Claude Opus 5.5 gegen GPT-6 Sol bei der Erstellung eines interaktiven Glitzer-Sticker-Effekts mit Neige- und Abziehanimationen.",
-    "fr-FR": "Ann Nguyen teste Claude Opus 5.5 par rapport à GPT-6 Sol sur la création d'un effet d'autocollant pailleté interactif avec des animations d'inclinaison et de décollement.",
-    "it-IT": "Ann Nguyen mette alla prova Claude Opus 5.5 contro GPT-6 Sol nella creazione di un effetto adesivo glitterato interattivo con animazioni di inclinazione e distacco.",
-    "pt-BR": "Ann Nguyen testa o Claude Opus 5.5 contra o GPT-6 Sol na criação de um efeito de adesivo com glitter interativo com animações de inclinação e descolamento.",
-    "pt-PT": "Ann Nguyen testa o Claude Opus 5.5 contra o GPT-6 Sol na criação de um efeito interativo de autocolante com glitter com animações de inclinação e descolagem.",
-    "tr-TR": "Ann Nguyen, eğilme ve soyulma animasyonlarına sahip etkileşimli bir simli çıkartma efekti oluşturma konusunda Claude Opus 5.5'i GPT-6 Sol ile karşılaştırarak test ediyor."
+    "en": "Ann Nguyen tests Claude Opus 5.5 against GPT-6 Sol on building an interactive glitter sticker effect with tilt and peel animations."
   },
   "translationVersion": 2,
   "summary": "Ann Nguyen tests Claude Opus 5.5 against GPT-6 Sol on building an interactive glitter sticker effect with tilt and peel animations.",
@@ -177,7 +147,8 @@
           "interaction and peel mechanic specifications",
           "shader/glitter rendering requirements",
           "input image asset handling"
-        ]
+        ],
+        "englishText": "create the glitter sticker effect"
       },
       "result": {
         "kind": "screen_recording",
@@ -281,5 +252,6 @@
       "safety": [],
       "copyright": []
     }
-  }
+  },
+  "translationStatus": "complete"
 }

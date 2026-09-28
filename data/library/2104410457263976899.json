@@ -4,40 +4,10 @@
   "model": "opus5.5",
   "prompt": "I asked Opus 5.5 to turn my work into a one minute film.",
   "promptTranslations": {
-    "en": "I asked Opus 5.5 to turn my work into a one minute film.",
-    "zh": "我让 Opus 5.5 把我的作品制作成一部一分钟的影片。",
-    "zh-TW": "我讓 Opus 5.5 把我的作品製作成一部一分鐘的短片。",
-    "ja-JP": "Opus 5.5 に自分の作品を1分間の映像にするよう頼んだ。",
-    "ko-KR": "Opus 5.5에게 내 작업을 1분짜리 영화로 만들어 달라고 요청했다.",
-    "th-TH": "ฉันขอให้ Opus 5.5 เปลี่ยนผลงานของฉันให้กลายเป็นภาพยนตร์ความยาวหนึ่งนาที",
-    "vi-VN": "Tôi đã yêu cầu Opus 5.5 biến tác phẩm của mình thành một bộ phim dài một phút.",
-    "hi-IN": "मैंने Opus 5.5 से अपने काम को एक मिनट की फिल्म में बदलने के लिए कहा।",
-    "es-ES": "Le pedí a Opus 5.5 que convirtiera mi trabajo en una película de un minuto.",
-    "es-419": "Le pedí a Opus 5.5 que convirtiera mi trabajo en una película de un minuto.",
-    "de-DE": "Ich habe Opus 5.5 gebeten, meine Arbeit in einen einminütigen Film zu verwandeln.",
-    "fr-FR": "J'ai demandé à Opus 5.5 de transformer mon travail en un film d'une minute.",
-    "it-IT": "Ho chiesto a Opus 5.5 di trasformare il mio lavoro in un film di un minuto.",
-    "pt-BR": "Pedi ao Opus 5.5 para transformar meu trabalho em um filme de um minuto.",
-    "pt-PT": "Pedi ao Opus 5.5 para transformar o meu trabalho num filme de um minuto.",
-    "tr-TR": "Opus 5.5'ten çalışmalarımı bir dakikalık bir filme dönüştürmesini istedim."
+    "en": "I asked Opus 5.5 to turn my work into a one minute film."
   },
   "summaryTranslations": {
-    "en": "Eric Zheng used Claude Opus 5.5 to direct and edit a one-minute personal showreel from his existing production footage by having Opus generate the editing workflow as code.",
-    "zh": "Eric Zheng 使用 Claude Opus 5.5，通过让 Opus 将剪辑工作流程生成为代码，从而利用他现有的制作素材执导并剪辑了一支一分钟的个人作品集。",
-    "zh-TW": "Eric Zheng 使用 Claude Opus 5.5，透過讓 Opus 將剪輯工作流程生成為程式碼，將現有的製作素材執導並剪輯成一分鐘的個人作品集。",
-    "ja-JP": "Eric Zheng は、Claude Opus 5.5 に編集ワークフローをコードとして生成させることで、既存の制作映像から1分間の個人用ショールールを監督・編集しました。",
-    "ko-KR": "Eric Zheng은 Claude Opus 5.5가 편집 워크플로를 코드로 생성하도록 하여, 기존 제작 영상으로 1분짜리 개인 쇼릴을 연출 및 편집했습니다.",
-    "th-TH": "Eric Zheng ใช้ Claude Opus 5.5 เพื่อกำกับและตัดต่อโชว์รีลส่วนตัวความยาวหนึ่งนาทีจากฟุตเทจโปรดักชันที่มีอยู่ โดยให้ Opus สร้างเวิร์กโฟลว์การตัดต่อออกมาเป็นโค้ด",
-    "vi-VN": "Eric Zheng đã sử dụng Claude Opus 5.5 để đạo diễn và biên tập một video giới thiệu năng lực (showreel) cá nhân dài một phút từ các thước phim sản xuất hiện có của mình bằng cách để Opus tạo quy trình biên tập dưới dạng mã code.",
-    "hi-IN": "Eric Zheng ने अपने मौजूदा प्रोडक्शन फुटेज से एक मिनट का व्यक्तिगत शूरील निर्देशित और संपादित करने के लिए Claude Opus 5.5 का उपयोग किया, जिसके लिए Opus ने संपादन वर्कफ़्लो को कोड के रूप में तैयार किया।",
-    "es-ES": "Eric Zheng utilizó Claude Opus 5.5 para dirigir y editar una bobina de presentación (showreel) personal de un minuto a partir de su metraje de producción existente, haciendo que Opus generara el flujo de trabajo de edición como código.",
-    "es-419": "Eric Zheng utilizó Claude Opus 5.5 para dirigir y editar un showreel personal de un minuto a partir de su material de producción existente, haciendo que Opus generara el flujo de trabajo de edición en forma de código.",
-    "de-DE": "Eric Zheng nutzte Claude Opus 5.5, um aus seinem vorhandenen Produktionsmaterial ein einminütiges persönliches Showreel zu inszenieren und zu schneiden, indem Opus den Bearbeitungs-Workflow als Code generierte.",
-    "fr-FR": "Eric Zheng a utilisé Claude Opus 5.5 pour réaliser et monter une bande démo personnelle d'une minute à partir de ses rushes de production existants en demandant à Opus de générer le flux de travail de montage sous forme de code.",
-    "it-IT": "Eric Zheng ha utilizzato Claude Opus 5.5 per dirigere e montare uno showreel personale di un minuto a partire dalle sue riprese di produzione esistenti, facendo generare a Opus il flusso di lavoro di montaggio sotto forma di codice.",
-    "pt-BR": "Eric Zheng usou o Claude Opus 5.5 para dirigir e editar um showreel pessoal de um minuto a partir de suas filmagens de produção existentes, fazendo com que o Opus gerasse o fluxo de trabalho de edição como código.",
-    "pt-PT": "Eric Zheng utilizou o Claude Opus 5.5 para realizar e editar um showreel pessoal de um minuto a partir das suas filmagens de produção existentes, fazendo com que o Opus gerasse o fluxo de trabalho de edição como código.",
-    "tr-TR": "Eric Zheng, Opus'un kurgu iş akışını kod olarak üretmesini sağlayarak, mevcut yapım görüntülerinden bir dakikalık kişisel bir tanıtım filmi (showreel) yönetmek ve kurgulamak için Claude Opus 5.5'i kullandı."
+    "en": "Eric Zheng used Claude Opus 5.5 to direct and edit a one-minute personal showreel from his existing production footage by having Opus generate the editing workflow as code."
   },
   "translationVersion": 2,
   "summary": "Eric Zheng used Claude Opus 5.5 to direct and edit a one-minute personal showreel from his existing production footage by having Opus generate the editing workflow as code.",
@@ -123,7 +93,8 @@
           "Timeline and sequencing logic directives",
           "Code environment and framework specifications",
           "Iterative prompt chain spanning two days of adjustments"
-        ]
+        ],
+        "englishText": "I asked Opus 5.5 to turn my work into a one minute film."
       },
       "result": {
         "kind": "video",
@@ -220,5 +191,6 @@
       "safety": [],
       "copyright": []
     }
-  }
+  },
+  "translationStatus": "complete"
 }

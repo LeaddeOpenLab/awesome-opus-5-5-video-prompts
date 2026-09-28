@@ -2,42 +2,12 @@
   "schemaVersion": 1,
   "storedAt": "2026-09-28T06:23:29.410Z",
   "model": "opus5.5",
-  "prompt": "Avance del modelado 3D de un Toyota Prius 2027 🇲🇽: se desarma en 261 piezas, se vuelve a armar y sale rodando del arcoíris al Mostaza oficial.",
+  "prompt": "Preview of the 3D modeling of a 2027 Toyota Prius 🇲🇽: it disassembles into 261 pieces, reassembles, and rolls out from the rainbow to the official Mustard.",
   "promptTranslations": {
-    "en": "Preview of the 3D modeling of a 2027 Toyota Prius 🇲🇽: it disassembles into 261 pieces, reassembles, and rolls out from the rainbow to the official Mustard.",
-    "zh": "2027款丰田普锐斯（Toyota Prius）3D建模预览 🇲🇽：拆解为261个零件，重新组装，并从彩虹色变为官方芥末黄后驶出。",
-    "zh-TW": "2027年款豐田Prius（Toyota Prius）3D建模預覽 🇲🇽：拆解為261個零件，重新組裝，並從彩虹色變為官方芥末黃後駛出。",
-    "ja-JP": "2027年型トヨタ・プリウスの3Dモデリングプレビュー 🇲🇽：261個のパーツに分解され、再び組み立てられ、虹色から公式のマスタード色へと変化しながら走り出す。",
-    "ko-KR": "2027 토요타 프리우스의 3D 모델링 프리뷰 🇲🇽: 261개의 부품으로 분해되고, 다시 조립되어 무지개색에서 공식 머스터드 색상으로 변하며 굴러 나간다.",
-    "th-TH": "ตัวอย่างการสร้างโมเดล 3 มิติของ Toyota Prius 2027 🇲🇽: แยกชิ้นส่วนออกเป็น 261 ชิ้น ประกอบกลับเข้าด้วยกันใหม่ และแล่นออกไปพร้อมเปลี่ยนจากสีรุ้งเป็นสีมัสตาร์ดอย่างเป็นทางการ",
-    "vi-VN": "Bản xem trước mô hình 3D của Toyota Prius 2027 🇲🇽: tháo rời thành 261 bộ phận, lắp ráp lại và lăn bánh chuyển từ màu cầu vồng sang màu vàng mù tạt chính thức.",
-    "hi-IN": "2027 टोयोटा प्रियस के 3D मॉडलिंग का पूर्वावलोकन 🇲🇽: 261 पुर्जों में अलग होता है, फिर से जुड़ता है और इंद्रधनुषी रंग से आधिकारिक मस्टर्ड रंग में बदलते हुए आगे बढ़ता है।",
-    "es-ES": "Avance del modelado 3D de un Toyota Prius 2027 🇲🇽: se desarma en 261 piezas, se vuelve a armar y sale rodando del arcoíris al Mostaza oficial.",
-    "es-419": "Avance del modelado 3D de un Toyota Prius 2027 🇲🇽: se desarma en 261 piezas, se vuelve a armar y sale rodando del arcoíris al Mostaza oficial.",
-    "de-DE": "Vorschau auf die 3D-Modellierung eines Toyota Prius 2027 🇲🇽: wird in 261 Teile zerlegt, wieder zusammengebaut und rollt im Wechsel von Regenbogenfarben zum offiziellen Senfgelb los.",
-    "fr-FR": "Aperçu de la modélisation 3D d'une Toyota Prius 2027 🇲🇽 : elle se démonte en 261 pièces, se réassemble et s'élance en passant de l'arc-en-ciel au jaune moutarde officiel.",
-    "it-IT": "Anteprima della modellazione 3D di una Toyota Prius 2027 🇲🇽: si scompone in 261 pezzi, si riassembla e parte sfrecciando sfumando dall'arcobaleno al senape ufficiale.",
-    "pt-BR": "Prévia da modelagem 3D de um Toyota Prius 2027 🇲🇽: se desmonta em 261 peças, se remonta e sai rodando do arco-íris ao Mostarda oficial.",
-    "pt-PT": "Pré-visualização da modelação 3D de um Toyota Prius 2027 🇲🇽: desmonta-se em 261 peças, volta a montar-se e sai a rolar do arco-íris para o mostarda oficial.",
-    "tr-TR": "2027 Toyota Prius'un 3D modelleme önizlemesi 🇲🇽: 261 parçaya ayrılıyor, tekrar birleşiyor ve gökkuşağından resmi Hardal rengine geçerek hareket ediyor."
+    "en": "Preview of the 3D modeling of a 2027 Toyota Prius 🇲🇽: it disassembles into 261 pieces, reassembles, and rolls out from the rainbow to the official Mustard."
   },
   "summaryTranslations": {
-    "en": "3D modeling and exploded-view animation of a Toyota Prius 2027 in Blender, showing disassembly into 261 pieces, reassembly, and rainbow to mustard color shifting, led by Claude Opus 5.5 with assistance from GPT-Astra and Gemini.",
-    "zh": "在Blender中对2027款丰田普锐斯（Toyota Prius）进行3D建模与爆炸图动画演示，展现拆解为261个部件、重新组装以及从彩虹色到芥末黄的色彩渐变过渡，由Claude Opus 5.5主导，并获得GPT-Astra和Gemini的协助。",
-    "zh-TW": "在Blender中對2027年款豐田Prius（Toyota Prius）進行3D建模與爆炸圖動畫展示，呈現拆解為261個零件、重新組裝以及從彩虹色到芥末黃的色彩變換，由Claude Opus 5.5主導，並獲得GPT-Astra和Gemini的協助。",
-    "ja-JP": "Blenderにおける2027年型トヨタ・プリウスの3Dモデリングおよび分解図アニメーション。261個の部品への分解、再組み立て、虹色からマスタード色へのカラーシフトを示し、Claude Opus 5.5が主導、GPT-AstraおよびGeminiが支援。",
-    "ko-KR": "Blender에서 진행된 2027 토요타 프리우스의 3D 모델링 및 분해도 애니메이션으로, 261개 부품으로의 분해, 재조립, 무지개색에서 머스터드색으로의 색상 변화를 보여주며, Claude Opus 5.5가 주도하고 GPT-Astra와 Gemini의 지원을 받음.",
-    "th-TH": "การสร้างโมเดล 3 มิติและแอนิเมชันมุมมองระเบิดชิ้นส่วนของ Toyota Prius 2027 ใน Blender แสดงการแยกชิ้นส่วนออกเป็น 261 ชิ้น การประกอบใหม่ และการเปลี่ยนสีจากสีรุ้งเป็นสีมัสตาร์ด ดำเนินการโดย Claude Opus 5.5 ด้วยความช่วยเหลือจาก GPT-Astra และ Gemini",
-    "vi-VN": "Mô hình hóa 3D và hoạt ảnh phân rã chi tiết của Toyota Prius 2027 trong Blender, hiển thị quá trình tháo rời thành 261 chi tiết, lắp ráp lại và chuyển màu từ cầu vồng sang vàng mù tạt, do Claude Opus 5.5 dẫn dắt cùng sự hỗ trợ từ GPT-Astra và Gemini.",
-    "hi-IN": "Blender में 2027 टोयोटा प्रियस का 3D मॉडलिंग और एक्सप्लोडेड-व्यू एनिमेशन, जिसमें 261 पुर्जों में अलग होना, पुनः संयोजन और इंद्रधनुष से सरसों (मस्टर्ड) रंग में बदलाव दिखाया गया है, जिसका नेतृत्व Claude Opus 5.5 ने GPT-Astra और Gemini की सहायता से किया।",
-    "es-ES": "Modelado 3D y animación de vista explosionada de un Toyota Prius 2027 en Blender, que muestra el despiece en 261 piezas, el reensamblaje y el cambio de color de arcoíris a mostaza oficial, liderado por Claude Opus 5.5 con la asistencia de GPT-Astra y Gemini.",
-    "es-419": "Modelado 3D y animación de vista explosionada de un Toyota Prius 2027 en Blender, mostrando el despiece en 261 piezas, el rearmado y el cambio de color de arcoíris a mostaza oficial, liderado por Claude Opus 5.5 con la asistencia de GPT-Astra y Gemini.",
-    "de-DE": "3D-Modellierung und Explosionsansicht-Animation eines Toyota Prius 2027 in Blender, die die Demontage in 261 Teile, den Wiederaufbau und den Farbwechsel von Regenbogen zu Senfgelb zeigt, geleitet von Claude Opus 5.5 mit Unterstützung von GPT-Astra und Gemini.",
-    "fr-FR": "Modélisation 3D et animation en vue éclatée d'une Toyota Prius 2027 dans Blender, montrant le désassemblage en 261 pièces, le réassemblage et le changement de couleur de l'arc-en-ciel au moutarde, dirigée par Claude Opus 5.5 avec l'aide de GPT-Astra et Gemini.",
-    "it-IT": "Modellazione 3D e animazione con vista esplosa di una Toyota Prius 2027 in Blender, che mostra lo smontaggio in 261 pezzi, il riassemblaggio e il passaggio di colore da arcobaleno a senape, guidata da Claude Opus 5.5 con l'assistenza di GPT-Astra e Gemini.",
-    "pt-BR": "Modelagem 3D e animação em vista explodida de um Toyota Prius 2027 no Blender, mostrando a desmontagem em 261 peças, a remontagem e a mudança de cor do arco-íris para o mostarda oficial, liderada por Claude Opus 5.5 com a assistência de GPT-Astra e Gemini.",
-    "pt-PT": "Modelação 3D e animação em vista explodida de um Toyota Prius 2027 no Blender, mostrando a desmontagem em 261 peças, a remontagem e a mudança de cor de arco-íris para mostarda oficial, liderada por Claude Opus 5.5 com o apoio de GPT-Astra e Gemini.",
-    "tr-TR": "Blender'da 2027 Toyota Prius'un 3D modellemesi ve patlatılmış görünüm animasyonu; 261 parçaya ayrılmayı, yeniden montajı ve gökkuşağından hardal rengine geçişi sergileyen çalışma, GPT-Astra ve Gemini desteğiyle Claude Opus 5.5 tarafından yürütülmüştür."
+    "en": "3D modeling and exploded-view animation of a Toyota Prius 2027 in Blender, showing disassembly into 261 pieces, reassembly, and rainbow to mustard color shifting, led by Claude Opus 5.5 with assistance from GPT-Astra and Gemini."
   },
   "translationVersion": 2,
   "summary": "3D modeling and exploded-view animation of a Toyota Prius 2027 in Blender, showing disassembly into 261 pieces, reassembly, and rainbow to mustard color shifting, led by Claude Opus 5.5 with assistance from GPT-Astra and Gemini.",
@@ -122,7 +92,8 @@
           "Exact prompts given to Claude Opus 5.5",
           "Blender Python automation/scripting code",
           "Model disassembly and shading instructions"
-        ]
+        ],
+        "englishText": "Preview of the 3D modeling of a 2027 Toyota Prius 🇲🇽: it disassembles into 261 pieces, reassembles, and rolls out from the rainbow to the official Mustard."
       },
       "result": {
         "kind": "video",
@@ -233,5 +204,6 @@
       "safety": [],
       "copyright": []
     }
-  }
+  },
+  "translationStatus": "complete"
 }

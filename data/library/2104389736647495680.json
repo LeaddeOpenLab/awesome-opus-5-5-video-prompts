@@ -4,40 +4,10 @@
   "model": "opus5.5",
   "prompt": "make a dynamic 15-second motion graphics video of the app that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
   "promptTranslations": {
-    "en": "make a dynamic 15-second motion graphics video of the app that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
-    "zh": "制作一个时长 15 秒、充满动态感的应用动态图形视频，展示你作为一名动作设计师有多么出色，就像这是你用来投简历的作品集展示片一样。全力以赴，尽情发挥。",
-    "zh-TW": "製作一段時長 15 秒、充滿動態感的應用程式動態圖形影片，展現你作為一名動態設計師有多麼出色，就像這是你用於履歷的作品集影片一樣。全力以赴，傾盡所能。",
-    "ja-JP": "履歴書用のショールールのように、あなたがどれほど素晴らしいモーションデザイナーであるかを示す、アプリのダイナミックな15秒のモーショングラフィックス動画を作成してください。全力を尽くしてください。",
-    "ko-KR": "이력서용 쇼릴처럼 당신이 얼마나 놀라운 모션 디자이너인지 보여줄 수 있는 15초 분량의 역동적인 앱 모션 그래픽 비디오를 만들어 보세요. 온 힘을 다해 멋지게 만들어 주세요.",
-    "th-TH": "สร้างวิดีโอโมชันกราฟิกความยาว 15 วินาทีของแอปที่เปี่ยมด้วยพลัง เพื่อแสดงให้เห็นว่าคุณเป็นโมชันดีไซเนอร์ที่ยอดเยี่ยมแค่ไหน ราวกับว่านี่คือโชว์รีลสำหรับเรซูเมของคุณ จัดเต็มไปเลย",
-    "vi-VN": "hãy tạo một video đồ họa chuyển động dài 15 giây đầy năng động về ứng dụng, thể hiện bạn là một nhà thiết kế chuyển động tuyệt vời đến mức nào, giống như showreel dành cho sơ yếu lý lịch của bạn. hãy dốc hết sức mình.",
-    "hi-IN": "ऐप का एक गतिशील 15-सेकंड का मोशन ग्राफिक्स वीडियो बनाएं जो यह दिखाए कि आप कितने अविश्वसनीय मोशन डिज़ाइनर हैं, बिल्कुल वैसे जैसे यह आपके बायोडाटा के लिए एक शूरील (showreel) हो। अपना पूरा दम लगा दें।",
-    "es-ES": "crea un vídeo de gráficos en movimiento dinámico de 15 segundos de la aplicación que demuestre lo increíble que eres como diseñador de movimiento, como si fuera el showreel de tu currículum. dalo todo.",
-    "es-419": "haz un video de gráficos en movimiento dinámico de 15 segundos de la aplicación que demuestre lo increíble que eres como diseñador de movimiento, como si fuera el showreel para tu currículum. dalo todo.",
-    "de-DE": "Erstelle ein dynamisches 15-sekündiges Motion-Graphics-Video der App, das zeigt, was für ein unglaublicher Motion Designer du bist – so als wäre es dein Showreel für deinen Lebenslauf. Gib alles.",
-    "fr-FR": "créez une vidéo d'animation graphique dynamique de 15 secondes de l'application qui montre à quel point vous êtes un incroyable motion designer, comme s'il s'agissait de votre showreel pour un CV. donnez tout ce que vous avez.",
-    "it-IT": "crea un video di motion graphics dinamico di 15 secondi dell'app che mostri quanto sei un motion designer incredibile, come se fosse lo showreel per il tuo curriculum. dai il massimo.",
-    "pt-BR": "faça um vídeo de motion graphics dinâmico de 15 segundos do aplicativo que mostre o quão incrível você é como motion designer, como se fosse o seu showreel para um currículo. dê o seu máximo.",
-    "pt-PT": "cria um vídeo de motion graphics dinâmico de 15 segundos da aplicação que mostre o quão incrível és como motion designer, como se fosse o teu showreel para um currículo. dá o teu melhor.",
-    "tr-TR": "özgeçmişiniz için bir şov makarası (showreel) gibi, ne kadar inanılmaz bir hareketli grafik tasarımcısı olduğunuzu gösteren, uygulamanın 15 saniyelik dinamik bir hareketli grafik videosunu yapın. tüm hünerlerinizi sergileyin."
+    "en": "make a dynamic 15-second motion graphics video of the app that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
   },
   "summaryTranslations": {
-    "en": "Zak used Claude Code powered by Claude Opus 5.5 to generate a 15-second motion graphics video for his app Bedless Fajr using React and Remotion.",
-    "zh": "Zak 利用搭载 Claude Opus 5.5 的 Claude Code，使用 React 和 Remotion 为其应用 Bedless Fajr 生成了一个时长 15 秒的动态图形视频。",
-    "zh-TW": "Zak 利用搭載 Claude Opus 5.5 的 Claude Code，使用 React 與 Remotion 為其應用程式 Bedless Fajr 製作了一段時長 15 秒的動態圖形影片。",
-    "ja-JP": "ZakはClaude Opus 5.5を搭載したClaude Codeを使用し、ReactとRemotionを使って自身のアプリ「Bedless Fajr」向けの15秒のモーショングラフィックス動画を生成しました。",
-    "ko-KR": "Zak은 Claude Opus 5.5 기반의 Claude Code를 활용하여 React와 Remotion으로 자신의 앱 Bedless Fajr를 위한 15초짜리 모션 그래픽 비디오를 제작했습니다.",
-    "th-TH": "Zak ใช้ Claude Code ที่ขับเคลื่อนด้วย Claude Opus 5.5 เพื่อสร้างวิดีโอโมชันกราฟิกความยาว 15 วินาทีสำหรับแอป Bedless Fajr ของเขาโดยใช้ React และ Remotion",
-    "vi-VN": "Zak đã sử dụng Claude Code được hỗ trợ bởi Claude Opus 5.5 để tạo một video đồ họa chuyển động dài 15 giây cho ứng dụng Bedless Fajr của mình bằng cách sử dụng React và Remotion.",
-    "hi-IN": "ज़ैक (Zak) ने React और Remotion का उपयोग करके अपने ऐप Bedless Fajr के लिए 15-सेकंड का मोशन ग्राफिक्स वीडियो तैयार करने हेतु Claude Opus 5.5 द्वारा संचालित Claude Code का उपयोग किया।",
-    "es-ES": "Zak utilizó Claude Code con tecnología de Claude Opus 5.5 para generar un vídeo de gráficos en movimiento de 15 segundos para su aplicación Bedless Fajr usando React y Remotion.",
-    "es-419": "Zak utilizó Claude Code impulsado por Claude Opus 5.5 para generar un video de gráficos en movimiento de 15 segundos para su aplicación Bedless Fajr usando React y Remotion.",
-    "de-DE": "Zak nutzte das von Claude Opus 5.5 angetriebene Claude Code, um mit React und Remotion ein 15-sekündiges Motion-Graphics-Video für seine App Bedless Fajr zu erstellen.",
-    "fr-FR": "Zak a utilisé Claude Code propulsé par Claude Opus 5.5 pour générer une vidéo de motion design de 15 secondes pour son application Bedless Fajr à l'aide de React et Remotion.",
-    "it-IT": "Zak ha utilizzato Claude Code basato su Claude Opus 5.5 per generare un video di motion graphics di 15 secondi per la sua app Bedless Fajr utilizzando React e Remotion.",
-    "pt-BR": "Zak usou o Claude Code com tecnologia Claude Opus 5.5 para gerar um vídeo de motion graphics de 15 segundos para seu aplicativo Bedless Fajr usando React e Remotion.",
-    "pt-PT": "Zak utilizou o Claude Code equipado com Claude Opus 5.5 para gerar um vídeo de motion graphics de 15 segundos para a sua aplicação Bedless Fajr usando React e Remotion.",
-    "tr-TR": "Zak, React ve Remotion kullanarak Bedless Fajr adlı uygulaması için 15 saniyelik bir hareketli grafik videosu oluşturmak amacıyla Claude Opus 5.5 destekli Claude Code'u kullandı."
+    "en": "Zak used Claude Code powered by Claude Opus 5.5 to generate a 15-second motion graphics video for his app Bedless Fajr using React and Remotion."
   },
   "translationVersion": 2,
   "summary": "Zak used Claude Code powered by Claude Opus 5.5 to generate a 15-second motion graphics video for his app Bedless Fajr using React and Remotion.",
@@ -139,7 +109,8 @@
         "missing": [
           "Application context, assets, and codebase for Bedless Fajr",
           "Prompts and instructions for the 4 sub-agents (motion, typography, product, creative)"
-        ]
+        ],
+        "englishText": "make a dynamic 15-second motion graphics video of the app that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
       },
       "result": {
         "kind": "video",
@@ -241,5 +212,6 @@
       "safety": [],
       "copyright": []
     }
-  }
+  },
+  "translationStatus": "complete"
 }

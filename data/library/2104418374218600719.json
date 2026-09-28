@@ -2,42 +2,12 @@
   "schemaVersion": 1,
   "storedAt": "2026-09-28T06:23:58.217Z",
   "model": "opus5.5",
-  "prompt": "让它写代码：人物用代码画，动作/标签/镜头/口型，都由他写的程序自动安排。",
+  "prompt": "Make it write code: characters are drawn using code, and actions/labels/camera shots/lip-sync are all automatically arranged by the program it writes.",
   "promptTranslations": {
-    "en": "Make it write code: characters are drawn using code, and actions/labels/camera shots/lip-sync are all automatically arranged by the program it writes.",
-    "zh": "让它写代码：人物用代码画，动作/标签/镜头/口型，都由他写的程序自动安排。",
-    "zh-TW": "讓它寫程式碼：人物用程式碼畫，動作/標籤/鏡頭/口型，都由它寫的程式自動安排。",
-    "ja-JP": "それにコードを書かせる：キャラクターをコードで描き、動き／ラベル／カメラアングル／口の動きを、それが書いたプログラムで自動的に制御する。",
-    "ko-KR": "코드를 작성하게 하라: 인물은 코드로 그리고, 동작/라벨/카메라/입모양은 그가 작성한 프로그램으로 자동 배치한다.",
-    "th-TH": "ให้มันเขียนโค้ด: ตัวละครวาดด้วยโค้ด, การเคลื่อนไหว/ป้ายกำกับ/มุมกล้อง/การขยับปาก ทั้งหมดถูกจัดวางโดยอัตโนมัติด้วยโปรแกรมที่มันเขียน",
-    "vi-VN": "Hãy để nó viết mã: nhân vật được vẽ bằng mã, chuyển động/nhãn/góc quay/khẩu hình môi đều do chương trình mà nó viết tự động sắp xếp.",
-    "hi-IN": "इसे कोड लिखने दें: पात्रों को कोड से बनाया जाए, गति/लेबल/कैमरा/होंठों की हरकतें, सब उसके लिखे प्रोग्राम द्वारा स्वचालित रूप से व्यवस्थित हों।",
-    "es-ES": "Haz que escriba código: dibuja personajes con código; movimientos, etiquetas, cámara y sincronización de labios son organizados automáticamente por el programa que escribe.",
-    "es-419": "Haz que escriba código: dibuja personajes con código; movimientos, etiquetas, cámara y sincronización de labios son organizados automáticamente por el programa que escribe.",
-    "de-DE": "Lass es Code schreiben: Charaktere werden mit Code gezeichnet; Bewegungen, Beschriftungen, Kameraführung und Lippenbewegungen werden automatisch von dem geschriebenen Programm arrangiert.",
-    "fr-FR": "Fais-lui écrire du code : les personnages sont dessinés avec du code, les mouvements/étiquettes/plans de caméra/mouvements des lèvres sont tous organisés automatiquement par le programme qu'il écrit.",
-    "it-IT": "Fagli scrivere il codice: personaggi disegnati tramite codice, movimenti/etichette/inquadrature/movimenti labiali sono tutti gestiti automaticamente dal programma che scrive.",
-    "pt-BR": "Faça com que escreva código: personagens desenhados com código, movimentos/etiquetas/câmera/sincronia labial, tudo organizado automaticamente pelo programa que ele escreve.",
-    "pt-PT": "Deixa-o escrever código: personagens desenhadas com código, movimentos/etiquetas/câmara/sincronização labial, tudo organizado automaticamente pelo programa que ele escreve.",
-    "tr-TR": "Kod yazmasını sağla: karakterler kodla çizilsin; hareketler/etiketler/kamera açıları/dudak hareketleri tamamen onun yazdığı program tarafından otomatik olarak düzenlensin."
+    "en": "Make it write code: characters are drawn using code, and actions/labels/camera shots/lip-sync are all automatically arranged by the program it writes."
   },
   "summaryTranslations": {
-    "en": "Author uses Claude Opus 5.5 to write code for generating consistent 2D vector-style animated English learning videos with character graphics, motion, and lip-sync handled programmatically.",
-    "zh": "作者使用 Claude Opus 5.5 编写代码，生成风格统一的 2D 矢量风格英语学习动画视频，角色图形、动作和口型同步均通过程序化方式处理。",
-    "zh-TW": "作者使用 Claude Opus 5.5 編寫程式碼，生成風格一致的 2D 向量風格英語學習動畫影片，角色圖形、動作和嘴型同步均透過程式自動處理。",
-    "ja-JP": "著者は Claude Opus 5.5 を使ってコードを記述し、キャラクターグラフィック、モーション、リップシンクをプログラムによって処理した、一貫した2Dベクタースタイルの英語学習アニメーション動画を生成する。",
-    "ko-KR": "작성자가 Claude Opus 5.5를 사용하여 캐릭터 그래픽, 움직임 및 립싱크를 프로그래밍 방식으로 처리하는 일관된 2D 벡터 스타일의 애니메이션 영어 학습 비디오를 생성하기 위한 코드를 작성한다.",
-    "th-TH": "ผู้เขียนใช้ Claude Opus 5.5 เขียนโค้ดเพื่อสร้างวิดีโอแอนิเมชันเพื่อการเรียนรู้ภาษาอังกฤษสไตล์เวกเตอร์ 2 มิติที่มีความสอดคล้องกัน โดยกราฟิกตัวละคร การเคลื่อนไหว และการลิปซิงค์ปากทั้งหมดได้รับการจัดการด้วยโปรแกรม",
-    "vi-VN": "Tác giả sử dụng Claude Opus 5.5 để viết mã tạo các video hoạt hình học tiếng Anh dạng vector 2D nhất quán, với đồ họa nhân vật, chuyển động và khớp khẩu hình môi đều được xử lý bằng lập trình.",
-    "hi-IN": "लेखक सुसंगत 2D वेक्टर-शैली वाले एनिमेटेड अंग्रेजी सीखने के वीडियो बनाने के लिए कोड लिखने हेतु Claude Opus 5.5 का उपयोग करता है, जिसमें कैरेक्टर ग्राफिक्स, गति और लिप-सिंक को प्रोग्रामेटिक रूप से संभाला जाता है।",
-    "es-ES": "El autor utiliza Claude Opus 5.5 para escribir código que genera vídeos animados de aprendizaje de inglés en estilo vectorial 2D consistentes, con gráficos de personajes, movimiento y sincronización labial gestionados programáticamente.",
-    "es-419": "El autor utiliza Claude Opus 5.5 para escribir código que genera videos animados de aprendizaje de inglés en estilo vectorial 2D consistentes, con gráficos de personajes, movimiento y sincronización labial gestionados programáticamente.",
-    "de-DE": "Der Autor verwendet Claude Opus 5.5 zum Schreiben von Code, um einheitliche animierte 2D-Vektor-Videos zum Englischlernen zu erstellen, wobei Charaktergrafiken, Bewegung und Lippensynchronisation programmatisch gesteuert werden.",
-    "fr-FR": "L'auteur utilise Claude Opus 5.5 pour écrire du code permettant de générer des vidéos d'apprentissage de l'anglais animées en style vectoriel 2D cohérent, les graphismes des personnages, les mouvements et la synchronisation labiale étant gérés par programmation.",
-    "it-IT": "L'autore utilizza Claude Opus 5.5 per scrivere codice utile a generare video animati coerenti in stile vettoriale 2D per l'apprendimento dell'inglese, con grafica dei personaggi, movimento e sincronizzazione labiale gestiti a livello di programmazione.",
-    "pt-BR": "O autor usa o Claude Opus 5.5 para escrever código para gerar vídeos animados de aprendizado de inglês em estilo vetorial 2D consistentes, com gráficos de personagens, movimento e sincronia labial gerenciados programaticamente.",
-    "pt-PT": "O autor usa o Claude Opus 5.5 para escrever código para gerar vídeos animados de aprendizagem de inglês em estilo vetorial 2D consistentes, com gráficos de personagens, movimento e sincronização labial geridos programaticamente.",
-    "tr-TR": "Yazar, karakter grafiklerinin, hareketin ve dudak senkronizasyonunun programatik olarak yönetildiği tutarlı 2D vektör tarzı animasyonlu İngilizce öğrenme videoları oluşturmak amacıyla kod yazmak için Claude Opus 5.5'i kullanıyor."
+    "en": "Author uses Claude Opus 5.5 to write code for generating consistent 2D vector-style animated English learning videos with character graphics, motion, and lip-sync handled programmatically."
   },
   "translationVersion": 2,
   "summary": "Author uses Claude Opus 5.5 to write code for generating consistent 2D vector-style animated English learning videos with character graphics, motion, and lip-sync handled programmatically.",
@@ -123,7 +93,8 @@
           "Rendering library or code framework specification",
           "Character SVG/vector procedural drawing code",
           "Dialogue audio/TTS generation workflow"
-        ]
+        ],
+        "englishText": "Make it write code: characters are drawn using code, and actions/labels/camera shots/lip-sync are all automatically arranged by the program it writes."
       },
       "result": {
         "kind": "video",
@@ -226,5 +197,6 @@
       "safety": [],
       "copyright": []
     }
-  }
+  },
+  "translationStatus": "complete"
 }

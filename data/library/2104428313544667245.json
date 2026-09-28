@@ -2,42 +2,12 @@
   "schemaVersion": 1,
   "storedAt": "2026-09-28T06:23:24.457Z",
   "model": "opus5.5",
-  "prompt": "水运仪象台",
+  "prompt": "Water-driven Astronomical Clock Tower",
   "promptTranslations": {
-    "en": "Water-driven Astronomical Clock Tower",
-    "zh": "水运仪象台",
-    "zh-TW": "水運儀象台",
-    "ja-JP": "水運儀象台",
-    "ko-KR": "수운의상대",
-    "th-TH": "หอดูดาวและนาฬิกาน้ำซุ่ยอวิ้นอี๋เซี่ยงไถ",
-    "vi-VN": "Thủy vận nghi tượng đài",
-    "hi-IN": "जल-चालित खगोलीय घड़ी टॉवर (शुई युन यी शियांग ताई)",
-    "es-ES": "Shuiyun Yixiangtai (Torre de reloj astronómico impulsada por agua)",
-    "es-419": "Shuiyun Yixiangtai (Torre de reloj astronómico impulsada por agua)",
-    "de-DE": "Shuiyun Yixiangtai (Wasserkraft-Uhrturm)",
-    "fr-FR": "Shuiyun Yixiangtai (Tour de l'horloge astronomique hydraulique)",
-    "it-IT": "Shuiyun Yixiangtai (Torre dell'orologio astronomico idraulico)",
-    "pt-BR": "Shuiyun Yixiangtai (Torre do relógio astronômico movida a água)",
-    "pt-PT": "Shuiyun Yixiangtai (Torre do relógio astronómico movida a água)",
-    "tr-TR": "Shuiyun Yixiangtai (Su Gücüyle Çalışan Astronomik Saat Kulesi)"
+    "en": "Water-driven Astronomical Clock Tower"
   },
   "summaryTranslations": {
-    "en": "The author tests using Opus 5.5 with a short prompt to create a popular science 3D deconstruction and principle analysis video about the Northern Song Dynasty's \"Water-driven Astronomical Clock Tower\", featuring mechanical structure disassembly, escapement mechanism operation demonstration, and voiceover with subtitles.",
-    "zh": "作者测试使用 Opus 5.5 输入简短提示制作关于北宋「水运仪象台」的 3D 解构与原理解析科普视频，视频包含机械结构拆解、擒纵机构运转展示及配音字幕。",
-    "zh-TW": "作者測試使用 Opus 5.5 輸入簡短提示製作關於北宋「水運儀象台」的 3D 解構與原理解析科普影片，影片包含機械結構拆解、擒縱機構運轉展示及配音字幕。",
-    "ja-JP": "作者がOpus 5.5に短いプロンプトを入力し、北宋の「水運儀象台」に関する3D分解および原理解説の科学教育動画を作成したテスト。動画には機械構造の分解、脱進機の動作展示、およびナレーション字幕が含まれます。",
-    "ko-KR": "작성자가 Opus 5.5에 짧은 프롬프트를 입력하여 북송의 '수운의상대'에 관한 3D 분해 및 원리 분석 과학 교육 영상을 제작한 테스트로, 영상에는 기계 구조 분해, 탈진기 작동 시연, 내레이션 및 자막이 포함되어 있습니다.",
-    "th-TH": "ผู้เขียนทดสอบการใช้ Opus 5.5 ป้อนพรอมต์สั้นๆ เพื่อสร้างวิดีโอวิทยาศาสตร์ยอดนิยมที่ถอดโครงสร้าง 3D และวิเคราะห์หลักการของ \"ซุ่ยอวิ้นอี๋เซี่ยงไถ\" (หอดูดาวและนาฬิกาพลังน้ำ) สมัยราชวงศ์ซ่งเหนือ โดยวิดีโอประกอบด้วยการแยกชิ้นส่วนโครงสร้างกลไก การแสดงการทำงานของกลไกปล่อย (Escapement) พร้อมทั้งเสียงพากย์และคำบรรยาย",
-    "vi-VN": "Tác giả thử nghiệm sử dụng Opus 5.5 nhập câu lệnh ngắn để tạo video phổ biến khoa học phân tích nguyên lý và giải cấu 3D về \"Thủy vận nghi tượng đài\" thời Bắc Tống, video bao gồm tháo rời cấu trúc cơ học, trình diễn chuyển động của bộ hồi (bộ thoát), cùng lồng tiếng và phụ đề.",
-    "hi-IN": "लेखक ने उत्तरी सोंग राजवंश के 'शुई युन यी शियांग ताई' (जल-चालित खगोलीय घड़ी टॉवर) के 3D डिकंस्ट्रक्शन और सिद्धांत विश्लेषण पर एक लोकप्रिय विज्ञान वीडियो बनाने के लिए Opus 5.5 में एक संक्षिप्त प्रॉम्प्ट दर्ज करके परीक्षण किया। वीडियो में यांत्रिक संरचना का विखंडन, एस्केपमेंट तंत्र के संचालन का प्रदर्शन और वॉयसओवर सबटाइटल शामिल हैं।",
-    "es-ES": "El autor prueba el uso de Opus 5.5 introduciendo un breve prompt para crear un vídeo de divulgación científica con deconstrucción en 3D y análisis de los principios del «Shuiyun Yixiangtai» de la dinastía Song del Norte; el vídeo incluye el despiece de la estructura mecánica, una demostración del funcionamiento del mecanismo de escape, doblaje y subtítulos.",
-    "es-419": "El autor prueba el uso de Opus 5.5 ingresando un prompt breve para crear un video de divulgación científica con deconstrucción en 3D y análisis de los principios del «Shuiyun Yixiangtai» de la dinastía Song del Norte; el video incluye el despiece de la estructura mecánica, la demostración del funcionamiento del mecanismo de escape, doblaje y subtítulos.",
-    "de-DE": "Der Autor testet die Verwendung von Opus 5.5 mit einem kurzen Prompt, um ein populärwissenschaftliches Video zur 3D-Dekonstruktion und Prinzipienanalyse des „Shuiyun Yixiangtai“ aus der Nördlichen Song-Dynastie zu erstellen. Das Video umfasst die Demontage der mechanischen Struktur, die Demonstration der Hemmung sowie Voiceover und Untertitel.",
-    "fr-FR": "L'auteur teste l'utilisation d'Opus 5.5 en saisissant un court prompt pour créer une vidéo de vulgarisation scientifique de déconstruction 3D et d'analyse des principes du « Shuiyun Yixiangtai » de la dynastie des Song du Nord ; la vidéo comprend le démontage de la structure mécanique, la démonstration du fonctionnement de l'échappement, une voix hors champ et des sous-titres.",
-    "it-IT": "L'autore testa l'uso di Opus 5.5 inserendo un breve prompt per creare un video di divulgazione scientifica con decostruzione 3D e analisi del funzionamento dello «Shuiyun Yixiangtai» della dinastia Song settentrionale; il video include lo smontaggio della struttura meccanica, la dimostrazione del meccanismo di scappamento, doppiaggio e sottotitoli.",
-    "pt-BR": "O autor testa o uso do Opus 5.5 inserindo um prompt curto para criar um vídeo de divulgação científica com desconstrução 3D e análise dos princípios do «Shuiyun Yixiangtai» da dinastia Song do Norte; o vídeo inclui o desmonte da estrutura mecânica, demonstração do funcionamento do escape, dublagem e legendas.",
-    "pt-PT": "O autor testa a utilização do Opus 5.5 inserindo um prompt curto para criar um vídeo de divulgação científica com desconstrução 3D e análise dos princípios do «Shuiyun Yixiangtai» da dinastia Song do Norte; o vídeo inclui a desmontagem da estrutura mecânica, a demonstração do funcionamento do mecanismo de escape, dobragem e legendas.",
-    "tr-TR": "Yazar, Kuzey Song Hanedanlığı'nın «Shuiyun Yixiangtai» yapısı üzerine 3D yapı sökümü ve çalışma prensibi analizini içeren popüler bir bilim videosu oluşturmak amacıyla Opus 5.5'i kısa bir istem girerek test ediyor; videoda mekanik yapının parçalarına ayrılması, maşa mekanizmasının çalışmasının gösterimi, seslendirme ve altyazılar yer alıyor."
+    "en": "The author tests using Opus 5.5 with a short prompt to create a popular science 3D deconstruction and principle analysis video about the Northern Song Dynasty's \"Water-driven Astronomical Clock Tower\", featuring mechanical structure disassembly, escapement mechanism operation demonstration, and voiceover with subtitles."
   },
   "translationVersion": 2,
   "summary": "作者测试使用 Opus 5.5 输入简短提示制作关于北宋「水运仪象台」的 3D 解构与原理解析科普视频，视频包含机械结构拆解、擒纵机构运转展示及配音字幕。",
@@ -151,7 +121,8 @@
         "missing": [
           "完整的一句话提示词",
           "工作流指令或代码生成配置"
-        ]
+        ],
+        "englishText": "Water-driven Astronomical Clock Tower"
       },
       "result": {
         "kind": "video",
@@ -234,5 +205,6 @@
       "safety": [],
       "copyright": []
     }
-  }
+  },
+  "translationStatus": "complete"
 }

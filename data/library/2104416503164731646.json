@@ -2,42 +2,12 @@
   "schemaVersion": 1,
   "storedAt": "2026-09-28T06:24:05.757Z",
   "model": "opus5.5",
-  "prompt": "空气微流控的芯片散热",
+  "prompt": "Air microfluidic chip cooling",
   "promptTranslations": {
-    "en": "Air microfluidic chip cooling",
-    "zh": "空气微流控的芯片散热",
-    "zh-TW": "空氣微流體的晶片散熱",
-    "ja-JP": "空気マイクロフルイディクスによるチップの放熱",
-    "ko-KR": "공기 미세유체의 칩 열 방출",
-    "th-TH": "การระบายความร้อนของชิปด้วยไมโครฟลูอิดิกส์แบบอากาศ",
-    "vi-VN": "Tản nhiệt chip bằng vi lưu không khí",
-    "hi-IN": "वायु माइक्रोफ्लूडिक्स द्वारा चिप ऊष्मा अपव्यय",
-    "es-ES": "Disipación de calor de chips mediante microfluídica de aire",
-    "es-419": "Disipación de calor de chips mediante microfluídica de aire",
-    "de-DE": "Chip-Wärmeableitung durch Luft-Mikrofluidik",
-    "fr-FR": "Dissipation thermique des puces par microfluidique de l'air",
-    "it-IT": "Dissipazione del calore dei chip mediante microfluidica dell'aria",
-    "pt-BR": "Dissipação de calor de chips por microfluídica de ar",
-    "pt-PT": "Dissipação de calor de chips por microfluídica de ar",
-    "tr-TR": "Hava mikroakışkanları ile çip ısı dağılımı"
+    "en": "Air microfluidic chip cooling"
   },
   "summaryTranslations": {
-    "en": "The author showcases a popular science animated diagram video created by Claude Opus 5.5 explaining the principles of JouleForce air microfluidic/microchannel chip heat dissipation, covering scientific animations of Newton's law of cooling, boundary layer effects, microchannel flow resistance, and operating condition comparisons.",
-    "zh": "作者展示了由 Claude Opus 5.5 制作的关于 JouleForce 空气微流控/微通道芯片散热原理的科普动态图解视频，涵盖牛顿冷却定律、边界层效应、微通道压阻与工况对比等科学动画。",
-    "zh-TW": "作者展示了由 Claude Opus 5.5 製作的關於 JouleForce 空氣微流體/微通道晶片散熱原理的科普動態圖解影片，涵蓋牛頓冷卻定律、邊界層效應、微通道壓阻與工況對比等科學動畫。",
-    "ja-JP": "作者は Claude Opus 5.5 によって作成された JouleForce 空気マイクロフルイディクス/マイクロチャネルチップ冷却原理に関する科学解説アニメーショングラフィック動画を展示しており、ニュートンの冷却の法則、境界層効果、マイクロチャネル圧力損失、動作条件の比較などの科学アニメーションが含まれています。",
-    "ko-KR": "작성자는 Claude Opus 5.5로 제작한 JouleForce 공기 미세유체/마이크로채널 칩 냉각 원리에 관한 과학 교양 모션 그래픽 비디오를 선보이며, 뉴턴의 냉각 법칙, 경계층 효과, 마이크로채널 압력 저항 및 작동 조건 비교 등의 과학 애니메이션을 다룹니다.",
-    "th-TH": "ผู้เขียนจัดแสดงวิดีโออินโฟกราฟิกแบบเคลื่อนไหวเชิงวิทยาศาสตร์ยอดนิยมที่สร้างโดย Claude Opus 5.5 เกี่ยวกับหลักการระบายความร้อนของชิปด้วยไมโครฟลูอิดิกส์แบบอากาศ/ไมโครแชนเนลของ JouleForce ซึ่งครอบคลุมแอนิเมชันทางวิทยาศาสตร์ เช่น กฎการระบายความร้อนของนิวตัน ผลกระทบของชั้นขอบเขต ความต้านทานแรงดันในไมโครแชนเนล และการเปรียบเทียบสภาวะการทำงาน",
-    "vi-VN": "Tác giả trình bày một video đồ họa động phổ biến khoa học được thực hiện bởi Claude Opus 5.5 về nguyên lý tản nhiệt chip bằng vi lưu/vi kênh không khí JouleForce, bao gồm các hoạt ảnh khoa học như định luật làm mát của Newton, hiệu ứng lớp biên, trở lực áp suất vi kênh và so sánh các điều kiện hoạt động.",
-    "hi-IN": "लेखक ने Claude Opus 5.5 द्वारा निर्मित JouleForce वायु माइक्रोफ्लूडिक्स/माइक्रोचैनल चिप कूलिंग सिद्धांतों पर एक लोकप्रिय विज्ञान मोशन ग्राफ़िक्स वीडियो प्रदर्शित किया है, जिसमें न्यूटन का शीतलन नियम, सीमा परत प्रभाव, माइक्रोचैनल दबाव प्रतिरोध और परिचालन स्थितियों की तुलना जैसे वैज्ञानिक एनिमेशन शामिल हैं।",
-    "es-ES": "El autor muestra un vídeo de divulgación científica con gráficos en movimiento creado por Claude Opus 5.5 sobre el principio de disipación de calor de chips por microfluídica/microcanales de aire de JouleForce, que abarca animaciones científicas como la ley de enfriamiento de Newton, los efectos de la capa límite, la resistencia a la presión en microcanales y la comparación de condiciones de trabajo.",
-    "es-419": "El autor muestra un video de divulgación científica con gráficos en movimiento creado por Claude Opus 5.5 sobre el principio de disipación de calor de chips por microfluídica/microcanales de aire de JouleForce, que abarca animaciones científicas como la ley de enfriamiento de Newton, los efectos de la capa límite, la resistencia a la presión en microcanales y la comparación de condiciones de operación.",
-    "de-DE": "Der Autor zeigt ein von Claude Opus 5.5 erstelltes populärwissenschaftliches Motion-Graphic-Video über das Prinzip der Chip-Wärmeableitung mittels JouleForce-Luft-Mikrofluidik/Mikrokanälen, das wissenschaftliche Animationen wie das Newtonsche Abkühlungsgesetz, Grenzschichteffekte, Mikrokanal-Druckwiderstand und den Vergleich von Betriebsbedingungen umfasst.",
-    "fr-FR": "L'auteur présente une vidéo de vulgarisation scientifique en motion design réalisée par Claude Opus 5.5 sur le principe de dissipation thermique des puces par microfluidique/microcanaux à air JouleForce, couvrant des animations scientifiques telles que la loi de refroidissement de Newton, les effets de couche limite, la résistance à la pression des microcanaux et la comparaison des conditions de fonctionnement.",
-    "it-IT": "L'autore mostra un video di divulgazione scientifica in motion graphics realizzato da Claude Opus 5.5 sui principi di dissipazione del calore dei chip mediante microfluidica/microcanali d'aria JouleForce, che comprende animazioni scientifiche come la legge di raffreddamento di Newton, gli effetti dello strato limite, la resistenza alla pressione nei microcanali e il confronto delle condizioni di funzionamento.",
-    "pt-BR": "O autor exibe um vídeo de divulgação científica em motion graphics feito pelo Claude Opus 5.5 sobre o princípio de dissipação de calor de chips por microfluídica/microcanais de ar JouleForce, abrangendo animações científicas como a lei do resfriamento de Newton, efeitos de camada limite, resistência à pressão em microcanais e comparação de condições operacionais.",
-    "pt-PT": "O autor apresenta um vídeo de divulgação científica em motion graphics elaborado pelo Claude Opus 5.5 sobre o princípio de dissipação de calor de chips por microfluídica/microcanais de ar JouleForce, englobando animações científicas como a lei de arrefecimento de Newton, efeitos da camada limite, resistência à pressão em microcanais e comparação de condições de funcionamento.",
-    "tr-TR": "Yazar, Claude Opus 5.5 tarafından oluşturulan ve JouleForce hava mikroakışkan/mikrokanal çip soğutma prensiplerini anlatan popüler bilim hareketli grafik videosunu sergiliyor; Newton'un soğuma kanunu, sınır tabakası etkileri, mikrokanal basınç direnci ve çalışma koşullarının karşılaştırılması gibi bilimsel animasyonları içeriyor."
+    "en": "The author showcases a popular science animated diagram video created by Claude Opus 5.5 explaining the principles of JouleForce air microfluidic/microchannel chip heat dissipation, covering scientific animations of Newton's law of cooling, boundary layer effects, microchannel flow resistance, and operating condition comparisons."
   },
   "translationVersion": 2,
   "summary": "作者展示了由 Claude Opus 5.5 制作的关于 JouleForce 空气微流控/微通道芯片散热原理的科普动态图解视频，涵盖牛顿冷却定律、边界层效应、微通道压阻与工况对比等科学动画。",
@@ -122,7 +92,8 @@
           "完整提示词",
           "生成脚本或代码框架",
           "配音与动效编排指令"
-        ]
+        ],
+        "englishText": "Air microfluidic chip cooling"
       },
       "result": {
         "kind": "video",
@@ -206,5 +177,6 @@
       "safety": [],
       "copyright": []
     }
-  }
+  },
+  "translationStatus": "complete"
 }

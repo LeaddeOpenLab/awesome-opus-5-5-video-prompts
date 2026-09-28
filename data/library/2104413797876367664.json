@@ -4,40 +4,10 @@
   "model": "opus5.5",
   "prompt": "generate a animated preview of our book- Winning With AI",
   "promptTranslations": {
-    "en": "generate a animated preview of our book- Winning With AI",
-    "zh": "为我们的书《Winning With AI》生成一个动画预览",
-    "zh-TW": "為我們的新書《Winning With AI》生成動態預覽",
-    "ja-JP": "私たちの書籍『Winning With AI』のアニメーションプレビューを生成してください",
-    "ko-KR": "우리 책 'Winning With AI'의 애니메이션 미리보기를 생성해 주세요",
-    "th-TH": "สร้างภาพตัวอย่างแบบเคลื่อนไหวของหนังสือของเรา- Winning With AI",
-    "vi-VN": "tạo bản xem trước dạng hoạt họa cho cuốn sách của chúng tôi - Winning With AI",
-    "hi-IN": "हमारी पुस्तक- Winning With AI का एक एनिमेटेड पूर्वावलोकन उत्पन्न करें",
-    "es-ES": "genera una vista previa animada de nuestro libro: Winning With AI",
-    "es-419": "genera una vista previa animada de nuestro libro: Winning With AI",
-    "de-DE": "generiere eine animierte Vorschau unseres Buches – Winning With AI",
-    "fr-FR": "génère un aperçu animé de notre livre - Winning With AI",
-    "it-IT": "genera un'anteprima animata del nostro libro - Winning With AI",
-    "pt-BR": "gere uma prévia animada do nosso livro - Winning With AI",
-    "pt-PT": "gera uma pré-visualização animada do nosso livro - Winning With AI",
-    "tr-TR": "kitabımız Winning With AI için hareketli bir önizleme oluştur"
+    "en": "generate a animated preview of our book- Winning With AI"
   },
   "summaryTranslations": {
-    "en": "Author prompts Claude Opus 5.5 to create an animated motion-graphics preview for the book 'Winning With AI', discussing how Opus 5.5 creates code-driven animations (HTML/SVG/GSAP) rather than natively rendering pixels.",
-    "zh": "作者提示 Claude Opus 5.5 为《Winning With AI》一书制作动态图形动画预览，探讨 Opus 5.5 如何通过代码驱动（HTML/SVG/GSAP）创建动画，而非原生渲染像素。",
-    "zh-TW": "作者提示 Claude Opus 5.5 為《Winning With AI》一書製作動態圖形動畫預覽，探討 Opus 5.5 如何透過程式碼驅動（HTML/SVG/GSAP）建立動畫，而非原生渲染像素。",
-    "ja-JP": "著者が書籍『Winning With AI』のアニメーションモーショングラフィックスプレビューを作成するようClaude Opus 5.5に指示し、Opus 5.5がピクセルを直接レンダリングするのではなく、コード駆動型（HTML/SVG/GSAP）のアニメーションをどのように作成するかについて議論します。",
-    "ko-KR": "저자가 Claude Opus 5.5에게 'Winning With AI' 책을 위한 애니메이션 모션 그래픽 미리보기를 생성하도록 프롬프트를 보내며, Opus 5.5가 픽셀을 직접 렌더링하는 대신 코드 기반 애니메이션(HTML/SVG/GSAP)을 어떻게 생성하는지 논의합니다.",
-    "th-TH": "ผู้เขียนแจ้งให้ Claude Opus 5.5 สร้างภาพตัวอย่างโมชันกราฟิกส์แบบเคลื่อนไหวสำหรับหนังสือ 'Winning With AI' โดยพูดคุยถึงวิธีที่ Opus 5.5 สร้างแอนิเมชันที่ขับเคลื่อนด้วยโค้ด (HTML/SVG/GSAP) แทนที่จะเป็นการเรนเดอร์พิกเซลโดยตรง",
-    "vi-VN": "Tác giả nhắc Claude Opus 5.5 tạo bản xem trước đồ họa chuyển động dạng hoạt họa cho cuốn sách 'Winning With AI', thảo luận về cách Opus 5.5 tạo ra các hình ảnh động điều khiển bằng mã (HTML/SVG/GSAP) thay vì kết xuất pixel theo cách tự nhiên.",
-    "hi-IN": "लेखक Claude Opus 5.5 को पुस्तक 'Winning With AI' के लिए एक एनिमेटेड मोशन-ग्राफिक्स पूर्वावलोकन बनाने का निर्देश देता है, जिसमें इस बात पर चर्चा की गई है कि Opus 5.5 मूल रूप से पिक्सल रेंडर करने के बजाय कोड-संचालित एनिमेशन (HTML/SVG/GSAP) कैसे बनाता है।",
-    "es-ES": "El autor pide a Claude Opus 5.5 que cree una vista previa animada en gráficos en movimiento para el libro 'Winning With AI', analizando cómo Opus 5.5 crea animaciones basadas en código (HTML/SVG/GSAP) en lugar de renderizar píxeles de forma nativa.",
-    "es-419": "El autor pide a Claude Opus 5.5 que cree una vista previa animada en gráficos en movimiento para el libro 'Winning With AI', comentando cómo Opus 5.5 crea animaciones impulsadas por código (HTML/SVG/GSAP) en lugar de renderizar píxeles de forma nativa.",
-    "de-DE": "Der Autor fordert Claude Opus 5.5 auf, eine animierte Motion-Graphics-Vorschau für das Buch „Winning With AI“ zu erstellen, und erörtert, wie Opus 5.5 codebasierte Animationen (HTML/SVG/GSAP) erstellt, anstatt Pixel nativ zu rendern.",
-    "fr-FR": "L'auteur invite Claude Opus 5.5 à créer un aperçu animé en motion design pour le livre 'Winning With AI', abordant la manière dont Opus 5.5 crée des animations générées par le code (HTML/SVG/GSAP) plutôt que de faire un rendu natif de pixels.",
-    "it-IT": "L'autore chiede a Claude Opus 5.5 di creare un'anteprima animata in motion graphics per il libro 'Winning With AI', discutendo di come Opus 5.5 crei animazioni guidate dal codice (HTML/SVG/GSAP) piuttosto che eseguire il rendering nativo dei pixel.",
-    "pt-BR": "O autor pede ao Claude Opus 5.5 para criar uma prévia animada em motion graphics para o livro 'Winning With AI', discutindo como o Opus 5.5 cria animações baseadas em código (HTML/SVG/GSAP) em vez de renderizar pixels nativamente.",
-    "pt-PT": "O autor pede ao Claude Opus 5.5 para criar uma pré-visualização animada em motion graphics para o livro 'Winning With AI', abordando a forma como o Opus 5.5 cria animações orientadas por código (HTML/SVG/GSAP) em vez de renderizar píxeis de forma nativa.",
-    "tr-TR": "Yazar, Claude Opus 5.5'ten 'Winning With AI' kitabı için hareketli bir hareketli grafik önizlemesi oluşturmasını ister ve Opus 5.5'in pikselleri yerel olarak işlemek yerine kod odaklı animasyonları (HTML/SVG/GSAP) nasıl oluşturduğunu ele alır."
+    "en": "Author prompts Claude Opus 5.5 to create an animated motion-graphics preview for the book 'Winning With AI', discussing how Opus 5.5 creates code-driven animations (HTML/SVG/GSAP) rather than natively rendering pixels."
   },
   "translationVersion": 2,
   "summary": "Author prompts Claude Opus 5.5 to create an animated motion-graphics preview for the book 'Winning With AI', discussing how Opus 5.5 creates code-driven animations (HTML/SVG/GSAP) rather than natively rendering pixels.",
@@ -116,7 +86,8 @@
           "book excerpt / outline input",
           "visual styling and scene instructions",
           "exact rendering / execution script"
-        ]
+        ],
+        "englishText": "generate a animated preview of our book- Winning With AI"
       },
       "result": {
         "kind": "video",
@@ -218,5 +189,6 @@
       "safety": [],
       "copyright": []
     }
-  }
+  },
+  "translationStatus": "complete"
 }

@@ -4,7 +4,7 @@
 <tr>
 <td width="33%" valign="top">
 <a href="../prompts/2104441050211475528.md"><img src="../covers/2104441050211475528-wide.jpg" alt="Opus 5.5 代码逐帧生成动画短片《我只会写字》" width="256" height="144" /></a><br>
-<sub>介绍自己能做什么样的视频<br>&nbsp;</sub><br>
+<sub>Introduce what kind of videos<br>you can make</sub><br>
 <sub><a href="https://x.com/kokoro_886/status/2104441050211475528">Original post ↗</a></sub>
 </td>
 <td width="33%" valign="top">
@@ -21,12 +21,12 @@
 <tr>
 <td width="33%" valign="top">
 <a href="../prompts/2104420680142082118.md"><img src="../covers/2104420680142082118-wide.jpg" alt="Code-Rendered Generative Music Video for I'm Upping My P(doom)" width="256" height="144" /></a><br>
-<sub>一个基于代码渲染的生成式音乐视频<br>项目，用 Opus 5.5 在 Claude...</sub><br>
+<sub>A code-rendered generative<br>music video project,...</sub><br>
 <sub><a href="https://x.com/weiwei2018831/status/2104420680142082118">Original post ↗</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="../prompts/2104406088862810533.md"><img src="../covers/2104406088862810533-wide.jpg" alt="Interactive 3D Flight Simulator Game" width="256" height="144" /></a><br>
-<sub>寫一個飛機模擬器<br>&nbsp;</sub><br>
+<sub>Write a flight simulator<br>&nbsp;</sub><br>
 <sub><a href="https://x.com/ekcheungAI/status/2104406088862810533">Original post ↗</a></sub>
 </td>
 <td width="33%" valign="top">

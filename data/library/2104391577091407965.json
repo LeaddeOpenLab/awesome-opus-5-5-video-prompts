@@ -2,42 +2,12 @@
   "schemaVersion": 1,
   "storedAt": "2026-09-28T06:23:41.130Z",
   "model": "opus5.5",
-  "prompt": "1. explains what the repo does and why its useful\n2. shows a high level map of the code (beautiful graphic!)\n3. life of a query through the codebase\n4. the core abstractions in the repo\n5. a real trace of execution and what happens, with a bit on join-order query planning",
+  "prompt": "1. explains what the repo does and why its useful\\n2. shows a high level map of the code (beautiful graphic!)\\n3. life of a query through the codebase\\n4. the core abstractions in the repo\\n5. a real trace of execution and what happens, with a bit on join-order query planning",
   "promptTranslations": {
-    "en": "1. explains what the repo does and why its useful\\n2. shows a high level map of the code (beautiful graphic!)\\n3. life of a query through the codebase\\n4. the core abstractions in the repo\\n5. a real trace of execution and what happens, with a bit on join-order query planning",
-    "zh": "1. 解释该仓库的作用及其有用之处\n2. 展示代码的高级结构图（精美的图形！）\n3. 查询在代码库中的生命周期\n4. 仓库中的核心抽象概念\n5. 实际的执行跟踪及具体过程，并简要介绍连接顺序查询规划",
-    "zh-TW": "1. 解釋該儲存庫的作用及其有用之處\n2. 展示程式碼的高階架構圖（精美的圖形！）\n3. 查詢在程式碼庫中的生命週期\n4. 儲存庫中的核心抽象概念\n5. 實際的執行追蹤及具體過程，並簡述連線順序查詢規劃",
-    "ja-JP": "1. リポジトリの機能とそれが有用である理由を説明する\n2. コードの全体像を示すハイレベルなマップを表示する（美しいグラフィック！）\n3. コードベースにおけるクエリのライフサイクル\n4. リポジトリのコアとなる抽象化概念\n5. 実際の実行トレースと何が起きているか（結合順序のクエリ計画についても少し触れる）",
-    "ko-KR": "1. 해당 레포지토리가 무엇을 하는지, 왜 유용한지 설명\n2. 코드의 개괄적인 구조 맵 표시 (아름다운 그래픽!)\n3. 코드베이스 내에서 쿼리의 수명 주기\n4. 레포지토리의 핵심 추상화\n5. 실제 실행 추적 및 진행 과정과 함께 조인 순서 쿼리 계획에 대한 간단한 설명",
-    "th-TH": "1. อธิบายว่าที่เก็บโค้ด (repo) นี้ทำอะไรและทำไมถึงมีประโยชน์\n2. แสดงแผนผังระดับสูงของโค้ด (กราฟิกสวยงาม!)\n3. วงจรชีวิตของคิวรีผ่านโค้ดเบส\n4. นามธรรมหลัก (core abstractions) ในที่เก็บโค้ดนี้\n5. ร่องรอยการทำงานจริง (trace) และสิ่งที่เกิดขึ้น พร้อมเนื้อหาเล็กน้อยเกี่ยวกับการวางแผนคิวรีตามลำดับการรวม (join-order)",
-    "vi-VN": "1. giải thích kho lưu trữ này làm gì và tại sao nó hữu ích\n2. hiển thị bản đồ cấp cao của mã nguồn (đồ họa đẹp mắt!)\n3. vòng đời của một truy vấn đi qua cơ sở mã\n4. các trừu tượng cốt lõi trong kho lưu trữ\n5. dấu vết thực thi thực tế và những gì diễn ra, cùng một phần nhỏ về lập kế hoạch truy vấn thứ tự kết hợp (join-order)",
-    "hi-IN": "1. समझाएं कि यह रेपो क्या करता है और यह क्यों उपयोगी है\n2. कोड का एक उच्च-स्तरीय मैप दिखाएं (सुंदर ग्राफ़िक!)\n3. कोडबेस के माध्यम से एक क्वेरी का जीवन चक्र\n4. रेपो में मुख्य अमूर्तताएँ (core abstractions)\n5. निष्पादन का एक वास्तविक ट्रेस और क्या होता है, साथ ही जॉइन-ऑर्डर क्वेरी प्लानिंग पर थोड़ा विवरण",
-    "es-ES": "1. explica qué hace el repositorio y por qué es útil\n2. muestra un mapa de alto nivel del código (¡un gráfico precioso!)\n3. ciclo de vida de una consulta a través del código base\n4. las abstracciones principales del repositorio\n5. una traza real de ejecución y lo que sucede, con un breve apartado sobre la planificación de consultas con orden de unión (join-order)",
-    "es-419": "1. explica qué hace el repositorio y por qué es útil\n2. muestra un mapa de alto nivel del código (¡un gráfico hermoso!)\n3. ciclo de vida de una consulta a través de la base de código\n4. las abstracciones principales del repositorio\n5. una traza real de ejecución y lo que sucede, con una breve sección sobre la planificación de consultas con orden de unión (join-order)",
-    "de-DE": "1. erklärt, was das Repository macht und warum es nützlich ist\n2. zeigt eine übergeordnete Übersicht über den Code (wunderschöne Grafik!)\n3. Lebenszyklus einer Abfrage durch die Codebasis\n4. die Kernabstraktionen im Repository\n5. ein echter Ausführungsverlauf und was dabei passiert, mit einem kurzen Abschnitt zur Join-Order-Abfrageplanung",
-    "fr-FR": "1. explique ce que fait le dépôt et pourquoi il est utile\n2. montre une carte de haut niveau du code (graphique magnifique !)\n3. cycle de vie d'une requête à travers la base de code\n4. les abstractions fondamentales du dépôt\n5. une trace réelle d'exécution et ce qui se produit, avec un bref aperçu de la planification des requêtes avec ordre de jointure (join-order)",
-    "it-IT": "1. spiega cosa fa il repository e perché è utile\n2. mostra una mappa ad alto livello del codice (grafica bellissima!)\n3. ciclo di vita di una query attraverso la base di codice\n4. le astrazioni principali del repository\n5. una traccia reale di esecuzione e cosa succede, con un approfondimento sulla pianificazione delle query per l'ordine di join",
-    "pt-BR": "1. explica o que o repositório faz e por que é útil\n2. mostra um mapa de alto nível do código (gráfico lindo!)\n3. ciclo de vida de uma consulta pela base de código\n4. as principais abstrações no repositório\n5. um rastreamento real de execução e o que acontece, com um pouco sobre planejamento de consultas por ordem de junção (join-order)",
-    "pt-PT": "1. explica o que o repositório faz e por que é útil\n2. mostra um mapa de alto nível do código (gráfico lindo!)\n3. ciclo de vida de uma consulta através da base de código\n4. as principais abstrações no repositório\n5. um rastreio real de execução e o que acontece, com uma breve introdução ao planeamento de consultas por ordem de junção (join-order)",
-    "tr-TR": "1. deponun ne yaptığını ve neden yararlı olduğunu açıklar\n2. kodun üst düzey bir haritasını gösterir (harika grafik!)\n3. bir sorgunun kod tabanındaki yaşam döngüsü\n4. depodaki temel soyutlamalar\n5. birleştirme sırası sorgu planlamasına da kısaca değinen, gerçek bir yürütme izi ve neler olduğu"
+    "en": "1. explains what the repo does and why its useful\\n2. shows a high level map of the code (beautiful graphic!)\\n3. life of a query through the codebase\\n4. the core abstractions in the repo\\n5. a real trace of execution and what happens, with a bit on join-order query planning"
   },
   "summaryTranslations": {
-    "en": "Deedy shares a 7-minute technical explainer animation analyzing SQLite's codebase structure, query lifecycle, and join-order execution, generated with Claude Opus 5.5 and Gemini TTS.",
-    "zh": "Deedy 分享了一段时长 7 分钟的技术讲解动画，深入分析了 SQLite 的代码库结构、查询生命周期以及连接顺序执行，该内容由 Claude Opus 5.5 和 Gemini TTS 生成。",
-    "zh-TW": "Deedy 分享了一段長達 7 分鐘的技術解說動畫，深入分析了 SQLite 的程式碼庫架構、查詢生命週期以及連線順序執行，該內容由 Claude Opus 5.5 和 Gemini TTS 生成。",
-    "ja-JP": "Deedy 氏が、SQLite のコードベース構造、クエリのライフサイクル、結合順序の実行を分析する 7 分間の技術解説アニメーションを共有しました。これは Claude Opus 5.5 と Gemini TTS を使用して生成されたものです。",
-    "ko-KR": "Deedy가 Claude Opus 5.5와 Gemini TTS로 제작된, SQLite의 코드베이스 구조, 쿼리 수명 주기, 조인 순서 실행을 분석하는 7분 분량의 기술 설명 애니메이션을 공유합니다.",
-    "th-TH": "Deedy แชร์แอนิเมชันอธิบายเชิงเทคนิคความยาว 7 นาที ซึ่งวิเคราะห์โครงสร้างโค้ดเบสของ SQLite, วงจรชีวิตของคิวรี และการประมวลผลลำดับการรวม (join-order) สร้างขึ้นด้วย Claude Opus 5.5 และ Gemini TTS",
-    "vi-VN": "Deedy chia sẻ video hoạt hình giải thích kỹ thuật dài 7 phút phân tích cấu trúc cơ sở mã của SQLite, vòng đời truy vấn và thực thi thứ tự kết hợp (join-order), được tạo bằng Claude Opus 5.5 và Gemini TTS.",
-    "hi-IN": "Deedy ने SQLite के कोडबेस संरचना, क्वेरी जीवन चक्र और जॉइन-ऑर्डर निष्पादन का विश्लेषण करने वाला 7 मिनट का तकनीकी व्याख्यात्मक एनिमेशन साझा किया, जिसे Claude Opus 5.5 और Gemini TTS की मदद से तैयार किया गया है।",
-    "es-ES": "Deedy comparte una animación explicativa técnica de 7 minutos que analiza la estructura de la base de código de SQLite, el ciclo de vida de las consultas y la ejecución del orden de unión, generada con Claude Opus 5.5 y Gemini TTS.",
-    "es-419": "Deedy comparte una animación explicativa técnica de 7 minutos que analiza la estructura de la base de código de SQLite, el ciclo de vida de las consultas y la ejecución del orden de unión, generada con Claude Opus 5.5 y Gemini TTS.",
-    "de-DE": "Deedy teilt eine 7-minütige technische Erkläranimation, die die Codebasis-Struktur von SQLite, den Abfrage-Lebenszyklus und die Ausführung der Join-Reihenfolge analysiert, erstellt mit Claude Opus 5.5 und Gemini TTS.",
-    "fr-FR": "Deedy partage une animation explicative technique de 7 minutes analysant la structure de la base de code de SQLite, le cycle de vie des requêtes et l'exécution selon l'ordre de jointure, générée avec Claude Opus 5.5 et Gemini TTS.",
-    "it-IT": "Deedy condivide un'animazione esplicativa tecnica di 7 minuti che analizza la struttura del codice sorgente di SQLite, il ciclo di vita delle query e l'esecuzione dell'ordine di join, generata con Claude Opus 5.5 e Gemini TTS.",
-    "pt-BR": "Deedy compartilha uma animação técnica explicativa de 7 minutos analisando a estrutura do código-fonte do SQLite, o ciclo de vida das consultas e a execução por ordem de junção, gerada com Claude Opus 5.5 e Gemini TTS.",
-    "pt-PT": "Deedy partilha uma animação explicativa técnica de 7 minutos a analisar a estrutura da base de código do SQLite, o ciclo de vida das consultas e a execução por ordem de junção, gerada com Claude Opus 5.5 e Gemini TTS.",
-    "tr-TR": "Deedy, Claude Opus 5.5 ve Gemini TTS ile oluşturulan; SQLite'ın kod tabanı yapısını, sorgu yaşam döngüsünü ve birleştirme sırası yürütmesini analiz eden 7 dakikalık teknik bir açıklayıcı animasyon paylaşıyor."
+    "en": "Deedy shares a 7-minute technical explainer animation analyzing SQLite's codebase structure, query lifecycle, and join-order execution, generated with Claude Opus 5.5 and Gemini TTS."
   },
   "translationVersion": 2,
   "summary": "Deedy shares a 7-minute technical explainer animation analyzing SQLite's codebase structure, query lifecycle, and join-order execution, generated with Claude Opus 5.5 and Gemini TTS.",
@@ -128,7 +98,8 @@
           "Exact system prompts and user agent instructions",
           "Code generation workflow and rendering pipeline scripts",
           "Specific data ingestion and tracing setup for SQLite"
-        ]
+        ],
+        "englishText": "1. explains what the repo does and why its useful\\n2. shows a high level map of the code (beautiful graphic!)\\n3. life of a query through the codebase\\n4. the core abstractions in the repo\\n5. a real trace of execution and what happens, with a bit on join-order query planning"
       },
       "result": {
         "kind": "video",
@@ -232,5 +203,6 @@
       "safety": [],
       "copyright": []
     }
-  }
+  },
+  "translationStatus": "complete"
 }
