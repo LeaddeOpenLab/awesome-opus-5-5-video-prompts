@@ -6,6 +6,54 @@ Explore motion graphics, explainers, 3D scenes and interactive experiments. Pick
 
 Updated continuously · Original creator links included · [Explore Leadde](https://Leadde.ai)
 
+## Featured videos + prompts
+
+<table>
+<tr>
+<td width="45%" valign="top">
+
+https://github.com/user-attachments/assets/c455ea0f-2a64-4563-b187-14b614d8100c
+
+</td>
+<td width="55%" valign="top">
+<strong>Eye-catching · Vincent’s Cats</strong><br>
+Step into a Starry Night-inspired 3D town and find hidden cats.<br><br>
+<sub>Creator’s public prompt</sub><br>
+can you make a 3d game where you walk around and spot cats inside of a van gogh painting? we can start with stary night and its town<br><br>
+<a href="https://x.com/MandelDuck/status/2103802923465768972">Original post ↗</a> · <a href="prompts/2103802923465768972.md">Full prompt ↗</a> · <a href="https://claude.ai/new">Try in Claude ↗</a>
+</td>
+</tr>
+<tr>
+<td width="45%" valign="top">
+
+https://github.com/user-attachments/assets/07896c8c-0ec6-43a1-aff9-a0edcbc34de0
+
+</td>
+<td width="55%" valign="top">
+<strong>Practical · Orbe product video</strong><br>
+A product promo that connects everyday scenes with the app interface.<br><br>
+<sub>Creator’s public prompt excerpt</sub><br>
+Use only: JavaScript, Playwright, and FFmpeg. Make a modern, elegant, and impactful video for my product (https://t.co/fTEq1mcBAx). I want it to simulate daily establishment expenses, such as supermarket, gas station, and restaurant. <br><br>Make it in 9:16 format.<br><br>
+<a href="https://x.com/felipemoller/status/2103846311149936736">Original post ↗</a> · <a href="prompts/2103846311149936736.md">Full prompt ↗</a> · <a href="https://claude.ai/new">Try in Claude ↗</a>
+</td>
+</tr>
+<tr>
+<td width="45%" valign="top">
+
+https://github.com/user-attachments/assets/4ee502bd-a31d-4405-b2e1-1cf60ac79578
+
+</td>
+<td width="55%" valign="top">
+<strong>Easy to try · Motion design showreel</strong><br>
+A short, asset-free prompt for a fast-paced motion graphics reel.<br><br>
+<sub>Creator’s public prompt</sub><br>
+make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.<br><br>
+<a href="https://x.com/ajith_io/status/2103449416325890146">Original post ↗</a> · <a href="prompts/2103449416325890146.md">Full prompt ↗</a> · <a href="https://claude.ai/new">Try in Claude ↗</a>
+</td>
+</tr>
+</table>
+
+
 ## Contents
 
 - [Motion graphics](#motion-graphics) (192)
