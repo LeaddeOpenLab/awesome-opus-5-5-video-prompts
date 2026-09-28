@@ -25,17 +25,22 @@
 <sub><a href="https://x.com/NFT_Chen/status/2103882415299350878">Original post ↗</a> · <a href="../../prompts/2103882415299350878.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2103876499262800291.md"><img src="../gifs/2103876499262800291.gif" alt="3D Forest Conservation Website" width="256" height="144" /></a><br>
+<sub>create a website for forest<br>conservation agency with...</sub><br>
+<sub><a href="https://x.com/Souradip3000/status/2103876499262800291">Original post ↗</a> · <a href="../../prompts/2103876499262800291.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2103846630088716687.md"><img src="../gifs/2103846630088716687.gif" alt="Motion Design Showcase Animation Prompt" width="256" height="144" /></a><br>
 <sub>“I’m curious to see how<br>strong you are as a motion...</sub><br>
 <sub><a href="https://x.com/Dannnnnok/status/2103846630088716687">Original post ↗</a> · <a href="../../prompts/2103846630088716687.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103845689713111079.md"><img src="../gifs/2103845689713111079.gif" alt="AI Data Centre 3D Motion Graphic" width="256" height="144" /></a><br>
 <sub>Show me what goes on inside an<br>AI data centre.</sub><br>
 <sub><a href="https://x.com/mdaman010/status/2103845689713111079">Original post ↗</a> · <a href="../../prompts/2103845689713111079.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103835273813496100.md"><img src="../gifs/2103835273813496100.gif" alt="Code-Based Apple-Style Keynote Motion Design Prompt" width="256" height="144" /></a><br>
 <sub>&lt;inputs&gt; Ask me for: a one-word<br>brand name for the wordmark...</sub><br>
@@ -46,18 +51,42 @@
 <sub># Auren Header A cinematic,<br>scroll-scrubbed 3D hero...</sub><br>
 <sub><a href="https://x.com/iamtanzil_/status/2103820321673675031">Original post ↗</a> · <a href="../../prompts/2103820321673675031.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2103793820815245507.md"><img src="../gifs/2103793820815245507.gif" alt="Code-Animated Short Film: Xi the Mechanical Hermit Crab" width="256" height="144" /></a><br>
+<sub>You will act as director,<br>animator, rigger,...</sub><br>
+<sub><a href="https://x.com/gmgmgm1545/status/2103793820815245507">Original post ↗</a> · <a href="../../prompts/2103793820815245507.md">Prompt ↗</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="../../prompts/2103742861971726495.md"><img src="../gifs/2103742861971726495.gif" alt="Motion Graphics Showreel Prompt" width="256" height="144" /></a><br>
 <sub>Create a bold, dynamic<br>15-second motion graphics...</sub><br>
 <sub><a href="https://x.com/lukasersil/status/2103742861971726495">Original post ↗</a> · <a href="../../prompts/2103742861971726495.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103736579449868515.md"><img src="../gifs/2103736579449868515.gif" alt="AI Data Centre 3D Film" width="256" height="144" /></a><br>
 <sub>show me what goes on inside an<br>AI data centre.</sub><br>
 <sub><a href="https://x.com/Sayan_shanky/status/2103736579449868515">Original post ↗</a> · <a href="../../prompts/2103736579449868515.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2103540288136315331.md"><img src="../gifs/2103540288136315331.gif" alt="Bedroom Layout Generator Prompt" width="256" height="144" /></a><br>
+<sub>room of 3.00 x 3.40 m, 80 cm<br>door, a 1.20 x 0.60 closet,...</sub><br>
+<sub><a href="https://x.com/goofyninjaaa/status/2103540288136315331">Original post ↗</a> · <a href="../../prompts/2103540288136315331.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103517910274818523.md"><img src="../gifs/2103517910274818523.gif" alt="Creative Front-End and Video Generation Prompt" width="256" height="144" /></a><br>
+<sub>Use your strongest thinking and<br>capabilities, and based on...</sub><br>
+<sub><a href="https://x.com/DemitiyaGeekzen/status/2103517910274818523">Original post ↗</a> · <a href="../../prompts/2103517910274818523.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103499771206156628.md"><img src="../gifs/2103499771206156628.gif" alt="GLSL Fishbowl in Three.js" width="256" height="144" /></a><br>
+<sub>A fishbowl with reflection,<br>refraction and water...</sub><br>
+<sub><a href="https://x.com/NicolaManzini/status/2103499771206156628">Original post ↗</a> · <a href="../../prompts/2103499771206156628.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103483174957597035.md"><img src="../gifs/2103483174957597035.gif" alt="3D Pagoda Navigation" width="256" height="144" /></a><br>
 <sub>Implement code to be able to<br>navigate in a pagoda in 3D.</sub><br>
@@ -68,13 +97,13 @@
 <sub>make a dynamic 15-second motion<br>graphics video that shows...</sub><br>
 <sub><a href="https://x.com/RaphaelAubryy/status/2103416909857190360">Original post ↗</a> · <a href="../../prompts/2103416909857190360.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103195903012032809.md"><img src="../gifs/2103195903012032809.gif" alt="3D Animation of Gradient Descent" width="256" height="144" /></a><br>
 <sub>&quot;Create a 3D animation of a<br>Path Points in this case...</sub><br>
 <sub><a href="https://x.com/anirockshady/status/2103195903012032809">Original post ↗</a> · <a href="../../prompts/2103195903012032809.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103119648271290566.md"><img src="../gifs/2103119648271290566.gif" alt="Pelican Riding a Bicycle Animation" width="256" height="144" /></a><br>
 <sub>Whenever a new model comes out,<br>everyone asks it to draw a...</sub><br>
@@ -84,6 +113,11 @@
 <a href="../../prompts/2103087766662009118.md"><img src="../gifs/2103087766662009118.gif" alt="Pixar-Level Promotional Animation in Three.js" width="256" height="144" /></a><br>
 <sub>I want you to imagine a story,<br>that subtly promotes grid...</sub><br>
 <sub><a href="https://x.com/Anilraok/status/2103087766662009118">Original post ↗</a> · <a href="../../prompts/2103087766662009118.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103038625483272483.md"><img src="../gifs/2103038625483272483.gif" alt="Interactive 3D Taj Mahal in Three.js" width="256" height="144" /></a><br>
+<sub>Generate a realistic, highly<br>detailed 3D model of the Taj...</sub><br>
+<sub><a href="https://x.com/CurieuxExplorer/status/2103038625483272483">Original post ↗</a> · <a href="../../prompts/2103038625483272483.md">Prompt ↗</a></sub>
 </td>
 </tr>
 <tr>

@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T09:17:49.016Z",
+  "model": "opus5.5",
+  "prompt": "room of 3.00 x 3.40 m, 80 cm door, a 1.20 x 0.60 closet, and a 1.40 x 1.90 bed.",
+  "promptTranslations": {
+    "en": "room of 3.00 x 3.40 m, 80 cm door, a 1.20 x 0.60 closet, and a 1.40 x 1.90 bed."
+  },
+  "summary": "Claude Opus 5.5 generated a 2D/3D bedroom planning app to test thousands of positions for fitting a double bed, based on specified room and furniture dimensions.",
+  "summaryEn": "Bedroom Layout Generator Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103540288136315331",
+    "canonicalUrl": "https://x.com/goofyninjaaa/status/2103540288136315331",
+    "author": {
+      "username": "goofyninjaaa",
+      "displayName": "Goofy",
+      "profileUrl": "https://x.com/goofyninjaaa"
+    },
+    "publishedAt": "2026-09-25T17:41:01.000Z",
+    "collectedAt": "2026-09-28T09:01:31.586Z",
+    "language": "es",
+    "originalText": "Esta app probó 3,932 posiciones de una cama matrimonial hasta encontrar dónde cabe.\n\nLa hizo Claude Opus 5.5 con un prompt mío: cuarto de 3.00 x 3.40 m, puerta de 80 cm, un clóset de 1.20 x 0.60 y la cama de 1.40 x 1.90.\n\nArmó el plano a escala y el cuarto en 3D al lado, y los dos se mueven juntos.\n\nSi la cama choca con el clóset, no deja abrir la puerta o te deja menos de 60 cm para pasar, te avisa.\n\nSolo 108 posiciones no tenían ningún problema. La mejor deja 70 cm para pasar por cada lado.\n\nTardó 47 minutos, más 5 para pasarla a inglés, y no le corregí nada.\n\nPara una mudanza, esto dice más que cualquier benchmark.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/goofyninjaaa/status/2103540288136315331",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103540232712798208/img/0YVshUrVrKQOJC4f.jpg",
+        "analysisUrl": "https://x.com/goofyninjaaa/status/2103540288136315331"
+      }
+    ],
+    "metrics": {
+      "likeCount": 16,
+      "repostCount": 0,
+      "replyCount": 6,
+      "quoteCount": 0,
+      "viewCount": 687
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/goofyninjaaa/status/2103861428679524845",
+        "text": "@Raybel y todo salio de un solo prompt",
+        "author": "goofyninjaaa"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/goofyninjaaa/status/2103636325656375422",
+        "text": "@Triangul0x todos estaremos cooked",
+        "author": "goofyninjaaa"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/goofyninjaaa/status/2103636257465331756",
+        "text": "@UnTalNixon_exe opus 5.5 literal ya hace cualquier cosa que imagines",
+        "author": "goofyninjaaa"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/goofyninjaaa/status/2103540288136315331",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103540232712798208/img/0YVshUrVrKQOJC4f.jpg",
+  "coverPath": "data/covers/2103540288136315331-wide.jpg",
+  "gifPath": "data/gifs/2103540288136315331.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103540232712798208",
+    "x-post:2103540288136315331"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Bedroom Layout Generator Prompt",
+      "summary": "Claude Opus 5.5 generated a 2D/3D bedroom planning app to test thousands of positions for fitting a double bed, based on specified room and furniture dimensions.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "cuarto de 3.00 x 3.40 m, puerta de 80 cm, un clóset de 1.20 x 0.60 y la cama de 1.40 x 1.90.",
+        "englishText": "room of 3.00 x 3.40 m, 80 cm door, a 1.20 x 0.60 closet, and a 1.40 x 1.90 bed.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/goofyninjaaa/status/2103540288136315331",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/goofyninjaaa/status/2103540288136315331",
+        "start": 128,
+        "end": 220
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/goofyninjaaa/status/2103540288136315331",
+        "author": "goofyninjaaa",
+        "postId": "2103540288136315331",
+        "publishedAt": "2026-09-25T17:41:01.000Z"
+      },
+      "checkedAt": "2026-09-28T09:02:25.260Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index"
+    },
+    "summary": "Claude Opus 5.5 generated a 2D/3D bedroom planning app to test thousands of positions for fitting a double bed, based on specified room and furniture dimensions.",
+    "summaryEn": "Bedroom Layout Generator Prompt",
+    "originalPrompt": "cuarto de 3.00 x 3.40 m, puerta de 80 cm, un clóset de 1.20 x 0.60 y la cama de 1.40 x 1.90.",
+    "sourceRange": {
+      "start": 128,
+      "end": 220
+    },
+    "translations": {
+      "zh": "cuarto de 3.00 x 3.40 m, puerta de 80 cm, un clóset de 1.20 x 0.60 y la cama de 1.40 x 1.90.",
+      "en": "room of 3.00 x 3.40 m, 80 cm door, a 1.20 x 0.60 closet, and a 1.40 x 1.90 bed."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Claude Opus 5.5 generated a 2D/3D bedroom planning app to test thousands of positions for fitting a double bed, based on specified room and furniture dimensions.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

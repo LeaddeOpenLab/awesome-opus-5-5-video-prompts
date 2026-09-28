@@ -71,6 +71,23 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="../../prompts/2104046743751139812.md"><img src="../gifs/2104046743751139812.gif" alt="Underground Delivery Network Game" width="256" height="144" /></a><br>
+<sub>build a tiny underground<br>delivery network in three.js</sub><br>
+<sub><a href="https://x.com/lisp_mi/status/2104046743751139812">Original post ↗</a> · <a href="../../prompts/2104046743751139812.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103867115044237752.md"><img src="../gifs/2103867115044237752.gif" alt="Minecraft-Style Browser Sandbox Game Prompt" width="256" height="144" /></a><br>
+<sub>Build a browser sandbox game in<br>the spirit of Minecraft that...</sub><br>
+<sub><a href="https://x.com/kepochnik/status/2103867115044237752">Original post ↗</a> · <a href="../../prompts/2103867115044237752.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103822946800165270.md"><img src="../gifs/2103822946800165270.gif" alt="Browser-Based Minecraft Game Prompt" width="256" height="144" /></a><br>
+<sub>Build a Minecraft-style voxel<br>game in a single HTML file...</sub><br>
+<sub><a href="https://x.com/dreyk0o0/status/2103822946800165270">Original post ↗</a> · <a href="../../prompts/2103822946800165270.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="../../prompts/2103807094554284430.md"><img src="../gifs/2103807094554284430.gif" alt="Mimicly Motion Design Ad Strategy Prompt" width="256" height="144" /></a><br>
 <sub>Create a studio level motion<br>design ad for my app...</sub><br>
 <sub><a href="https://x.com/redpersongpt/status/2103807094554284430">Original post ↗</a> · <a href="../../prompts/2103807094554284430.md">Prompt ↗</a></sub>
@@ -147,7 +164,19 @@
 <a href="../../prompts/2102919394775220530.md"><img src="../gifs/2102919394775220530.gif" alt="90s-Style Demoscene Demo Prompt" width="256" height="144" /></a><br>
 <sub>I would like you to create a<br>kickass, impressive 1990s...</sub><br>
 <sub><a href="https://x.com/gandamu_ml/status/2102919394775220530">Original post ↗</a> · <a href="../../prompts/2102919394775220530.md">Prompt ↗</a></sub>
-</td><td></td>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2102889901297426722.md"><img src="../gifs/2102889901297426722.gif" alt="Higher Game Update on Spawn" width="256" height="144" /></a><br>
+<sub>Make a triple A game please<br>&nbsp;</sub><br>
+<sub><a href="https://x.com/chukinice/status/2102889901297426722">Original post ↗</a> · <a href="../../prompts/2102889901297426722.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2102882622053535814.md"><img src="../gifs/2102882622053535814.gif" alt="Deep-Sea Horror Game Prompt" width="256" height="144" /></a><br>
+<sub>make a game within the confines<br>and abilities of my engine</sub><br>
+<sub><a href="https://x.com/ggsimm/status/2102882622053535814">Original post ↗</a> · <a href="../../prompts/2102882622053535814.md">Prompt ↗</a></sub>
+</td><td></td><td></td>
 </tr>
 </table>
 
