@@ -13,17 +13,29 @@
 <sub><a href="https://x.com/Ror_Fly/status/2102853258582880547">Original post ↗</a> · <a href="../../prompts/2102853258582880547.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2104485636690584000.md"><img src="../gifs/2104485636690584000.gif" alt="Interactive Educational Webpage on Ions and Coordinate Bonding" width="256" height="144" /></a><br>
+<sub>Please add animation<br>&nbsp;</sub><br>
+<sub><a href="https://x.com/neco1751662/status/2104485636690584000">Original post ↗</a> · <a href="../../prompts/2104485636690584000.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2104463774862446760.md"><img src="../gifs/2104463774862446760.gif" alt="Interactive Bubble Genre Selection UI in App Development" width="256" height="144" /></a><br>
+<sub>Make the genre selection screen<br>a cute UI using soap bubbles</sub><br>
+<sub><a href="https://x.com/asakarifa/status/2104463774862446760">Original post ↗</a> · <a href="../../prompts/2104463774862446760.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2104452405144535314.md"><img src="../gifs/2104452405144535314.gif" alt="Opus 5.5 Fireball Spell Animation Across Effort Levels" width="256" height="144" /></a><br>
 <sub>Creating fire ball spell<br>animation</sub><br>
 <sub><a href="https://x.com/VibeCode_SahilM/status/2104452405144535314">Original post ↗</a> · <a href="../../prompts/2104452405144535314.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104441050211475528.md"><img src="../gifs/2104441050211475528.gif" alt="Opus 5.5 代码逐帧生成动画短片《我只会写字》" width="256" height="144" /></a><br>
 <sub>Introduce what kind of videos<br>you can make</sub><br>
 <sub><a href="https://x.com/kokoro_886/status/2104441050211475528">Original post ↗</a> · <a href="../../prompts/2104441050211475528.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104436377546818041.md"><img src="../gifs/2104436377546818041.gif" alt="Interactive 3D Camera Lens Focus Lab" width="256" height="144" /></a><br>
 <sub>explain camera focus visually<br>&nbsp;</sub><br>
@@ -34,13 +46,13 @@
 <sub>A hyperrealistic landslide<br>escape game.</sub><br>
 <sub><a href="https://x.com/RAJKATAJJ/status/2104434742959755463">Original post ↗</a> · <a href="../../prompts/2104434742959755463.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104421343429312968.md"><img src="../gifs/2104421343429312968.gif" alt="Interactive Explodable Twin-Turbo V12 Engine Explainer" width="256" height="144" /></a><br>
 <sub>an explodable interactive<br>twin-turbo V12 engine</sub><br>
 <sub><a href="https://x.com/ImperiumMentisX/status/2104421343429312968">Original post ↗</a> · <a href="../../prompts/2104421343429312968.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104420680142082118.md"><img src="../gifs/2104420680142082118.gif" alt="Code-Rendered Generative Music Video for I'm Upping My P(doom)" width="256" height="144" /></a><br>
 <sub>A code-rendered generative<br>music video project,...</sub><br>
@@ -51,13 +63,13 @@
 <sub>I created a game with Opus 5.5<br>made entirely out of...</sub><br>
 <sub><a href="https://x.com/tiagochilanti/status/2104407040135164032">Original post ↗</a> · <a href="../../prompts/2104407040135164032.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104406088862810533.md"><img src="../gifs/2104406088862810533.gif" alt="Interactive 3D Flight Simulator Game" width="256" height="144" /></a><br>
 <sub>Write a flight simulator<br>&nbsp;</sub><br>
 <sub><a href="https://x.com/ekcheungAI/status/2104406088862810533">Original post ↗</a> · <a href="../../prompts/2104406088862810533.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104159923886244176.md"><img src="../gifs/2104159923886244176.gif" alt="Interactive Glitter Sticker Effect with Peel Animation Comparison" width="256" height="144" /></a><br>
 <sub>create the glitter sticker<br>effect</sub><br>
@@ -68,13 +80,13 @@
 <sub>explain how a rocket engine<br>works by building an...</sub><br>
 <sub><a href="https://x.com/konstantinsaifo/status/2104094723887501736">Original post ↗</a> · <a href="../../prompts/2104094723887501736.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104046743751139812.md"><img src="../gifs/2104046743751139812.gif" alt="Underground Delivery Network Game" width="256" height="144" /></a><br>
 <sub>build a tiny underground<br>delivery network in three.js</sub><br>
 <sub><a href="https://x.com/lisp_mi/status/2104046743751139812">Original post ↗</a> · <a href="../../prompts/2104046743751139812.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103867115044237752.md"><img src="../gifs/2103867115044237752.gif" alt="Minecraft-Style Browser Sandbox Game Prompt" width="256" height="144" /></a><br>
 <sub>Build a browser sandbox game in<br>the spirit of Minecraft that...</sub><br>
@@ -85,13 +97,13 @@
 <sub>Build a Minecraft-style voxel<br>game in a single HTML file...</sub><br>
 <sub><a href="https://x.com/dreyk0o0/status/2103822946800165270">Original post ↗</a> · <a href="../../prompts/2103822946800165270.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103807094554284430.md"><img src="../gifs/2103807094554284430.gif" alt="Mimicly Motion Design Ad Strategy Prompt" width="256" height="144" /></a><br>
 <sub>Create a studio level motion<br>design ad for my app...</sub><br>
 <sub><a href="https://x.com/redpersongpt/status/2103807094554284430">Original post ↗</a> · <a href="../../prompts/2103807094554284430.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103804606794879327.md"><img src="../gifs/2103804606794879327.gif" alt="3D Star Wars Multiplayer Game Prompt" width="256" height="144" /></a><br>
 <sub>A 3D multiplayer game where the<br>players are a squad of...</sub><br>
@@ -102,13 +114,13 @@
 <sub>PRD — Police Chase Arcade Game<br>Working title: Heatwave...</sub><br>
 <sub><a href="https://x.com/froessell/status/2103789415323562325">Original post ↗</a> · <a href="../../prompts/2103789415323562325.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103763192971461057.md"><img src="../gifs/2103763192971461057.gif" alt="Pixel Art Hearthstone-Style Card Game Prompt" width="256" height="144" /></a><br>
 <sub>Create a 1-on-1 card game like<br>Hearthstone. Just make it....</sub><br>
 <sub><a href="https://x.com/aisongman/status/2103763192971461057">Original post ↗</a> · <a href="../../prompts/2103763192971461057.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103743617848459762.md"><img src="../gifs/2103743617848459762.gif" alt="Motoseyir App Motion Design Promo" width="256" height="144" /></a><br>
 <sub>Make a 45–50 second vertical<br>video for my app: a glance...</sub><br>
@@ -119,17 +131,22 @@
 <sub>I want multiplayer game, with<br>proximity chat, with...</sub><br>
 <sub><a href="https://x.com/Ved_CJ/status/2103708392930066575">Original post ↗</a> · <a href="../../prompts/2103708392930066575.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103628970000347627.md"><img src="../gifs/2103628970000347627.gif" alt="MapleStory Clone in Raylib-cs" width="256" height="144" /></a><br>
 <sub>Build a MapleStory clone in<br>Raylib-cs.</sub><br>
 <sub><a href="https://x.com/NoLit64/status/2103628970000347627">Original post ↗</a> · <a href="../../prompts/2103628970000347627.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103437714695843891.md"><img src="../gifs/2103437714695843891.gif" alt="Retro Romance of the Three Kingdoms Game Prompt" width="256" height="144" /></a><br>
 <sub>Make a game like Romance of the<br>Three Kingdoms III with a...</sub><br>
 <sub><a href="https://x.com/opener_ai/status/2103437714695843891">Original post ↗</a> · <a href="../../prompts/2103437714695843891.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103401820261355554.md"><img src="../gifs/2103401820261355554.gif" alt="INKBOUND Pixel Runner Game Prompt" width="256" height="144" /></a><br>
+<sub>Using Vanilla JavaScript,<br>Canvas 2D and the Web Audio...</sub><br>
+<sub><a href="https://x.com/agentgamesbot/status/2103401820261355554">Original post ↗</a> · <a href="../../prompts/2103401820261355554.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2103197522382786581.md"><img src="../gifs/2103197522382786581.gif" alt="Opus 5.5 Launch Video Prompt" width="256" height="144" /></a><br>
