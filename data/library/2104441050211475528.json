@@ -59,8 +59,8 @@
   },
   "xUrl": "https://x.com/kokoro_886/status/2104441050211475528",
   "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104440603736162304/img/HjlZ8Wy406XG78NI.jpg",
-  "coverPath": "covers/2104441050211475528-wide.jpg",
-  "gifPath": "gifs/2104441050211475528.gif",
+  "coverPath": "data/covers/2104441050211475528-wide.jpg",
+  "gifPath": "data/gifs/2104441050211475528.gif",
   "imagePaths": [],
   "distribution": {
     "status": "pushed"

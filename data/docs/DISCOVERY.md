@@ -403,4 +403,4 @@
 - [@EWashoku · 2104211672370201053](https://x.com/EWashoku/status/2104211672370201053)
 - [@AJtheMongol · 2104214187522318512](https://x.com/AJtheMongol/status/2104214187522318512)
 
-[Back to gallery](README.md)
+[Back to gallery](../../README.md)

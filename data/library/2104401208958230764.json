@@ -52,8 +52,8 @@
   },
   "xUrl": "https://x.com/notdwd/status/2104401208958230764",
   "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104338650196844545/img/zfDucsCoGYvfslR8.jpg",
-  "coverPath": "covers/2104401208958230764-wide.jpg",
-  "gifPath": "gifs/2104401208958230764.gif",
+  "coverPath": "data/covers/2104401208958230764-wide.jpg",
+  "gifPath": "data/gifs/2104401208958230764.gif",
   "imagePaths": [],
   "distribution": {
     "status": "pushed"

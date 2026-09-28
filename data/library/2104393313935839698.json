@@ -59,8 +59,8 @@
   },
   "xUrl": "https://x.com/yanliudesign/status/2104393313935839698",
   "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104393274614333440/img/480khQsH66l_7BSb.jpg",
-  "coverPath": "covers/2104393313935839698-wide.jpg",
-  "gifPath": "gifs/2104393313935839698.gif",
+  "coverPath": "data/covers/2104393313935839698-wide.jpg",
+  "gifPath": "data/gifs/2104393313935839698.gif",
   "imagePaths": [],
   "distribution": {
     "status": "pushed"

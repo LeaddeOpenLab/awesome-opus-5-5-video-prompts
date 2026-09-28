@@ -59,8 +59,8 @@
   },
   "xUrl": "https://x.com/EZheng66099/status/2104410457263976899",
   "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104405104593981440/img/3vbAh-8vuyezLsWt.jpg",
-  "coverPath": "covers/2104410457263976899-wide.jpg",
-  "gifPath": "gifs/2104410457263976899.gif",
+  "coverPath": "data/covers/2104410457263976899-wide.jpg",
+  "gifPath": "data/gifs/2104410457263976899.gif",
   "imagePaths": [],
   "distribution": {
     "status": "pushed"

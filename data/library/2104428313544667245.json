@@ -89,8 +89,8 @@
   },
   "xUrl": "https://x.com/AndyL5cc/status/2104428313544667245",
   "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104428033440722944/img/hy6oY18NcKVpohsN.jpg",
-  "coverPath": "covers/2104428313544667245-wide.jpg",
-  "gifPath": "gifs/2104428313544667245.gif",
+  "coverPath": "data/covers/2104428313544667245-wide.jpg",
+  "gifPath": "data/gifs/2104428313544667245.gif",
   "imagePaths": [],
   "distribution": {
     "status": "pushed"

@@ -59,8 +59,8 @@
   },
   "xUrl": "https://x.com/bangbuilds/status/2104418374218600719",
   "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104418096270499841/img/Vuxfn4IzN5pO5WEF.jpg",
-  "coverPath": "covers/2104418374218600719-wide.jpg",
-  "gifPath": "gifs/2104418374218600719.gif",
+  "coverPath": "data/covers/2104418374218600719-wide.jpg",
+  "gifPath": "data/gifs/2104418374218600719.gif",
   "imagePaths": [],
   "distribution": {
     "status": "pushed"

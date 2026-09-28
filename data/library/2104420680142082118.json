@@ -65,8 +65,8 @@
   },
   "xUrl": "https://x.com/weiwei2018831/status/2104420680142082118",
   "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104420288356352000/img/52dluBtUmgQTHEJC.jpg",
-  "coverPath": "covers/2104420680142082118-wide.jpg",
-  "gifPath": "gifs/2104420680142082118.gif",
+  "coverPath": "data/covers/2104420680142082118-wide.jpg",
+  "gifPath": "data/gifs/2104420680142082118.gif",
   "imagePaths": [],
   "distribution": {
     "status": "pushed"

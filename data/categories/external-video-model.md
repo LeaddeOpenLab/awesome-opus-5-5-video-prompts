@@ -1,0 +1,13 @@
+# external-video-model
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2104403368752071059.md"><img src="../gifs/2104403368752071059.gif" alt="防犯ダンス(翠都銀行)の動画制作とエフェクト付与" width="256" height="144" /></a><br>
+<sub>Add typography and effects that<br>match the video</sub><br>
+<sub><a href="https://x.com/mi7_crypto/status/2104403368752071059">Original post ↗</a> · <a href="../../prompts/2104403368752071059.md">Prompt ↗</a></sub>
+</td><td></td><td></td>
+</tr>
+</table>
+
+[All tasks](../../README.md)
