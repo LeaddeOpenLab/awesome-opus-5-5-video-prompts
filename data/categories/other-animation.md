@@ -8,6 +8,57 @@
 <sub><a href="https://x.com/notdwd/status/2104401208958230764">Original post ↗</a> · <a href="../../prompts/2104401208958230764.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2103824976713306214.md"><img src="../gifs/2103824976713306214.gif" alt="Ultracode Animation Movie Shoot with Opus 5.5 Dynamic Workflows" width="256" height="144" /></a><br>
+<sub>I want to try something<br>different here. You should...</sub><br>
+<sub><a href="https://x.com/daniel_mac8/status/2103824976713306214">Original post ↗</a> · <a href="../../prompts/2103824976713306214.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103495232637882858.md"><img src="../gifs/2103495232637882858.gif" alt="Opus 5.5 Motion Designer Showreel" width="256" height="144" /></a><br>
+<sub>make a dynamic 15-second motion<br>graphics video that shows...</sub><br>
+<sub><a href="https://x.com/himanshutwtxs/status/2103495232637882858">Original post ↗</a> · <a href="../../prompts/2103495232637882858.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2103273003555402193.md"><img src="../gifs/2103273003555402193.gif" alt="Code-Driven Looping UI Motion Graphics with Claude Opus 5.5" width="256" height="144" /></a><br>
+<sub>&lt;inputs&gt; Ask me for: 8 to 12 UI<br>states I want the shape to...</sub><br>
+<sub><a href="https://x.com/twoclipping/status/2103273003555402193">Original post ↗</a> · <a href="../../prompts/2103273003555402193.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103066071838466494.md"><img src="../gifs/2103066071838466494.gif" alt="SaaS Product Launch Motion Graphics Video" width="256" height="144" /></a><br>
+<sub>&quot;I want you to create a highly<br>professional SaaS product...</sub><br>
+<sub><a href="https://x.com/moritzkremb/status/2103066071838466494">Original post ↗</a> · <a href="../../prompts/2103066071838466494.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2102787937482252537.md"><img src="../gifs/2102787937482252537.gif" alt="Inference Startup Launch Video with Claude Opus 5.5" width="256" height="144" /></a><br>
+<sub>make a modern slick and punchy<br>video for a modern startup...</sub><br>
+<sub><a href="https://x.com/deedydas/status/2102787937482252537">Original post ↗</a> · <a href="../../prompts/2102787937482252537.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2104458970865996117.md"><img src="../gifs/2104458970865996117.gif" alt="Claude Opus 5.5 Unity Rain and Lightning Effect Experiment" width="256" height="144" /></a><br>
+<sub>rain expression<br>&nbsp;</sub><br>
+<sub><a href="https://x.com/threediveai/status/2104458970865996117">Original post ↗</a> · <a href="../../prompts/2104458970865996117.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2104458849524863062.md"><img src="../gifs/2104458849524863062.gif" alt="DeepSeek 灰测版魔性 MV 动画制作" width="256" height="144" /></a><br>
+<sub>Made a DeepSeek MV with Opus 5.5<br>&nbsp;</sub><br>
+<sub><a href="https://x.com/esrhengwu/status/2104458849524863062">Original post ↗</a> · <a href="../../prompts/2104458849524863062.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2104448788790477239.md"><img src="../gifs/2104448788790477239.gif" alt="Claude Opus 5.5 Shader-Based Atomic Bomb Animation" width="256" height="144" /></a><br>
+<sub>Slouching on a bench witnessing<br>an atomic bomb explosion</sub><br>
+<sub><a href="https://x.com/esrhengwu/status/2104448788790477239">Original post ↗</a> · <a href="../../prompts/2104448788790477239.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2104429604815675791.md"><img src="../gifs/2104429604815675791.gif" alt="Sneakers O'Toole Music Video" width="256" height="144" /></a><br>
+<sub>make a Sneakers O'Toole music<br>video</sub><br>
+<sub><a href="https://x.com/coffemoth/status/2104429604815675791">Original post ↗</a> · <a href="../../prompts/2104429604815675791.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2104428313544667245.md"><img src="../gifs/2104428313544667245.gif" alt="Opus 5.5 制作《水运仪象台》科普三维解构视频" width="256" height="144" /></a><br>
 <sub>Water-driven Astronomical Clock<br>Tower</sub><br>
 <sub><a href="https://x.com/AndyL5cc/status/2104428313544667245">Original post ↗</a> · <a href="../../prompts/2104428313544667245.md">Prompt ↗</a></sub>
@@ -37,6 +88,11 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="../../prompts/2104413549896614066.md"><img src="../gifs/2104413549896614066.gif" alt="Autonomous Animated Short Production Attempt with Claude Opus 5.5" width="256" height="144" /></a><br>
+<sub>The prompt was basically: make<br>a high quality animated...</sub><br>
+<sub><a href="https://x.com/Zach__Harrison/status/2104413549896614066">Original post ↗</a> · <a href="../../prompts/2104413549896614066.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2104410457263976899.md"><img src="../gifs/2104410457263976899.gif" alt="AI Portfolio Showreel Edited with Opus 5.5" width="256" height="144" /></a><br>
 <sub>I asked Opus 5.5 to turn my<br>work into a one minute film.</sub><br>
 <sub><a href="https://x.com/EZheng66099/status/2104410457263976899">Original post ↗</a> · <a href="../../prompts/2104410457263976899.md">Prompt ↗</a></sub>
@@ -46,18 +102,23 @@
 <sub>Produce a comedy sketch<br>animation on the fly,...</sub><br>
 <sub><a href="https://x.com/cryptoninjanime/status/2104409268351062188">Original post ↗</a> · <a href="../../prompts/2104409268351062188.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104393313935839698.md"><img src="../gifs/2104393313935839698.gif" alt="Seattle History Motion Graphics Video" width="256" height="144" /></a><br>
 <sub>create a 15-second motion<br>graphics video about Seattle</sub><br>
 <sub><a href="https://x.com/yanliudesign/status/2104393313935839698">Original post ↗</a> · <a href="../../prompts/2104393313935839698.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104391577091407965.md"><img src="../gifs/2104391577091407965.gif" alt="SQLite Explainer Animation and Architectural Walkthrough" width="256" height="144" /></a><br>
 <sub>1. explains what the repo does<br>and why its useful\n2. shows...</sub><br>
 <sub><a href="https://x.com/deedydas/status/2104391577091407965">Original post ↗</a> · <a href="../../prompts/2104391577091407965.md">Prompt ↗</a></sub>
-</td><td></td><td></td>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103761658745335993.md"><img src="../gifs/2103761658745335993.gif" alt="DistilBook Motion Graphics Product Explainer Demo" width="256" height="144" /></a><br>
+<sub>create best motion graphics<br>explainer of the (your...</sub><br>
+<sub><a href="https://x.com/sudo_kiran/status/2103761658745335993">Original post ↗</a> · <a href="../../prompts/2103761658745335993.md">Prompt ↗</a></sub>
+</td>
 </tr>
 </table>
 

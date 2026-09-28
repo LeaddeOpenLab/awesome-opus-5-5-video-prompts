@@ -28,7 +28,12 @@
 <a href="../../prompts/2104391577091407965.md"><img src="../gifs/2104391577091407965.gif" alt="SQLite Explainer Animation and Architectural Walkthrough" width="256" height="144" /></a><br>
 <sub>1. explains what the repo does<br>and why its useful\n2. shows...</sub><br>
 <sub><a href="https://x.com/deedydas/status/2104391577091407965">Original post ↗</a> · <a href="../../prompts/2104391577091407965.md">Prompt ↗</a></sub>
-</td><td></td>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103761658745335993.md"><img src="../gifs/2103761658745335993.gif" alt="DistilBook Motion Graphics Product Explainer Demo" width="256" height="144" /></a><br>
+<sub>create best motion graphics<br>explainer of the (your...</sub><br>
+<sub><a href="https://x.com/sudo_kiran/status/2103761658745335993">Original post ↗</a> · <a href="../../prompts/2103761658745335993.md">Prompt ↗</a></sub>
+</td>
 </tr>
 </table>
 

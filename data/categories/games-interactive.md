@@ -3,6 +3,23 @@
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="../../prompts/2103802923465768972.md"><img src="../gifs/2103802923465768972.gif" alt="Vincent's Cats: 3D Starry Night Game" width="256" height="144" /></a><br>
+<sub>can you make a 3d game where<br>you walk around and spot...</sub><br>
+<sub><a href="https://x.com/MandelDuck/status/2103802923465768972">Original post ↗</a> · <a href="../../prompts/2103802923465768972.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2102853258582880547.md"><img src="../gifs/2102853258582880547.gif" alt="Negroni Cocktail Explainer Motion Graphic in HTML" width="256" height="144" /></a><br>
+<sub>We're going to try a little<br>test. Do you think you could...</sub><br>
+<sub><a href="https://x.com/Ror_Fly/status/2102853258582880547">Original post ↗</a> · <a href="../../prompts/2102853258582880547.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2104452405144535314.md"><img src="../gifs/2104452405144535314.gif" alt="Opus 5.5 Fireball Spell Animation Across Effort Levels" width="256" height="144" /></a><br>
+<sub>Creating fire ball spell<br>animation</sub><br>
+<sub><a href="https://x.com/VibeCode_SahilM/status/2104452405144535314">Original post ↗</a> · <a href="../../prompts/2104452405144535314.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="../../prompts/2104441050211475528.md"><img src="../gifs/2104441050211475528.gif" alt="Opus 5.5 代码逐帧生成动画短片《我只会写字》" width="256" height="144" /></a><br>
 <sub>Introduce what kind of videos<br>you can make</sub><br>
 <sub><a href="https://x.com/kokoro_886/status/2104441050211475528">Original post ↗</a> · <a href="../../prompts/2104441050211475528.md">Prompt ↗</a></sub>

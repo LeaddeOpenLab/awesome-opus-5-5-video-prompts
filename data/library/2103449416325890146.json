@@ -1,0 +1,281 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T07:21:23.693Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+  "promptTranslations": {
+    "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+  },
+  "summary": "Author uses Claude Opus 5.5 within Claude Code to write code and render a dynamic 15-second motion graphics resume showreel video via Remotion.",
+  "summaryEn": "Claude Opus 5.5 15-Second Motion Design Showreel via Remotion",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103449416325890146",
+    "canonicalUrl": "https://x.com/ajith_io/status/2103449416325890146",
+    "author": {
+      "username": "ajith_io",
+      "displayName": "Ajith",
+      "profileUrl": "https://x.com/ajith_io"
+    },
+    "publishedAt": "2026-09-25T11:39:55.000Z",
+    "collectedAt": "2026-09-28T07:13:05.687Z",
+    "language": "en",
+    "originalText": "WTF?\nMade with claude OPUS 5.5\n\nPrompt\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.\"\n\nThat's it.. https://t.co/qCZy1iOEeM",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ajith_io/status/2103449416325890146",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103449259869863936/img/xFjCDtYklW-hfg7m.jpg",
+        "analysisUrl": "https://x.com/ajith_io/status/2103449416325890146"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3831,
+      "repostCount": 179,
+      "replyCount": 139,
+      "quoteCount": 72,
+      "viewCount": 564887
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ajith_io/status/2103916628991992105",
+        "text": "@cryptojatic Try it..\nClaude code\nOpus 5.5\nMax effort",
+        "author": "ajith_io"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ajith_io/status/2103792663459963078",
+        "text": "@ai_with_jyoti absolutely",
+        "author": "ajith_io"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ajith_io/status/2103792603108122858",
+        "text": "@isarangbhirad it's claude code \nclaude cat' do that.. and tha's it..\nit'll use the hyperframes or remotion and it will render those web calculation as video",
+        "author": "ajith_io"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ajith_io/status/2103777695893172348",
+        "text": "@PJeevanG1 literally nothing..\njust paste the prompt i provided\nopus 5.5 with effort extra..\nthat's it..",
+        "author": "ajith_io"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ajith_io/status/2103775084771147953",
+        "text": "@rayan__saeed claude compose them  by itself",
+        "author": "ajith_io"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ajith_io/status/2103725222356767115",
+        "text": "@JohnSmithnvmo True brooo..\nThat's little word making the difference..😅😅",
+        "author": "ajith_io"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ajith_io/status/2103725090664059317",
+        "text": "@amoghmd_ Yep..\nMade different videos, it's awesome editor",
+        "author": "ajith_io"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ajith_io/status/2103566740231979154",
+        "text": "@starryhopeblog Claude code",
+        "author": "ajith_io"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ajith_io/status/2103552473466302911",
+        "text": "@VeyroBest @SanatanPuraan It’s all done by Claude only.\n\nFor the voice, you’ll need ElevenLabs or any relevant TTS service. Claude can take care of everything else.",
+        "author": "ajith_io"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ajith_io/status/2103537906753392923",
+        "text": "@rhythamnegi claude code\nwith extra thinking",
+        "author": "ajith_io"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ajith_io/status/2103495852048420885",
+        "text": "@bygregorr Yep..\nTried with some brand explainers also..\nSome turned out cool..\nWill share those",
+        "author": "ajith_io"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ajith_io/status/2103495611773583774",
+        "text": "@3sankalpsingh Yep..\nAbsolutely",
+        "author": "ajith_io"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ajith_io/status/2103485723756331318",
+        "text": "@techysfrenchys @stephanlivera thank you \nI lost his username...",
+        "author": "ajith_io"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ajith_io/status/2103485633088151644",
+        "text": "Prompt shamelessly stolen from @stephanlivera",
+        "author": "ajith_io"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ajith_io/status/2103482225203527850",
+        "text": "@SanatanPuraan it's created with remotion\ncause that's the way to render the video..\nbut its' not the magic of remotion..\nyu can use hyperframes also\nhowever claude knows what to use..\njust use the prompt",
+        "author": "ajith_io"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ajith_io/status/2103480331487883505",
+        "text": "@Sogni_Protocol sure ?",
+        "author": "ajith_io"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ajith_io/status/2103477775088881741",
+        "text": "@madebytrev Everythign done by Claude ..\nit's very good in sound design..\n\ninternally using remotion ( i didnt mentioned tho )",
+        "author": "ajith_io"
+      },
+      {
+        "url": "https://x.com/ajith_io/status/2103449416325890146",
+        "text": "Ajith on X: \"WTF?\nMade with claude OPUS 5.5\n\nPrompt\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\"\n\nThat&#x27;s it..\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nAjith on X: \"WTF?\nMade with claude OPUS 5.5\n\nPrompt\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\"\n\nThat&#x27;s it..\"\n\n\n\nAjith\n\n@ajith_io\n\n\n\n\nWTF?\nMade with claude OPUS 5.5\n\nPrompt\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\"\n\nThat&#x27;s it..\n\n\n00:00\n\n\n\n\n\n\n\n\n11:39 AM · Sep 25, 2026·564.9K\nViews\n\n\n\n139\n179\n3.8K\n4.5K\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nAjith@ajith_ioFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nAjith\n\n@ajith_io\n\n\n\n\nWTF?\nMade with claude OPUS 5.5\n\nPrompt\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\"\n\nThat&#x27;s it..\n\n\n00:00\n\n\n\n\n\n\n\n\n11:39 AM · Sep 25, 2026·564.9K\nViews\n\n\n\n139\n179\n3.8K\n4.5K\n\n\n\n\n\n\n\n\n\nAjith\n\n@ajith_io\nSep 25\n\n\nPrompt\n\n\"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\"\n\n\n4\n1\n67\n18K\n\n\n\n\n\n\n\n\n\n\n\nAjith\n\n@ajith_io\nSep 25\n\n\nbrand explainer\n\n\n\nAjith\n\n@ajith_io\nSep 25\n\nSo sad. Motion designers are cooked. :(\n\nMade an entire product video with a single prompt using Opus 5.5.\n\nPrompt:\n\n“Research Distilbook.Make a dynamic 40-second motion graphics video on Distilbook that shows what an incredible motion designer you are. like it&#x27;s your showreel - Show more\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n\n2\n53\n19K\n\n\n\n\n\n\n\n\n\n\n\nAjith\n\n@ajith_io\nSep 25\n\n\nBest example with Prompt\n\n\n\nrazak wants to go to sf\n\n@itisRazak\nSep 25\n\nWTF?\n\nMade with single prompt claude OPUS 5.5\n\nPrompt:-\n“Research Distilbook.Make a dynamic 40-second motion graphics video on Distilbook that shows what an incredible motion designer you are. like it&#x27;s your showreel - Go all out.”\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n1\n\n19\n10K\n\n\n\n\n\n\n\n\n\n\n\nAjith\n\n@ajith_io\nSep 25\n\n\nBest So far\n\n\n\nAjith\n\n@ajith_io\nSep 25\n\nClaude cooked really hard with opus 5.5\n\nMade entirely with code\nPrompt\n\"\nTake reference from the given video (download it) and use the same visual style.\nand Research about Distilbook. Make a dynamic 30-second motion graphics video on Distilbook that shows what an incredible Show more\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n\n\n12\n7.1K\n\n\n\n\n\n\n\n\n\n\n\nAjith\n\n@ajith_io\nSep 25\n\n\nPrompt shamelessly stolen from @stephanlivera\n\n\n\n\n4\n10K\n\n\n\n\n\n\n\n\n\n\n\nAjith\n\n@ajith_io\n12h\n\n\nanimation in stick man figure style\n\n\n\nAjith\n\n@ajith_io\n12h\n\nLife of a startup founder.\n\nAnimated by Claude Opus 5.5 in @alanthebecker’s style.\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n\n\n1\n308\n\n\n\n\n\n\n\n\n\n\n\nTechist\n@techysfrenchys\nSep 25\n\n\nOriginal concept and prompt by @stephanlivera \n\n\n\n\nStephan Livera\n\n@stephanlivera\nSep 25\n\nOpus 5.5 on Max effort - \"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it&#x27;s your showreel for a résumé. go all out.\"\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n1\n1\n21\n2.6K\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "ajith_io"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/ajith_io/status/2103449416325890146",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103449259869863936/img/xFjCDtYklW-hfg7m.jpg",
+  "coverPath": "data/covers/2103449416325890146-wide.jpg",
+  "gifPath": "data/gifs/2103449416325890146.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103449259869863936",
+    "x-post:2103449416325890146"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Claude Opus 5.5 15-Second Motion Design Showreel via Remotion",
+      "summary": "Author uses Claude Opus 5.5 within Claude Code to write code and render a dynamic 15-second motion graphics resume showreel video via Remotion.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Code",
+        "authorUseConfirmed": true,
+        "evidence": "Made with claude OPUS 5.5... Try it.. Claude code Opus 5.5 Max effort"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "englishText": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 15-second video demonstrates a high-tempo synchronized motion design showreel with on-screen text 'CLAUDE MOTION REEL 2026', 'EVERY FRAME ON PURPOSE', and ending with 'Claude. MOTION DESIGNER 900 FRAMES . 60 FPS . 128 BPM'.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Claude Code",
+          "role": "Agent environment executing Opus 5.5 with max effort thinking",
+          "evidence": "it's claude code claude cat' do that.. and tha's it.."
+        },
+        {
+          "name": "Remotion",
+          "role": "Video rendering framework executing generated web/React motion calculations",
+          "evidence": "it's created with remotion cause that's the way to render the video.. internally using remotion ( i didnt mentioned tho )"
+        }
+      ],
+      "targetModelRole": "Claude Opus 5.5 drafted the composition, visual timing, and Remotion rendering code autonomously.",
+      "outputSource": "Remotion",
+      "divisionEvidence": "it'll use the hyperframes or remotion and it will render those web calculation as video... Everythign done by Claude .. it's very good in sound design.. internally using remotion",
+      "video": {
+        "shots": "Multi-scene dynamic kinetic typography and geometric animation sequence",
+        "duration": "15s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "remotion",
+      "suitable": true,
+      "reason": "Clear demonstration of Claude Opus 5.5 agent orchestration creating a 15-second motion graphics video rendered via Remotion with full prompt and confirmed model details.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/ajith_io/status/2103449416325890146",
+        "start": 41,
+        "end": 192
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/ajith_io/status/2103449416325890146",
+        "author": "ajith_io",
+        "postId": "2103449416325890146",
+        "publishedAt": "2026-09-25T11:39:55.000Z"
+      },
+      "checkedAt": "2026-09-28T07:13:45.081Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      }
+    },
+    "summary": "Author uses Claude Opus 5.5 within Claude Code to write code and render a dynamic 15-second motion graphics resume showreel video via Remotion.",
+    "summaryEn": "Claude Opus 5.5 15-Second Motion Design Showreel via Remotion",
+    "originalPrompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+    "sourceRange": {
+      "start": 41,
+      "end": 192
+    },
+    "translations": {
+      "zh": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+      "en": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "remotion",
+    "useCase": "Author uses Claude Opus 5.5 within Claude Code to write code and render a dynamic 15-second motion graphics resume showreel video via Remotion.",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached 15-second video demonstrates a high-tempo synchronized motion design showreel with on-screen text 'CLAUDE MOTION REEL 2026', 'EVERY FRAME ON PURPOSE', and ending with 'Claude. MOTION DESIGNER 900 FRAMES . 60 FPS . 128 BPM'."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
