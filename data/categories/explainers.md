@@ -59,22 +59,34 @@
 <sub><a href="https://x.com/emollick/status/2103688362960019567">Original post ↗</a> · <a href="../../prompts/2103688362960019567.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2103667481139441895.md"><img src="../gifs/2103667481139441895.gif" alt="Replica Symmetry Breaking Whiteboard Animation" width="256" height="144" /></a><br>
+<sub>Prompt 1: &quot;Do a quick<br>hand-drawn whiteboard...</sub><br>
+<sub><a href="https://x.com/tak3sh8/status/2103667481139441895">Original post ↗</a> · <a href="../../prompts/2103667481139441895.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2103652674336067876.md"><img src="../gifs/2103652674336067876.gif" alt="AI History Video Prompt" width="256" height="144" /></a><br>
 <sub>make a video highlighting key<br>moments in the history of AI.</sub><br>
 <sub><a href="https://x.com/kloss_xyz/status/2103652674336067876">Original post ↗</a> · <a href="../../prompts/2103652674336067876.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2103629247751618782.md"><img src="../gifs/2103629247751618782.gif" alt="Photon Journey Explainer Animation" width="256" height="144" /></a><br>
+<sub>I want you to make a 60-second,<br>fully animated explainer...</sub><br>
+<sub><a href="https://x.com/AstroTheWizard/status/2103629247751618782">Original post ↗</a> · <a href="../../prompts/2103629247751618782.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2103603025579331584.md"><img src="../gifs/2103603025579331584.gif" alt="PayBox Logo Motion Design Reel" width="256" height="144" /></a><br>
 <sub>Make this PayBox logo into a<br>reel. Pretend you are a...</sub><br>
 <sub><a href="https://x.com/0xValure/status/2103603025579331584">Original post ↗</a> · <a href="../../prompts/2103603025579331584.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103499977632997524.md"><img src="../gifs/2103499977632997524.gif" alt="Animated Explainer Motion Designer Prompt" width="256" height="144" /></a><br>
 <sub>Adopt the role of an expert<br>motion designer. Build a...</sub><br>
 <sub><a href="https://x.com/alex_prompter/status/2103499977632997524">Original post ↗</a> · <a href="../../prompts/2103499977632997524.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103483957266268381.md"><img src="../gifs/2103483957266268381.gif" alt="Code-Based Product Motion Design Prompt" width="256" height="144" /></a><br>
 <sub>&lt;inputs&gt; Ask me for: • my<br>product + URL • 8–12 UI...</sub><br>
@@ -85,13 +97,11 @@
 <sub>Build a looping &quot;infinite zoom&quot;<br>animation, After Effects...</sub><br>
 <sub><a href="https://x.com/koldo2k/status/2103129343253778767">Original post ↗</a> · <a href="../../prompts/2103129343253778767.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103128559174971663.md"><img src="../gifs/2103128559174971663.gif" alt="Manim Derivative Concept Educational Video Prompt" width="256" height="144" /></a><br>
 <sub>Please make a video for<br>learning the concept of...</sub><br>
 <sub><a href="https://x.com/LinearUncle/status/2103128559174971663">Original post ↗</a> · <a href="../../prompts/2103128559174971663.md">Prompt ↗</a></sub>
-</td><td></td><td></td>
+</td>
 </tr>
 </table>
 
