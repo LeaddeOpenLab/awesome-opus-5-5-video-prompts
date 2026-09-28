@@ -37,10 +37,22 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="../../prompts/2104421343429312968.md"><img src="../gifs/2104421343429312968.gif" alt="Interactive Explodable Twin-Turbo V12 Engine Explainer" width="256" height="144" /></a><br>
+<sub>an explodable interactive<br>twin-turbo V12 engine</sub><br>
+<sub><a href="https://x.com/ImperiumMentisX/status/2104421343429312968">Original post ↗</a> · <a href="../../prompts/2104421343429312968.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2104420680142082118.md"><img src="../gifs/2104420680142082118.gif" alt="Code-Rendered Generative Music Video for I'm Upping My P(doom)" width="256" height="144" /></a><br>
 <sub>A code-rendered generative<br>music video project,...</sub><br>
 <sub><a href="https://x.com/weiwei2018831/status/2104420680142082118">Original post ↗</a> · <a href="../../prompts/2104420680142082118.md">Prompt ↗</a></sub>
 </td>
+<td width="33%" valign="top">
+<a href="../../prompts/2104407040135164032.md"><img src="../gifs/2104407040135164032.gif" alt="Escola de Massinha 3D Game with Claude Opus 5.5" width="256" height="144" /></a><br>
+<sub>I created a game with Opus 5.5<br>made entirely out of...</sub><br>
+<sub><a href="https://x.com/tiagochilanti/status/2104407040135164032">Original post ↗</a> · <a href="../../prompts/2104407040135164032.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104406088862810533.md"><img src="../gifs/2104406088862810533.gif" alt="Interactive 3D Flight Simulator Game" width="256" height="144" /></a><br>
 <sub>Write a flight simulator<br>&nbsp;</sub><br>
@@ -51,13 +63,11 @@
 <sub>create the glitter sticker<br>effect</sub><br>
 <sub><a href="https://x.com/ann_nnng/status/2104159923886244176">Original post ↗</a> · <a href="../../prompts/2104159923886244176.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104094723887501736.md"><img src="../gifs/2104094723887501736.gif" alt="Interactive 3D Raptor 3 Rocket Engine WebGL Model" width="256" height="144" /></a><br>
 <sub>explain how a rocket engine<br>works by building an...</sub><br>
 <sub><a href="https://x.com/konstantinsaifo/status/2104094723887501736">Original post ↗</a> · <a href="../../prompts/2104094723887501736.md">Prompt ↗</a></sub>
-</td><td></td><td></td>
+</td>
 </tr>
 </table>
 

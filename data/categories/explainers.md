@@ -57,7 +57,12 @@
 <a href="../../prompts/2103129343253778767.md"><img src="../gifs/2103129343253778767.gif" alt="Infinite Zoom Vintage Collage Animation Prompt" width="256" height="144" /></a><br>
 <sub>Build a looping &quot;infinite zoom&quot;<br>animation, After Effects...</sub><br>
 <sub><a href="https://x.com/koldo2k/status/2103129343253778767">Original post ↗</a> · <a href="../../prompts/2103129343253778767.md">Prompt ↗</a></sub>
-</td><td></td><td></td>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103128559174971663.md"><img src="../gifs/2103128559174971663.gif" alt="Manim Derivative Concept Educational Video Prompt" width="256" height="144" /></a><br>
+<sub>Please make a video for<br>learning the concept of...</sub><br>
+<sub><a href="https://x.com/LinearUncle/status/2103128559174971663">Original post ↗</a> · <a href="../../prompts/2103128559174971663.md">Prompt ↗</a></sub>
+</td><td></td>
 </tr>
 </table>
 
