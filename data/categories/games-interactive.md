@@ -57,7 +57,17 @@
 <a href="../../prompts/2104094723887501736.md"><img src="../gifs/2104094723887501736.gif" alt="Interactive 3D Raptor 3 Rocket Engine WebGL Model" width="256" height="144" /></a><br>
 <sub>explain how a rocket engine<br>works by building an...</sub><br>
 <sub><a href="https://x.com/konstantinsaifo/status/2104094723887501736">Original post ↗</a> · <a href="../../prompts/2104094723887501736.md">Prompt ↗</a></sub>
-</td><td></td><td></td>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103804606794879327.md"><img src="../gifs/2103804606794879327.gif" alt="3D Star Wars Multiplayer Game Prompt" width="256" height="144" /></a><br>
+<sub>A 3D multiplayer game where the<br>players are a squad of...</sub><br>
+<sub><a href="https://x.com/0xChuckstock/status/2103804606794879327">Original post ↗</a> · <a href="../../prompts/2103804606794879327.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2102919394775220530.md"><img src="../gifs/2102919394775220530.gif" alt="90s-Style Demoscene Demo Prompt" width="256" height="144" /></a><br>
+<sub>I would like you to create a<br>kickass, impressive 1990s...</sub><br>
+<sub><a href="https://x.com/gandamu_ml/status/2102919394775220530">Original post ↗</a> · <a href="../../prompts/2102919394775220530.md">Prompt ↗</a></sub>
+</td>
 </tr>
 </table>
 

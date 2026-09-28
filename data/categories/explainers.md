@@ -30,10 +30,34 @@
 <sub><a href="https://x.com/deedydas/status/2104391577091407965">Original post ↗</a> · <a href="../../prompts/2104391577091407965.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2103800569584562538.md"><img src="../gifs/2103800569584562538.gif" alt="Distilbook Motion Graphics Showreel Prompt" width="256" height="144" /></a><br>
+<sub>Make a dynamic 40-second motion<br>graphics video on Distilbook...</sub><br>
+<sub><a href="https://x.com/ajith_io/status/2103800569584562538">Original post ↗</a> · <a href="../../prompts/2103800569584562538.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="../../prompts/2103761658745335993.md"><img src="../gifs/2103761658745335993.gif" alt="DistilBook Motion Graphics Product Explainer Demo" width="256" height="144" /></a><br>
 <sub>create best motion graphics<br>explainer of the (your...</sub><br>
 <sub><a href="https://x.com/sudo_kiran/status/2103761658745335993">Original post ↗</a> · <a href="../../prompts/2103761658745335993.md">Prompt ↗</a></sub>
 </td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103603025579331584.md"><img src="../gifs/2103603025579331584.gif" alt="PayBox Logo Motion Design Reel" width="256" height="144" /></a><br>
+<sub>Make this PayBox logo into a<br>reel. Pretend you are a...</sub><br>
+<sub><a href="https://x.com/0xValure/status/2103603025579331584">Original post ↗</a> · <a href="../../prompts/2103603025579331584.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103483957266268381.md"><img src="../gifs/2103483957266268381.gif" alt="Code-Based Product Motion Design Prompt" width="256" height="144" /></a><br>
+<sub>&lt;inputs&gt; Ask me for: • my<br>product + URL • 8–12 UI...</sub><br>
+<sub><a href="https://x.com/verbove/status/2103483957266268381">Original post ↗</a> · <a href="../../prompts/2103483957266268381.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2103129343253778767.md"><img src="../gifs/2103129343253778767.gif" alt="Infinite Zoom Vintage Collage Animation Prompt" width="256" height="144" /></a><br>
+<sub>Build a looping &quot;infinite zoom&quot;<br>animation, After Effects...</sub><br>
+<sub><a href="https://x.com/koldo2k/status/2103129343253778767">Original post ↗</a> · <a href="../../prompts/2103129343253778767.md">Prompt ↗</a></sub>
+</td><td></td><td></td>
 </tr>
 </table>
 

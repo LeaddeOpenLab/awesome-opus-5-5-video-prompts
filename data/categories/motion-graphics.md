@@ -103,6 +103,52 @@
 <sub><a href="https://x.com/zakisbuilding/status/2104389736647495680">Original post ↗</a> · <a href="../../prompts/2104389736647495680.md">Prompt ↗</a></sub>
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2103837917538107563.md"><img src="../gifs/2103837917538107563.gif" alt="Opus Motion Graphics Prompt" width="256" height="144" /></a><br>
+<sub>Make a dynamic 15-second motion<br>graphics video that shows...</sub><br>
+<sub><a href="https://x.com/Ishaaqahamed/status/2103837917538107563">Original post ↗</a> · <a href="../../prompts/2103837917538107563.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103837803587293397.md"><img src="../gifs/2103837803587293397.gif" alt="Portfolio Motion Design Video Prompt" width="256" height="144" /></a><br>
+<sub>you are a pro motion designer.<br>analyze my portfolio and...</sub><br>
+<sub><a href="https://x.com/heyiammallik/status/2103837803587293397">Original post ↗</a> · <a href="../../prompts/2103837803587293397.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103794962257084755.md"><img src="../gifs/2103794962257084755.gif" alt="Motion Graphics Showreel Video" width="256" height="144" /></a><br>
+<sub>make a dynamic 15-second motion<br>graphics video that shows...</sub><br>
+<sub><a href="https://x.com/ayushunleashed/status/2103794962257084755">Original post ↗</a> · <a href="../../prompts/2103794962257084755.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2103728953785496049.md"><img src="../gifs/2103728953785496049.gif" alt="Dynamic Motion Graphics Video Prompt" width="256" height="144" /></a><br>
+<sub>make a dynamic 15 second motion<br>graphics video that shows...</sub><br>
+<sub><a href="https://x.com/prasad_pilla/status/2103728953785496049">Original post ↗</a> · <a href="../../prompts/2103728953785496049.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103723183899852885.md"><img src="../gifs/2103723183899852885.gif" alt="Dynamic Motion Graphics Video Prompt" width="256" height="144" /></a><br>
+<sub>Make a dynamic 15-second motion<br>graphics video that shows...</sub><br>
+<sub><a href="https://x.com/ann_nnng/status/2103723183899852885">Original post ↗</a> · <a href="../../prompts/2103723183899852885.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103656229717328129.md"><img src="../gifs/2103656229717328129.gif" alt="Motion Graphics Showreel Prompt" width="256" height="144" /></a><br>
+<sub>make a dynamic 15-second motion<br>graphics video that shows...</sub><br>
+<sub><a href="https://x.com/codeSTACKr/status/2103656229717328129">Original post ↗</a> · <a href="../../prompts/2103656229717328129.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2103541149709615243.md"><img src="../gifs/2103541149709615243.gif" alt="Distilbook Motion Graphics Video Prompt" width="256" height="144" /></a><br>
+<sub>Take reference from the given<br>video (download it) and use...</sub><br>
+<sub><a href="https://x.com/ajith_io/status/2103541149709615243">Original post ↗</a> · <a href="../../prompts/2103541149709615243.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103124033365762215.md"><img src="../gifs/2103124033365762215.gif" alt="Four Seasons Train Window Animation" width="256" height="144" /></a><br>
+<sub>4 seasons passing outside a<br>train window, a cozy...</sub><br>
+<sub><a href="https://x.com/itsolelehmann/status/2103124033365762215">Original post ↗</a> · <a href="../../prompts/2103124033365762215.md">Prompt ↗</a></sub>
+</td><td></td>
+</tr>
 </table>
 
 [Back to gallery](../../README.md)

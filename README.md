@@ -8,10 +8,10 @@ Updated continuously · Original creator links included · [Explore Leadde](http
 
 ## Contents
 
-- [Motion graphics](#motion-graphics) (18)
-- [Explainers](#explainers) (6)
-- [3D scenes](#3d-scenes) (2)
-- [Games & interactive](#games-interactive) (10)
+- [Motion graphics](#motion-graphics) (26)
+- [Explainers](#explainers) (10)
+- [3D scenes](#3d-scenes) (4)
+- [Games & interactive](#games-interactive) (12)
 - [How to use a prompt](#how-to-use)
 - [Credits](#credits)
 - [More creator sources](data/docs/DISCOVERY.md)
@@ -123,6 +123,52 @@ Updated continuously · Original creator links included · [Explore Leadde](http
 <sub><a href="https://x.com/zakisbuilding/status/2104389736647495680">Original post ↗</a> · <a href="prompts/2104389736647495680.md">Prompt ↗</a></sub>
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+<a href="prompts/2103837917538107563.md"><img src="data/gifs/2103837917538107563.gif" alt="Opus Motion Graphics Prompt" width="256" height="144" /></a><br>
+<sub>Make a dynamic 15-second motion<br>graphics video that shows...</sub><br>
+<sub><a href="https://x.com/Ishaaqahamed/status/2103837917538107563">Original post ↗</a> · <a href="prompts/2103837917538107563.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103837803587293397.md"><img src="data/gifs/2103837803587293397.gif" alt="Portfolio Motion Design Video Prompt" width="256" height="144" /></a><br>
+<sub>you are a pro motion designer.<br>analyze my portfolio and...</sub><br>
+<sub><a href="https://x.com/heyiammallik/status/2103837803587293397">Original post ↗</a> · <a href="prompts/2103837803587293397.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103794962257084755.md"><img src="data/gifs/2103794962257084755.gif" alt="Motion Graphics Showreel Video" width="256" height="144" /></a><br>
+<sub>make a dynamic 15-second motion<br>graphics video that shows...</sub><br>
+<sub><a href="https://x.com/ayushunleashed/status/2103794962257084755">Original post ↗</a> · <a href="prompts/2103794962257084755.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="prompts/2103728953785496049.md"><img src="data/gifs/2103728953785496049.gif" alt="Dynamic Motion Graphics Video Prompt" width="256" height="144" /></a><br>
+<sub>make a dynamic 15 second motion<br>graphics video that shows...</sub><br>
+<sub><a href="https://x.com/prasad_pilla/status/2103728953785496049">Original post ↗</a> · <a href="prompts/2103728953785496049.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103723183899852885.md"><img src="data/gifs/2103723183899852885.gif" alt="Dynamic Motion Graphics Video Prompt" width="256" height="144" /></a><br>
+<sub>Make a dynamic 15-second motion<br>graphics video that shows...</sub><br>
+<sub><a href="https://x.com/ann_nnng/status/2103723183899852885">Original post ↗</a> · <a href="prompts/2103723183899852885.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103656229717328129.md"><img src="data/gifs/2103656229717328129.gif" alt="Motion Graphics Showreel Prompt" width="256" height="144" /></a><br>
+<sub>make a dynamic 15-second motion<br>graphics video that shows...</sub><br>
+<sub><a href="https://x.com/codeSTACKr/status/2103656229717328129">Original post ↗</a> · <a href="prompts/2103656229717328129.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="prompts/2103541149709615243.md"><img src="data/gifs/2103541149709615243.gif" alt="Distilbook Motion Graphics Video Prompt" width="256" height="144" /></a><br>
+<sub>Take reference from the given<br>video (download it) and use...</sub><br>
+<sub><a href="https://x.com/ajith_io/status/2103541149709615243">Original post ↗</a> · <a href="prompts/2103541149709615243.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103124033365762215.md"><img src="data/gifs/2103124033365762215.gif" alt="Four Seasons Train Window Animation" width="256" height="144" /></a><br>
+<sub>4 seasons passing outside a<br>train window, a cozy...</sub><br>
+<sub><a href="https://x.com/itsolelehmann/status/2103124033365762215">Original post ↗</a> · <a href="prompts/2103124033365762215.md">Prompt ↗</a></sub>
+</td><td></td>
+</tr>
 </table>
 
 ## Explainers
@@ -159,10 +205,34 @@ Updated continuously · Original creator links included · [Explore Leadde](http
 <sub><a href="https://x.com/deedydas/status/2104391577091407965">Original post ↗</a> · <a href="prompts/2104391577091407965.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="prompts/2103800569584562538.md"><img src="data/gifs/2103800569584562538.gif" alt="Distilbook Motion Graphics Showreel Prompt" width="256" height="144" /></a><br>
+<sub>Make a dynamic 40-second motion<br>graphics video on Distilbook...</sub><br>
+<sub><a href="https://x.com/ajith_io/status/2103800569584562538">Original post ↗</a> · <a href="prompts/2103800569584562538.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="prompts/2103761658745335993.md"><img src="data/gifs/2103761658745335993.gif" alt="DistilBook Motion Graphics Product Explainer Demo" width="256" height="144" /></a><br>
 <sub>create best motion graphics<br>explainer of the (your...</sub><br>
 <sub><a href="https://x.com/sudo_kiran/status/2103761658745335993">Original post ↗</a> · <a href="prompts/2103761658745335993.md">Prompt ↗</a></sub>
 </td>
+<td width="33%" valign="top">
+<a href="prompts/2103603025579331584.md"><img src="data/gifs/2103603025579331584.gif" alt="PayBox Logo Motion Design Reel" width="256" height="144" /></a><br>
+<sub>Make this PayBox logo into a<br>reel. Pretend you are a...</sub><br>
+<sub><a href="https://x.com/0xValure/status/2103603025579331584">Original post ↗</a> · <a href="prompts/2103603025579331584.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103483957266268381.md"><img src="data/gifs/2103483957266268381.gif" alt="Code-Based Product Motion Design Prompt" width="256" height="144" /></a><br>
+<sub>&lt;inputs&gt; Ask me for: • my<br>product + URL • 8–12 UI...</sub><br>
+<sub><a href="https://x.com/verbove/status/2103483957266268381">Original post ↗</a> · <a href="prompts/2103483957266268381.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="prompts/2103129343253778767.md"><img src="data/gifs/2103129343253778767.gif" alt="Infinite Zoom Vintage Collage Animation Prompt" width="256" height="144" /></a><br>
+<sub>Build a looping &quot;infinite zoom&quot;<br>animation, After Effects...</sub><br>
+<sub><a href="https://x.com/koldo2k/status/2103129343253778767">Original post ↗</a> · <a href="prompts/2103129343253778767.md">Prompt ↗</a></sub>
+</td><td></td><td></td>
 </tr>
 </table>
 
@@ -181,7 +251,19 @@ Updated continuously · Original creator links included · [Explore Leadde](http
 <a href="prompts/2104410894167916709.md"><img src="data/gifs/2104410894167916709.gif" alt="Toyota Prius 2027 3D Disassembly and Animation in Blender" width="256" height="144" /></a><br>
 <sub>Preview of the 3D modeling of a<br>2027 Toyota Prius 🇲🇽: it d...</sub><br>
 <sub><a href="https://x.com/abxda/status/2104410894167916709">Original post ↗</a> · <a href="prompts/2104410894167916709.md">Prompt ↗</a></sub>
-</td><td></td>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103846630088716687.md"><img src="data/gifs/2103846630088716687.gif" alt="Motion Design Showcase Animation Prompt" width="256" height="144" /></a><br>
+<sub>“I’m curious to see how<br>strong you are as a motion...</sub><br>
+<sub><a href="https://x.com/Dannnnnok/status/2103846630088716687">Original post ↗</a> · <a href="prompts/2103846630088716687.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="prompts/2102554209166000267.md"><img src="data/gifs/2102554209166000267.gif" alt="Code-Driven Motion Design Video Prompt" width="256" height="144" /></a><br>
+<sub>&lt;inputs&gt; Ask me for: the<br>product name and a one-line...</sub><br>
+<sub><a href="https://x.com/twoclipping/status/2102554209166000267">Original post ↗</a> · <a href="prompts/2102554209166000267.md">Prompt ↗</a></sub>
+</td><td></td><td></td>
 </tr>
 </table>
 
@@ -246,7 +328,17 @@ Updated continuously · Original creator links included · [Explore Leadde](http
 <a href="prompts/2104094723887501736.md"><img src="data/gifs/2104094723887501736.gif" alt="Interactive 3D Raptor 3 Rocket Engine WebGL Model" width="256" height="144" /></a><br>
 <sub>explain how a rocket engine<br>works by building an...</sub><br>
 <sub><a href="https://x.com/konstantinsaifo/status/2104094723887501736">Original post ↗</a> · <a href="prompts/2104094723887501736.md">Prompt ↗</a></sub>
-</td><td></td><td></td>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103804606794879327.md"><img src="data/gifs/2103804606794879327.gif" alt="3D Star Wars Multiplayer Game Prompt" width="256" height="144" /></a><br>
+<sub>A 3D multiplayer game where the<br>players are a squad of...</sub><br>
+<sub><a href="https://x.com/0xChuckstock/status/2103804606794879327">Original post ↗</a> · <a href="prompts/2103804606794879327.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2102919394775220530.md"><img src="data/gifs/2102919394775220530.gif" alt="90s-Style Demoscene Demo Prompt" width="256" height="144" /></a><br>
+<sub>I would like you to create a<br>kickass, impressive 1990s...</sub><br>
+<sub><a href="https://x.com/gandamu_ml/status/2102919394775220530">Original post ↗</a> · <a href="prompts/2102919394775220530.md">Prompt ↗</a></sub>
+</td>
 </tr>
 </table>
 
