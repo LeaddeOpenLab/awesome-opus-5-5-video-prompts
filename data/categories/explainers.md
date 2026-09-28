@@ -3,14 +3,31 @@
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="../../prompts/2104542961081983435.md"><img src="../gifs/2104542961081983435.gif" alt="Educational Motion-Graphics on Recursive AI Agent Limitations" width="256" height="144" /></a><br>
+<sub>Hey Opus 5.5. Create a 90–120<br>second educational...</sub><br>
+<sub><a href="https://x.com/M_Adrian2/status/2104542961081983435">Original post ↗</a> · <a href="../../prompts/2104542961081983435.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2104468704490909880.md"><img src="../gifs/2104468704490909880.gif" alt="Opus 5.5 Hand-Drawn P(Doom) Educational Video" width="256" height="144" /></a><br>
 <sub>Please create a 15-second<br>hand-drawn style video...</sub><br>
 <sub><a href="https://x.com/itnavi2022/status/2104468704490909880">Original post ↗</a> · <a href="../../prompts/2104468704490909880.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2104525804604645802.md"><img src="../gifs/2104525804604645802.gif" alt="History of Internet Money Code Animation" width="256" height="144" /></a><br>
+<sub>a video on the history of<br>internet money</sub><br>
+<sub><a href="https://x.com/cryptocatguru/status/2104525804604645802">Original post ↗</a> · <a href="../../prompts/2104525804604645802.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="../../prompts/2104519528873103773.md"><img src="../gifs/2104519528873103773.gif" alt="Opus 5.5 制作《星际穿越里的真物理》黑洞篇动效科普视频" width="256" height="144" /></a><br>
 <sub>The Real Physics of<br>Interstellar: The Black Hole...</sub><br>
 <sub><a href="https://x.com/AndyL5cc/status/2104519528873103773">Original post ↗</a> · <a href="../../prompts/2104519528873103773.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2104506459530866869.md"><img src="../gifs/2104506459530866869.gif" alt="History of Machine Communications Motion Graphic Video" width="256" height="144" /></a><br>
+<sub>make a 90-second video about<br>the history of technology</sub><br>
+<sub><a href="https://x.com/egemntoprak/status/2104506459530866869">Original post ↗</a> · <a href="../../prompts/2104506459530866869.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2104490962139385936.md"><img src="../gifs/2104490962139385936.gif" alt="Opus 5.5 Product Explainer Video Generation" width="256" height="144" /></a><br>
