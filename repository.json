@@ -1,0 +1,36 @@
+{
+  "model": "opus5.5",
+  "name": "Claude Opus 5.5",
+  "slug": "awesome-opus-5-5-video-prompts",
+  "oldSlug": "awesome-prompts-opus5.5",
+  "description": "Claude Opus 5.5 agent instructions for video, animation and interactive scenes, with explicit tool roles and actual rendering sources.",
+  "topics": [
+    "claude",
+    "opus-5-5",
+    "ai-agents",
+    "remotion",
+    "manim",
+    "animation",
+    "prompts"
+  ],
+  "categories": [
+    "canvas-interactive",
+    "manim",
+    "remotion",
+    "blender",
+    "external-video-model",
+    "other-animation"
+  ],
+  "searches": [
+    "opus 5.5 video prompts",
+    "claude animation prompts",
+    "claude remotion",
+    "claude manim",
+    "opus blender",
+    "claude motion graphics"
+  ],
+  "source": "https://www.anthropic.com/claude-opus-5-5",
+  "canonicalUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts",
+  "verifiedCases": 0,
+  "pendingCases": 0
+}
