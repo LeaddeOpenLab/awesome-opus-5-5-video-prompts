@@ -836,6 +836,91 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="../../prompts/2103411004902416787.md"><img src="../gifs/2103411004902416787.gif" alt="Product Promo Video Prompt" width="256" height="144" /></a><br>
+<sub>make a 1-min promo for this<br>product from the codebase.</sub><br>
+<sub><a href="https://x.com/Ai_Baymax/status/2103411004902416787">Original post ↗</a> · <a href="../../prompts/2103411004902416787.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103404901451829311.md"><img src="../gifs/2103404901451829311.gif" alt="Motion Designer Showreel Prompt" width="256" height="144" /></a><br>
+<sub>You are applying as a motion<br>designer in my agency. Make...</sub><br>
+<sub><a href="https://x.com/hanifproduktif/status/2103404901451829311">Original post ↗</a> · <a href="../../prompts/2103404901451829311.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103401461837406275.md"><img src="../gifs/2103401461837406275.gif" alt="Oscilloscope Style Motion Graphic" width="256" height="144" /></a><br>
+<sub>Make Motiongraphic about my<br>studio with Oscilloscope...</sub><br>
+<sub><a href="https://x.com/rneayan/status/2103401461837406275">Original post ↗</a> · <a href="../../prompts/2103401461837406275.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2103401006281441493.md"><img src="../gifs/2103401006281441493.gif" alt="Risograph Studio Video Prompt" width="256" height="144" /></a><br>
+<sub>make about my studio with<br>Risograph style</sub><br>
+<sub><a href="https://x.com/rneayan/status/2103401006281441493">Original post ↗</a> · <a href="../../prompts/2103401006281441493.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103400046922543147.md"><img src="../gifs/2103400046922543147.gif" alt="Chuseok Pixel Animation" width="256" height="144" /></a><br>
+<sub>Search for elements that fit<br>Korean Chuseok, compose a...</sub><br>
+<sub><a href="https://x.com/hoyoyoda/status/2103400046922543147">Original post ↗</a> · <a href="../../prompts/2103400046922543147.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103395846578676116.md"><img src="../gifs/2103395846578676116.gif" alt="Motion Graphics Resume Showreel" width="256" height="144" /></a><br>
+<sub>Make a dynamic 15 second motion<br>graphics video that shows...</sub><br>
+<sub><a href="https://x.com/rendesr/status/2103395846578676116">Original post ↗</a> · <a href="../../prompts/2103395846578676116.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2103387771180138551.md"><img src="../gifs/2103387771180138551.gif" alt="Mind-Blowing 4-Minute Animated Short Prompt" width="256" height="144" /></a><br>
+<sub>make a 4-minute animated short<br>that blows my mind.</sub><br>
+<sub><a href="https://x.com/faroukzy/status/2103387771180138551">Original post ↗</a> · <a href="../../prompts/2103387771180138551.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103336310089842921.md"><img src="../gifs/2103336310089842921.gif" alt="Peter Gabriel Style Music Video Prompt" width="256" height="144" /></a><br>
+<sub>Create a 60 second music video<br>in the style of Peter...</sub><br>
+<sub><a href="https://x.com/DavidShulmanFL/status/2103336310089842921">Original post ↗</a> · <a href="../../prompts/2103336310089842921.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103292636945846347.md"><img src="../gifs/2103292636945846347.gif" alt="Flora App Promo Video Prompt" width="256" height="144" /></a><br>
+<sub>Inside the flora folder there<br>is another folder called...</sub><br>
+<sub><a href="https://x.com/andre_lucaxxs/status/2103292636945846347">Original post ↗</a> · <a href="../../prompts/2103292636945846347.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2103275618045686217.md"><img src="../gifs/2103275618045686217.gif" alt="Lightspark Promo Video Prompt" width="256" height="144" /></a><br>
+<sub>make a punchy and modern short<br>video for social that...</sub><br>
+<sub><a href="https://x.com/davidmarcus/status/2103275618045686217">Original post ↗</a> · <a href="../../prompts/2103275618045686217.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103272941832306746.md"><img src="../gifs/2103272941832306746.gif" alt="Brainrot Video About the Terminal" width="256" height="144" /></a><br>
+<sub>make a brainrot video about the<br>terminal. i can't escape it....</sub><br>
+<sub><a href="https://x.com/supremebeme/status/2103272941832306746">Original post ↗</a> · <a href="../../prompts/2103272941832306746.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103258346690121886.md"><img src="../gifs/2103258346690121886.gif" alt="Opus 5.5 Demo Video Prompt" width="256" height="144" /></a><br>
+<sub>make the most impressive demo<br>video for (company name)</sub><br>
+<sub><a href="https://x.com/vahidf24/status/2103258346690121886">Original post ↗</a> · <a href="../../prompts/2103258346690121886.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2103247844542922825.md"><img src="../gifs/2103247844542922825.gif" alt="Anime Trailer Battle: Claude vs ChatGPT" width="256" height="144" /></a><br>
+<sub>I want to create a<br>highly-detailed video...</sub><br>
+<sub><a href="https://x.com/ishuagra02/status/2103247844542922825">Original post ↗</a> · <a href="../../prompts/2103247844542922825.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103237884564414633.md"><img src="../gifs/2103237884564414633.gif" alt="NotchBrowser Teaser Video Prompt" width="256" height="144" /></a><br>
+<sub>Using HyperFrames, make a hype<br>teaser for the product in...</sub><br>
+<sub><a href="https://x.com/jake11moran/status/2103237884564414633">Original post ↗</a> · <a href="../../prompts/2103237884564414633.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103232192847524106.md"><img src="../gifs/2103232192847524106.gif" alt="JavaScript Samurai Routine" width="256" height="144" /></a><br>
+<sub>make a samurai dude in only<br>javascript and have him...</sub><br>
+<sub><a href="https://x.com/chrisjdimarco/status/2103232192847524106">Original post ↗</a> · <a href="../../prompts/2103232192847524106.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="../../prompts/2103144778481475686.md"><img src="../gifs/2103144778481475686.gif" alt="Punchy Talking-Head Video Edit" width="256" height="144" /></a><br>
 <sub>Cut a raw talking-head clip<br>into a punchy, fun edit with...</sub><br>
 <sub><a href="https://x.com/sab8a/status/2103144778481475686">Original post ↗</a> · <a href="../../prompts/2103144778481475686.md">Prompt ↗</a></sub>

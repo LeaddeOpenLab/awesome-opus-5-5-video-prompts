@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T08:32:22.585Z",
+  "model": "opus5.5",
+  "prompt": "Inside the flora folder there is another folder called \"ads\" with videos and screenshots of Flora (in case you want to use them as reference).\n\nUse only: JavaScript, Playwright, and FFmpeg. Make a modern, elegant, and impactful video for my product.",
+  "promptTranslations": {
+    "en": "Inside the flora folder there is another folder called \"ads\" with videos and screenshots of Flora (in case you want to use them as reference).\n\nUse only: JavaScript, Playwright, and FFmpeg. Make a modern, elegant, and impactful video for my product."
+  },
+  "summary": "A prompt given to Opus 5.5 instructing it to generate a modern and impactful promotional video for the Flora app using JavaScript, Playwright, and FFmpeg from a designated folder of assets.",
+  "summaryEn": "Flora App Promo Video Prompt",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2103292636945846347",
+    "canonicalUrl": "https://x.com/andre_lucaxxs/status/2103292636945846347",
+    "author": {
+      "username": "andre_lucaxxs",
+      "displayName": "André Lucas",
+      "profileUrl": "https://x.com/andre_lucaxxs"
+    },
+    "publishedAt": "2026-09-25T01:16:56.000Z",
+    "collectedAt": "2026-09-28T08:28:52.555Z",
+    "language": "pt",
+    "originalText": "Mandei o Opus 5.5 fazer um video do Flora passando só uns videos e umas fotos que deixei em uma pasta pra ele acessar e esse foi o resultado.\n\nVou deixar o prompt no comentário. https://t.co/Mfzx9R2P9U",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/andre_lucaxxs/status/2103292636945846347",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103292188750721024/img/jJynREvVBvcgCKjg.jpg",
+        "analysisUrl": "https://x.com/andre_lucaxxs/status/2103292636945846347"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 1064
+    },
+    "matchedRuleIds": [
+      "group:opus:source-index"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/andre_lucaxxs/status/2103292640645329213",
+        "text": "Prompt:\n\nDentro da pasta do flora tem uma outra pasta chamada \"ads\" com videos e prints do Flora(Caso queira usar como referencia).\n\nUse apenas: JavaScript, Playwright e FFmpeg. Faça um vídeo moderno, elegante e impactante para meu produto.\n\nhttps://t.co/B2fNFAelxQ",
+        "author": "andre_lucaxxs"
+      },
+      {
+        "url": "https://x.com/andre_lucaxxs/status/2103292636945846347",
+        "text": "André Lucas on X: \"Mandei o Opus 5.5 fazer um video do Flora passando só uns videos e umas fotos que deixei em uma pasta pra ele acessar e esse foi o resultado.\n\nVou deixar o prompt no comentário.\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nAndré Lucas on X: \"Mandei o Opus 5.5 fazer um video do Flora passando só uns videos e umas fotos que deixei em uma pasta pra ele acessar e esse foi o resultado.\n\nVou deixar o prompt no comentário.\"\n\n\n\nAndré Lucas\n\n@andre_lucaxxs\n\n\n\n\nShow translation\nMandei o Opus 5.5 fazer um video do Flora passando só uns videos e umas fotos que deixei em uma pasta pra ele acessar e esse foi o resultado.\n\nVou deixar o prompt no comentário.\n\n\n00:00\n\n\n\n\n\n\n\n\n1:16 AM · Sep 25, 2026·1,064\nViews\n\n\n\n1\n\n6\n10\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nAndré Lucas@andre_lucaxxsFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\nAndré Lucas\n\n@andre_lucaxxs\n\n\n\n\nShow translation\nMandei o Opus 5.5 fazer um video do Flora passando só uns videos e umas fotos que deixei em uma pasta pra ele acessar e esse foi o resultado.\n\nVou deixar o prompt no comentário.\n\n\n00:00\n\n\n\n\n\n\n\n\n1:16 AM · Sep 25, 2026·1,064\nViews\n\n\n\n1\n\n6\n10\n\n\n\n\n\n\n\n\n\nAndré Lucas\n\n@andre_lucaxxs\nSep 25\n\n\nPrompt:\n\nDentro da pasta do flora tem uma outra pasta chamada \"ads\" com videos e prints do Flora(Caso queira usar como referencia).\n\nUse apenas: JavaScript, Playwright e FFmpeg. Faça um vídeo moderno, elegante e impactante para meu produto.\n\napps.apple.com/pt/app/flora-c…\n\n\n\n\n\n1\n101\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "andre_lucaxxs"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/B2fNFAelxQ"
+    ]
+  },
+  "xUrl": "https://x.com/andre_lucaxxs/status/2103292636945846347",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2103292188750721024/img/jJynREvVBvcgCKjg.jpg",
+  "coverPath": "data/covers/2103292636945846347-wide.jpg",
+  "gifPath": "data/gifs/2103292636945846347.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2103292188750721024",
+    "x-post:2103292636945846347"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Flora App Promo Video Prompt",
+      "summary": "A prompt given to Opus 5.5 instructing it to generate a modern and impactful promotional video for the Flora app using JavaScript, Playwright, and FFmpeg from a designated folder of assets.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": null,
+        "platform": null,
+        "authorUseConfirmed": false,
+        "evidence": ""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Dentro da pasta do flora tem uma outra pasta chamada \"ads\" com videos e prints do Flora(Caso queira usar como referencia).\n\nUse apenas: JavaScript, Playwright e FFmpeg. Faça um vídeo moderno, elegante e impactante para meu produto.",
+        "englishText": "Inside the flora folder there is another folder called \"ads\" with videos and screenshots of Flora (in case you want to use them as reference).\n\nUse only: JavaScript, Playwright, and FFmpeg. Make a modern, elegant, and impactful video for my product.",
+        "complete": false,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": false,
+        "evidence": "Consistency check skipped for source-index import.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "targetModelRole": "",
+      "outputSource": "https://x.com/andre_lucaxxs/status/2103292636945846347",
+      "divisionEvidence": "",
+      "video": {
+        "shots": null,
+        "duration": null,
+        "aspectRatio": null,
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Source-index import; extraction only.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/andre_lucaxxs/status/2103292640645329213",
+        "start": 9,
+        "end": 240
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/andre_lucaxxs/status/2103292636945846347",
+        "author": "andre_lucaxxs",
+        "postId": "2103292636945846347",
+        "publishedAt": "2026-09-25T01:16:56.000Z"
+      },
+      "checkedAt": "2026-09-28T08:29:15.610Z",
+      "checkMethod": "text",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "consistency_check_skipped"
+        ]
+      },
+      "importMode": "source-index"
+    },
+    "summary": "A prompt given to Opus 5.5 instructing it to generate a modern and impactful promotional video for the Flora app using JavaScript, Playwright, and FFmpeg from a designated folder of assets.",
+    "summaryEn": "Flora App Promo Video Prompt",
+    "originalPrompt": "Dentro da pasta do flora tem uma outra pasta chamada \"ads\" com videos e prints do Flora(Caso queira usar como referencia).\n\nUse apenas: JavaScript, Playwright e FFmpeg. Faça um vídeo moderno, elegante e impactante para meu produto.",
+    "sourceRange": {
+      "start": 9,
+      "end": 240
+    },
+    "translations": {
+      "zh": "Dentro da pasta do flora tem uma outra pasta chamada \"ads\" com videos e prints do Flora(Caso queira usar como referencia).\n\nUse apenas: JavaScript, Playwright e FFmpeg. Faça um vídeo moderno, elegante e impactante para meu produto.",
+      "en": "Inside the flora folder there is another folder called \"ads\" with videos and screenshots of Flora (in case you want to use them as reference).\n\nUse only: JavaScript, Playwright, and FFmpeg. Make a modern, elegant, and impactful video for my product."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "A prompt given to Opus 5.5 instructing it to generate a modern and impactful promotional video for the Flora app using JavaScript, Playwright, and FFmpeg from a designated folder of assets.",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 0,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "Consistency check skipped for source-index import."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
