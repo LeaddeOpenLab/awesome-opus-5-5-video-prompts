@@ -53,6 +53,7 @@
   "xUrl": "https://x.com/anujmagazine/status/2104413797876367664",
   "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104413732021628928/img/qnnwkavtjpPr1SID.jpg",
   "coverPath": "covers/2104413797876367664-wide.jpg",
+  "gifPath": "gifs/2104413797876367664.gif",
   "imagePaths": [],
   "distribution": {
     "status": "pushed"
@@ -189,6 +190,5 @@
       "safety": [],
       "copyright": []
     }
-  },
-  "translationStatus": "complete"
+  }
 }

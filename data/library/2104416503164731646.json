@@ -60,6 +60,7 @@
   "xUrl": "https://x.com/happyanniegh3/status/2104416503164731646",
   "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104414512069902336/img/V53MiHsXhRuKzaKD.jpg",
   "coverPath": "covers/2104416503164731646-wide.jpg",
+  "gifPath": "gifs/2104416503164731646.gif",
   "imagePaths": [],
   "distribution": {
     "status": "pushed"
@@ -177,6 +178,5 @@
       "safety": [],
       "copyright": []
     }
-  },
-  "translationStatus": "complete"
+  }
 }

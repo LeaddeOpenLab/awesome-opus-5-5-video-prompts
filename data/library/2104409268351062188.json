@@ -53,6 +53,7 @@
   "xUrl": "https://x.com/cryptoninjanime/status/2104409268351062188",
   "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104408552454717440/img/pl3peQIANVNTBvmQ.jpg",
   "coverPath": "covers/2104409268351062188-wide.jpg",
+  "gifPath": "gifs/2104409268351062188.gif",
   "imagePaths": [],
   "distribution": {
     "status": "pushed"
@@ -176,6 +177,5 @@
       "safety": [],
       "copyright": []
     }
-  },
-  "translationStatus": "complete"
+  }
 }

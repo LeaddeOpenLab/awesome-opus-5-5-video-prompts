@@ -60,6 +60,7 @@
   "xUrl": "https://x.com/RAJKATAJJ/status/2104434742959755463",
   "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104433874570977280/img/HJNzGpv5zdbl-Jdp.jpg",
   "coverPath": "covers/2104434742959755463-wide.jpg",
+  "gifPath": "gifs/2104434742959755463.gif",
   "imagePaths": [],
   "distribution": {
     "status": "pushed"
@@ -179,6 +180,5 @@
       "safety": [],
       "copyright": []
     }
-  },
-  "translationStatus": "complete"
+  }
 }

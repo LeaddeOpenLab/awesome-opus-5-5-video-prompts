@@ -114,6 +114,7 @@
   "xUrl": "https://x.com/ann_nnng/status/2104159923886244176",
   "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104159876817801216/img/LkZO8nTGzwuKWWAb.jpg",
   "coverPath": "covers/2104159923886244176-wide.jpg",
+  "gifPath": "gifs/2104159923886244176.gif",
   "imagePaths": [],
   "distribution": {
     "status": "pushed"
@@ -252,6 +253,5 @@
       "safety": [],
       "copyright": []
     }
-  },
-  "translationStatus": "complete"
+  }
 }

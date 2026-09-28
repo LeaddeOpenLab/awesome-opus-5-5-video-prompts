@@ -90,6 +90,7 @@
   "xUrl": "https://x.com/mi7_crypto/status/2104403368752071059",
   "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104402135412805632/img/jsOgidfGWCeWdSJv.jpg",
   "coverPath": "covers/2104403368752071059-wide.jpg",
+  "gifPath": "gifs/2104403368752071059.gif",
   "imagePaths": [],
   "distribution": {
     "status": "pushed"
@@ -232,6 +233,5 @@
       "safety": [],
       "copyright": []
     }
-  },
-  "translationStatus": "complete"
+  }
 }

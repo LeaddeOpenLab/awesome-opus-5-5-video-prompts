@@ -60,6 +60,7 @@
   "xUrl": "https://x.com/abhi81i/status/2104419703997567302",
   "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104419528809553920/img/GoyqLKsH8a8iYhRw.jpg",
   "coverPath": "covers/2104419703997567302-wide.jpg",
+  "gifPath": "gifs/2104419703997567302.gif",
   "imagePaths": [],
   "distribution": {
     "status": "pushed"
@@ -214,6 +215,5 @@
       "safety": [],
       "copyright": []
     }
-  },
-  "translationStatus": "complete"
+  }
 }
