@@ -88,10 +88,22 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="../../prompts/2103486573476254201.md"><img src="../gifs/2103486573476254201.gif" alt="Distilbook Product Explainer Motion Graphic Prompt" width="256" height="144" /></a><br>
+<sub>make a dynamic 30-seconds<br>motion graphic video about...</sub><br>
+<sub><a href="https://x.com/sudo_kiran/status/2103486573476254201">Original post ↗</a> · <a href="../../prompts/2103486573476254201.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2103483957266268381.md"><img src="../gifs/2103483957266268381.gif" alt="Code-Based Product Motion Design Prompt" width="256" height="144" /></a><br>
 <sub>&lt;inputs&gt; Ask me for: • my<br>product + URL • 8–12 UI...</sub><br>
 <sub><a href="https://x.com/verbove/status/2103483957266268381">Original post ↗</a> · <a href="../../prompts/2103483957266268381.md">Prompt ↗</a></sub>
 </td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103418429248069973.md"><img src="../gifs/2103418429248069973.gif" alt="White Russian Recipe Motion Graphic" width="256" height="144" /></a><br>
+<sub>Render a recipe motion graphic<br>animation using JavaScript...</sub><br>
+<sub><a href="https://x.com/Sarut0biSasuke/status/2103418429248069973">Original post ↗</a> · <a href="../../prompts/2103418429248069973.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103129343253778767.md"><img src="../gifs/2103129343253778767.gif" alt="Infinite Zoom Vintage Collage Animation Prompt" width="256" height="144" /></a><br>
 <sub>Build a looping &quot;infinite zoom&quot;<br>animation, After Effects...</sub><br>
@@ -101,7 +113,7 @@
 <a href="../../prompts/2103128559174971663.md"><img src="../gifs/2103128559174971663.gif" alt="Manim Derivative Concept Educational Video Prompt" width="256" height="144" /></a><br>
 <sub>Please make a video for<br>learning the concept of...</sub><br>
 <sub><a href="https://x.com/LinearUncle/status/2103128559174971663">Original post ↗</a> · <a href="../../prompts/2103128559174971663.md">Prompt ↗</a></sub>
-</td>
+</td><td></td>
 </tr>
 </table>
 

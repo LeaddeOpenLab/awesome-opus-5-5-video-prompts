@@ -110,15 +110,22 @@
 <sub><a href="https://x.com/NoLit64/status/2103628970000347627">Original post ↗</a> · <a href="../../prompts/2103628970000347627.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2103437714695843891.md"><img src="../gifs/2103437714695843891.gif" alt="Retro Romance of the Three Kingdoms Game Prompt" width="256" height="144" /></a><br>
+<sub>Make a game like Romance of the<br>Three Kingdoms III with a...</sub><br>
+<sub><a href="https://x.com/opener_ai/status/2103437714695843891">Original post ↗</a> · <a href="../../prompts/2103437714695843891.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2103194052850241739.md"><img src="../gifs/2103194052850241739.gif" alt="Cinematic Browser-Based 3D World Prompt" width="256" height="144" /></a><br>
 <sub>Create a cinematic<br>browser-based 3D world that...</sub><br>
 <sub><a href="https://x.com/LexnLin/status/2103194052850241739">Original post ↗</a> · <a href="../../prompts/2103194052850241739.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102919394775220530.md"><img src="../gifs/2102919394775220530.gif" alt="90s-Style Demoscene Demo Prompt" width="256" height="144" /></a><br>
 <sub>I would like you to create a<br>kickass, impressive 1990s...</sub><br>
 <sub><a href="https://x.com/gandamu_ml/status/2102919394775220530">Original post ↗</a> · <a href="../../prompts/2102919394775220530.md">Prompt ↗</a></sub>
-</td>
+</td><td></td><td></td>
 </tr>
 </table>
 
