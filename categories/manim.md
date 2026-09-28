@@ -1,5 +1,5 @@
 # manim
 
-No verified cases yet.
+New video + public prompt pairs are on the way.
 
 [All tasks](../README.md)
