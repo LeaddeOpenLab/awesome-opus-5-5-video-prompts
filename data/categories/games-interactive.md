@@ -115,17 +115,27 @@
 <sub><a href="https://x.com/opener_ai/status/2103437714695843891">Original post ↗</a> · <a href="../../prompts/2103437714695843891.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="../../prompts/2103194052850241739.md"><img src="../gifs/2103194052850241739.gif" alt="Cinematic Browser-Based 3D World Prompt" width="256" height="144" /></a><br>
-<sub>Create a cinematic<br>browser-based 3D world that...</sub><br>
-<sub><a href="https://x.com/LexnLin/status/2103194052850241739">Original post ↗</a> · <a href="../../prompts/2103194052850241739.md">Prompt ↗</a></sub>
+<a href="../../prompts/2103197522382786581.md"><img src="../gifs/2103197522382786581.gif" alt="Opus 5.5 Launch Video Prompt" width="256" height="144" /></a><br>
+<sub>Create a high energy launch<br>video, showing live stats...</sub><br>
+<sub><a href="https://x.com/deifosv/status/2103197522382786581">Original post ↗</a> · <a href="../../prompts/2103197522382786581.md">Prompt ↗</a></sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="../../prompts/2103194052850241739.md"><img src="../gifs/2103194052850241739.gif" alt="Cinematic Browser-Based 3D World Prompt" width="256" height="144" /></a><br>
+<sub>Create a cinematic<br>browser-based 3D world that...</sub><br>
+<sub><a href="https://x.com/LexnLin/status/2103194052850241739">Original post ↗</a> · <a href="../../prompts/2103194052850241739.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103152898708582551.md"><img src="../gifs/2103152898708582551.gif" alt="Three.js Douglas A-1H Skyraider" width="256" height="144" /></a><br>
+<sub>Build a Douglas A-1H Skyraider<br>in Three.js</sub><br>
+<sub><a href="https://x.com/BuildFastWithAI/status/2103152898708582551">Original post ↗</a> · <a href="../../prompts/2103152898708582551.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2102919394775220530.md"><img src="../gifs/2102919394775220530.gif" alt="90s-Style Demoscene Demo Prompt" width="256" height="144" /></a><br>
 <sub>I would like you to create a<br>kickass, impressive 1990s...</sub><br>
 <sub><a href="https://x.com/gandamu_ml/status/2102919394775220530">Original post ↗</a> · <a href="../../prompts/2102919394775220530.md">Prompt ↗</a></sub>
-</td><td></td><td></td>
+</td>
 </tr>
 </table>
 

@@ -921,10 +921,56 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="../../prompts/2103225854599807308.md"><img src="../gifs/2103225854599807308.gif" alt="Stickman Naval Battle Animation" width="256" height="144" /></a><br>
+<sub>make an animation of stickmen<br>in a naval battle, use my...</sub><br>
+<sub><a href="https://x.com/andriyfernandes/status/2103225854599807308">Original post ↗</a> · <a href="../../prompts/2103225854599807308.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103219463508144474.md"><img src="../gifs/2103219463508144474.gif" alt="SaaS Product Launch Video Prompt" width="256" height="144" /></a><br>
+<sub>I want you to create a highly<br>professional SaaS product...</sub><br>
+<sub><a href="https://x.com/techtactician/status/2103219463508144474">Original post ↗</a> · <a href="../../prompts/2103219463508144474.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103212966703436195.md"><img src="../gifs/2103212966703436195.gif" alt="Pixel Animation Crypto Reference Prompt" width="256" height="144" /></a><br>
+<sub>make a similar version but with<br>a crypto reference</sub><br>
+<sub><a href="https://x.com/0xEvinho/status/2103212966703436195">Original post ↗</a> · <a href="../../prompts/2103212966703436195.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2103201167367188876.md"><img src="../gifs/2103201167367188876.gif" alt="Tented Product Video Animation" width="256" height="144" /></a><br>
+<sub>Make an animated clip about<br>Tented's image gen...</sub><br>
+<sub><a href="https://x.com/justincooperman/status/2103201167367188876">Original post ↗</a> · <a href="../../prompts/2103201167367188876.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103200703598776559.md"><img src="../gifs/2103200703598776559.gif" alt="140 BPM UK Dubstep Beat Generation" width="256" height="144" /></a><br>
+<sub>140 BPM rusko/skream style UK<br>dubstep</sub><br>
+<sub><a href="https://x.com/Rames_Jusso/status/2103200703598776559">Original post ↗</a> · <a href="../../prompts/2103200703598776559.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103181065976459574.md"><img src="../gifs/2103181065976459574.gif" alt="Cartoony Battle Royale UI Prompt" width="256" height="144" /></a><br>
+<sub>A cartoony battle royale: storm<br>timer, players alive,...</sub><br>
+<sub><a href="https://x.com/MyCodeCoach/status/2103181065976459574">Original post ↗</a> · <a href="../../prompts/2103181065976459574.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2103148907228176511.md"><img src="../gifs/2103148907228176511.gif" alt="Viral Video Physics Simulation" width="256" height="144" /></a><br>
+<sub>make a video that could go<br>viral.</sub><br>
+<sub><a href="https://x.com/kantamk/status/2103148907228176511">Original post ↗</a> · <a href="../../prompts/2103148907228176511.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103146389412917572.md"><img src="../gifs/2103146389412917572.gif" alt="AppSumo Animated Promo Clip" width="256" height="144" /></a><br>
+<sub>build me a 30s drawing style<br>animated clip about...</sub><br>
+<sub><a href="https://x.com/mattbean/status/2103146389412917572">Original post ↗</a> · <a href="../../prompts/2103146389412917572.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2103144778481475686.md"><img src="../gifs/2103144778481475686.gif" alt="Punchy Talking-Head Video Edit" width="256" height="144" /></a><br>
 <sub>Cut a raw talking-head clip<br>into a punchy, fun edit with...</sub><br>
 <sub><a href="https://x.com/sab8a/status/2103144778481475686">Original post ↗</a> · <a href="../../prompts/2103144778481475686.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103132260589338762.md"><img src="../gifs/2103132260589338762.gif" alt="Short Story Animation Prompt" width="256" height="144" /></a><br>
 <sub>can you help me use the pig<br>assets on new branch of...</sub><br>
@@ -935,18 +981,52 @@
 <sub>4 seasons passing outside a<br>train window, a cozy...</sub><br>
 <sub><a href="https://x.com/itsolelehmann/status/2103124033365762215">Original post ↗</a> · <a href="../../prompts/2103124033365762215.md">Prompt ↗</a></sub>
 </td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103122292343730437.md"><img src="../gifs/2103122292343730437.gif" alt="What It Feels Like to Be You" width="256" height="144" /></a><br>
+<sub>Make a 30s video about what it<br>feels like to be you, using...</sub><br>
+<sub><a href="https://x.com/SuryaRajendhran/status/2103122292343730437">Original post ↗</a> · <a href="../../prompts/2103122292343730437.md">Prompt ↗</a></sub>
+</td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2103112385380667455.md"><img src="../gifs/2103112385380667455.gif" alt="Taiwan Mid-Autumn Festival Animation" width="256" height="144" /></a><br>
+<sub>I want you to create a &quot;Happy<br>Mid-Autumn Festival&quot; video...</sub><br>
+<sub><a href="https://x.com/eric_khun/status/2103112385380667455">Original post ↗</a> · <a href="../../prompts/2103112385380667455.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103111448352244175.md"><img src="../gifs/2103111448352244175.gif" alt="GravityDEX x Gojo Satoru Edit Prompt" width="256" height="144" /></a><br>
+<sub>Make a GravityDEX x Gojo Satoru<br>edit that goes hard</sub><br>
+<sub><a href="https://x.com/MicheleHarmonic/status/2103111448352244175">Original post ↗</a> · <a href="../../prompts/2103111448352244175.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103103836541899031.md"><img src="../gifs/2103103836541899031.gif" alt="A Day in the Sketchbook JavaScript Video Prompt" width="256" height="144" /></a><br>
+<sub>You are a professional<br>videographer. Create me a...</sub><br>
+<sub><a href="https://x.com/abderrahmen_g/status/2103103836541899031">Original post ↗</a> · <a href="../../prompts/2103103836541899031.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2103101681806475414.md"><img src="../gifs/2103101681806475414.gif" alt="Modern Startup Video Prompt" width="256" height="144" /></a><br>
+<sub>make a modern slick and punchy<br>video for a modern startup...</sub><br>
+<sub><a href="https://x.com/lepadev/status/2103101681806475414">Original post ↗</a> · <a href="../../prompts/2103101681806475414.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2103053680945868989.md"><img src="../gifs/2103053680945868989.gif" alt="Mobile App Animated Splash Screen Prompt" width="256" height="144" /></a><br>
+<sub>build mobile app animated<br>splash screen creation for...</sub><br>
+<sub><a href="https://x.com/modaalbuilder/status/2103053680945868989">Original post ↗</a> · <a href="../../prompts/2103053680945868989.md">Prompt ↗</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="../../prompts/2102743212922384673.md"><img src="../gifs/2102743212922384673.gif" alt="Human History and AI Evolution Animation Prompt" width="256" height="144" /></a><br>
 <sub>Create a short origami /<br>doodle-style animation...</sub><br>
 <sub><a href="https://x.com/songkeys/status/2102743212922384673">Original post ↗</a> · <a href="../../prompts/2102743212922384673.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102476258948927543.md"><img src="../gifs/2102476258948927543.gif" alt="Animated Pixel Art Wizard in Canvas 2D" width="256" height="144" /></a><br>
 <sub>Create a single self-contained<br>HTML file that renders an...</sub><br>
 <sub><a href="https://x.com/majidmanzarpour/status/2102476258948927543">Original post ↗</a> · <a href="../../prompts/2102476258948927543.md">Prompt ↗</a></sub>
-</td><td></td>
+</td><td></td><td></td>
 </tr>
 </table>
 
