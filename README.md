@@ -2,15 +2,15 @@
 
 **Claude Opus 5.5 video prompts, organized by what you want to make.** Browse motion graphics, explainers, 3D showcases and interactive demos.
 Save this library to find a useful result, copy the creator’s public prompt, and see the inputs and tools needed to start.
-**30 homepage picks** · **379 browsable video + prompt pairs** · Original creator links on every card.
-**Latest addition: 2026-09-30** · **379 total records** · **+19 in the latest addition**
+**30 homepage picks** · **398 browsable video + prompt pairs** · Original creator links on every card.
+**Latest addition: 2026-09-30** · **398 total records** · **+19 in the latest addition**
 
 ## Browse the full library
 
-- [Motion graphics](data/categories/motion-graphics.md) (254)
-- [Explainers](data/categories/explainers.md) (48)
-- [3D scenes](data/categories/3d-scenes.md) (27)
-- [Games & interactive](data/categories/games-interactive.md) (50)
+- [Motion graphics](data/categories/motion-graphics.md) (265)
+- [Explainers](data/categories/explainers.md) (53)
+- [3D scenes](data/categories/3d-scenes.md) (29)
+- [Games & interactive](data/categories/games-interactive.md) (51)
 - [How to use a prompt](#how-to-use) · [Credits](#credits)
 
 ## Featured videos + prompts
@@ -66,11 +66,11 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 
 ## Recently added
 
-- [《月光小星》- Claude Opus 5.5 动画短片](prompts/2105086526619091374.md) — Animated Story Short
-- [3D Animated Music Video Produced with Claude Opus 5.5 and Blender](prompts/2105091868149354753.md) — 3D Animation / Music Video
-- [One-Shot 3D Motion Graphics Teaser for Location-Based WebXR](prompts/2105100452232577419.md) — Open Source Repo Promo Video
-- [btop-like Live Machine Dashboard Web App](prompts/2105102932114813383.md) — System Monitoring Live Web Dashboard
-- [Autonomous 14-Minute Documentary on Elon Musk Directed and Cut by Claude Opus 5.5](prompts/2105105890936233985.md) — An agentic video production project where Claude Opus 5.5 was prompted with a high-level creative brief to produce a documentary film using archival footage, AI-synthesized narration, classical scoring, and programmatic editing via FFmpeg and Python.
+- [fal API Showreel Motion Graphics Video](prompts/2104827314400026936.md) — fal Motion Design Showreel
+- [Bloom Mobile Game Promo Video](prompts/2105102105702756414.md) — App Promotion Video
+- [Code-Based Motion Graphics and Audio Synthesis with Claude Opus 5.5](prompts/2104832372164444162.md) — Creative Coding Motion Graphics & Synth
+- [Agentic Neocloud Business Explainer Video via Claude Code and Opus 5.5](prompts/2104957026199900220.md) — Neocloud business explainer
+- [Claude Opus 5.5 Self-Visualization Motion Design](prompts/2104981908241486064.md) — AI Self-Representation Motion Design
 
 ## Motion graphics — homepage picks
 
@@ -145,7 +145,7 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 </tr>
 </table>
 
-[Browse all 254 motion graphics →](data/categories/motion-graphics.md)
+[Browse all 265 motion graphics →](data/categories/motion-graphics.md)
 
 ## Explainers — homepage picks
 
@@ -192,7 +192,7 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 </tr>
 </table>
 
-[Browse all 48 explainers →](data/categories/explainers.md)
+[Browse all 53 explainers →](data/categories/explainers.md)
 
 ## 3D scenes — homepage picks
 
@@ -227,7 +227,7 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 </tr>
 </table>
 
-[Browse all 27 3d scenes →](data/categories/3d-scenes.md)
+[Browse all 29 3d scenes →](data/categories/3d-scenes.md)
 
 ## Games & interactive — homepage picks
 
@@ -282,17 +282,17 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 </tr>
 </table>
 
-[Browse all 50 games & interactive →](data/categories/games-interactive.md)
+[Browse all 51 games & interactive →](data/categories/games-interactive.md)
 
 <details>
 <summary>Browse by tool</summary>
 
-- [canvas-interactive](data/categories/canvas-interactive.md) — 50
-- [manim](data/categories/manim.md) — 1
-- [remotion](data/categories/remotion.md) — 7
+- [canvas-interactive](data/categories/canvas-interactive.md) — 51
+- [manim](data/categories/manim.md) — 2
+- [remotion](data/categories/remotion.md) — 8
 - [blender](data/categories/blender.md) — 4
 - [external-video-model](data/categories/external-video-model.md) — 2
-- [other-animation](data/categories/other-animation.md) — 316
+- [other-animation](data/categories/other-animation.md) — 332
 
 </details>
 
