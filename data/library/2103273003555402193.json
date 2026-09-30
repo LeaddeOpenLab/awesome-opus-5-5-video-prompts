@@ -210,34 +210,52 @@
       },
       "inputs": [
         {
-          "kind": "audio",
-          "description": "Royalty-free audio track around 120 BPM fetched from the internet by the agent",
-          "available": true,
-          "evidence": "Author: 'i just told my claude to find royalty free audios from the internet and use them'"
+          "kind": "parameters_and_assets",
+          "description": "8–12 UI states; palette; ~120 BPM music",
+          "evidence": "Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader, player, slider, toggle, tabs, chart, command palette, toast), pure black and white or one accent color, and a royalty-free song around 120 BPM (e.g. Mixkit, free for commercial use).",
+          "available": false,
+          "origin": "user",
+          "sourceUrl": "https://x.com/twoclipping/status/2103273003555402193"
         },
         {
           "kind": "font",
           "description": "Geist UI font",
           "available": true,
-          "evidence": "Author prompt: 'one clean UI font (Geist)'"
+          "evidence": "Author prompt: 'one clean UI font (Geist)'",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/twoclipping/status/2103273003555402193"
+        },
+        {
+          "kind": "production_material",
+          "description": "Royalty-free audio fetched by the agent in the author’s workflow",
+          "evidence": "i just told my claude to find royalty free audios from the internet and use them",
+          "sourceUrl": "https://x.com/twoclipping/status/2103497540624683484",
+          "origin": "searched",
+          "available": false
         }
       ],
       "inputsDocumented": true,
       "tools": [
         {
-          "name": "Playwright",
-          "role": "Headless browser renderer capturing 4 subframes per frame from the generated HTML/JS canvas",
-          "evidence": "Author prompt: 'Render with Playwright: 4 subframes per frame, blended with ffmpeg tmix for motion blur at 60fps.'"
-        },
-        {
           "name": "FFmpeg",
-          "role": "Video blending and encoding tool used with tmix filter to synthesize motion blur at 60fps",
-          "evidence": "Author prompt: 'blended with ffmpeg tmix for motion blur at 60fps.'"
+          "role": "Video encoding",
+          "evidence": "Render with Playwright: 4 subframes per frame, blended with ffmpeg tmix for motion blur at 60fps.",
+          "sourceUrl": "https://x.com/twoclipping/status/2103273003555402193",
+          "status": "required"
         },
         {
           "name": "NumPy",
-          "role": "Audio waveform analysis to determine the 120 BPM beat grid and downbeat sync",
-          "evidence": "Author prompt: 'Analyze the song with numpy for the beat grid and start on a downbeat.'"
+          "role": "Audio / numerical analysis",
+          "evidence": "Analyze the song with numpy for the beat grid and start on a downbeat.",
+          "sourceUrl": "https://x.com/twoclipping/status/2103273003555402193",
+          "status": "required"
+        },
+        {
+          "name": "Playwright",
+          "role": "Browser frame capture",
+          "evidence": "Render with Playwright: 4 subframes per frame, blended with ffmpeg tmix for motion blur at 60fps.",
+          "sourceUrl": "https://x.com/twoclipping/status/2103273003555402193",
+          "status": "required"
         }
       ],
       "targetModelRole": "Claude Opus 5.5 acts as the developer agent, authoring the complete mathematical spring animation logic inside a standalone HTML/JS seek(t) function and orchestrating beat analysis and rendering scripts.",
@@ -249,7 +267,7 @@
         "aspectRatio": "1:1",
         "referenceMaterials": []
       },
-      "task": "other-animation",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Authentic Claude Opus 5.5 video production showcase demonstrating code-based programmatic animation and orchestration rendered to video with complete prompt specifications and accompanying output.",
       "isAdvertisement": false,
@@ -275,6 +293,27 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [
+          "Prompt asks the user for music; separately, the author says the agent fetched royalty-free audio."
+        ],
+        "sourceUrl": "https://x.com/twoclipping/status/2103273003555402193",
+        "evidence": "<inputs>\nAsk me for: 8 to 12 UI states I want the shape to become (e.g. button, loader, player, slider, toggle, tabs, chart, command palette, toast), pure black and white or one accent color, and a royalty-free song around 120 BPM (e.g. Mixkit, free for commercial use).\n</inputs>\n\n<direction>\nDribbble-level UI motion. One shape, never cut: every state is the same element morphing its size, radius ",
+        "inputSummary": "8–12 UI states; palette; ~120 BPM music"
+      },
+      "purpose": {
+        "label": "UI motion / interaction demonstration",
+        "topic": "motion-graphics",
+        "tags": [
+          "ui-motion",
+          "interaction-demo"
+        ]
       }
     },
     "summary": "Claude Opus 5.5 generates a continuous, seamless looping UI motion design sequence entirely in HTML/JS, driven by spring physics functions and rendered via Playwright and FFmpeg.",
@@ -291,8 +330,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "other-animation",
-    "useCase": "Claude Opus 5.5 generates a continuous, seamless looping UI motion design sequence entirely in HTML/JS, driven by spring physics functions and rendered via Playwright and FFmpeg.",
+    "category": "motion-graphics",
+    "useCase": "UI motion / interaction demonstration",
     "hasReusablePrompt": true,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

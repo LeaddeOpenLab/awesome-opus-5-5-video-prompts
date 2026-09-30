@@ -138,6 +138,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ito1217yo/status/2104537329667104818",
+        "evidence": ""
       }
     },
     "summary": "The author used Claude Opus 5.5 to generate an animated commercial video for a fictional soda brand, delegating animation, BGM, and sound effects to the model.",

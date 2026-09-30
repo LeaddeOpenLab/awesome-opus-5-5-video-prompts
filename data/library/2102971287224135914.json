@@ -137,7 +137,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/FornYapayZeka/status/2102971287891009707",
+        "evidence": ""
+      }
     },
     "summary": "A creative coding prompt instructing the AI to generate an advanced interactive explosion effect and unique environment with dynamic force propagation and visual aftermath.",
     "summaryEn": "Interactive Explosion Simulation Prompt",

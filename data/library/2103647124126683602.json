@@ -124,7 +124,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ceowinkz/status/2103647124126683602",
+        "evidence": "make a dynamic 15 second motion graphics video pitching my Amazon wholesale company, Winkz Enterprises, to a brand. show why they should let us sell their products. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A dynamic motion graphics video prompt pitching an Amazon wholesale company to brands.",
     "summaryEn": "Amazon Wholesale Business Pitch Video",
@@ -141,7 +156,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A dynamic motion graphics video prompt pitching an Amazon wholesale company to brands.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

@@ -100,10 +100,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "gave Opus 5.5 a single prompt 🎬"
       },
       "prompt": {
         "status": "fragment",
@@ -131,7 +131,7 @@
         "aspectRatio": null,
         "referenceMaterials": []
       },
-      "task": "3d-scenes",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Source-index import; extraction only.",
       "isAdvertisement": false,
@@ -156,7 +156,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/RaphaelAubryy/status/2103416909857190360",
+        "evidence": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A single prompt given to Claude Opus 5.5 to generate code for a dynamic 15-second motion graphics showreel.",
     "summaryEn": "Motion Graphics Showreel Prompt",
@@ -173,7 +188,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A single prompt given to Claude Opus 5.5 to generate code for a dynamic 15-second motion graphics showreel.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

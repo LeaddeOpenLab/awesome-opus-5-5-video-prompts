@@ -93,7 +93,9 @@
         {
           "name": "Suno",
           "role": "Music and audio track generation",
-          "evidence": "Suno did the music"
+          "evidence": "Suno did the music",
+          "sourceUrl": "https://x.com/Sadegh1068/status/2104467879911686448",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Code generation, scene scripting, and multi-agent motion design review orchestration",
@@ -131,6 +133,16 @@
           "incomplete_or_unreproducible_prompt",
           "necessary_inputs_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Sadegh1068/status/2104467879911686448",
+        "evidence": ""
       }
     },
     "summary": "Satirical kinetic typography and motion graphics music video poking fun at single-prompt AI claims, crediting Claude Opus 5.5 for the visual generation and code orchestration.",

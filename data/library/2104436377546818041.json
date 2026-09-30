@@ -108,7 +108,8 @@
         {
           "name": "WebGL / 3D Canvas",
           "role": "Interactive rendering engine for 3D lens elements, optical rays, miniature diorama, and UI controls",
-          "evidence": "Screen recording demonstrates real-time 3D interaction, camera orbit, exploded view toggle, and focus ring dragging."
+          "evidence": "Screen recording demonstrates real-time 3D interaction, camera orbit, exploded view toggle, and focus ring dragging.",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Wrote the complete code and optical math logic for the interactive 3D lens lab application.",
@@ -147,6 +148,16 @@
           "incomplete_or_unreproducible_prompt",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/rdominguezibar/status/2104436377546818041",
+        "evidence": ""
       }
     },
     "summary": "Claude Opus 5.5 was prompted via the API to visually explain camera focus, generating a complex interactive 3D lens simulation where users can manipulate the focus ring to observe the plane of focus, ray convergence, and sensor image.",

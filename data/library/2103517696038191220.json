@@ -131,7 +131,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/LeonKohli/status/2103517696038191220",
+        "evidence": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "LeonKohli shared a dynamic 15-second motion graphics showreel generated using Opus 5.5 from a single creative prompt.",
     "summaryEn": "Dynamic Motion Graphics Showreel",
@@ -148,7 +163,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "LeonKohli shared a dynamic 15-second motion graphics showreel generated using Opus 5.5 from a single creative prompt.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

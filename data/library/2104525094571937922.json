@@ -105,7 +105,8 @@
           "kind": "website_reference",
           "description": "Bugsmash product website URL (bugsmash.io) for asset harvesting and content context",
           "available": true,
-          "evidence": "\"This one's a product video for bugsmash.io\""
+          "evidence": "\"This one's a product video for bugsmash.io\"",
+          "origin": "unknown"
         }
       ],
       "inputsDocumented": true,
@@ -149,6 +150,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/nQaze/status/2104525094571937922",
+        "evidence": ""
       }
     },
     "summary": "Nabil Kazi showcases a 65-second animated SaaS product launch video for BugSmash created using Claude Opus 5.5 acting as a motion designer from a single prompt.",

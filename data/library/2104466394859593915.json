@@ -96,7 +96,9 @@
         {
           "name": "Remotion",
           "role": "Programmatic video rendering engine and React animation framework",
-          "evidence": "Remotion のコードを書かせて"
+          "evidence": "Remotion のコードを書かせて",
+          "sourceUrl": "https://x.com/rpa_dake/status/2104466394859593915",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Generated the Remotion React animation code and SVG sequence logic based on user specifications.",
@@ -133,6 +135,16 @@
           "prompt_disclosure_requires_editor_review:fragment",
           "incomplete_or_unreproducible_prompt"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/rpa_dake/status/2104466394859593915",
+        "evidence": ""
       }
     },
     "summary": "Author used Claude Opus 5.5 to write Remotion code generating a 15-second motion graphics timeline depicting the history of search from 1996 to 2015 with neon numbers and SVG illustrations.",

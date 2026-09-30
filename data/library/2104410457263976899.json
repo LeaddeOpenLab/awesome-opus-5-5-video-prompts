@@ -108,7 +108,9 @@
           "kind": "video",
           "description": "Pre-existing film clips, commercial projects, and production pipeline assets",
           "available": false,
-          "evidence": "The footage is the real work."
+          "evidence": "The footage is the real work.",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/EZheng66099/status/2104410457263976899"
         }
       ],
       "inputsDocumented": false,
@@ -116,7 +118,9 @@
         {
           "name": "Code-based video execution engine",
           "role": "Renders and executes the edit script compiled by Opus",
-          "evidence": "Opus wrote the edit as code."
+          "evidence": "Opus wrote the edit as code.",
+          "sourceUrl": "https://x.com/EZheng66099/status/2104410457263976899",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Writing the program code and sequence timeline to arrange, pace, and title the portfolio footage",
@@ -154,6 +158,16 @@
           "incomplete_or_unreproducible_prompt",
           "necessary_inputs_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/EZheng66099/status/2104410457263976899",
+        "evidence": ""
       }
     },
     "summary": "Eric Zheng used Claude Opus 5.5 to direct and edit a one-minute personal showreel from his existing production footage by having Opus generate the editing workflow as code.",

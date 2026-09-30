@@ -107,7 +107,9 @@
           "kind": "3D Assets / Script",
           "description": "3D car model components and Blender scene setup",
           "available": false,
-          "evidence": "Avance del modelado 3D de un Toyota Prius 2027 🇲🇽: se desarma en 261 piezas"
+          "evidence": "Avance del modelado 3D de un Toyota Prius 2027 🇲🇽: se desarma en 261 piezas",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/abxda/status/2104410894167916709"
         }
       ],
       "inputsDocumented": false,
@@ -115,22 +117,30 @@
         {
           "name": "Blender",
           "role": "3D modeling, animation, and rendering engine",
-          "evidence": "Hecho en Blender por 3 IAs lideradas por Claude Opus 5.5"
+          "evidence": "Hecho en Blender por 3 IAs lideradas por Claude Opus 5.5",
+          "sourceUrl": "https://x.com/abxda/status/2104410894167916709",
+          "status": "inferred"
         },
         {
           "name": "Claude Opus 5.5",
           "role": "Lead orchestrator and code/logic generator",
-          "evidence": "3 IAs lideradas por Claude Opus 5.5"
-        },
-        {
-          "name": "GPT-Astra",
-          "role": "Collaborating AI model",
-          "evidence": "(+ GPT-Astra y Gemini)"
+          "evidence": "3 IAs lideradas por Claude Opus 5.5",
+          "sourceUrl": "https://x.com/abxda/status/2104410894167916709",
+          "status": "inferred"
         },
         {
           "name": "Gemini",
           "role": "Collaborating AI model",
-          "evidence": "(+ GPT-Astra y Gemini)"
+          "evidence": "(+ GPT-Astra y Gemini)",
+          "sourceUrl": "https://x.com/abxda/status/2104410894167916709",
+          "status": "inferred"
+        },
+        {
+          "name": "GPT-Astra",
+          "role": "Collaborating AI model",
+          "evidence": "(+ GPT-Astra y Gemini)",
+          "sourceUrl": "https://x.com/abxda/status/2104410894167916709",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Claude Opus 5.5 served as the lead AI orchestrating the 3D modeling and animation construction in Blender.",
@@ -168,6 +178,16 @@
           "incomplete_or_unreproducible_prompt",
           "necessary_inputs_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/abxda/status/2104410894167916709",
+        "evidence": ""
       }
     },
     "summary": "3D modeling and exploded-view animation of a Toyota Prius 2027 in Blender, showing disassembly into 261 pieces, reassembly, and rainbow to mustard color shifting, led by Claude Opus 5.5 with assistance from GPT-Astra and Gemini.",

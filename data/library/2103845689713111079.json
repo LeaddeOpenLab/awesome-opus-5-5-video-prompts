@@ -142,7 +142,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/mdaman010/status/2103845689713111079",
+        "evidence": ""
+      }
     },
     "summary": "A prompt given to Claude Opus 5.5 to generate a 3D browser animation inside a single HTML file showing what happens inside an AI data center down to the Blackwell silicon.",
     "summaryEn": "AI Data Centre 3D Motion Graphic",
@@ -158,7 +168,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "3d-scenes",
     "useCase": "A prompt given to Claude Opus 5.5 to generate a 3D browser animation inside a single HTML file showing what happens inside an AI data center down to the Blackwell silicon.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

@@ -105,10 +105,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "I asked opus 5.5 to make a game within the confines and abilities of my engine, no other prompt."
       },
       "prompt": {
         "status": "fragment",
@@ -161,7 +161,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ggsimm/status/2102882622053535814",
+        "evidence": "make a game within the confines and abilities of my engine"
+      },
+      "purpose": {
+        "label": "Game / playable prototype",
+        "topic": "games-interactive",
+        "tags": []
+      }
     },
     "summary": "gsimone prompted Opus 5.5 to create a game within the limits and capabilities of their custom engine, resulting in a deep-sea horror game with an ambient drone soundtrack.",
     "summaryEn": "Deep-Sea Horror Game Prompt",
@@ -177,8 +192,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "gsimone prompted Opus 5.5 to create a game within the limits and capabilities of their custom engine, resulting in a deep-sea horror game with an ambient drone soundtrack.",
+    "category": "games-interactive",
+    "useCase": "Game / playable prototype",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

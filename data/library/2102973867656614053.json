@@ -143,7 +143,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/NemTudo_/status/2102973867656614053",
+        "evidence": ""
+      }
     },
     "summary": "A prompt testing humor capabilities by requesting a funny video on any subject between 10 and 30 seconds in length.",
     "summaryEn": "Claude Humor Test Video Prompt",

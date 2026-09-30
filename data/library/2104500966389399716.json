@@ -103,7 +103,9 @@
         {
           "name": "Claude Code",
           "role": "Agent CLI environment running Opus 5.5 to write and build code",
-          "evidence": "Claude Code motion graphics and video with Opus 5.5"
+          "evidence": "Claude Code motion graphics and video with Opus 5.5",
+          "sourceUrl": "https://charliehills.substack.com/p/claude-code-motion-graphics",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Code and motion design orchestration for animated graphical sequences",
@@ -142,6 +144,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/charliejhills/status/2104500966389399716",
+        "evidence": ""
       }
     },
     "summary": "Charlie Hills tests Claude Opus 5.5 alongside Astra and Fable on a motion graphics task with an open-ended directive, presenting a side-by-side comparison video of four synchronized animation scenes.",

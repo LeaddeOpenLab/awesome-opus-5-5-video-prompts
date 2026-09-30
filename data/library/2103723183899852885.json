@@ -123,10 +123,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "one prompt with claude opus 5.5, almost an hour, and it cooked the whole thing"
       },
       "prompt": {
         "status": "fragment",
@@ -179,7 +179,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ann_nnng/status/2103759390386057227",
+        "evidence": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are. The content should focus on [your product]. You should visit the pages first to learn about the product, then write the video content yourself."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A prompt designed for Claude Opus 5.5 to research a product from its web pages and autonomously produce a dynamic 15-second motion graphics video.",
     "summaryEn": "Dynamic Motion Graphics Video Prompt",
@@ -196,7 +211,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A prompt designed for Claude Opus 5.5 to research a product from its web pages and autonomously produce a dynamic 15-second motion graphics video.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

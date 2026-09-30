@@ -87,10 +87,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 with @threejs is so good."
       },
       "prompt": {
         "status": "fragment",
@@ -143,7 +143,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/0xChuckstock/status/2103804610091901116",
+        "evidence": "A 3D multiplayer game where the players are a squad of x-wings taking on a star destroyer. They pilot their ships to take out key components of the star destroyer while also dealing with guns mounted on the star destroyer and waves of tie fighters."
+      },
+      "purpose": {
+        "label": "3D multiplayer space game",
+        "topic": "games-interactive",
+        "tags": []
+      }
     },
     "summary": "A prompt used to create a 3D multiplayer space combat game where players pilot X-Wings against a Star Destroyer.",
     "summaryEn": "3D Star Wars Multiplayer Game Prompt",
@@ -159,8 +174,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "A prompt used to create a 3D multiplayer space combat game where players pilot X-Wings against a Star Destroyer.",
+    "category": "games-interactive",
+    "useCase": "3D multiplayer space game",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

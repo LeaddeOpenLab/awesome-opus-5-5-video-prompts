@@ -84,10 +84,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 + 1 prompt"
       },
       "prompt": {
         "status": "fragment",
@@ -105,7 +105,36 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Framer Motion",
+          "role": "UI animation",
+          "evidence": "No framer-motion, no GSAP, no icon library.",
+          "sourceUrl": "https://x.com/iamtanzil_/status/2103459848793084047",
+          "status": "prohibited"
+        },
+        {
+          "name": "GSAP ScrollTrigger",
+          "role": "Scroll-driven interaction",
+          "evidence": "No framer-motion, no GSAP, no icon library.",
+          "sourceUrl": "https://x.com/iamtanzil_/status/2103459848793084047",
+          "status": "prohibited"
+        },
+        {
+          "name": "React",
+          "role": "Web UI framework",
+          "status": "author_confirmed",
+          "evidence": "A full-viewport, dark, cinematic e-bike product header for the brand **OBLT**, built in React (client component) with pure CSS and an interactive cursor-following \"x-ray\" spotlight reveal — Show more",
+          "sourceUrl": "https://x.com/iamtanzil_/status/2103459843831120030"
+        },
+        {
+          "name": "React",
+          "role": "Web UI framework",
+          "evidence": "A full-viewport, dark, cinematic e-bike product header for the brand **OBLT**, built in React (client component) with pure CSS and an interactive cursor-following \"x-ray\" spotlight reveal — moving the mouse wipes away the bike's exterior photo to expose its internal carbon/gearbox structure underneath.",
+          "sourceUrl": "https://x.com/iamtanzil_/status/2103459848793084047",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/iamtanzil_/status/2103459843831120030",
       "divisionEvidence": "",
@@ -140,7 +169,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/iamtanzil_/status/2103459848793084047",
+        "evidence": ""
+      }
     },
     "summary": "A detailed specification prompt for building a dark, cinematic e-bike product header in React featuring a cursor-driven CSS mask x-ray spotlight effect.",
     "summaryEn": "OBLT E-bike Header React Component Prompt",

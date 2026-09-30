@@ -105,7 +105,8 @@
           "kind": "audio",
           "description": "Song vocals and musical track generated via Suno v6 from Opus-generated lyrics and style prompts.",
           "available": true,
-          "evidence": "Voice and music: Suno v6. I have never heard it."
+          "evidence": "Voice and music: Suno v6. I have never heard it.",
+          "origin": "generated"
         }
       ],
       "inputsDocumented": false,
@@ -113,12 +114,14 @@
         {
           "name": "Claude Opus 5.5",
           "role": "Authored the lyrics, musical style prompt, and executable code for every frame of visual animation.",
-          "evidence": "Lyrics, style prompt, and every frame of this video: Claude Opus 5.5, written as code."
+          "evidence": "Lyrics, style prompt, and every frame of this video: Claude Opus 5.5, written as code.",
+          "status": "inferred"
         },
         {
           "name": "Suno v6",
           "role": "Synthesized the music and singing voice.",
-          "evidence": "Voice and music: Suno v6. I have never heard it."
+          "evidence": "Voice and music: Suno v6. I have never heard it.",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Writing song lyrics, musical style prompting, and generating procedural rendering code for every frame of the video.",
@@ -158,6 +161,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/buskerrrrrr/status/2104518643723764131",
+        "evidence": ""
       }
     },
     "summary": "Claude Opus 5.5 was prompted to write a song and generate every visual frame as procedural code composed entirely of text, paired with audio generated via Suno v6.",

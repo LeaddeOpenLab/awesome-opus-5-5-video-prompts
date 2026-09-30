@@ -113,9 +113,40 @@
         "evidence": "Consistency check skipped for source-index import.",
         "textualResultQuote": ""
       },
-      "inputs": [],
-      "inputsDocumented": false,
-      "tools": [],
+      "inputs": [
+        {
+          "kind": "parameters_and_assets",
+          "description": "Product name + one-line promise; 3–5 UI scenes; accent color; 10–20 owned vertical clips; music",
+          "evidence": "Ask me for: the product name and a one-line promise, 3 to 5 UI moments to show, one accent color, 10 to 20 real vertical clips I own, and a royalty-free song with a clear drop (e.g. Mixkit, free for commercial use).",
+          "available": false,
+          "origin": "user",
+          "sourceUrl": "https://x.com/twoclipping/status/2102554209166000267"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "FFmpeg",
+          "role": "Video encoding",
+          "evidence": "Real video: extract clips to 30fps JPEG sequences with ffmpeg and swap img sources per frame.",
+          "sourceUrl": "https://x.com/twoclipping/status/2102554209166000267",
+          "status": "required"
+        },
+        {
+          "name": "NumPy",
+          "role": "Audio / numerical analysis",
+          "evidence": "Analyze the song with numpy: tempo, beat grid, energy per bar, the drop.",
+          "sourceUrl": "https://x.com/twoclipping/status/2102554209166000267",
+          "status": "required"
+        },
+        {
+          "name": "Playwright",
+          "role": "Browser frame capture",
+          "evidence": "Render with Playwright: 3 subframes per frame at t minus, at, and plus 1/240s, then blend with ffmpeg tmix for real motion blur at 60fps.",
+          "sourceUrl": "https://x.com/twoclipping/status/2102554209166000267",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/twoclipping/status/2102554209166000267",
       "divisionEvidence": "",
@@ -125,7 +156,7 @@
         "aspectRatio": null,
         "referenceMaterials": []
       },
-      "task": "3d-scenes",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Source-index import; extraction only.",
       "isAdvertisement": false,
@@ -150,7 +181,23 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/twoclipping/status/2102554209166000267",
+        "evidence": "<inputs>\nAsk me for: the product name and a one-line promise, 3 to 5 UI moments to show, one accent color, 10 to 20 real vertical clips I own, and a royalty-free song with a clear drop (e.g. Mixkit, free for commercial use).\n</inputs>\n\n<direction>\nHigh-end minimal. One idea per shot, lots of empty space, one accent color, one clean sans (Geist or Inter) with tight tracking. Masked type reveals, ma",
+        "inputSummary": "Product name + one-line promise; 3–5 UI scenes; accent color; 10–20 owned vertical clips; music"
+      },
+      "purpose": {
+        "label": "Product motion promotional film",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A structured prompt instructing an LLM to generate a complete beat-synced motion design video via programmatic HTML rendering, audio analysis, and video processing.",
     "summaryEn": "Code-Driven Motion Design Video Prompt",
@@ -167,7 +214,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A structured prompt instructing an LLM to generate a complete beat-synced motion design video via programmatic HTML rendering, audio analysis, and video processing.",
+    "useCase": "Product motion promotional film",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

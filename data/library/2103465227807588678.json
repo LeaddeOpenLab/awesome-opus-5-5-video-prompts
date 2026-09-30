@@ -75,10 +75,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "I used below prompt in opus 5.5 to create this video for https://t.co/vriwNcHo2F"
       },
       "prompt": {
         "status": "fragment",
@@ -131,7 +131,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/techyoutbe/status/2103465227807588678",
+        "evidence": ""
+      }
     },
     "summary": "A prompt designed to generate a motion-graphics-styled product launch video for a recognizable SaaS product using real assets and feature highlights.",
     "summaryEn": "Professional SaaS Product Launch Video Prompt",

@@ -131,7 +131,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/rneayan/status/2103401006281441493",
+        "evidence": ""
+      }
     },
     "summary": "A prompt used to generate a video of a studio in a Risograph art style using Opus 5.5.",
     "summaryEn": "Risograph Studio Video Prompt",

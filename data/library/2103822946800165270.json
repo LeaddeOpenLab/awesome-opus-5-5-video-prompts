@@ -85,10 +85,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 just built Minecraft."
       },
       "prompt": {
         "status": "fragment",
@@ -106,7 +106,15 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "Use Three.js from a CDN.",
+          "sourceUrl": "https://x.com/dreyk0o0/status/2103822946800165270",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/dreyk0o0/status/2103822946800165270",
       "divisionEvidence": "",
@@ -141,7 +149,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/dreyk0o0/status/2103822946800165270",
+        "evidence": "Build a Minecraft-style voxel game in a single HTML file that runs in the browser.\n- First-person controls: WASD, mouse look, jump\n- Procedural terrain with hills, water and trees\n- Place and break blocks with the mouse, 5 block types\n- Advanced shaders: moving sun, soft shadows, ambient occlusion, fog, water reflections\n- Smooth 60 fps on a laptop\nUse Three.js from a CDN. Test it, fix every bug, then keep improving the visuals until it looks as realistic as possible."
+      },
+      "purpose": {
+        "label": "Game / playable prototype",
+        "topic": "games-interactive",
+        "tags": []
+      }
     },
     "summary": "A detailed prompt for Claude Opus to generate a browser-based Minecraft clone in a single HTML file using Three.js with advanced shaders and procedural terrain.",
     "summaryEn": "Browser-Based Minecraft Game Prompt",
@@ -157,8 +180,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "A detailed prompt for Claude Opus to generate a browser-based Minecraft clone in a single HTML file using Three.js with advanced shaders and procedural terrain.",
+    "category": "games-interactive",
+    "useCase": "Game / playable prototype",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

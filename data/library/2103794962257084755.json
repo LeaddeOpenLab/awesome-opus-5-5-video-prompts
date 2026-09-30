@@ -81,10 +81,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 made this video in 1 hour."
       },
       "prompt": {
         "status": "fragment",
@@ -137,7 +137,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ayushunleashed/status/2103794962257084755",
+        "evidence": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out"
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A prompt instructing Claude to generate a dynamic 15-second motion graphics showreel video demonstrating motion design expertise.",
     "summaryEn": "Motion Graphics Showreel Video",
@@ -154,7 +169,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A prompt instructing Claude to generate a dynamic 15-second motion graphics showreel video demonstrating motion design expertise.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

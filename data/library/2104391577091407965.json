@@ -113,7 +113,8 @@
           "kind": "repository",
           "description": "SQLite codebase at version 3.53.4",
           "available": true,
-          "evidence": "Every excerpt, number and trace on screen was generated from sqlite version-3.53.4. See manifest.json."
+          "evidence": "Every excerpt, number and trace on screen was generated from sqlite version-3.53.4. See manifest.json.",
+          "origin": "unknown"
         }
       ],
       "inputsDocumented": false,
@@ -121,12 +122,16 @@
         {
           "name": "Gemini 3.8 TTS",
           "role": "Voiceover audio generation",
-          "evidence": "w/ gemini 3.8 tts"
+          "evidence": "w/ gemini 3.8 tts",
+          "sourceUrl": "https://x.com/deedydas/status/2104391577091407965",
+          "status": "inferred"
         },
         {
           "name": "Unspecified programmatic renderer",
           "role": "Motion graphics and visual code rendering",
-          "evidence": "everything truly is code."
+          "evidence": "everything truly is code.",
+          "sourceUrl": "https://x.com/deedydas/status/2104391577091407965",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Code and orchestration generation for multi-level technical animation",
@@ -167,6 +172,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/deedydas/status/2104391577091407965",
+        "evidence": ""
       }
     },
     "summary": "Deedy shares a 7-minute technical explainer animation analyzing SQLite's codebase structure, query lifecycle, and join-order execution, generated with Claude Opus 5.5 and Gemini TTS.",

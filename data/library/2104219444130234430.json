@@ -108,7 +108,9 @@
         {
           "name": "Claude Opus 5.5",
           "role": "Generating the complete code and script for the programmatic motion graphics clip",
-          "evidence": "Heute ist das mit Claude Opus 5.5 einfach ein Prompt:"
+          "evidence": "Heute ist das mit Claude Opus 5.5 einfach ein Prompt:",
+          "sourceUrl": "https://x.com/tariqkhanfmd/status/2104219444130234430",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Code generation and creative motion graphics scripting from a single high-level prompt.",
@@ -120,7 +122,7 @@
         "aspectRatio": "16:9",
         "referenceMaterials": []
       },
-      "task": "other-animation",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Direct author post demonstrating Claude Opus 5.5 generating a programmatic motion graphics showreel with the full original prompt and corresponding video.",
       "isAdvertisement": false,
@@ -146,6 +148,21 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/tariqkhanfmd/status/2104219446831124529",
+        "evidence": "make a dynamic 40-second motion graphics video that shows what an incredible motion designer you are, create all graphics from scratch as if you were a niche branding agency for startup founders, like it's your showreel for a résumé. tell it as a hero's journey with a clear thread the viewer can follow, and let key moments stay on screen long enough to read. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
       }
     },
     "summary": "Claude Opus 5.5 generated a dynamic 40-second motion graphics showreel framed around a hero's journey for a startup branding agency.",
@@ -162,8 +179,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "other-animation",
-    "useCase": "Claude Opus 5.5 generated a dynamic 40-second motion graphics showreel framed around a hero's journey for a startup branding agency.",
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

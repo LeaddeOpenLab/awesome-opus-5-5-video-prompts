@@ -84,10 +84,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 + 1 prompt"
       },
       "prompt": {
         "status": "fragment",
@@ -103,9 +103,48 @@
         "evidence": "Consistency check skipped for source-index import.",
         "textualResultQuote": ""
       },
-      "inputs": [],
+      "inputs": [
+        {
+          "kind": "video",
+          "description": "Background video",
+          "evidence": "https://t.co/BBCywMmSRj",
+          "sourceUrl": "https://x.com/iamtanzil_/status/2103820326710939935",
+          "origin": "user",
+          "available": false
+        },
+        {
+          "kind": "image",
+          "description": "Two feature-card images",
+          "evidence": "https://t.co/H6zExCAsqx",
+          "sourceUrl": "https://x.com/iamtanzil_/status/2103820326710939935",
+          "origin": "user",
+          "available": false
+        }
+      ],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Framer Motion",
+          "role": "UI animation",
+          "evidence": "- framer-motion (all overlay entrance/exit animations, AnimatePresence, staggered per-character reveals)",
+          "sourceUrl": "https://x.com/iamtanzil_/status/2103820326710939935",
+          "status": "required"
+        },
+        {
+          "name": "GSAP ScrollTrigger",
+          "role": "Scroll-driven interaction",
+          "evidence": "- gsap + gsap/ScrollTrigger (scroll-driven scrubbing that maps scroll progress to video.currentTime)",
+          "sourceUrl": "https://x.com/iamtanzil_/status/2103820326710939935",
+          "status": "required"
+        },
+        {
+          "name": "React",
+          "role": "Web UI framework",
+          "evidence": "- React 18+ with \"use client\" directive (Next.js App Router compatible)",
+          "sourceUrl": "https://x.com/iamtanzil_/status/2103820326710939935",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/iamtanzil_/status/2103820321673675031",
       "divisionEvidence": "",
@@ -115,7 +154,7 @@
         "aspectRatio": null,
         "referenceMaterials": []
       },
-      "task": "3d-scenes",
+      "task": "games-interactive",
       "suitable": true,
       "reason": "Source-index import; extraction only.",
       "isAdvertisement": false,
@@ -140,7 +179,27 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [
+          "Website interaction: scroll controls video playback; this is not a standalone rendered film."
+        ],
+        "sourceUrl": "https://x.com/iamtanzil_/status/2103820326710939935",
+        "evidence": "# Auren Header\n\nA cinematic, scroll-scrubbed 3D hero header for the luxury/fantasy brand \"AUREN\" where a full-screen background video plays frame-by-frame as the user scrolls through a 500vh section, with sequential timed overlays (title, description, feature cards, final title) revealing themselves at specific video timestamps.\n\n## Tech stack\n- React 18+ with \"use client\" directive (Next.js App R"
+      },
+      "purpose": {
+        "label": "Scroll-driven website hero",
+        "topic": "games-interactive",
+        "tags": [
+          "web-interaction",
+          "scroll-animation"
+        ]
+      }
     },
     "summary": "A detailed technical prompt for building a cinematic, scroll-scrubbed 3D hero header for the luxury fantasy brand 'AUREN' using React, Framer Motion, and GSAP ScrollTrigger.",
     "summaryEn": "Auren Header Scroll-Scrubbed Hero Section",
@@ -156,8 +215,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "A detailed technical prompt for building a cinematic, scroll-scrubbed 3D hero header for the luxury fantasy brand 'AUREN' using React, Framer Motion, and GSAP ScrollTrigger.",
+    "category": "games-interactive",
+    "useCase": "Scroll-driven website hero",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

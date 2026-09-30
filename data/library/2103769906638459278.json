@@ -97,7 +97,15 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Remotion",
+          "role": "Video renderer",
+          "evidence": "Make a showreel-style motion graphics video for my portfolio website, https://t.co/Y2MJ2DHedD, using Remotion.",
+          "sourceUrl": "https://x.com/wani_shola/status/2103769906638459278",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/wani_shola/status/2103769906638459278",
       "divisionEvidence": "",
@@ -132,7 +140,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/wani_shola/status/2103769906638459278",
+        "evidence": "Make a showreel-style motion graphics video for my portfolio website, https://t.co/Y2MJ2DHedD, using Remotion. It should show what I do as a developer relations engineer, like a showreel for my résumé."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A prompt directing Opus 5.5 to generate a motion graphics showreel video for a developer relations engineer portfolio using Remotion, featuring animated browser captures, real Q&A from the site's assistant, premium branding principles, and beat-synced 120 BPM pacing.",
     "summaryEn": "Remotion Portfolio Showreel Video Prompt",
@@ -149,7 +172,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A prompt directing Opus 5.5 to generate a motion graphics showreel video for a developer relations engineer portfolio using Remotion, featuring animated browser captures, real Q&A from the site's assistant, premium branding principles, and beat-synced 120 BPM pacing.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

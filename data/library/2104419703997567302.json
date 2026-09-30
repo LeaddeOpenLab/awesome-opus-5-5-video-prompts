@@ -107,13 +107,15 @@
           "kind": "audio_narration",
           "description": "Voiceover narration audio generated with ElevenLabs (voice: Bill).",
           "available": false,
-          "evidence": "Video credits: \"Narrated by Bill - voice by ElevenLabs\""
+          "evidence": "Video credits: \"Narrated by Bill - voice by ElevenLabs\"",
+          "origin": "generated"
         },
         {
           "kind": "public_domain_references",
           "description": "Historical film references including The Horse in Motion, The Black Maria, and others.",
           "available": true,
-          "evidence": "Video credits: \"Homages to public-domain works: The Horse in Motion (1878), The Black Maria (1893)...\""
+          "evidence": "Video credits: \"Homages to public-domain works: The Horse in Motion (1878), The Black Maria (1893)...\"",
+          "origin": "user"
         }
       ],
       "inputsDocumented": false,
@@ -121,17 +123,20 @@
         {
           "name": "Claude Code",
           "role": "Agent coding environment used by Opus 5.5 to write and direct animation and audio scripts",
-          "evidence": "Video credits: \"Made with Claude Opus 5.5 in Claude Code\""
-        },
-        {
-          "name": "ElevenLabs",
-          "role": "Voice narration synthesis",
-          "evidence": "Post: \"(narration by ElevenLabs)\" and credits: \"voice by ElevenLabs\""
+          "evidence": "Video credits: \"Made with Claude Opus 5.5 in Claude Code\"",
+          "status": "inferred"
         },
         {
           "name": "Custom Code Renderer",
           "role": "Volumetric particle and light rendering engine executing the generated code",
-          "evidence": "Video credits: \"Renderer — dust in the beam: 2 million motes, volumetric light, thin-lens bokeh\""
+          "evidence": "Video credits: \"Renderer — dust in the beam: 2 million motes, volumetric light, thin-lens bokeh\"",
+          "status": "inferred"
+        },
+        {
+          "name": "ElevenLabs",
+          "role": "Voice narration synthesis",
+          "evidence": "Post: \"(narration by ElevenLabs)\" and credits: \"voice by ElevenLabs\"",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Claude Opus 5.5 wrote, animated, scored, and directed the entire production in code via Claude Code.",
@@ -178,6 +183,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/abhi81i/status/2104419703997567302",
+        "evidence": ""
       }
     },
     "summary": "An animated short film tracing the history of cinema rendered from light and volumetric particle motes, created via code with Claude Opus 5.5 and narrated by ElevenLabs.",

@@ -143,7 +143,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Ved_CJ/status/2103708402069496136",
+        "evidence": "I want multiplayer game, with proximity chat, with destructurable environment, that players will enjoy, shooting game"
+      },
+      "purpose": {
+        "label": "Game / playable prototype",
+        "topic": "games-interactive",
+        "tags": []
+      }
     },
     "summary": "A prompt requesting a multiplayer shooting game featuring proximity voice chat and destructible environments, which Opus 5.5 allegedly generated and deployed in a single session.",
     "summaryEn": "Multiplayer Shooting Game Prompt",
@@ -159,8 +174,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "A prompt requesting a multiplayer shooting game featuring proximity voice chat and destructible environments, which Opus 5.5 allegedly generated and deployed in a single session.",
+    "category": "games-interactive",
+    "useCase": "Game / playable prototype",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

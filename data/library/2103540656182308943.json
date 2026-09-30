@@ -131,7 +131,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ghinaiya_nirmal/status/2103540656182308943",
+        "evidence": ""
+      }
     },
     "summary": "A prompt instructing the model to create, animate, and score its own 15-second motion reel.",
     "summaryEn": "15-Second Motion Reel Prompt",

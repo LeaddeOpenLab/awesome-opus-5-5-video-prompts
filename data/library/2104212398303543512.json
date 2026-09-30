@@ -109,7 +109,8 @@
           "kind": "video",
           "description": "編集対象のレクチャー動画（HiggleField APIに関するチュートリアル映像）",
           "available": false,
-          "evidence": "動画プレビュー内に表示されるレクチャー映像およびタイトル『編集構成レビュー: HiggleField API (テスト)』"
+          "evidence": "動画プレビュー内に表示されるレクチャー映像およびタイトル『編集構成レビュー: HiggleField API (テスト)』",
+          "origin": "unknown"
         }
       ],
       "inputsDocumented": false,
@@ -117,12 +118,15 @@
         {
           "name": "Claude Opus 5.5",
           "role": "動画のカット指示の提案および専用UI/プレビュースキルのコード生成",
-          "evidence": "Claude Opus 5.5 は、カット編集の指示も的確に出してくれる / Opus 5.5 に「こういうUIでプレビューしてくれるスキルできないの？」と指示しながら作成。"
+          "evidence": "Claude Opus 5.5 は、カット編集の指示も的確に出してくれる / Opus 5.5 に「こういうUIでプレビューしてくれるスキルできないの？」と指示しながら作成。",
+          "status": "inferred"
         },
         {
           "name": "Custom Web UI / Browser",
           "role": "動画プレビュー、音声波形描画、タイムライン編集、承認インタラクションの実行レンダラー",
-          "evidence": "動画プレビューと波形を見ながらポチポチ承認できる専用UIを制作。"
+          "evidence": "動画プレビューと波形を見ながらポチポチ承認できる専用UIを制作。",
+          "sourceUrl": "https://x.com/excel_niisan/status/2104212398303543512",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "動画編集用のカット箇所提案の策定と、レビュー用インタラクティブUIスキルのコード実装",
@@ -162,6 +166,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/excel_niisan/status/2104212641610961168",
+        "evidence": ""
       }
     },
     "summary": "Claude Opus 5.5を活用して動画の無音カット提案を行い、それを波形とプレビュー画面上でワンクリック承認・微調整できる専用の動画編集UI/スキルを開発・実演した事例。",

@@ -91,7 +91,9 @@
           "kind": "document",
           "description": "Author's resume containing career history and metrics",
           "available": false,
-          "evidence": "Gave claude opus 5.5 one prompt and my resume."
+          "evidence": "Gave claude opus 5.5 one prompt and my resume.",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/Sayan_shanky/status/2104424421641314396"
         }
       ],
       "inputsDocumented": false,
@@ -99,7 +101,9 @@
         {
           "name": "Unknown rendering/audio pipeline",
           "role": "Synthesizing audio and rendering the output MP4 video file",
-          "evidence": "it composed the audio, synced every cut to the beat, and rendered the mp4 itself."
+          "evidence": "it composed the audio, synced every cut to the beat, and rendered the mp4 itself.",
+          "sourceUrl": "https://x.com/Sayan_shanky/status/2104424421641314396",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Claude Opus 5.5 acted as the creative agent, generating the animation script/code, composing the soundtrack, and executing the render pipeline.",
@@ -111,7 +115,7 @@
         "aspectRatio": "16:9",
         "referenceMaterials": []
       },
-      "task": "other-animation",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Direct demonstration of agentic video/motion graphics creation using Claude Opus 5.5 with an accompanying 30-second motion video.",
       "isAdvertisement": false,
@@ -138,6 +142,21 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Sayan_shanky/status/2104424421641314396",
+        "evidence": "asked for a 30s motion showreel"
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
       }
     },
     "summary": "Claude Opus 5.5 was prompted with a resume to generate a 30-second motion design showreel, including audio composition, beat syncing, and MP4 rendering.",
@@ -154,8 +173,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "other-animation",
-    "useCase": "Claude Opus 5.5 was prompted with a resume to generate a 30-second motion design showreel, including audio composition, beat syncing, and MP4 rendering.",
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

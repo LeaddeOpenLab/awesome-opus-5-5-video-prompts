@@ -75,10 +75,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Made with claude OPUS 5.5 with medium effort"
       },
       "prompt": {
         "status": "fragment",
@@ -131,7 +131,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/KangarooHere/status/2103617278671818789",
+        "evidence": "make a dynamic 20-second motion graphics video for my newsletter that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A dynamic 20-second motion graphics video prompt designed to showcase impressive motion design skills like a résumé showreel for a newsletter.",
     "summaryEn": "Motion Graphics Showreel Video",
@@ -148,7 +163,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A dynamic 20-second motion graphics video prompt designed to showcase impressive motion design skills like a résumé showreel for a newsletter.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

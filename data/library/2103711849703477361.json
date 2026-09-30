@@ -68,10 +68,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "my first experiment with Opus 5.5 at generating motion graphics with the most deadbeat simple prompt copied from X:"
       },
       "prompt": {
         "status": "fragment",
@@ -124,7 +124,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/souravbhar871/status/2103711849703477361",
+        "evidence": "make a dynamic 10-second motion graphics video that shows who are you as Opus 5.5 - be as creative and dynamic as possible. Avoid the frames and texts on the corners which are typical ai made giveaways!"
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "Sourav Bhar shares a prompt tested with Opus 5.5 to create a dynamic 10-second motion graphics video showcasing the model.",
     "summaryEn": "Dynamic Opus 5.5 Motion Graphics",
@@ -141,7 +156,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "Sourav Bhar shares a prompt tested with Opus 5.5 to create a dynamic 10-second motion graphics video showcasing the model.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

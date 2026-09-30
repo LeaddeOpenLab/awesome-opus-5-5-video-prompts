@@ -137,13 +137,15 @@
           "kind": "video",
           "description": "Seedance 2.5 Opusで生成された防犯ダンスのベース映像",
           "available": false,
-          "evidence": "投稿文「#AZ8 でSeedance2.5Opus×Opus 5.5で制作」"
+          "evidence": "投稿文「#AZ8 でSeedance2.5Opus×Opus 5.5で制作」",
+          "origin": "generated"
         },
         {
           "kind": "audio",
           "description": "事前に作成されたBGM・楽曲",
           "available": false,
-          "evidence": "返信「曲から作った😎」"
+          "evidence": "返信「曲から作った😎」",
+          "origin": "unknown"
         }
       ],
       "inputsDocumented": false,
@@ -151,12 +153,14 @@
         {
           "name": "AZ8",
           "role": "統合実行プラットフォーム",
-          "evidence": "投稿文「#AZ8 でSeedance2.5Opus×Opus 5.5で制作 @AZ8official_JP」"
+          "evidence": "投稿文「#AZ8 でSeedance2.5Opus×Opus 5.5で制作 @AZ8official_JP」",
+          "status": "inferred"
         },
         {
           "name": "Seedance 2.5 Opus",
           "role": "ベース動画生成モデル",
-          "evidence": "投稿文「#AZ8 でSeedance2.5Opus×Opus 5.5で制作」"
+          "evidence": "投稿文「#AZ8 でSeedance2.5Opus×Opus 5.5で制作」",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "動画内容に応じたタイポグラフィおよびエフェクト演出の付与・指示",
@@ -196,6 +200,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/mi7_crypto/status/2104409517459148927",
+        "evidence": ""
       }
     },
     "summary": "M7［mi7］AI氏がAZ8プラットフォーム上でSeedance 2.5 OpusとOpus 5.5を連携させ、銀行強盗対策の『防犯ダンス』動画にタイポグラフィやエフェクトを付与して制作した事例。",

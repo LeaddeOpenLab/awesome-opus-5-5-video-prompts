@@ -93,10 +93,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "This was a one-shot music video using Claude Opus 5.5, all I provided was the song, lyrics and a short prompt (in comments below)."
       },
       "prompt": {
         "status": "fragment",
@@ -149,7 +149,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ParanoidAmerica/status/2103574086719062207",
+        "evidence": "create a music video for this entire song, check lyrics.txt to sync the visuals to. style should be a mix between monty-python/vox style \"postcards in space\" mixed with sketchy ballpoint pen style visuals. this needs to look professional. theme of the video is a creepy evil pizza parlor, camera starts outside and works through the inside, through a secret bookshelf door into a basement with untold horrors and pizza sauce all over the place. use whatever tools or methods you need to make this look professional. final export should be an .mp4 of the entire music video."
+      },
+      "purpose": {
+        "label": "Music video",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "Paranoid American shared the exact prompt used with Claude to generate, composite, and animate a complete music video for their song \"Deep Dish\".",
     "summaryEn": "Deep Dish Music Video Prompt",
@@ -166,7 +181,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "Paranoid American shared the exact prompt used with Claude to generate, composite, and animate a complete music video for their song \"Deep Dish\".",
+    "useCase": "Music video",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

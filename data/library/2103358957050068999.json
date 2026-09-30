@@ -75,10 +75,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 animation created with this prompt: \"make me an animation to explain why celld earns its place.\""
       },
       "prompt": {
         "status": "fragment",
@@ -131,7 +131,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/0xnfrith/status/2103358957050068999",
+        "evidence": ""
+      }
     },
     "summary": "Nick Frith shares an animation generated using Opus 5.5 with a prompt asking for an explanation of why celld earns its place.",
     "summaryEn": "Celld Explanation Animation",
@@ -147,7 +157,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "explainers",
     "useCase": "Nick Frith shares an animation generated using Opus 5.5 with a prompt asking for an explanation of why celld earns its place.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

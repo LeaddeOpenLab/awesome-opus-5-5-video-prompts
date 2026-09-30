@@ -149,7 +149,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ishuagra02/status/2102920888261742726",
+        "evidence": ""
+      }
     },
     "summary": "A prompt used with Claude Opus 5.5 to generate an interactive 3D WebGL particle illustration of Santa Monica beach that adapts to the time of day.",
     "summaryEn": "Stylistic 3D Particle Santa Monica Beach",
@@ -165,7 +175,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "3d-scenes",
     "useCase": "A prompt used with Claude Opus 5.5 to generate an interactive 3D WebGL particle illustration of Santa Monica beach that adapts to the time of day.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

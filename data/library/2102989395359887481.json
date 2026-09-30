@@ -124,7 +124,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Ryzoft/status/2102989395359887481",
+        "evidence": ""
+      }
     },
     "summary": "A prompt asking the model to imagine a story and render a full animation using Three.js in the style of an 80s Star Wars or 90s cartoon.",
     "summaryEn": "Three.js Animated Story Prompt",
@@ -140,7 +150,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "games-interactive",
     "useCase": "A prompt asking the model to imagine a story and render a full animation using Three.js in the style of an 80s Star Wars or 90s cartoon.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

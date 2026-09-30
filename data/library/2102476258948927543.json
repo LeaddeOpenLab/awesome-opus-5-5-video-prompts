@@ -122,10 +122,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "opus 5.5, animated pixel art wizard, pure code"
       },
       "prompt": {
         "status": "fragment",
@@ -142,8 +142,23 @@
         "textualResultQuote": ""
       },
       "inputs": [],
-      "inputsDocumented": false,
-      "tools": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Canvas 2D",
+          "role": "2D browser renderer",
+          "evidence": "Create a single self-contained HTML file that renders an animated pixel art wizard casting a spell, using vanilla JavaScript and Canvas 2D.",
+          "sourceUrl": "https://x.com/majidmanzarpour/status/2102476499387383834",
+          "status": "required"
+        },
+        {
+          "name": "Vanilla JavaScript",
+          "role": "Programming language",
+          "evidence": "Create a single self-contained HTML file that renders an animated pixel art wizard casting a spell, using vanilla JavaScript and Canvas 2D.",
+          "sourceUrl": "https://x.com/majidmanzarpour/status/2102476499387383834",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/majidmanzarpour/status/2102476258948927543",
       "divisionEvidence": "",
@@ -178,7 +193,24 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/majidmanzarpour/status/2102476499387383834",
+        "evidence": "Create a single self-contained HTML file that renders an animated pixel art wizard casting a spell, using vanilla JavaScript and Canvas 2D. No external assets, libraries, or network requests.\n\nRENDERING\n- Draw everything to an offscreen canvas at a fixed logical resolution of 128x96, then blit to a fullscreen display canvas scaled by the largest integer factor that fits the window, centered, with ",
+        "noSuppliedAssets": true,
+        "inputSummary": "No external assets required by the prompt"
+      },
+      "purpose": {
+        "label": "Procedural pixel-art animation",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A detailed prompt instructing the creation of a standalone HTML file using pure vanilla JavaScript and Canvas 2D to procedurally generate and animate a 16-bit pixel art wizard casting a spell.",
     "summaryEn": "Animated Pixel Art Wizard in Canvas 2D",
@@ -195,7 +227,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A detailed prompt instructing the creation of a standalone HTML file using pure vanilla JavaScript and Canvas 2D to procedurally generate and animate a 16-bit pixel art wizard casting a spell.",
+    "useCase": "Procedural pixel-art animation",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

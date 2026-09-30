@@ -76,10 +76,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 made this video for Anuprerna in one shot."
       },
       "prompt": {
         "status": "fragment",
@@ -132,7 +132,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/AmitSingha89/status/2103737604277780553",
+        "evidence": "Make a professional explainer video for anuprerna.com for a first-time visitor."
+      },
+      "purpose": {
+        "label": "Educational / explainer video",
+        "topic": "explainers",
+        "tags": []
+      }
     },
     "summary": "Amit Singha shares a prompt used with Opus 5.5 to create a one-shot explainer video for Anuprerna.",
     "summaryEn": "Anuprerna Explainer Video Prompt",
@@ -148,8 +163,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "Amit Singha shares a prompt used with Opus 5.5 to create a one-shot explainer video for Anuprerna.",
+    "category": "explainers",
+    "useCase": "Educational / explainer video",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

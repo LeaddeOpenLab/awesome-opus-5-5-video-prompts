@@ -111,13 +111,16 @@
           "kind": "audio",
           "description": "Audio track 'I'm Upping My P(doom)' Claude-Pop version generated via Suno",
           "available": true,
-          "evidence": "audio/pdoom.mp3 — the song (the Claude-Pop version, see Credits)."
+          "evidence": "audio/pdoom.mp3 — the song (the Claude-Pop version, see Credits).",
+          "origin": "generated",
+          "sourceUrl": "https://github.com/mexicat/pdoom-video"
         },
         {
           "kind": "code_repository",
           "description": "TypeScript/Three.js codebase with Demucs/Whisper alignment pipelines and Vite frontend",
           "available": true,
-          "evidence": "https://github.com/mexicat/pdoom-video"
+          "evidence": "https://github.com/mexicat/pdoom-video",
+          "origin": "unknown"
         }
       ],
       "inputsDocumented": true,
@@ -125,17 +128,23 @@
         {
           "name": "Claude Code",
           "role": "Agent interactive coding environment orchestrating development with Claude Opus 5.5",
-          "evidence": "The video was made with Claude (Opus 5.5) in Claude Code"
-        },
-        {
-          "name": "Three.js / TypeScript",
-          "role": "Real-time WebGL rendering engine and timeline scene composition",
-          "evidence": "app/ — the renderer: TypeScript + three.js, bun + Vite."
+          "evidence": "The video was made with Claude (Opus 5.5) in Claude Code",
+          "sourceUrl": "https://github.com/mexicat/pdoom-video",
+          "status": "inferred"
         },
         {
           "name": "Playwright / FFmpeg",
           "role": "Headless Chrome frame capture and video file offline encoding",
-          "evidence": "scripts/render.ts — offline renderer (headless Chrome → raw frames over WebSocket → ffmpeg)."
+          "evidence": "scripts/render.ts — offline renderer (headless Chrome → raw frames over WebSocket → ffmpeg).",
+          "sourceUrl": "https://github.com/mexicat/pdoom-video",
+          "status": "inferred"
+        },
+        {
+          "name": "Three.js / TypeScript",
+          "role": "Real-time WebGL rendering engine and timeline scene composition",
+          "evidence": "app/ — the renderer: TypeScript + three.js, bun + Vite.",
+          "sourceUrl": "https://github.com/mexicat/pdoom-video",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Claude Opus 5.5 acted as the autonomous programming agent generating the audio analysis scripts, deterministic timeline engine, WebGL shaders, typography synchronization, and visual scene code.",
@@ -176,6 +185,16 @@
           "incomplete_or_unreproducible_prompt",
           "necessary_inputs_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/weiwei2018831/status/2104420680142082118",
+        "evidence": ""
       }
     },
     "summary": "Author used Claude Opus 5.5 via Claude Code to cooperatively design and program an entire generative music video, including lyric alignment, audio analysis, TypeScript/Three.js rendering engine, and dynamic 3D/typography scenes.",

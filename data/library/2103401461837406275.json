@@ -131,7 +131,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/rneayan/status/2103401461837406275",
+        "evidence": ""
+      }
     },
     "summary": "A prompt for generating a motion graphic about a studio using an oscilloscope visual style.",
     "summaryEn": "Oscilloscope Style Motion Graphic",

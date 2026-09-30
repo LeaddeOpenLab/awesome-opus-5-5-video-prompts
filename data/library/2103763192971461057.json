@@ -88,10 +88,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "I built an entire Hearthstone-style game with Opus 5.5 in one go."
       },
       "prompt": {
         "status": "fragment",
@@ -144,7 +144,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/aisongman/status/2103763192971461057",
+        "evidence": "Create a 1-on-1 card game like Hearthstone.\nJust make it. As best you can.\nIn pixel art style."
+      },
+      "purpose": {
+        "label": "Pixel-art card game prototype",
+        "topic": "games-interactive",
+        "tags": []
+      }
     },
     "summary": "The exact prompt used with Claude Opus 5.5 to generate an entire Hearthstone-style 1-on-1 card battler game in pixel art style.",
     "summaryEn": "Pixel Art Hearthstone-Style Card Game Prompt",
@@ -160,8 +175,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "The exact prompt used with Claude Opus 5.5 to generate an entire Hearthstone-style 1-on-1 card battler game in pixel art style.",
+    "category": "games-interactive",
+    "useCase": "Pixel-art card game prototype",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

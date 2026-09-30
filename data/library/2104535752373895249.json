@@ -109,7 +109,8 @@
           "kind": "data_and_script",
           "description": "Historical, demographic, and economic statistics about Hefei",
           "available": false,
-          "evidence": "The video includes specific chronological figures, GDP metrics, and industrial development data that were not separately provided."
+          "evidence": "The video includes specific chronological figures, GDP metrics, and industrial development data that were not separately provided.",
+          "origin": "unknown"
         }
       ],
       "inputsDocumented": false,
@@ -117,7 +118,8 @@
         {
           "name": "unknown_animation_engine",
           "role": "Motion graphics rendering engine (likely Remotion, Web Canvas, or similar framework)",
-          "evidence": "Author specifies Claude Opus 5.5 for creating the video but does not explicitly name the runtime or rendering library used."
+          "evidence": "Author specifies Claude Opus 5.5 for creating the video but does not explicitly name the runtime or rendering library used.",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Generating the creative direction, script structure, and motion graphics code in Persona 5 aesthetic",
@@ -156,6 +158,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/threeaus/status/2104566873480483255",
+        "evidence": ""
       }
     },
     "summary": "Author created a 2-minute 42-second Persona 5-styled infographic motion graphics promotional video showcasing Hefei's historical background, economic milestones, and industrial development using Claude Opus 5.5.",

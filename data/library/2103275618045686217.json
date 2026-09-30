@@ -137,7 +137,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/davidmarcus/status/2103275618045686217",
+        "evidence": ""
+      }
     },
     "summary": "David Marcus shared a prompt used with Opus 5.5 to generate a promotional video for Lightspark.",
     "summaryEn": "Lightspark Promo Video Prompt",

@@ -101,7 +101,8 @@
           "kind": "audio",
           "description": "Vocal and musical track generated via Suno",
           "available": false,
-          "evidence": "End credits note 'VOCALS: SUNO'"
+          "evidence": "End credits note 'VOCALS: SUNO'",
+          "origin": "generated"
         }
       ],
       "inputsDocumented": false,
@@ -109,7 +110,8 @@
         {
           "name": "Suno",
           "role": "Vocals / audio generation",
-          "evidence": "Video credit at 01:30: 'VOCALS: SUNO'"
+          "evidence": "Video credit at 01:30: 'VOCALS: SUNO'",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Wrote the lyrics and generated the motion animation code.",
@@ -149,6 +151,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/egemntoprak/status/2104506459530866869",
+        "evidence": ""
       }
     },
     "summary": "Claude Opus 5.5 was prompted to create a motion graphic video about the history of technology, resulting in animated kinetic typography and timeline visuals illustrating humanity's first transmitted messages.",

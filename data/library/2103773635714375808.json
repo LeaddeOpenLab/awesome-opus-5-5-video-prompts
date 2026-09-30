@@ -262,7 +262,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/thismacapital/status/2103773635714375808",
+        "evidence": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A prompt used to generate a dynamic 15-second motion graphics showreel video using Claude/Opus via native HTML, JS, and CSS rendered frame-by-frame.",
     "summaryEn": "Motion Graphics Showreel Video Prompt",
@@ -279,7 +294,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A prompt used to generate a dynamic 15-second motion graphics showreel video using Claude/Opus via native HTML, JS, and CSS rendered frame-by-frame.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

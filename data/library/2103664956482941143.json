@@ -105,10 +105,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Had to test this with Claude Opus 5.5."
       },
       "prompt": {
         "status": "fragment",
@@ -126,7 +126,15 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "FFmpeg",
+          "role": "Video encoding",
+          "evidence": "Use Python to generate a 9:16 chaotic brain rot video with excellent motion + sound design and render it using ffmpeg.",
+          "sourceUrl": "https://x.com/kloss_xyz/status/2103664956482941143",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/kloss_xyz/status/2103664956482941143",
       "divisionEvidence": "",
@@ -161,7 +169,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/kloss_xyz/status/2103664956482941143",
+        "evidence": ""
+      }
     },
     "summary": "Prompt directing Claude Opus 5.5 to generate a Python script that renders a 9:16 chaotic brain rot video with FFmpeg, expressing its perspective as a creative LLM.",
     "summaryEn": "Claude Opus 5.5 Brain Rot Video Prompt",

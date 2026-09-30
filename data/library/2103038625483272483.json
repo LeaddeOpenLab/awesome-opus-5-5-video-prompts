@@ -81,10 +81,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "I asked Opus 5.5 to generate a realistic 3D model of the Taj Mahal"
       },
       "prompt": {
         "status": "fragment",
@@ -102,7 +102,15 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "Render the entire experience in a single HTML file using Three.js, with orbit controls, zoom, cinematic lighting, realistic materials, shadows and a clean presentation.",
+          "sourceUrl": "https://x.com/CurieuxExplorer/status/2103038628071133588",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/CurieuxExplorer/status/2103038625483272483",
       "divisionEvidence": "",
@@ -137,7 +145,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/CurieuxExplorer/status/2103038628071133588",
+        "evidence": ""
+      }
     },
     "summary": "Prompt used with Opus 5.5 to generate an interactive, detailed 3D model of the Taj Mahal with an exploded architectural view in a single HTML file using Three.js.",
     "summaryEn": "Interactive 3D Taj Mahal in Three.js",
@@ -153,7 +171,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "3d-scenes",
     "useCase": "Prompt used with Opus 5.5 to generate an interactive, detailed 3D model of the Taj Mahal with an exploded architectural view in a single HTML file using Three.js.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

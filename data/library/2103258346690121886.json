@@ -81,10 +81,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 built a full demo video for us from basically one line!"
       },
       "prompt": {
         "status": "fragment",
@@ -137,7 +137,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/vahidf24/status/2103258350746058976",
+        "evidence": ""
+      }
     },
     "summary": "Vee shares a one-line prompt used with Opus 5.5 alongside brand assets and screenshots to create a full company demo video.",
     "summaryEn": "Opus 5.5 Demo Video Prompt",

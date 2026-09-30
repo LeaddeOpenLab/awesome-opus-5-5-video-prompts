@@ -93,7 +93,8 @@
           "kind": "graphic_assets",
           "description": "Masko Studio branding, 3D character illustrations, and affiliate calculator UI specs",
           "available": false,
-          "evidence": "Visible in the rendered video composition but not attached or linked in the post."
+          "evidence": "Visible in the rendered video composition but not attached or linked in the post.",
+          "origin": "unknown"
         }
       ],
       "inputsDocumented": false,
@@ -101,7 +102,8 @@
         {
           "name": "Unknown code animation renderer",
           "role": "Motion graphics rendering engine (e.g. Remotion / HTML Canvas)",
-          "evidence": "Author notes prompting Opus 5.5 to create the motion graphics video, but does not explicitly name the underlying rendering library."
+          "evidence": "Author notes prompting Opus 5.5 to create the motion graphics video, but does not explicitly name the underlying rendering library.",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Writing the animation code and orchestrating the motion graphics scene composition",
@@ -113,7 +115,7 @@
         "aspectRatio": "16:9",
         "referenceMaterials": []
       },
-      "task": "other-animation",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Authentic author post demonstrating Claude Opus 5.5 motion graphics video production with verified model mention and full video output.",
       "isAdvertisement": false,
@@ -140,6 +142,21 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/paulo_kombucha/status/2104481235028283883",
+        "evidence": "make a dynamic 15-second motion graphics video to talk about our referral program"
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
       }
     },
     "summary": "Paulo demonstrates using Claude Opus 5.5 to create a dynamic 15-second animated motion graphics video promoting Masko Studio's referral and affiliate program.",
@@ -156,8 +173,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "other-animation",
-    "useCase": "Paulo demonstrates using Claude Opus 5.5 to create a dynamic 15-second animated motion graphics video promoting Masko Studio's referral and affiliate program.",
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

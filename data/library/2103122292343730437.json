@@ -93,10 +93,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "just tried the same prompt with opus 5.5 and got something really interesting (although not quite coherent) https://t.co/BY4fNOlGwK"
       },
       "prompt": {
         "status": "fragment",
@@ -149,7 +149,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/SuryaRajendhran/status/2103122292343730437",
+        "evidence": ""
+      }
     },
     "summary": "A prompt asking an AI model to create a 30-second video expressing what it feels like to be itself using any available tools.",
     "summaryEn": "What It Feels Like to Be You",

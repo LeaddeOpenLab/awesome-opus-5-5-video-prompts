@@ -137,15 +137,19 @@
           "kind": "image",
           "description": "Reference cocktail recipe illustration image attached to the prompt",
           "available": false,
-          "evidence": "\"Opus 5.5 rendered this in HTML from (1) image\""
+          "evidence": "\"Opus 5.5 rendered this in HTML from (1) image\"",
+          "origin": "user",
+          "sourceUrl": "https://x.com/Ror_Fly/status/2102853258582880547"
         }
       ],
       "inputsDocumented": true,
       "tools": [
         {
-          "name": "HTML/JavaScript / Browser",
-          "role": "Execution and rendering environment for the animated motion graphic code",
-          "evidence": "\"Opus 5.5 rendered this in HTML from (1) image\""
+          "name": "JavaScript",
+          "role": "Programming language",
+          "evidence": "Do you think you could render a recipe motion graphic animation using javascript or html (w/e you think will produce the best) to show the full recipe from start to finish (empty glass to completed cocktail) - Explainer video style - Showing the recipe ingreidents + measurements as they're going into the cup.",
+          "sourceUrl": "https://x.com/Ror_Fly/status/2102853258582880547",
+          "status": "required"
         }
       ],
       "targetModelRole": "Authoring HTML and JavaScript code for the motion graphic animation",
@@ -159,7 +163,7 @@
           "One reference recipe image"
         ]
       },
-      "task": "canvas-interactive",
+      "task": "explainers",
       "suitable": true,
       "reason": "Authentic demonstration of Claude Opus 5.5 orchestrating HTML/JS code for a 30-second motion graphic animation matching the explicit text prompt and video output.",
       "isAdvertisement": false,
@@ -186,6 +190,21 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Ror_Fly/status/2102853258582880547",
+        "evidence": "We're going to try a little test. Do you think you could render a recipe motion graphic animation using javascript or html (w/e you think will produce the best) to show the full recipe from start to finish (empty glass to completed cocktail) - Explainer video style - Showing the recipe ingreidents + measurements as they're going into the cup. Should be a 30s video."
+      },
+      "purpose": {
+        "label": "Cocktail recipe explainer",
+        "topic": "explainers",
+        "tags": []
       }
     },
     "summary": "Rory Flynn demonstrates Claude Opus 5.5 generating a complete 30-second motion graphic cocktail recipe animation in HTML/JavaScript from a text prompt and single reference image.",
@@ -202,8 +221,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "canvas-interactive",
-    "useCase": "Rory Flynn demonstrates Claude Opus 5.5 generating a complete 30-second motion graphic cocktail recipe animation in HTML/JavaScript from a text prompt and single reference image.",
+    "category": "explainers",
+    "useCase": "Cocktail recipe explainer",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

@@ -142,6 +142,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ekcheungAI/status/2104406088862810533",
+        "evidence": ""
       }
     },
     "summary": "Author demonstrates a 3D flight simulator project created by prompting Claude Opus 5.5, featuring cockpit instrumentation, switchable camera angles, and city navigation.",

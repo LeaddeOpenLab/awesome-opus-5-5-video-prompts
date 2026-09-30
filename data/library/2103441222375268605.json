@@ -149,7 +149,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/tcballard/status/2103441225231585383",
+        "evidence": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it’s your showreel for a résumé. go all out. It should be focused on Omarchy"
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "Tom Ballard shared a dynamic 15-second motion graphics video created with Opus 5.5, acting as a motion designer showreel focused on Omarchy.",
     "summaryEn": "Dynamic Motion Graphics Showreel for Omarchy",
@@ -166,7 +181,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "Tom Ballard shared a dynamic 15-second motion graphics video created with Opus 5.5, acting as a motion designer showreel focused on Omarchy.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

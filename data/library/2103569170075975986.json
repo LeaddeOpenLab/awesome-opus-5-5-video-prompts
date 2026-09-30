@@ -155,7 +155,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/slvDev/status/2103569170075975986",
+        "evidence": ""
+      }
     },
     "summary": "Slava S. shares a motion design animation created using Opus 5.5 Max from a single simple prompt.",
     "summaryEn": "Motion Design Self-Promotion Promo",

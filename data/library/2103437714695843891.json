@@ -124,7 +124,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/opener_ai/status/2103437714695843891",
+        "evidence": "Make a game like Romance of the Three Kingdoms III with a retro, pixelated classic vibe."
+      },
+      "purpose": {
+        "label": "Game / playable prototype",
+        "topic": "games-interactive",
+        "tags": []
+      }
     },
     "summary": "Prompt used to generate a game inspired by Romance of the Three Kingdoms III featuring a retro pixelated aesthetic.",
     "summaryEn": "Retro Romance of the Three Kingdoms Game Prompt",
@@ -140,8 +155,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "Prompt used to generate a game inspired by Romance of the Three Kingdoms III featuring a retro pixelated aesthetic.",
+    "category": "games-interactive",
+    "useCase": "Game / playable prototype",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

@@ -93,10 +93,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "I asked Opus 5.5 to build a tiny underground delivery network in three.js — then turned it into a game."
       },
       "prompt": {
         "status": "fragment",
@@ -114,7 +114,22 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "React",
+          "role": "Web UI framework",
+          "status": "author_confirmed",
+          "evidence": "Built with Claude Code + Opus 5.5, React Three Fiber, zero audio files (all sounds are synthesized).",
+          "sourceUrl": "https://x.com/lisp_mi/status/2104047109616095416"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "build a tiny underground delivery network in three.js",
+          "sourceUrl": "https://x.com/lisp_mi/status/2104046743751139812",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/lisp_mi/status/2104046743751139812",
       "divisionEvidence": "",
@@ -149,7 +164,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/lisp_mi/status/2104046743751139812",
+        "evidence": ""
+      }
     },
     "summary": "A 3D browser simulation game depicting a tiny underground parcel delivery network, created using Claude Opus 5.5 and Three.js.",
     "summaryEn": "Underground Delivery Network Game",
@@ -165,7 +190,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "games-interactive",
     "useCase": "A 3D browser simulation game depicting a tiny underground parcel delivery network, created using Claude Opus 5.5 and Three.js.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

@@ -172,17 +172,21 @@
         {
           "name": "Claude Code",
           "role": "Agent environment executing and managing the project files and builds",
-          "evidence": "\"To clarify, this was done on claude Code not claude browser. I don’t think claude browser can do this.\""
+          "evidence": "To clarify, this was done on claude Code not claude browser. I don’t think claude browser can do this.",
+          "sourceUrl": "https://x.com/leonabboud/status/2103581597715054651",
+          "status": "inferred"
         },
         {
           "name": "Remotion",
           "role": "Video rendering framework in React",
-          "evidence": "\"MADE ENTIRELY IN CODE - REACT - REMOTION - THREE.JS - 0 KEYFRAMES DRAGGED\""
+          "evidence": "\"MADE ENTIRELY IN CODE - REACT - REMOTION - THREE.JS - 0 KEYFRAMES DRAGGED\"",
+          "status": "inferred"
         },
         {
           "name": "Three.js",
           "role": "3D and particle graphics library",
-          "evidence": "\"MADE ENTIRELY IN CODE - REACT - REMOTION - THREE.JS - 0 KEYFRAMES DRAGGED\""
+          "evidence": "\"MADE ENTIRELY IN CODE - REACT - REMOTION - THREE.JS - 0 KEYFRAMES DRAGGED\"",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Code generation and agent orchestration to write the complete Remotion, React, and Three.js code for the animation sequences",
@@ -194,7 +198,7 @@
         "aspectRatio": "16:9",
         "referenceMaterials": []
       },
-      "task": "remotion",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Includes a complete original prompt, explicit confirmation of Claude Opus 5.5 used via Claude Code, clear tool division (Remotion/React/Three.js), and the full output video.",
       "isAdvertisement": false,
@@ -219,6 +223,21 @@
           "author_model_use_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/leonabboud/status/2103576084499358051",
+        "evidence": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
       }
     },
     "summary": "Leon Abboud prompted Claude Opus 5.5 via Claude Code to produce a 15-second motion graphics showreel demonstration entirely in code using Remotion, React, and Three.js.",
@@ -235,8 +254,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "remotion",
-    "useCase": "Leon Abboud prompted Claude Opus 5.5 via Claude Code to produce a 15-second motion graphics showreel demonstration entirely in code using Remotion, React, and Three.js.",
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": true,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

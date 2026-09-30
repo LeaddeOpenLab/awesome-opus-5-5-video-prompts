@@ -110,13 +110,15 @@
           "kind": "graphic_assets",
           "description": "Pokobot mascot illustration and logo graphics",
           "available": false,
-          "evidence": "Video prominently features custom vector/illustrated character art and branding for Pokobot."
+          "evidence": "Video prominently features custom vector/illustrated character art and branding for Pokobot.",
+          "origin": "unknown"
         },
         {
           "kind": "audio",
           "description": "Synchronized background music track",
           "available": false,
-          "evidence": "Video contains an upbeat soundtrack that is not documented or supplied in the post."
+          "evidence": "Video contains an upbeat soundtrack that is not documented or supplied in the post.",
+          "origin": "unknown"
         }
       ],
       "inputsDocumented": false,
@@ -124,7 +126,8 @@
         {
           "name": "Unknown code execution / rendering engine",
           "role": "Motion graphics rendering environment (e.g., Remotion, Canvas, or browser recording)",
-          "evidence": "The author specifies Opus 5.5 wrote the motion design, but omits the execution framework used to render the final MP4."
+          "evidence": "The author specifies Opus 5.5 wrote the motion design, but omits the execution framework used to render the final MP4.",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Agent code generation and motion choreography",
@@ -136,7 +139,7 @@
         "aspectRatio": "16:9",
         "referenceMaterials": []
       },
-      "task": "other-animation",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Authentic showcase of Claude Opus 5.5 orchestrating motion graphics animation with verbatim prompt and full video output.",
       "isAdvertisement": false,
@@ -162,6 +165,21 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/sudhanshusoni__/status/2104525366224412962",
+        "evidence": "Make a dynamic 15-second motion graphic video for Pokobot that shows what an incredible motion designer you are, like its your showreel for a resume, go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
       }
     },
     "summary": "Author shares a 15-second dynamic motion graphics promotional video for Pokobot, stating it was one-shotted by Opus 5.5 from a single creative brief prompt.",
@@ -178,8 +196,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "other-animation",
-    "useCase": "Author shares a 15-second dynamic motion graphics promotional video for Pokobot, stating it was one-shotted by Opus 5.5 from a single creative brief prompt.",
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

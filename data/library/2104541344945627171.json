@@ -106,7 +106,7 @@
         "aspectRatio": "16:9",
         "referenceMaterials": []
       },
-      "task": "other-animation",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Complete original prompt and corresponding video demonstrating Claude Opus 5.5 code-based motion graphics production.",
       "isAdvertisement": false,
@@ -130,6 +130,24 @@
         "reasons": [
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [
+          "Same verbatim prompt as 2103449416325890146; retained as another creator result."
+        ],
+        "sourceUrl": "https://x.com/just_adev/status/2104541344945627171",
+        "evidence": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.",
+        "variantOf": "2103449416325890146"
+      },
+      "purpose": {
+        "label": "15-second motion design showreel",
+        "topic": "motion-graphics",
+        "tags": []
       }
     },
     "summary": "Claude Opus 5.5 generates code for a 15-second dynamic motion graphics showreel showcasing animation principles, particle effects, 3D wireframe math, and typography.",
@@ -146,8 +164,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "other-animation",
-    "useCase": "Claude Opus 5.5 generates code for a 15-second dynamic motion graphics showreel showcasing animation principles, particle effects, 3D wireframe math, and typography.",
+    "category": "motion-graphics",
+    "useCase": "15-second motion design showreel",
     "hasReusablePrompt": true,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

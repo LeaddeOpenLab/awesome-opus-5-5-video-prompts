@@ -125,7 +125,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/loicRambo/status/2103428454355980558",
+        "evidence": "make a dynamic 20-second motion graphics and animation video that shows what an incredible motion designer and animator you are, like it's your showreel for a résumé. make it about the cycle of life showing the same individual going from childhood to adolescence to the 9-5 cycle, to family life to elder life and death, then cutting ready to loop to the beginning.  go all out , use whatever you need."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A dynamic motion design prompt visualizing the cycle of life from childhood to elderhood, styled as an animator's showreel loop.",
     "summaryEn": "Cycle of Life Motion Graphics Showreel",
@@ -142,7 +157,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A dynamic motion design prompt visualizing the cycle of life from childhood to elderhood, styled as an animator's showreel loop.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

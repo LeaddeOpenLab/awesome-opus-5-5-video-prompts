@@ -131,7 +131,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/marklaunches/status/2103811146411041046",
+        "evidence": ""
+      }
     },
     "summary": "Mark Hinschberger shares a single prompt used to create an emotional promotional video for his app.",
     "summaryEn": "Emotional App Video Prompt",

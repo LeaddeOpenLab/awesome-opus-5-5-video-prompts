@@ -105,9 +105,53 @@
       "inputsDocumented": true,
       "tools": [
         {
-          "name": "WebGPU / WGSL",
-          "role": "Real-time rendering and compute shader execution for tetrahedral XPBD soft-body physics simulation in-browser",
-          "evidence": "Built in one HTML file with WebGPU + WGSL + real-time soft-body physics."
+          "name": "Babylon.js",
+          "role": "3D browser renderer",
+          "evidence": "No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.",
+          "sourceUrl": "https://x.com/ImaStudio_ai/status/2104517586092458039",
+          "status": "prohibited"
+        },
+        {
+          "name": "Canvas 2D",
+          "role": "2D browser renderer",
+          "evidence": "No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.",
+          "sourceUrl": "https://x.com/ImaStudio_ai/status/2104517586092458039",
+          "status": "prohibited"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.",
+          "sourceUrl": "https://x.com/ImaStudio_ai/status/2104517586092458039",
+          "status": "prohibited"
+        },
+        {
+          "name": "WebGPU",
+          "role": "GPU rendering API",
+          "status": "author_confirmed",
+          "evidence": "Built in one HTML file with WebGPU + WGSL + real-time soft-body physics.",
+          "sourceUrl": "https://x.com/ImaStudio_ai/status/2104514806443303238"
+        },
+        {
+          "name": "WebGPU",
+          "role": "GPU rendering API",
+          "evidence": "Build immediately a complete interactive WebGPU site called “Strawberry Cake.”",
+          "sourceUrl": "https://x.com/ImaStudio_ai/status/2104517586092458039",
+          "status": "required"
+        },
+        {
+          "name": "WGSL",
+          "role": "GPU shader language",
+          "status": "author_confirmed",
+          "evidence": "Built in one HTML file with WebGPU + WGSL + real-time soft-body physics.",
+          "sourceUrl": "https://x.com/ImaStudio_ai/status/2104514806443303238"
+        },
+        {
+          "name": "WGSL",
+          "role": "GPU shader language",
+          "evidence": "Use genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics.",
+          "sourceUrl": "https://x.com/ImaStudio_ai/status/2104517586092458039",
+          "status": "required"
         }
       ],
       "targetModelRole": "Claude Opus 5.5 authored the self-contained HTML/JavaScript/WGSL code specifying physics, shaders, geometry, and UI interaction logic.",
@@ -119,7 +163,7 @@
         "aspectRatio": "1.54:1",
         "referenceMaterials": []
       },
-      "task": "canvas-interactive",
+      "task": "games-interactive",
       "suitable": true,
       "reason": "Complete authentic Claude Opus 5.5 interactive media production case with fully disclosed verbatim instructions, clear separation of model generation versus browser runtime execution, and direct screen recording evidence verifying consistency.",
       "isAdvertisement": false,
@@ -143,6 +187,23 @@
         "reasons": [
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ImaStudio_ai/status/2104517586092458039",
+        "evidence": "Build immediately a complete interactive WebGPU site called “Strawberry Cake.” \nUse genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.\nVisual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frost",
+        "inputSummary": "No external assets required by the prompt",
+        "noSuppliedAssets": true
+      },
+      "purpose": {
+        "label": "Interactive soft-body physics demo",
+        "topic": "games-interactive",
+        "tags": []
       }
     },
     "summary": "Claude Opus 5.5 generated a standalone interactive WebGPU application implementing real-time XPBD volumetric soft-body physics, procedural slicing, and deformation for a strawberry shortcake.",
@@ -159,8 +220,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "canvas-interactive",
-    "useCase": "Claude Opus 5.5 generated a standalone interactive WebGPU application implementing real-time XPBD volumetric soft-body physics, procedural slicing, and deformation for a strawberry shortcake.",
+    "category": "games-interactive",
+    "useCase": "Interactive soft-body physics demo",
     "hasReusablePrompt": true,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

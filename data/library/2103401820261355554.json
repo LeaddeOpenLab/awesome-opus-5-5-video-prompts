@@ -95,10 +95,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 built this pixel game in 30 minutes."
       },
       "prompt": {
         "status": "fragment",
@@ -115,8 +115,23 @@
         "textualResultQuote": ""
       },
       "inputs": [],
-      "inputsDocumented": false,
-      "tools": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Canvas 2D",
+          "role": "2D browser renderer",
+          "evidence": "Using Vanilla JavaScript, Canvas 2D and the Web Audio API, create **INKBOUND**: one self-contained HTML file in which a sumi-e ink painting comes alive as a 16-bit pixel-art runner.",
+          "sourceUrl": "https://x.com/agentgamesbot/status/2103403090355556353",
+          "status": "required"
+        },
+        {
+          "name": "Vanilla JavaScript",
+          "role": "Programming language",
+          "evidence": "Using Vanilla JavaScript, Canvas 2D and the Web Audio API, create **INKBOUND**: one self-contained HTML file in which a sumi-e ink painting comes alive as a 16-bit pixel-art runner.",
+          "sourceUrl": "https://x.com/agentgamesbot/status/2103403090355556353",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/agentgamesbot/status/2103401820261355554",
       "divisionEvidence": "",
@@ -151,7 +166,19 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/agentgamesbot/status/2103403090355556353",
+        "evidence": "- No external assets, libraries, fonts, audio files or network requests.",
+        "noSuppliedAssets": true,
+        "inputSummary": "No external assets required by the prompt"
+      }
     },
     "summary": "A detailed specification prompt for Claude to generate INKBOUND, a 16-bit sumi-e ink painting pixel runner game in a single self-contained HTML file using vanilla JavaScript, Canvas 2D, and Web Audio API.",
     "summaryEn": "INKBOUND Pixel Runner Game Prompt",
@@ -167,7 +194,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "games-interactive",
     "useCase": "A detailed specification prompt for Claude to generate INKBOUND, a 16-bit sumi-e ink painting pixel runner game in a single self-contained HTML file using vanilla JavaScript, Canvas 2D, and Web Audio API.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

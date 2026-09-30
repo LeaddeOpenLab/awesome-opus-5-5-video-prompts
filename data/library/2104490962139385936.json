@@ -96,25 +96,33 @@
           "kind": "video",
           "description": "YouTube animated explainer reference videos",
           "available": false,
-          "evidence": "\"Take a look at our Youtube for example animated explainer videos\""
+          "evidence": "\"Take a look at our Youtube for example animated explainer videos\"",
+          "origin": "user",
+          "sourceUrl": "https://x.com/andrewmichaelsa/status/2104490962139385936"
         },
         {
           "kind": "documentation",
           "description": "Brand style guidelines",
           "available": false,
-          "evidence": "\"review our brand guidelines for style reference\""
+          "evidence": "\"review our brand guidelines for style reference\"",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/andrewmichaelsa/status/2104490962139385936"
         },
         {
           "kind": "text",
           "description": "Blog post outlining the feature",
           "available": false,
-          "evidence": "\"review this blog post\""
+          "evidence": "\"review this blog post\"",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/andrewmichaelsa/status/2104490962139385936"
         },
         {
           "kind": "code",
           "description": "Feature codebase and website assets",
           "available": false,
-          "evidence": "\"and our codebase to understand the new feature. Generate screenshots if needed, visit our site, grab any assets you need\""
+          "evidence": "\"and our codebase to understand the new feature. Generate screenshots if needed, visit our site, grab any assets you need\"",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/andrewmichaelsa/status/2104490962139385936"
         }
       ],
       "inputsDocumented": false,
@@ -128,7 +136,7 @@
         "aspectRatio": "16:9",
         "referenceMaterials": []
       },
-      "task": "other-animation",
+      "task": "explainers",
       "suitable": true,
       "reason": "Demonstrates Opus 5.5 agent video workflow creating an animated product explainer from context.",
       "isAdvertisement": false,
@@ -156,6 +164,21 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/andrewmichaelsa/status/2104490962139385936",
+        "evidence": "Take a look at our Youtube for example animated explainer videos, review our brand guidelines for style reference, review this blog post, and our codebase to understand the new feature. Generate screenshots if needed, visit our site, grab any assets you need, and generate an explainer video to explain Site Optimization."
+      },
+      "purpose": {
+        "label": "Educational / explainer video",
+        "topic": "explainers",
+        "tags": []
       }
     },
     "summary": "Author prompts Claude Opus 5.5 to inspect brand guidelines, codebase, and site assets to generate an animated explainer video for Site Optimization.",
@@ -172,8 +195,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "other-animation",
-    "useCase": "Author prompts Claude Opus 5.5 to inspect brand guidelines, codebase, and site assets to generate an animated explainer video for Site Optimization.",
+    "category": "explainers",
+    "useCase": "Educational / explainer video",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

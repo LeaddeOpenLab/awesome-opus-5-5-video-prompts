@@ -75,10 +75,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Made with Claude OPUS 5.5"
       },
       "prompt": {
         "status": "fragment",
@@ -131,7 +131,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/3xtihor/status/2103551886272159839",
+        "evidence": "Make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. Go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A dynamic 15-second motion graphics showreel designed to demonstrate high-level motion design capabilities for a résumé.",
     "summaryEn": "Motion Graphics Showreel",
@@ -148,7 +163,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A dynamic 15-second motion graphics showreel designed to demonstrate high-level motion design capabilities for a résumé.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

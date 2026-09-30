@@ -143,7 +143,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/goofyninjaaa/status/2103540288136315331",
+        "evidence": ""
+      }
     },
     "summary": "Claude Opus 5.5 generated a 2D/3D bedroom planning app to test thousands of positions for fitting a double bed, based on specified room and furniture dimensions.",
     "summaryEn": "Bedroom Layout Generator Prompt",
@@ -159,7 +169,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "3d-scenes",
     "useCase": "Claude Opus 5.5 generated a 2D/3D bedroom planning app to test thousands of positions for fitting a double bed, based on specified room and furniture dimensions.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

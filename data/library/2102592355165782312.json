@@ -179,7 +179,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Michaelzsguo/status/2102593579604377636",
+        "evidence": ""
+      }
     },
     "summary": "A prompt to generate a 2-minute sand animation illustrating 250 years of U.S. history with accompanying background music and sound design.",
     "summaryEn": "250 Years of U.S. History Sand Animation",
@@ -195,7 +205,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "3d-scenes",
     "useCase": "A prompt to generate a 2-minute sand animation illustrating 250 years of U.S. history with accompanying background music and sound design.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

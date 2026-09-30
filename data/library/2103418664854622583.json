@@ -131,7 +131,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/zheke/status/2103418664854622583",
+        "evidence": ""
+      }
     },
     "summary": "Eugene C shares a prompt asking Opus 5.5 to demonstrate its motion design capabilities.",
     "summaryEn": "Opus 5.5 Motion Designer Prompt",

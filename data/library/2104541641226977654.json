@@ -101,7 +101,9 @@
         {
           "name": "Unspecified code renderer / runtime",
           "role": "Renders the generated animation code frame by frame into video",
-          "evidence": "no after effects. every frame is code 👇"
+          "evidence": "no after effects. every frame is code 👇",
+          "sourceUrl": "https://x.com/RaphaelAubryy/status/2104541641226977654",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Generates the programmatic animation code for the motion graphics showreel",
@@ -113,7 +115,7 @@
         "aspectRatio": "16:9",
         "referenceMaterials": []
       },
-      "task": "other-animation",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Authentic Claude Opus 5.5 video production showcase featuring the complete verbatim prompt, clear author confirmation of model and version, and an accompanying 15-second programmatic motion graphics video.",
       "isAdvertisement": false,
@@ -138,6 +140,21 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/RaphaelAubryy/status/2104541641226977654",
+        "evidence": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
       }
     },
     "summary": "Raphael Aubry tests Claude Opus 5.5 with max effort in a single prompt to generate code for a dynamic 15-second motion graphics showreel without After Effects.",
@@ -154,8 +171,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "other-animation",
-    "useCase": "Raphael Aubry tests Claude Opus 5.5 with max effort in a single prompt to generate code for a dynamic 15-second motion graphics showreel without After Effects.",
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": true,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

@@ -109,7 +109,9 @@
           "kind": "game_engine",
           "description": "MONORAL engine setup and 3D Game Boy mockup with canvas rendering",
           "available": false,
-          "evidence": "MONORALエンジンをゲームボーイ風の筐体モデリングして液晶部分をキャンバスとして描画。"
+          "evidence": "MONORALエンジンをゲームボーイ風の筐体モデリングして液晶部分をキャンバスとして描画。",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/mickeysmith_jp/status/2104539335249088582"
         }
       ],
       "inputsDocumented": false,
@@ -117,7 +119,9 @@
         {
           "name": "MONORAL",
           "role": "Engine and canvas renderer displaying the Game Boy housing and screen",
-          "evidence": "MONORALエンジンをゲームボーイ風の筐体モデリングして液晶部分をキャンバスとして描画。"
+          "evidence": "MONORALエンジンをゲームボーイ風の筐体モデリングして液晶部分をキャンバスとして描画。",
+          "sourceUrl": "https://x.com/mickeysmith_jp/status/2104539335249088582",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Writing the game logic code reproducing Game Boy Tetris for execution within the MONORAL environment",
@@ -155,6 +159,16 @@
           "incomplete_or_unreproducible_prompt",
           "necessary_inputs_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/mickeysmith_jp/status/2104539335249088582",
+        "evidence": ""
       }
     },
     "summary": "The author modeled a Game Boy style housing using their MONORAL engine with the LCD rendered on canvas, then prompted Claude Opus 5.5 to recreate the Game Boy version of Tetris to run within MONORAL.",

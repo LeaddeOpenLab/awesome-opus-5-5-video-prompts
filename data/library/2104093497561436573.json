@@ -192,7 +192,7 @@
         "aspectRatio": null,
         "referenceMaterials": []
       },
-      "task": "3d-scenes",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Source-index import; extraction only.",
       "isAdvertisement": false,
@@ -217,7 +217,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/VectorCrossProd/status/2104129642533970149",
+        "evidence": "I wanted a 10s promotional video showing an exploded view animation of the enclosure and how it is used, that it is visually appealing but informative with text annotations"
+      },
+      "purpose": {
+        "label": "Product / brand film",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "Nigel Hungerford-Symes shares the prompt used with Claude Opus 5.5 in Claude Code to generate a 3D exploded view promo animation of a 3D-printable enclosure with text annotations.",
     "summaryEn": "Claude Code 3D Enclosure Promo Video Prompt",
@@ -234,7 +249,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "Nigel Hungerford-Symes shares the prompt used with Claude Opus 5.5 in Claude Code to generate a 3D exploded view promo animation of a 3D-printable enclosure with text annotations.",
+    "useCase": "Product / brand film",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

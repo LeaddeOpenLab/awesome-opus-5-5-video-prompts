@@ -82,10 +82,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Made this promo for Sprites in one shot with Opus 5.5."
       },
       "prompt": {
         "status": "fragment",
@@ -103,7 +103,29 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "FFmpeg",
+          "role": "Video encoding",
+          "evidence": "Render with Playwright: 4 subframes per frame, blended with ffmpeg tmix for motion blur at 60fps.",
+          "sourceUrl": "https://x.com/AnnaCher___/status/2103571098638152174",
+          "status": "required"
+        },
+        {
+          "name": "NumPy",
+          "role": "Audio / numerical analysis",
+          "evidence": "Synthesize UI sounds with numpy and place each one by its measured peak on the beat grid.",
+          "sourceUrl": "https://x.com/AnnaCher___/status/2103571098638152174",
+          "status": "required"
+        },
+        {
+          "name": "Playwright",
+          "role": "Browser frame capture",
+          "evidence": "Render with Playwright: 4 subframes per frame, blended with ffmpeg tmix for motion blur at 60fps.",
+          "sourceUrl": "https://x.com/AnnaCher___/status/2103571098638152174",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/AnnaCher___/status/2103571096549433425",
       "divisionEvidence": "",
@@ -138,7 +160,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/AnnaCher___/status/2103571098638152174",
+        "evidence": ""
+      }
     },
     "summary": "A detailed system prompt to analyze sprites.ai and build an animated, looped product promo using pure code (HTML/Playwright/Python), featuring continuous morphing UI states and beat-matched UI sounds.",
     "summaryEn": "Sprites Product Promo UI Motion Prompt",

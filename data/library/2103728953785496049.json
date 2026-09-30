@@ -86,10 +86,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Made entirely with Claude Opus 5.5!"
       },
       "prompt": {
         "status": "fragment",
@@ -142,7 +142,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/prasad_pilla/status/2103728953785496049",
+        "evidence": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, for @tryAlanAI. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A prompt instructing the model to generate a dynamic 15-second motion graphics showcase video tailored to Alan AI.",
     "summaryEn": "Dynamic Motion Graphics Video Prompt",
@@ -159,7 +174,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A prompt instructing the model to generate a dynamic 15-second motion graphics showcase video tailored to Alan AI.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

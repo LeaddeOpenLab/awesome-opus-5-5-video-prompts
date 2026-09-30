@@ -102,7 +102,15 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "JavaScript",
+          "role": "Programming language",
+          "evidence": "Make an 80 second square animated film as a single HTML file, using WebGL2 and plain JavaScript, with no libraries and no image, font or audio files.",
+          "sourceUrl": "https://x.com/zeezomb/status/2102906703087825273",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/zeezomb/status/2102906701552726206",
       "divisionEvidence": "",
@@ -137,7 +145,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/zeezomb/status/2102906703087825273",
+        "evidence": ""
+      }
     },
     "summary": "A prompt instructing the model to generate a standalone HTML/WebGL2 animation resembling a dynamic, unglued glass and gold leaf mosaic with flocking tile creatures.",
     "summaryEn": "Animated Mosaic Film in WebGL2",

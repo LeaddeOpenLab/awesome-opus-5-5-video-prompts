@@ -97,7 +97,15 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "TypeScript + Three.js, no physics engine.",
+          "sourceUrl": "https://x.com/StephanFerraro/status/2103020274107224281",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/StephanFerraro/status/2103020274107224281",
       "divisionEvidence": "",
@@ -132,7 +140,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/StephanFerraro/status/2103020274107224281",
+        "evidence": ""
+      }
     },
     "summary": "Claude Opus 5.5 runs a benchmark task to generate a 3D procedural water simulation with terrain, rain, streams, and lakes using TypeScript and Three.js.",
     "summaryEn": "3D Water Simulation Benchmark",
@@ -148,7 +166,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "explainers",
     "useCase": "Claude Opus 5.5 runs a benchmark task to generate a 3D procedural water simulation with terrain, rain, streams, and lakes using TypeScript and Three.js.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

@@ -93,10 +93,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Used the below one line prompt & asked Opus 5.5 to create a video for ocrX app."
       },
       "prompt": {
         "status": "fragment",
@@ -149,7 +149,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/mehul4795/status/2103420457110417532",
+        "evidence": ""
+      }
     },
     "summary": "A one-line prompt used with Opus 5.5 to generate a product launch video for the ocrX Android app.",
     "summaryEn": "ocrX Android App Launch Video Prompt",

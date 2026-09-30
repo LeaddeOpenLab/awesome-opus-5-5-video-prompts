@@ -105,14 +105,25 @@
       "inputsDocumented": true,
       "tools": [
         {
-          "name": "WebGPU / WGSL",
-          "role": "Shader execution and graphics rendering in the browser",
-          "evidence": "Prompt requests 'runs directly in the browser using genuine WebGPU and WGSL shaders'."
+          "name": "JavaScript",
+          "role": "Programming language",
+          "evidence": "Deliver a single, self-contained HTML file with embedded JavaScript and CSS.",
+          "sourceUrl": "https://x.com/esrhengwu/status/2104505413857415515",
+          "status": "required"
         },
         {
-          "name": "JavaScript / HTML Canvas",
-          "role": "Hosting the UI and soft-body XPBD simulation loop",
-          "evidence": "Prompt requests 'Deliver a single, self-contained HTML file with embedded JavaScript and CSS'."
+          "name": "WebGPU",
+          "role": "GPU rendering API",
+          "evidence": "Create “Melon Jelly” - a polished, interactive 3D watermelon jelly slice that runs directly in the browser using genuine WebGPU and WGSL shaders.",
+          "sourceUrl": "https://x.com/esrhengwu/status/2104505413857415515",
+          "status": "required"
+        },
+        {
+          "name": "WGSL",
+          "role": "GPU shader language",
+          "evidence": "Create “Melon Jelly” - a polished, interactive 3D watermelon jelly slice that runs directly in the browser using genuine WebGPU and WGSL shaders.",
+          "sourceUrl": "https://x.com/esrhengwu/status/2104505413857415515",
+          "status": "required"
         }
       ],
       "targetModelRole": "Generates the single-file HTML, JS physics engine, and WGSL shader code.",
@@ -149,6 +160,16 @@
           "author_model_use_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/esrhengwu/status/2104505413857415515",
+        "evidence": ""
       }
     },
     "summary": "Claude Opus 5.5 generated a self-contained WebGPU/XPBD soft-body 3D watermelon jelly simulation shown in a side-by-side screen recording.",

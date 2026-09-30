@@ -73,10 +73,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "@claudeai Then i asked @ClaudeDevs Opus 5.5 to add some music, and make 2 versions - 1 landscape, one portrait."
       },
       "prompt": {
         "status": "fragment",
@@ -129,7 +129,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/PalashBagchi11/status/2102924409124389221",
+        "evidence": ""
+      }
     },
     "summary": "A prompt directing Opus 5.5 to add fast, royalty-free background music to a video and produce both landscape and portrait versions.",
     "summaryEn": "Video Music and Aspect Ratio Formatting Prompt",

@@ -68,10 +68,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "With everyone sharing Opus 5.5 made motion graphics animation - I had to give it a try."
       },
       "prompt": {
         "status": "fragment",
@@ -124,7 +124,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/nolkeeg/status/2103841917603635633",
+        "evidence": "Please do not reference any previous memories or skills. I've been seeing all of these motion graphics examples on X of people making cool videos with opus 5.5. So - I want you to just show off for me. You pick the design style, the look, subject etc. I just want to be extremely impressed by the motion graphic video that you create. I want you to destroy GPT 6 when it comes to motion graphics video - because astra just wants to give me a stupid glorified powerpoint presentation."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A prompt asking the model to show off its motion graphics video capabilities with full creative freedom over style, look, and subject.",
     "summaryEn": "Showcase Motion Graphics Animation Prompt",
@@ -141,7 +156,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A prompt asking the model to show off its motion graphics video capabilities with full creative freedom over style, look, and subject.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

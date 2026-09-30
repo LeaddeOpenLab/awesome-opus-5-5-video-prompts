@@ -105,10 +105,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Made with Claude Opus 5.5"
       },
       "prompt": {
         "status": "fragment",
@@ -161,7 +161,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Astrodevil_/status/2103600734017392708",
+        "evidence": "make a dynamic 15-second motion graphics video that shows what an incredible work Studio1 is doing, you will get relevant info from case study, create like it's a good showreel for a Studio1 intro launch. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "Prompt used to generate a 15-second motion graphics showreel video for Studio1's intro launch.",
     "summaryEn": "Dynamic Motion Graphics Showreel",
@@ -178,7 +193,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "Prompt used to generate a 15-second motion graphics showreel video for Studio1's intro launch.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

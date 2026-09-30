@@ -75,10 +75,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "This is Opus 5.5, just one prompt - \" build mobile app animated splash screen creation for ...\", experimenting while building new app for iPhone Duo in Modaal [tool for product people to build in native iOs and Android at once, Swift, Kotlin] https://t.co/5BAHmtLGYk"
       },
       "prompt": {
         "status": "fragment",
@@ -131,7 +131,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/modaalbuilder/status/2103053680945868989",
+        "evidence": ""
+      }
     },
     "summary": "A prompt fragment used with Opus 5.5 to generate an animated splash screen for a mobile app.",
     "summaryEn": "Mobile App Animated Splash Screen Prompt",

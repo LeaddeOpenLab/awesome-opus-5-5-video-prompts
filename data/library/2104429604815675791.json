@@ -100,7 +100,7 @@
         "aspectRatio": "16:9",
         "referenceMaterials": []
       },
-      "task": "other-animation",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "The author shares an original, full-length animated video produced with Claude Opus 5.5; per reference-case policy, incomplete prompt text does not preclude suitability.",
       "isAdvertisement": false,
@@ -127,6 +127,21 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/coffemoth/status/2104429604815675791",
+        "evidence": "make a Sneakers O'Toole music video"
+      },
+      "purpose": {
+        "label": "Music video",
+        "topic": "motion-graphics",
+        "tags": []
       }
     },
     "summary": "An animated narrative music video based on Sneakers O'Toole produced using Claude Opus 5.5.",
@@ -143,8 +158,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "other-animation",
-    "useCase": "An animated narrative music video based on Sneakers O'Toole produced using Claude Opus 5.5.",
+    "category": "motion-graphics",
+    "useCase": "Music video",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

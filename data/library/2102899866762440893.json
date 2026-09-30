@@ -105,10 +105,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5, one prompt: \"Build a 45-second machine that plays an original piece of music, where every note comes from a visible collision.\""
       },
       "prompt": {
         "status": "fragment",
@@ -161,7 +161,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/KamStudioLabs/status/2102899866762440893",
+        "evidence": ""
+      }
     },
     "summary": "A prompt asking to create an in-browser 45-second machine that plays an original piece of music where every note originates from a visible collision.",
     "summaryEn": "Synthesized Music Collision Machine",

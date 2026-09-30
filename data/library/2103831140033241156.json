@@ -166,7 +166,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/hqmank/status/2103831140033241156",
+        "evidence": "Make a dynamic 20-second motion graphics launch video for my open-source project jev-browser-skill ('Give a site. Write a goal. Jev clicks.'), like it's the hero video on its GitHub README. Go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A dynamic motion graphics launch video prompt created for an open-source browser navigation skill project.",
     "summaryEn": "Open-Source Project Launch Video",
@@ -183,7 +198,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A dynamic motion graphics launch video prompt created for an open-source browser navigation skill project.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

@@ -73,10 +73,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "I asked Opus 5.5 why it's so good at motion design."
       },
       "prompt": {
         "status": "fragment",
@@ -129,7 +129,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Ishaaqahamed/status/2103837917538107563",
+        "evidence": "Make a dynamic 15-second motion graphics video that shows why [your product] is the best at [what it does], like a showreel. Go all out: 1080×1080, 1s hook, loop."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A motion graphics prompt designed to generate a dynamic 15-second looped showreel video highlighting a product's strengths.",
     "summaryEn": "Opus Motion Graphics Prompt",
@@ -146,7 +161,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A motion graphics prompt designed to generate a dynamic 15-second looped showreel video highlighting a product's strengths.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

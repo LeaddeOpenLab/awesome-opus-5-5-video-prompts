@@ -91,7 +91,8 @@
           "kind": "3D Scene",
           "description": "Base Unity scene with simple 3D primitives and terrain before weather effects were added.",
           "available": false,
-          "evidence": "The author replies in a thread with a video showing the 'before' state."
+          "evidence": "The author replies in a thread with a video showing the 'before' state.",
+          "origin": "user"
         }
       ],
       "inputsDocumented": false,
@@ -99,17 +100,23 @@
         {
           "name": "Unity CLI",
           "role": "CLI interface allowing AI agent execution within the Unity environment",
-          "evidence": "Unity CLI"
-        },
-        {
-          "name": "Unity Official Skills",
-          "role": "Skill library allowing Claude Opus 5.5 to manipulate Unity scene components and effects",
-          "evidence": "Unity 公式 Skills"
+          "evidence": "Unity CLI",
+          "sourceUrl": "https://x.com/threediveai/status/2104458970865996117",
+          "status": "inferred"
         },
         {
           "name": "Unity Editor",
           "role": "3D engine and real-time renderer",
-          "evidence": "エディット画面に⚡"
+          "evidence": "エディット画面に⚡",
+          "sourceUrl": "https://x.com/threediveai/status/2104458970865996117",
+          "status": "inferred"
+        },
+        {
+          "name": "Unity Official Skills",
+          "role": "Skill library allowing Claude Opus 5.5 to manipulate Unity scene components and effects",
+          "evidence": "Unity 公式 Skills",
+          "sourceUrl": "https://x.com/threediveai/status/2104458970865996117",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Autonomous agent generating and modifying Unity weather effects and lighting via CLI tool calls",
@@ -121,7 +128,7 @@
         "aspectRatio": "16:10",
         "referenceMaterials": []
       },
-      "task": "other-animation",
+      "task": "3d-scenes",
       "suitable": true,
       "reason": "Demonstrates Claude Opus 5.5 acting as an orchestration agent with Unity CLI and official Unity skills to build dynamic animated weather effects shown in an editor screen recording.",
       "isAdvertisement": false,
@@ -148,6 +155,23 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [
+          "Only “rain expression” is public; required base Unity scene is not supplied. Removed from homepage, retained in library."
+        ],
+        "sourceUrl": "https://x.com/threediveai/status/2104458970865996117",
+        "evidence": "雨の表現"
+      },
+      "purpose": {
+        "label": "Unity weather-effects experiment",
+        "topic": "3d-scenes",
+        "tags": []
       }
     },
     "summary": "An experiment using Claude Opus 5.5 via Unity CLI and Unity official Skills to generate and control dynamic rain and lightning weather effects within the Unity Editor.",
@@ -164,8 +188,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "other-animation",
-    "useCase": "An experiment using Claude Opus 5.5 via Unity CLI and Unity official Skills to generate and control dynamic rain and lightning weather effects within the Unity Editor.",
+    "category": "3d-scenes",
+    "useCase": "Unity weather-effects experiment",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

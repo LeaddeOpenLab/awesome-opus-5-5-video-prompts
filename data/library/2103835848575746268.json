@@ -86,10 +86,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "I gave opus 5.5 old prompt I prepared for Fable but I was not satisfied with the results."
       },
       "prompt": {
         "status": "fragment",
@@ -106,7 +106,7 @@
         "textualResultQuote": ""
       },
       "inputs": [],
-      "inputsDocumented": false,
+      "inputsDocumented": true,
       "tools": [],
       "targetModelRole": "",
       "outputSource": "https://x.com/kgonia7/status/2103835848575746268",
@@ -142,7 +142,19 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/kgonia7/status/2103835848575746268",
+        "evidence": "create a cinematic film that zooms out from a hillside on Earth to the full observable universe using @threejs No external assets.",
+        "noSuppliedAssets": true,
+        "inputSummary": "No external assets required by the prompt"
+      }
     },
     "summary": "Krzysztof Gonia prompted Opus 5.5 to generate a Three.js cinematic film that smoothly zooms out from an Earth hillside all the way to the observable universe without external assets.",
     "summaryEn": "Earth to Observable Universe Zoom-Out",
@@ -158,7 +170,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "explainers",
     "useCase": "Krzysztof Gonia prompted Opus 5.5 to generate a Three.js cinematic film that smoothly zooms out from an Earth hillside all the way to the observable universe without external assets.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

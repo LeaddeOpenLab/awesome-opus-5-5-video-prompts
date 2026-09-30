@@ -137,7 +137,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/0xRathi/status/2102986585004511319",
+        "evidence": "make a Tron game."
+      },
+      "purpose": {
+        "label": "Game / playable prototype",
+        "topic": "games-interactive",
+        "tags": []
+      }
     },
     "summary": "The single prompt given to Opus 5.5 to generate a complete Tron-style game featuring rival bots, custom music, and an automated trailer.",
     "summaryEn": "Make a Tron Game Prompt",
@@ -153,8 +168,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "The single prompt given to Opus 5.5 to generate a complete Tron-style game featuring rival bots, custom music, and an automated trailer.",
+    "category": "games-interactive",
+    "useCase": "Game / playable prototype",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

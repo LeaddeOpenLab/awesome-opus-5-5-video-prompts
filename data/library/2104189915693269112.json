@@ -125,7 +125,9 @@
         {
           "name": "Claude Artifacts",
           "role": "Interactive web canvas execution and audio rendering environment",
-          "evidence": "claude.ai/artifact/QwTN8…"
+          "evidence": "claude.ai/artifact/QwTN8…",
+          "sourceUrl": "https://x.com/d_llm_kr/status/2104189915693269112",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Claude Opus 5.5 generated the complete HTML, CSS, Canvas rendering, and Web Audio code for the interactive rain animation app.",
@@ -137,7 +139,7 @@
         "aspectRatio": "9:19",
         "referenceMaterials": []
       },
-      "task": "canvas-interactive",
+      "task": "games-interactive",
       "suitable": true,
       "reason": "Directly demonstrates Claude Opus 5.5 creating an interactive visual and audio rain simulation canvas via a verbatim prompt.",
       "isAdvertisement": false,
@@ -161,6 +163,21 @@
         "reasons": [
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/d_llm_kr/status/2104189915693269112",
+        "evidence": "雨音聴きながら遊ぶもよし眺めるも良しな何か作って"
+      },
+      "purpose": {
+        "label": "Calming rain interaction",
+        "topic": "games-interactive",
+        "tags": []
       }
     },
     "summary": "An interactive web app and animation titled 'Rain Window' created with Claude Opus 5.5 Artifacts, simulating raindrops on foggy window glass accompanied by rain sound effects.",
@@ -177,8 +194,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "canvas-interactive",
-    "useCase": "An interactive web app and animation titled 'Rain Window' created with Claude Opus 5.5 Artifacts, simulating raindrops on foggy window glass accompanied by rain sound effects.",
+    "category": "games-interactive",
+    "useCase": "Calming rain interaction",
     "hasReusablePrompt": true,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

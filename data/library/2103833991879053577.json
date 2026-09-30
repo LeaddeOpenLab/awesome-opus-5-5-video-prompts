@@ -78,10 +78,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "I TRIED MAKING A 3D MOTION GRAPHIC WITH CLAUDE OPUS 5.5."
       },
       "prompt": {
         "status": "fragment",
@@ -134,7 +134,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Acoramaa/status/2103833991879053577",
+        "evidence": ""
+      }
     },
     "summary": "A continuous 3D browser-rendered motion graphic zooming in from a desk all the way down to a single silicon atom inside a CPU, created with Claude Opus 5.5.",
     "summaryEn": "3D Desk to CPU Atom Zoom",
@@ -150,7 +160,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "explainers",
     "useCase": "A continuous 3D browser-rendered motion graphic zooming in from a desk all the way down to a single silicon atom inside a CPU, created with Claude Opus 5.5.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

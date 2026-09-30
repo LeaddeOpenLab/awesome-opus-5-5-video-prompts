@@ -108,7 +108,7 @@
         "aspectRatio": "16:9",
         "referenceMaterials": []
       },
-      "task": "other-animation",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "The post features a genuine 15-second motion graphics video presentation created via Claude. Under reference-case policy, partial prompt fragments and undocumented renderers remain acceptable for collection.",
       "isAdvertisement": false,
@@ -137,6 +137,21 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/nansdeyz_/status/2104204905523126560",
+        "evidence": "presenter opus 5.5 en motion design de 15 sec"
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
       }
     },
     "summary": "The author prompted Claude to create a 15-second motion design presentation highlighting the release, benchmarks, and pricing of Claude Opus 5.5.",
@@ -153,8 +168,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "other-animation",
-    "useCase": "The author prompted Claude to create a 15-second motion design presentation highlighting the release, benchmarks, and pricing of Claude Opus 5.5.",
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

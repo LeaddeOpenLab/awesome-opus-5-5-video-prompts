@@ -137,7 +137,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/bhanujraj/status/2103496503419613231",
+        "evidence": "make a dynamic 10-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out"
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A dynamic 10-second motion graphics showreel designed to demonstrate advanced motion design skills.",
     "summaryEn": "Motion Graphics Showreel Video",
@@ -154,7 +169,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A dynamic 10-second motion graphics showreel designed to demonstrate advanced motion design skills.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

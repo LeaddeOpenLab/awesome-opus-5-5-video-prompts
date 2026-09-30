@@ -111,10 +111,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "I built this language learning app a few weeks ago, Fable &amp; Astra, and this what Opus 5.5 gave me:"
       },
       "prompt": {
         "status": "fragment",
@@ -167,7 +167,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/1stnoel_/status/2103247530259603851",
+        "evidence": "Make a 1-minute educational video about https://t.co/cgU4RNuz2s with synthesized voice narration."
+      },
+      "purpose": {
+        "label": "Educational / explainer video",
+        "topic": "explainers",
+        "tags": []
+      }
     },
     "summary": "A prompt requesting a 1-minute educational video with synthesized voice narration about the Sotto language-learning app.",
     "summaryEn": "Educational Video Prompt for Sotto App",
@@ -183,8 +198,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "A prompt requesting a 1-minute educational video with synthesized voice narration about the Sotto language-learning app.",
+    "category": "explainers",
+    "useCase": "Educational / explainer video",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

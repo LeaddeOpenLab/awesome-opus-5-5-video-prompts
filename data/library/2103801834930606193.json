@@ -94,8 +94,17 @@
         "evidence": "Consistency check skipped for source-index import.",
         "textualResultQuote": ""
       },
-      "inputs": [],
-      "inputsDocumented": false,
+      "inputs": [
+        {
+          "kind": "production_material",
+          "description": "Original square album artwork for Glass Tides by AURA",
+          "evidence": "Create original square album artwork",
+          "sourceUrl": "https://x.com/brainextends/status/2103801834930606193",
+          "origin": "generated",
+          "available": false
+        }
+      ],
+      "inputsDocumented": true,
       "tools": [],
       "targetModelRole": "",
       "outputSource": "https://x.com/brainextends/status/2103801834930606193",
@@ -131,7 +140,24 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/brainextends/status/2103801834930606193",
+        "evidence": "Create a complete, polished Spotify-themed motion graphics video from the following brief. This prompt is self-contained: no reference video or supplied assets are required.\n\n<deliverables> An 18-second MP4 at 1920×1080 and true 60 fps, with music and subtle sound effects Complete editable source Build, render, inspect, and refine the animation before delivering it Do not stop at a storyboard, sti",
+        "noSuppliedAssets": true,
+        "inputSummary": "No supplied assets required; artwork generated during production"
+      },
+      "purpose": {
+        "label": "Music-product motion graphics",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A detailed code-based motion graphics prompt template to generate an 18-second, 60 fps Spotify-themed product film with complete UI animations, artwork, timeline, and audio requirements.",
     "summaryEn": "Spotify-Themed Motion Design Prompt",
@@ -148,7 +174,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A detailed code-based motion graphics prompt template to generate an 18-second, 60 fps Spotify-themed product film with complete UI animations, artwork, timeline, and audio requirements.",
+    "useCase": "Music-product motion graphics",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

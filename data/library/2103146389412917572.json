@@ -137,7 +137,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/mattbean/status/2103146558455980355",
+        "evidence": ""
+      }
     },
     "summary": "A prompt to generate a 30-second drawing-style animated video showing how to submit a product to AppSumo using an agent in three steps.",
     "summaryEn": "AppSumo Animated Promo Clip",

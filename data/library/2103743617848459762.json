@@ -88,10 +88,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "I have tried motion design with Opus 5.5 and it killed it: Here is the video for Motoseyir (my navigation built for riders) and I'll share the prompt below."
       },
       "prompt": {
         "status": "fragment",
@@ -144,7 +144,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Bilimfili1/status/2103743802938671516",
+        "evidence": ""
+      }
     },
     "summary": "A motion design prompt used with Opus 5.5 to generate a 45–50 second vertical promotional video showcasing the features of the Motoseyir navigation app.",
     "summaryEn": "Motoseyir App Motion Design Promo",
@@ -160,7 +170,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "games-interactive",
     "useCase": "A motion design prompt used with Opus 5.5 to generate a 45–50 second vertical promotional video showcasing the features of the Motoseyir navigation app.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

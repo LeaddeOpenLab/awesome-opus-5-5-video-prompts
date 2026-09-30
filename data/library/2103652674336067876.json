@@ -117,10 +117,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "I asked Opus 5.5 one prompt: make a video highlighting key moments in the history of AI."
       },
       "prompt": {
         "status": "fragment",
@@ -173,7 +173,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/kloss_xyz/status/2103652674336067876",
+        "evidence": ""
+      }
     },
     "summary": "A prompt given to Claude Opus 5.5 to create an animated video illustrating key moments in artificial intelligence history.",
     "summaryEn": "AI History Video Prompt",
@@ -189,7 +199,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "explainers",
     "useCase": "A prompt given to Claude Opus 5.5 to create an animated video illustrating key moments in artificial intelligence history.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

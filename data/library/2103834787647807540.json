@@ -137,7 +137,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ChatGptAstra/status/2103834787647807540",
+        "evidence": ""
+      }
     },
     "summary": "A creator shares a concise prompt used with Opus 5.5 to generate a dynamic 15-second motion graphics video.",
     "summaryEn": "Motion Designer Graphics Prompt",

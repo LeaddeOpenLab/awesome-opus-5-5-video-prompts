@@ -105,10 +105,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 built this game in @unity."
       },
       "prompt": {
         "status": "fragment",
@@ -124,9 +124,26 @@
         "evidence": "Consistency check skipped for source-index import.",
         "textualResultQuote": ""
       },
-      "inputs": [],
+      "inputs": [
+        {
+          "kind": "project",
+          "description": "Existing Unity CLI project",
+          "evidence": "@[Unity CLI installation]",
+          "sourceUrl": "https://x.com/froessell/status/2103789415323562325",
+          "origin": "user",
+          "available": false
+        }
+      ],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Unity",
+          "role": "Game engine",
+          "evidence": "Engine: Unity",
+          "sourceUrl": "https://x.com/froessell/status/2103789415323562325",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/froessell/status/2103789415323562325",
       "divisionEvidence": "",
@@ -161,7 +178,27 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [
+          "Unity is specified by the PRD; the actual implementation is not independently verified."
+        ],
+        "sourceUrl": "https://x.com/froessell/status/2103789415323562325",
+        "evidence": "PRD — Police Chase Arcade Game\n\nWorking title: Heatwave\nPlatform: iOS + Android\nEngine: Unity\nGenre: Top-down 3D arcade chase / survival\nOrientation: Portrait\nInput: One-thumb touch controls\nBusiness model: TBD — design MVP around gameplay first\nPrimary goal: Build a genuinely fun playable prototype before adding progression or monetization.\n⸻\nProduct vision\nA fast, chaotic mobile arcade game wher"
+      },
+      "purpose": {
+        "label": "Mobile arcade game prototype",
+        "topic": "games-interactive",
+        "tags": [
+          "game-prototype",
+          "mobile"
+        ]
+      }
     },
     "summary": "A detailed Product Requirements Document (PRD) and implementation prompt provided to Claude Opus 3.5/5.5 to develop a top-down mobile police chase game prototype in Unity using the TopDown Engine.",
     "summaryEn": "Police Chase Arcade Game PRD Prompt",
@@ -177,8 +214,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "A detailed Product Requirements Document (PRD) and implementation prompt provided to Claude Opus 3.5/5.5 to develop a top-down mobile police chase game prototype in Unity using the TopDown Engine.",
+    "category": "games-interactive",
+    "useCase": "Mobile arcade game prototype",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

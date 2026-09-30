@@ -108,15 +108,25 @@
           "kind": "image",
           "description": "High resolution mobile app screenshots",
           "available": false,
-          "evidence": "Gave it mobile app screenshots / I also attached High res mobile app screenshots."
+          "evidence": "Gave it mobile app screenshots / I also attached High res mobile app screenshots.",
+          "origin": "unknown"
         }
       ],
       "inputsDocumented": false,
       "tools": [
         {
+          "name": "React",
+          "role": "Web UI framework",
+          "evidence": "Build a 22-second product launch film in Remotion v4 (React + TypeScript).",
+          "sourceUrl": "https://x.com/punit_io/status/2104468472344584518",
+          "status": "required"
+        },
+        {
           "name": "Remotion",
-          "role": "React + TypeScript video rendering framework executing the generated code",
-          "evidence": "Build a 22-second product launch film in Remotion v4 (React + TypeScript). Every frame comes from code."
+          "role": "Video renderer",
+          "evidence": "Build a 22-second product launch film in Remotion v4 (React + TypeScript).",
+          "sourceUrl": "https://x.com/punit_io/status/2104468472344584518",
+          "status": "required"
         }
       ],
       "targetModelRole": "Synthesizes Remotion React/TypeScript animation code from input prompt and UI screenshots without generating pixels directly.",
@@ -130,7 +140,7 @@
           "High resolution mobile app screenshots"
         ]
       },
-      "task": "remotion",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Authentic Claude Opus 5.5 Remotion video production demonstration with video output and author prompt instructions.",
       "isAdvertisement": false,
@@ -156,6 +166,21 @@
           "incomplete_or_unreproducible_prompt",
           "necessary_inputs_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/punit_io/status/2104468472344584518",
+        "evidence": "Build a 22-second product launch film in Remotion v4 (React + TypeScript). Every frame comes from code. Don't use AI-generated video or images."
+      },
+      "purpose": {
+        "label": "Product / brand film",
+        "topic": "motion-graphics",
+        "tags": []
       }
     },
     "summary": "Punit used Claude Opus 5.5 to create a 22-second code-based product launch video for a habit-tracking mobile app in Remotion v4 using React and TypeScript, driven by app screenshots.",
@@ -172,8 +197,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "remotion",
-    "useCase": "Punit used Claude Opus 5.5 to create a 22-second code-based product launch video for a habit-tracking mobile app in Remotion v4 using React and TypeScript, driven by app screenshots.",
+    "category": "motion-graphics",
+    "useCase": "Product / brand film",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

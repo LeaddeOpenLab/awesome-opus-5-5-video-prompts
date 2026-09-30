@@ -137,7 +137,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/stewchan2/status/2103542706018615556",
+        "evidence": ""
+      }
     },
     "summary": "A prompt designed to create an instructional visualization explaining how backlinks function in SEO.",
     "summaryEn": "SEO Backlinks Video Visualization Prompt",

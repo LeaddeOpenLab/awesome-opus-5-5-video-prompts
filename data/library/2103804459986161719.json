@@ -131,7 +131,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/TrigLyceee/status/2103804459986161719",
+        "evidence": ""
+      }
     },
     "summary": "Trig-lycee shares a video generated through prompts using Claude Opus 5.5 to summarize Moroccan political history since independence.",
     "summaryEn": "Video Summarizing Political Life in Morocco",

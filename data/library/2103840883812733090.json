@@ -81,10 +81,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Here's an video introduction to @tan_stack AI using a single prompt to generate a launch style video about Tanstack UI using @ClaudeDevs Opus 5.5 using @Remotion"
       },
       "prompt": {
         "status": "fragment",
@@ -102,7 +102,15 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Remotion",
+          "role": "Video renderer",
+          "evidence": "Use Remotion or another code-based motion graphics",
+          "sourceUrl": "https://x.com/HowDevelop/status/2103840887562281145",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/HowDevelop/status/2103840883812733090",
       "divisionEvidence": "",
@@ -137,7 +145,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/HowDevelop/status/2103840887562281145",
+        "evidence": "❯ Create and render a 15-second motion graphics video introducing TanStack AI. Make it feel like a premium            \n  developer-tool launch film produced by Studio1: fast, precise, visually surprising, and polished enough to open a   \n  keynote or lead a social campaign.                                                                                  "
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A detailed Remotion/code-based motion graphics prompt instructing the creation of a 15-second launch teaser video for TanStack AI, complete with timing breakdown, visual direction, and accuracy guardrails.",
     "summaryEn": "TanStack AI Launch Motion Graphics Video Prompt",
@@ -154,7 +177,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A detailed Remotion/code-based motion graphics prompt instructing the creation of a 15-second launch teaser video for TanStack AI, complete with timing breakdown, visual direction, and accuracy guardrails.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

@@ -175,7 +175,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/madpencil_/status/2103449418460753990",
+        "evidence": ""
+      }
     },
     "summary": "A prompt used with a custom Claude skill and visual assets to generate a 10-second comic book-styled motion graphic.",
     "summaryEn": "Comic Book Style Motion Graphic",

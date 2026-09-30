@@ -109,7 +109,7 @@
         "aspectRatio": "16:9",
         "referenceMaterials": []
       },
-      "task": "other-animation",
+      "task": "explainers",
       "suitable": true,
       "reason": "Authentic original user demonstration of Claude Opus 5.5 generating an animated narrative and explanatory video with full verbatim user prompt and accompanying video output.",
       "isAdvertisement": false,
@@ -134,6 +134,21 @@
           "incomplete_or_unreproducible_prompt",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/imxishi/status/2104459910247235966",
+        "evidence": "你能给 《三体 3》 云天明给程心讲的三个童话故事，做一个视频的讲解吗？"
+      },
+      "purpose": {
+        "label": "Educational / explainer video",
+        "topic": "explainers",
+        "tags": []
       }
     },
     "summary": "An animated video breakdown and scientific decoding of the three fairy tales told by Yun Tianming in The Three-Body Problem 3, created using Claude Opus 5.5.",
@@ -150,8 +165,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "other-animation",
-    "useCase": "An animated video breakdown and scientific decoding of the three fairy tales told by Yun Tianming in The Three-Body Problem 3, created using Claude Opus 5.5.",
+    "category": "explainers",
+    "useCase": "Educational / explainer video",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

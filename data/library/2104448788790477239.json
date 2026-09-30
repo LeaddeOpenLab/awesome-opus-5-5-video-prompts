@@ -93,7 +93,8 @@
         {
           "name": "Shader / Code Execution Runtime",
           "role": "Compiles and executes the Opus-generated shader and audio code into frames and sound",
-          "evidence": "他竟然给每个图写了个着色器..离谱..... 声音、画面全部代码生成"
+          "evidence": "他竟然给每个图写了个着色器..离谱..... 声音、画面全部代码生成",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Code generation for procedural shaders and audio synthesis",
@@ -133,6 +134,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/esrhengwu/status/2104448788790477239",
+        "evidence": ""
       }
     },
     "summary": "The author demonstrates an animation generated via shaders and code written by Claude Opus 5.5 based on the concept of slouching in a chair and witnessing an atomic bomb explosion.",

@@ -89,7 +89,15 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "JavaScript",
+          "role": "Programming language",
+          "evidence": "Then using threejs/javascript I want you to create full animation, Pixar-level quality out of the story you imagine",
+          "sourceUrl": "https://x.com/Anilraok/status/2103087766662009118",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/Anilraok/status/2103087766662009118",
       "divisionEvidence": "",
@@ -124,7 +132,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Anilraok/status/2103087766662009118",
+        "evidence": ""
+      }
     },
     "summary": "A prompt asking an AI model to conceive a promotional story for an app and generate a full Pixar-level animation using Three.js and JavaScript.",
     "summaryEn": "Pixar-Level Promotional Animation in Three.js",
@@ -140,7 +158,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "3d-scenes",
     "useCase": "A prompt asking an AI model to conceive a promotional story for an app and generate a full Pixar-level animation using Three.js and JavaScript.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

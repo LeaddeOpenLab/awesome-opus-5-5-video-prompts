@@ -96,7 +96,8 @@
         {
           "name": "Undisclosed animation framework/renderer",
           "role": "Execute and render the code produced by Claude into an MP4 video file",
-          "evidence": "The author shares an MP4 motion graphics animation video produced from Claude's prompt output without naming the specific runtime tool or framework."
+          "evidence": "The author shares an MP4 motion graphics animation video produced from Claude's prompt output without naming the specific runtime tool or framework.",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Researching EDteam information and writing motion graphics code/animations based on the user prompt",
@@ -108,7 +109,7 @@
         "aspectRatio": "16:9",
         "referenceMaterials": []
       },
-      "task": "other-animation",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Direct author case demonstrating Claude Opus 5.5 creating motion graphics video content with explicit model attribution, the complete original prompt text, and the final rendered video.",
       "isAdvertisement": false,
@@ -134,6 +135,21 @@
           "incomplete_or_unreproducible_prompt",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/AlvaroFelipeCh/status/2104219468079526187",
+        "evidence": "Investiga a EDteam y crea un video promocional en el que muestres todas tus habilidades en Motion Graphics"
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
       }
     },
     "summary": "Alvaro Felipe demonstrates generating a 40-second promotional motion graphics video for EDteam using a single natural language prompt with Claude Opus 5.5.",
@@ -150,8 +166,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "other-animation",
-    "useCase": "Alvaro Felipe demonstrates generating a 40-second promotional motion graphics video for EDteam using a single natural language prompt with Claude Opus 5.5.",
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

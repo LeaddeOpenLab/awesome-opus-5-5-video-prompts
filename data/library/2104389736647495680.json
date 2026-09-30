@@ -124,7 +124,8 @@
           "kind": "codebase",
           "description": "Bedless Fajr app assets and interface design context",
           "available": false,
-          "evidence": "Author references 'my app' and the video renders specific product flows and photography for the app Bedless Fajr."
+          "evidence": "Author references 'my app' and the video renders specific product flows and photography for the app Bedless Fajr.",
+          "origin": "unknown"
         }
       ],
       "inputsDocumented": false,
@@ -132,12 +133,14 @@
         {
           "name": "Claude Code",
           "role": "Agent CLI orchestrating code generation and sub-agent critiques",
-          "evidence": "Author states: 'gave Claude Code one prompt and it made this 15 second motion design video... then 4 sub-agents ripped v2 apart'"
+          "evidence": "Author states: 'gave Claude Code one prompt and it made this 15 second motion design video... then 4 sub-agents ripped v2 apart'",
+          "status": "inferred"
         },
         {
           "name": "Remotion",
           "role": "React-based video rendering engine",
-          "evidence": "Author states: 'all React code with Remotion, I never opened After Effects'"
+          "evidence": "Author states: 'all React code with Remotion, I never opened After Effects'",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Writing the React animation components and orchestrating sub-agent revisions",
@@ -149,7 +152,7 @@
         "aspectRatio": "9:16",
         "referenceMaterials": []
       },
-      "task": "remotion",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Authentic creator showcase using Claude Opus 5.5 via Claude Code to orchestrate and write Remotion React code for video production.",
       "isAdvertisement": false,
@@ -177,6 +180,21 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/zakisbuilding/status/2104389826414039074",
+        "evidence": "make a dynamic 15-second motion graphics video of the app that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
       }
     },
     "summary": "Zak used Claude Code powered by Claude Opus 5.5 to generate a 15-second motion graphics video for his app Bedless Fajr using React and Remotion.",
@@ -193,8 +211,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "remotion",
-    "useCase": "Zak used Claude Code powered by Claude Opus 5.5 to generate a 15-second motion graphics video for his app Bedless Fajr using React and Remotion.",
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

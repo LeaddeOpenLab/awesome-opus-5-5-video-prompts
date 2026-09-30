@@ -144,7 +144,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/techtactician/status/2103219465164853643",
+        "evidence": ""
+      }
     },
     "summary": "A prompt designed to create a professional, motion-graphics-style SaaS product launch video showcasing features and benefits.",
     "summaryEn": "SaaS Product Launch Video Prompt",

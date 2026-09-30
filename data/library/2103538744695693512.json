@@ -111,10 +111,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "gave opus 5.5 one prompt and it made this video and synthesized music from scratch, no samples https://t.co/oCDfGKx9MX"
       },
       "prompt": {
         "status": "fragment",
@@ -167,7 +167,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/prasenx/status/2103706945123487925",
+        "evidence": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A single prompt for Opus 5.5 to code, render, and soundtrack a dynamic 15-second motion graphics video from scratch without external tools or samples.",
     "summaryEn": "Motion Graphics Showreel and Synthesized Music",
@@ -184,7 +199,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A single prompt for Opus 5.5 to code, render, and soundtrack a dynamic 15-second motion graphics video from scratch without external tools or samples.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

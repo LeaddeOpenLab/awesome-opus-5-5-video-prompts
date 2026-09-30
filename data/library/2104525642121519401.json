@@ -103,18 +103,31 @@
       "tools": [
         {
           "name": "Blender",
-          "role": "3D modeling and video renderer",
-          "evidence": "Blenderを使って『東京駅を解剖する動画』のプロンプトを作って"
+          "role": "3D creation / rendering",
+          "status": "author_confirmed",
+          "evidence": "私「Opus 5.5を試したいので、Blenderを使って『東京駅を解剖する動画』のプロンプトを作って（丸の内駅舎から始まって八重洲側をカバー）」",
+          "sourceUrl": "https://x.com/yktgch/status/2104526734704202072"
         },
         {
-          "name": "Claude Code",
-          "role": "Execution agent running Opus 5.5",
-          "evidence": "Claude Code「任せてください」"
+          "name": "Blender",
+          "role": "3D modeling and video renderer",
+          "evidence": "Blenderを使って『東京駅を解剖する動画』のプロンプトを作って",
+          "sourceUrl": "https://x.com/yktgch/status/2104526734704202072",
+          "status": "inferred"
         },
         {
           "name": "ChatGPT",
           "role": "Prompt authoring intermediary",
-          "evidence": "ChatGPT「プロンプトできました」"
+          "evidence": "ChatGPT「プロンプトできました」",
+          "sourceUrl": "https://x.com/yktgch/status/2104526734704202072",
+          "status": "inferred"
+        },
+        {
+          "name": "Claude Code",
+          "role": "Execution agent running Opus 5.5",
+          "evidence": "Claude Code「任せてください」",
+          "sourceUrl": "https://x.com/yktgch/status/2104526734704202072",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Code execution agent generating Blender automation scripts for 3D staging and layer breakdown.",
@@ -153,6 +166,16 @@
           "incomplete_or_unreproducible_prompt",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/yktgch/status/2104526734704202072",
+        "evidence": ""
       }
     },
     "summary": "3D visualization dissecting Tokyo Station's multi-layered layout generated via Claude Code / Opus 5.5 scripting Blender.",

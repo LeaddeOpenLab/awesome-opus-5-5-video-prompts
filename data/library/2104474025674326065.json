@@ -98,9 +98,18 @@
       "inputsDocumented": true,
       "tools": [
         {
+          "name": "JavaScript",
+          "role": "Programming language",
+          "evidence": "Make a looping animated illustration in a single HTML file using only inline SVG and CSS animations, no JavaScript.",
+          "sourceUrl": "https://x.com/SundryMill/status/2104474025674326065",
+          "status": "prohibited"
+        },
+        {
           "name": "SVG/CSS/HTML",
           "role": "Rendering engine",
-          "evidence": "in a single HTML file using only inline SVG and CSS animations, no JavaScript"
+          "evidence": "in a single HTML file using only inline SVG and CSS animations, no JavaScript",
+          "sourceUrl": "https://x.com/SundryMill/status/2104474025674326065",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Generates the standalone HTML, inline SVG structure, and CSS keyframe animations",
@@ -137,6 +146,16 @@
           "prompt_disclosure_requires_editor_review:fragment",
           "incomplete_or_unreproducible_prompt"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/SundryMill/status/2104474025674326065",
+        "evidence": ""
       }
     },
     "summary": "Sundry Mill tests Claude Opus 5.5 to generate a single-file looping HTML, inline SVG, and CSS animation of a hillside town transitioning from sunrise to night.",

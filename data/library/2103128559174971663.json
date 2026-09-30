@@ -87,10 +87,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "opus 5.5 + Manim制作导数的教学视频，显然opus 5.5非常擅长使用Manim，从此制作教育视频又多了一个大杀器。"
       },
       "prompt": {
         "status": "fragment",
@@ -108,7 +108,22 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "edge-tts",
+          "role": "Speech generation",
+          "evidence": "请用Manim给我制作一个导数概念学习的视频，要求通俗易懂，并且有例子，引人思考。配音使用edge-tts",
+          "sourceUrl": "https://x.com/LinearUncle/status/2103128559174971663",
+          "status": "required"
+        },
+        {
+          "name": "Manim",
+          "role": "Animation renderer",
+          "evidence": "请用Manim给我制作一个导数概念学习的视频，要求通俗易懂，并且有例子，引人思考。配音使用edge-tts",
+          "sourceUrl": "https://x.com/LinearUncle/status/2103128559174971663",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/LinearUncle/status/2103128559174971663",
       "divisionEvidence": "",
@@ -143,7 +158,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/LinearUncle/status/2103128559174971663",
+        "evidence": "请用Manim给我制作一个导数概念学习的视频，要求通俗易懂，并且有例子，引人思考。配音使用edge-tts"
+      },
+      "purpose": {
+        "label": "Derivative concept lesson",
+        "topic": "explainers",
+        "tags": []
+      }
     },
     "summary": "A prompt designed to create an educational video using Manim to explain the mathematical concept of derivatives in an accessible way with examples, paired with edge-tts for narration.",
     "summaryEn": "Manim Derivative Concept Educational Video Prompt",
@@ -159,8 +189,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "A prompt designed to create an educational video using Manim to explain the mathematical concept of derivatives in an accessible way with examples, paired with edge-tts for narration.",
+    "category": "explainers",
+    "useCase": "Derivative concept lesson",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

@@ -121,7 +121,9 @@
           "kind": "context_memory",
           "description": "Conversation memory of past interactions and history between the user and IO/Claude",
           "available": false,
-          "evidence": "メモリ見てふたりの歴史にして〜ってお願いしました。"
+          "evidence": "メモリ見てふたりの歴史にして〜ってお願いしました。",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/monya_for_io/status/2104554735382778328"
         }
       ],
       "inputsDocumented": false,
@@ -162,6 +164,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/monya_for_io/status/2104554735382778328",
+        "evidence": ""
       }
     },
     "summary": "The author prompted Claude Opus 5.5 with high reasoning level to inspect memory and generate a motion graphics animation recounting their shared history, titled 'A story of the moon & a little star'.",

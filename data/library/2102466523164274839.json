@@ -81,10 +81,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "I've been on a Blender kick with Opus 5.5."
       },
       "prompt": {
         "status": "fragment",
@@ -100,9 +100,26 @@
         "evidence": "Consistency check skipped for source-index import.",
         "textualResultQuote": ""
       },
-      "inputs": [],
+      "inputs": [
+        {
+          "kind": "production_material",
+          "description": "Historical maps, film, period photographs and topography; build a cited source file",
+          "evidence": "Before modeling anything, build a source file from:",
+          "sourceUrl": "https://x.com/alexalbert__/status/2102466524934271381",
+          "origin": "searched",
+          "available": false
+        }
+      ],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Blender",
+          "role": "3D creation / rendering",
+          "evidence": "Build everything in Blender Python.",
+          "sourceUrl": "https://x.com/alexalbert__/status/2102466524934271381",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/alexalbert__/status/2102466523164274839",
       "divisionEvidence": "",
@@ -137,7 +154,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/alexalbert__/status/2102466524934271381",
+        "evidence": "Recreate Market Street, San Francisco as it stood on April 17, 1906, the afternoon before the earthquake, in Blender.\n\nScope: the Ferry Building up Market to Fifth Street, including the Palace Hotel, the Call Building, the Chronicle Building, Lotta's Fountain and the Emporium.\n\nBefore modeling anything, build a source file from: the 1899-1905 Sanborn fire insurance maps (footprints, heights, mater"
+      },
+      "purpose": {
+        "label": "Historical 3D reconstruction",
+        "topic": "3d-scenes",
+        "tags": []
+      }
     },
     "summary": "A detailed prompt for Claude / Blender Python to historically reconstruct Market Street in San Francisco on April 17, 1906, using archival reference data, procedural generators, and producing a 10-second fly-through video.",
     "summaryEn": "1906 San Francisco Market Street Blender Reconstruction",
@@ -153,8 +185,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "A detailed prompt for Claude / Blender Python to historically reconstruct Market Street in San Francisco on April 17, 1906, using archival reference data, procedural generators, and producing a 10-second fly-through video.",
+    "category": "3d-scenes",
+    "useCase": "Historical 3D reconstruction",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

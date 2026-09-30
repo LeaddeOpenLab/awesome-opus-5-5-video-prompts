@@ -103,7 +103,8 @@
           "kind": "article_url",
           "description": "Source note article written by the author in June",
           "available": false,
-          "evidence": "材料は、僕が6月に書いたnote記事1本。 / 記事のURLを渡して、横長で90秒と伝える"
+          "evidence": "材料は、僕が6月に書いたnote記事1本。 / 記事のURLを渡して、横長で90秒と伝える",
+          "origin": "unknown"
         }
       ],
       "inputsDocumented": false,
@@ -111,17 +112,23 @@
         {
           "name": "Claude Code",
           "role": "Agent interface used to orchestrate script creation and video code generation",
-          "evidence": "Opus 5.5とClaude Codeに渡したら、台本、読み上げ、字幕、図解まで全部組み上げてきた。"
-        },
-        {
-          "name": "HyperFrames",
-          "role": "HTML-based animation tool used as the video renderer",
-          "evidence": "動画はHTMLで動画を作る無料ツール（HyperFrames）で、Claude Codeが組んでる。"
+          "evidence": "Opus 5.5とClaude Codeに渡したら、台本、読み上げ、字幕、図解まで全部組み上げてきた。",
+          "sourceUrl": "https://x.com/koumei_ai5566/status/2105077598934241383",
+          "status": "inferred"
         },
         {
           "name": "Free TTS Engine",
           "role": "Audio generation for the Japanese voiceover",
-          "evidence": "声は無料の読み上げで、追加の支払いは0円。"
+          "evidence": "声は無料の読み上げで、追加の支払いは0円。",
+          "sourceUrl": "https://x.com/koumei_ai5566/status/2105077598934241383",
+          "status": "inferred"
+        },
+        {
+          "name": "HyperFrames",
+          "role": "HTML-based animation tool used as the video renderer",
+          "evidence": "動画はHTMLで動画を作る無料ツール（HyperFrames）で、Claude Codeが組んでる。",
+          "sourceUrl": "https://x.com/koumei_ai5566/status/2105077600943259654",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Claude Opus 5.5 generated the explainer script, section layout, and the underlying HTML code for HyperFrames to render the motion graphics video.",
@@ -160,6 +167,16 @@
           "incomplete_or_unreproducible_prompt",
           "necessary_inputs_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/koumei_ai5566/status/2105077600943259654",
+        "evidence": ""
       }
     },
     "summary": "An author generated a 95-second structured explainer video from a blog post using Claude Opus 5.5 via Claude Code, orchestrating the script, voiceover, subtitles, and HTML-based animation in HyperFrames.",

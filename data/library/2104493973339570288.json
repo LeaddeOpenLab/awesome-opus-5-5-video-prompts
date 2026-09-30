@@ -121,13 +121,15 @@
           "kind": "image",
           "description": "Screenshots of portfolio web and mobile applications",
           "available": false,
-          "evidence": "UI mockups and application screenshots are displayed throughout the video transitions but not provided separately."
+          "evidence": "UI mockups and application screenshots are displayed throughout the video transitions but not provided separately.",
+          "origin": "unknown"
         },
         {
           "kind": "text",
           "description": "Portfolio details, project titles, and outcome metrics",
           "available": false,
-          "evidence": "Specific copy including metrics (e.g., '1,000+ monthly visitors served') appears in the teaser."
+          "evidence": "Specific copy including metrics (e.g., '1,000+ monthly visitors served') appears in the teaser.",
+          "origin": "unknown"
         }
       ],
       "inputsDocumented": false,
@@ -135,7 +137,8 @@
         {
           "name": "Unknown renderer/animation framework",
           "role": "Rendering motion graphics and UI transitions",
-          "evidence": "The author showcases rendered video motion graphics without specifying the underlying animation library or tool."
+          "evidence": "The author showcases rendered video motion graphics without specifying the underlying animation library or tool.",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Code generation or orchestrating the portfolio teaser animation.",
@@ -175,6 +178,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/pksingh1508/status/2104493973339570288",
+        "evidence": ""
       }
     },
     "summary": "Pawan Kumar shared a vertical portfolio teaser video showcasing software engineering projects and metrics, created using Claude Opus 5.5.",

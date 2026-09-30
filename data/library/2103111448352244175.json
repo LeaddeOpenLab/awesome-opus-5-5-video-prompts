@@ -105,10 +105,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "I made this with one prompt using Opus 5.5"
       },
       "prompt": {
         "status": "fragment",
@@ -161,7 +161,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/MicheleHarmonic/status/2103111448352244175",
+        "evidence": ""
+      }
     },
     "summary": "A prompt requesting an intense edit crossover between GravityDEX and Gojo Satoru.",
     "summaryEn": "GravityDEX x Gojo Satoru Edit Prompt",

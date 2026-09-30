@@ -161,7 +161,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/jasonzhou1993/status/2103663364958515541",
+        "evidence": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "Jason Zhou shares a one-shot generation test using Opus 5.5 to create a dynamic 15-second motion graphics showreel.",
     "summaryEn": "Motion Graphics Showreel Video",
@@ -178,7 +193,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "Jason Zhou shares a one-shot generation test using Opus 5.5 to create a dynamic 15-second motion graphics showreel.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

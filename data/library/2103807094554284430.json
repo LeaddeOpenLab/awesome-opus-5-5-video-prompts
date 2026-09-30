@@ -130,7 +130,7 @@
         "aspectRatio": null,
         "referenceMaterials": []
       },
-      "task": "games-interactive",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Source-index import; extraction only.",
       "isAdvertisement": false,
@@ -155,7 +155,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/redpersongpt/status/2103807204931346864",
+        "evidence": "Create a studio level motion design ad for my app mimicly. Show me the best you got."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A comprehensive creative strategy prompt designed to generate a studio-level motion design ad, ad concepts, shot lists, and copy for the Mimicly app based on its real UI and features.",
     "summaryEn": "Mimicly Motion Design Ad Strategy Prompt",
@@ -172,7 +187,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A comprehensive creative strategy prompt designed to generate a studio-level motion design ad, ad concepts, shot lists, and copy for the Mimicly app based on its real UI and features.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

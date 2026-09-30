@@ -110,7 +110,9 @@
         {
           "name": "Code execution environment",
           "role": "Rendering animated scenes and synthesizing audio from generated code",
-          "evidence": "\"created storyboard, added music, images all in code without any third-party tool\""
+          "evidence": "created storyboard, added music, images all in code without any third-party tool",
+          "sourceUrl": "https://x.com/0xSarthak/status/2104544951757570403",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Generated storyboard, visual code, and soundtrack composition.",
@@ -150,6 +152,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/0xSarthak/status/2104543926644564036",
+        "evidence": ""
       }
     },
     "summary": "Video covering space exploration milestones generated via code and audio written by Claude Opus 5.5.",

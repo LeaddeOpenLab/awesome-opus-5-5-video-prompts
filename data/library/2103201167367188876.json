@@ -137,7 +137,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/justincooperman/status/2103201167367188876",
+        "evidence": ""
+      }
     },
     "summary": "Justin Cooperman shares an animated product clip for Tented created with Opus 5.5, illustrating its image generation features.",
     "summaryEn": "Tented Product Video Animation",

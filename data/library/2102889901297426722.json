@@ -93,10 +93,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "I updated my game Higher on @spawn with Opus 5.5 and Savi with just only one prompt"
       },
       "prompt": {
         "status": "fragment",
@@ -149,7 +149,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/chukinice/status/2102902122648056030",
+        "evidence": "Make a triple A game please"
+      },
+      "purpose": {
+        "label": "Game / playable prototype",
+        "topic": "games-interactive",
+        "tags": []
+      }
     },
     "summary": "Chucky shares an update to his multiplayer game Higher on Spawn, featuring portals to different worlds and built with Opus and Savi.",
     "summaryEn": "Higher Game Update on Spawn",
@@ -165,8 +180,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "Chucky shares an update to his multiplayer game Higher on Spawn, featuring portals to different worlds and built with Opus and Savi.",
+    "category": "games-interactive",
+    "useCase": "Game / playable prototype",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

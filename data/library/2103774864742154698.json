@@ -100,10 +100,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "BRO I just one shotted this for https://t.co/P5I718Mixc with Opus 5.5 WTF 😳😳😳"
       },
       "prompt": {
         "status": "fragment",
@@ -156,7 +156,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/RatheeJaisal/status/2103774864742154698",
+        "evidence": ""
+      }
     },
     "summary": "A prompt used with Opus 5.5 to create a fast-paced launch video under 20 seconds that highlights key product features and aligns with the brand.",
     "summaryEn": "Product Launch Video Prompt",

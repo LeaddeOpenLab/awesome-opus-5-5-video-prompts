@@ -91,13 +91,16 @@
           "kind": "video_and_audio",
           "description": "Reference mashup video by creator 'Fanta' used for pacing style and soundtrack.",
           "available": false,
-          "evidence": "我给了 Opus 5.5 芬达（比较著名的混剪博主）的一段混剪视频... 仍然用这个音乐来混剪"
+          "evidence": "我给了 Opus 5.5 芬达（比较著名的混剪博主）的一段混剪视频... 仍然用这个音乐来混剪",
+          "origin": "user"
         },
         {
           "kind": "external_assets",
           "description": "Movie clips retrieved online by dialogue and sound effect search tools.",
           "available": false,
-          "evidence": "素材的话，你自己去一些专门根据台词、音效找片段的网站上去找，然后下载下来"
+          "evidence": "素材的话，你自己去一些专门根据台词、音效找片段的网站上去找，然后下载下来",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/threeaus/status/2104512100844613836"
         }
       ],
       "inputsDocumented": false,
@@ -105,12 +108,15 @@
         {
           "name": "Claude Opus 5.5",
           "role": "Agent orchestrator responsible for concept ideation, clip sourcing, cut selection, and beat-matching logic.",
-          "evidence": "让它以 AI 威胁论为题材，自己下载素材来混剪"
+          "evidence": "让它以 AI 威胁论为题材，自己下载素材来混剪",
+          "sourceUrl": "https://x.com/threeaus/status/2104512100844613836",
+          "status": "inferred"
         },
         {
           "name": "Unspecified Video Editing Engine / CLI",
           "role": "Execution environment used by Opus to download footage and render cut transitions.",
-          "evidence": "本视频由 AI 全自动剪辑完成 选题 · 找素材 · 卡点 · 字幕 —— 全程没有人类动手"
+          "evidence": "本视频由 AI 全自动剪辑完成 选题 · 找素材 · 卡点 · 字幕 —— 全程没有人类动手",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Agent directing video curation, asset downloading, and automated editing.",
@@ -157,6 +163,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/threeaus/status/2104512100844613836",
+        "evidence": ""
       }
     },
     "summary": "Claude Opus 5.5 acted as an agent to source, select, and edit movie clips into a rhythmic AI-threat supercut synchronized to a reference soundtrack.",

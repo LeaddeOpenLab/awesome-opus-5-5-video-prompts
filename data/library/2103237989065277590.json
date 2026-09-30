@@ -111,7 +111,15 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "GSAP ScrollTrigger",
+          "role": "Scroll-driven interaction",
+          "evidence": "Render a fun motion graphic animation using the GSAP animation platform (see below) to show a brief history of The Sphere in Las Vegas from start to today (start with a minimal architecture to completed venue) - Explainer video style - Talk about how bands now play there, The Wizard of Oz film and next how on Oct 1 2026 Metallica will make their debut - and guess who is attending?",
+          "sourceUrl": "https://x.com/RetropunkAI/status/2103237991091060898",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/RetropunkAI/status/2103237989065277590",
       "divisionEvidence": "",
@@ -146,7 +154,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/RetropunkAI/status/2103237991091060898",
+        "evidence": "Render a fun motion graphic animation using the GSAP animation platform (see below) to show a brief history of The Sphere in Las Vegas from start to today (start with a minimal architecture to completed venue) - Explainer video style - Talk about how bands now play there, The Wizard of Oz film and next how on Oct 1 2026 Metallica will make their debut - and guess who is attending? We are! Should be a 30-60s video depending on the info. Use the images in the folder."
+      },
+      "purpose": {
+        "label": "Educational / explainer video",
+        "topic": "explainers",
+        "tags": []
+      }
     },
     "summary": "A prompt provided to Claude to generate an explainer-style GSAP motion graphic animation detailing the history of The Sphere in Las Vegas up to an upcoming Metallica show.",
     "summaryEn": "The Sphere History GSAP Motion Graphic Prompt",
@@ -162,8 +185,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "A prompt provided to Claude to generate an explainer-style GSAP motion graphic animation detailing the history of The Sphere in Las Vegas up to an upcoming Metallica show.",
+    "category": "explainers",
+    "useCase": "Educational / explainer video",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

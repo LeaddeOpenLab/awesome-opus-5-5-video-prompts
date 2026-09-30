@@ -124,7 +124,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/madebyjmayala/status/2103578285892649220",
+        "evidence": "make a dynamic 15-second motion graphics video promo about gene spectra, use assets from the current live site where relevant. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A prompt requesting a dynamic 15-second motion graphics video promo about gene spectra, attempting to incorporate live site assets.",
     "summaryEn": "Gene Spectra Motion Graphics Promo",
@@ -141,7 +156,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A prompt requesting a dynamic 15-second motion graphics video promo about gene spectra, attempting to incorporate live site assets.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

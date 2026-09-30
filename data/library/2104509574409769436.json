@@ -98,7 +98,9 @@
         {
           "name": "Three.js",
           "role": "Real-time 3D web graphics library used to render the swamp environment in the browser.",
-          "evidence": "this insane rendering of the swamp experience is happening on a browser usign threejs"
+          "evidence": "this insane rendering of the swamp experience is happening on a browser usign threejs",
+          "sourceUrl": "https://x.com/chetanankola/status/2104509574409769436",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Code generation and iterative engineering of Three.js 3D scene architecture, water effects, and scene layout.",
@@ -137,6 +139,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/chetanankola/status/2104509574409769436",
+        "evidence": ""
       }
     },
     "summary": "Interactive 3D swamp environment with boat, water wake, dynamic lighting, and foliage vibe-coded in Three.js using Claude Opus 5.5.",

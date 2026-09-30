@@ -148,8 +148,17 @@
         "evidence": "Consistency check skipped for source-index import.",
         "textualResultQuote": ""
       },
-      "inputs": [],
-      "inputsDocumented": false,
+      "inputs": [
+        {
+          "kind": "parameters_and_assets",
+          "description": "Ask me for: \n• my product + URL \n• 8–12 UI states that tell its story \n• the real data shown in each state \n• brand colors + fonts + accent color \n• required formats (1:1, 16:9, 9:16)",
+          "evidence": "Ask me for: \n• my product + URL \n• 8–12 UI states that tell its story \n• the real data shown in each state \n• brand colors + fonts + accent color \n• required formats (1:1, 16:9, 9:16)",
+          "available": false,
+          "origin": "user",
+          "sourceUrl": "https://x.com/verbove/status/2103483957266268381"
+        }
+      ],
+      "inputsDocumented": true,
       "tools": [],
       "targetModelRole": "",
       "outputSource": "https://x.com/verbove/status/2103483957266268381",
@@ -185,7 +194,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/verbove/status/2103483957266268381",
+        "evidence": "Ask me for: \n• my product + URL \n• 8–12 UI states that tell its story \n• the real data shown in each state \n• brand colors + fonts + accent color \n• required formats (1:1, 16:9, 9:16)"
+      }
     },
     "summary": "A structured prompt detailing rules, motion mechanics, and export specifications for generating a single-canvas, deterministic HTML/code-based product demo animation.",
     "summaryEn": "Code-Based Product Motion Design Prompt",
@@ -201,7 +220,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "explainers",
     "useCase": "A structured prompt detailing rules, motion mechanics, and export specifications for generating a single-canvas, deterministic HTML/code-based product demo animation.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

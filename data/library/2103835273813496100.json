@@ -124,9 +124,41 @@
         "evidence": "Consistency check skipped for source-index import.",
         "textualResultQuote": ""
       },
-      "inputs": [],
-      "inputsDocumented": false,
-      "tools": [],
+      "inputs": [
+        {
+          "kind": "parameters_and_assets",
+          "description": "Brand name; 9–12 high-res photos; ~120 BPM music; moving plant-shadow stock video",
+          "evidence": "Ask me for: a one-word brand name for the wordmark (a verb works best), 9 to 12 high-res photos, a royalty-free song around 120 BPM with a drop and a quiet breakdown (Mixkit, free for commercial use), and a free stock clip of a plain wall with moving plant shadows (Pexels).",
+          "available": false,
+          "origin": "user",
+          "sourceUrl": "https://x.com/twoclipping/status/2103835273813496100"
+        },
+        {
+          "kind": "production_material",
+          "description": "Sound effects for each event",
+          "evidence": "Sound: a downloaded SFX for every event",
+          "sourceUrl": "https://x.com/twoclipping/status/2103835273813496100",
+          "origin": "downloaded",
+          "available": false
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "FFmpeg",
+          "role": "Video encoding",
+          "evidence": "Render with Playwright: 4 subframes per frame blended with ffmpeg tmix, 60fps.",
+          "sourceUrl": "https://x.com/twoclipping/status/2103835273813496100",
+          "status": "required"
+        },
+        {
+          "name": "Playwright",
+          "role": "Browser frame capture",
+          "evidence": "Render with Playwright: 4 subframes per frame blended with ffmpeg tmix, 60fps.",
+          "sourceUrl": "https://x.com/twoclipping/status/2103835273813496100",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/twoclipping/status/2103835273813496100",
       "divisionEvidence": "",
@@ -136,7 +168,7 @@
         "aspectRatio": null,
         "referenceMaterials": []
       },
-      "task": "3d-scenes",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Source-index import; extraction only.",
       "isAdvertisement": false,
@@ -161,7 +193,23 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/twoclipping/status/2103835273813496100",
+        "evidence": "<inputs>\nAsk me for: a one-word brand name for the wordmark (a verb works best), 9 to 12 high-res photos, a royalty-free song around 120 BPM with a drop and a quiet breakdown (Mixkit, free for commercial use), and a free stock clip of a plain wall with moving plant shadows (Pexels).\n</inputs>\n\n<direction>\nAn Apple-keynote launch film, 2D only, one continuous take. Every scene is made out of the pr",
+        "inputSummary": "Brand name; 9–12 high-res photos; ~120 BPM music; moving plant-shadow stock video"
+      },
+      "purpose": {
+        "label": "Brand launch film",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A detailed multi-section prompt for Claude to generate a 2D continuous-take launch animation film rendered entirely via code (HTML, SVG, canvas, and Playwright).",
     "summaryEn": "Code-Based Apple-Style Keynote Motion Design Prompt",
@@ -178,7 +226,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A detailed multi-section prompt for Claude to generate a 2D continuous-take launch animation film rendered entirely via code (HTML, SVG, canvas, and Playwright).",
+    "useCase": "Brand launch film",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

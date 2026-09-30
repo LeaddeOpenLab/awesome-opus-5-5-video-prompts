@@ -112,10 +112,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 with PINOC MCP one shotted this:"
       },
       "prompt": {
         "status": "fragment",
@@ -133,7 +133,15 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "World: vanilla ES modules + three.js (importmap from jsdelivr, no build step).",
+          "sourceUrl": "https://x.com/Viggle_PINOC/status/2102861943094583723",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/Viggle_PINOC/status/2102861939072434495",
       "divisionEvidence": "",
@@ -168,7 +176,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Viggle_PINOC/status/2102861943094583723",
+        "evidence": ""
+      }
     },
     "summary": "A detailed prompt for Claude Opus 5.5 and PINOC MCP to generate a playable, browser-based Minecraft recreation with Three.js shaders and animated voxel NPCs.",
     "summaryEn": "Browser Minecraft Recreation Prompt",
@@ -184,7 +202,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "3d-scenes",
     "useCase": "A detailed prompt for Claude Opus 5.5 and PINOC MCP to generate a playable, browser-based Minecraft recreation with Three.js shaders and animated voxel NPCs.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

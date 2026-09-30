@@ -113,7 +113,8 @@
           "kind": "product_assets",
           "description": "Industrial Hub actual product assets, logo icon file, brand color tokens, codebase components, and live Tender Hub feed data",
           "available": false,
-          "evidence": "Use our actual product assets... rebuilt our product screens as animated components in our own brand colours instead of pasting screenshots, assembled our logo from slices of the actual icon file, and pulled four real open tenders from our public Tender Hub"
+          "evidence": "Use our actual product assets... rebuilt our product screens as animated components in our own brand colours instead of pasting screenshots, assembled our logo from slices of the actual icon file, and pulled four real open tenders from our public Tender Hub",
+          "origin": "unknown"
         }
       ],
       "inputsDocumented": false,
@@ -121,7 +122,9 @@
         {
           "name": "Programmatic video renderer and frame inspector",
           "role": "Executed animation scripts, synthesized sound design, rendered video frames, and re-rendered upon bug fixes",
-          "evidence": "It rendered the film, reviewed its own motion frame by frame, caught a bug that washed one scene in gold and a card too small to read, fixed both and rendered again."
+          "evidence": "It rendered the film, reviewed its own motion frame by frame, caught a bug that washed one scene in gold and a card too small to read, fixed both and rendered again.",
+          "sourceUrl": "https://x.com/s7trimm/status/2104524611069108688",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Autonomous director and motion designer: beat detection (120 BPM / 30 frames per beat at 60 fps), sound design synthesis, vector asset slicing, animated UI recreation, frame-by-frame visual self-review, and re-rendering.",
@@ -133,7 +136,7 @@
         "aspectRatio": "9:16",
         "referenceMaterials": []
       },
-      "task": "other-animation",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Explicitly confirms Claude Opus 5.5 usage with full verbatim prompt, attached corresponding video, and documented autonomous multi-step agent motion graphics workflow.",
       "isAdvertisement": false,
@@ -159,6 +162,21 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/s7trimm/status/2104524611069108688",
+        "evidence": "make a dynamic 30-second motion graphics video that shows what an incredible motion designer you are, like a showreel. Use our actual product assets, it must have music, the motion must match the music, break the screenshots into components so they can be animated too, and make it look like a real production, not a demo."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
       }
     },
     "summary": "Claude Opus 5.5 is given a single prompt to autonomously generate a 30-second beat-synced motion graphics showreel video for Industrial Hub, assembling UI components, beat grid timing, audio, and self-debugging rendering issues.",
@@ -175,8 +193,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "other-animation",
-    "useCase": "Claude Opus 5.5 is given a single prompt to autonomously generate a 30-second beat-synced motion graphics showreel video for Industrial Hub, assembling UI components, beat grid timing, audio, and self-debugging rendering issues.",
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

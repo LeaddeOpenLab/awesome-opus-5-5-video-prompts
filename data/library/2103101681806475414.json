@@ -137,7 +137,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/lepadev/status/2103105157265592471",
+        "evidence": ""
+      }
     },
     "summary": "A prompt requesting a slick, punchy video for an inference startup created without dedicated video generation models or extra libraries.",
     "summaryEn": "Modern Startup Video Prompt",

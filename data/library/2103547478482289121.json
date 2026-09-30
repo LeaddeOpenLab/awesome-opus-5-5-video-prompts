@@ -81,10 +81,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 one shot this with a super short prompt lol."
       },
       "prompt": {
         "status": "fragment",
@@ -137,7 +137,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/dansushik/status/2103547616055492702",
+        "evidence": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, like its your showreel for a resume. go all out, and brand it for Based Agency."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "Prompt used with Opus 5.5 to generate a dynamic 15-second motion graphics showreel video branded for Based Agency.",
     "summaryEn": "Motion Graphics Showreel",
@@ -154,7 +169,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "Prompt used with Opus 5.5 to generate a dynamic 15-second motion graphics showreel video branded for Based Agency.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

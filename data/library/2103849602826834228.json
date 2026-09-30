@@ -131,7 +131,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/MajorBaguette/status/2103849602826834228",
+        "evidence": ""
+      }
     },
     "summary": "Dany shares a presentation video generated with Opus 5.5 for Brieform using a simple prompt.",
     "summaryEn": "Remotion Video Generation with Opus 5.5",

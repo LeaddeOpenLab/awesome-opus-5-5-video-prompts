@@ -81,10 +81,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Asked claude Opus 5.5 to make an explainer on how a mechanical keyboard works."
       },
       "prompt": {
         "status": "fragment",
@@ -137,7 +137,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/iniyanai/status/2103814603100856596",
+        "evidence": "make an explainer on how a mechanical keyboard works"
+      },
+      "purpose": {
+        "label": "Educational / explainer video",
+        "topic": "explainers",
+        "tags": []
+      }
     },
     "summary": "A prompt asking for an explainer video on how mechanical keyboards work, generated using code for Three.js 3D graphics and beat-synced switch sounds.",
     "summaryEn": "Mechanical Keyboard Explainer",
@@ -153,8 +168,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "A prompt asking for an explainer video on how mechanical keyboards work, generated using code for Three.js 3D graphics and beat-synced switch sounds.",
+    "category": "explainers",
+    "useCase": "Educational / explainer video",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

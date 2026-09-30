@@ -257,7 +257,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/gandamu_ml/status/2102919394775220530",
+        "evidence": ""
+      }
     },
     "summary": "Prompt provided to Claude Opus to create a 1990s-style demoscene demo synchronized to an S3M music track using C/C++ and OpenGL.",
     "summaryEn": "90s-Style Demoscene Demo Prompt",
@@ -273,7 +283,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "games-interactive",
     "useCase": "Prompt provided to Claude Opus to create a 1990s-style demoscene demo synchronized to an S3M music track using C/C++ and OpenGL.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

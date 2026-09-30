@@ -93,35 +93,53 @@
       },
       "inputs": [
         {
+          "kind": "parameters_and_assets",
+          "description": "Ask me for: my product name, a logo (or let you draw a simple mark), my brand colours (or pull them from my logo), the one-line thing a user types into the prompt box, the page that answers it (title + 2–3 sentences with one key phrase), two feature names for the stacked cards, and a music track. If I skip any, use the defaults: product \"Frame by Frame\" living inside its Whop hub, a viewfinder mark (four corner brackets around a bold \"FF\"), prompt \"Make a launch video for my app\", a lesson page titled \"2.1 Choose a reference\", cards \"Launch\" and \"Sound\", and Mixkit's free house track \"Rising Forest\" slowed to 124 BPM.",
+          "evidence": "Ask me for: my product name, a logo (or let you draw a simple mark), my brand colours (or pull them from my logo), the one-line thing a user types into the prompt box, the page that answers it (title + 2–3 sentences with one key phrase), two feature names for the stacked cards, and a music track. If I skip any, use the defaults: product \"Frame by Frame\" living inside its Whop hub, a viewfinder mark (four corner brackets around a bold \"FF\"), prompt \"Make a launch video for my app\", a lesson page titled \"2.1 Choose a reference\", cards \"Launch\" and \"Sound\", and Mixkit's free house track \"Rising Forest\" slowed to 124 BPM.",
+          "available": false,
+          "origin": "user",
+          "sourceUrl": "https://x.com/notdwd/status/2104401208958230764"
+        },
+        {
           "kind": "audio",
           "description": "Mixkit free house track 'Rising Forest' slowed to 124 BPM plus synthesized SFX cues",
           "available": true,
-          "evidence": "Mixkit's free house track \"Rising Forest\" slowed to 124 BPM."
+          "evidence": "Mixkit's free house track \"Rising Forest\" slowed to 124 BPM.",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/notdwd/status/2104401208958230764"
         },
         {
           "kind": "font",
           "description": "Inter typeface weights 400, 500, 600, 700",
           "available": true,
-          "evidence": "Type: Inter (400/500/600/700)."
+          "evidence": "Type: Inter (400/500/600/700).",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/notdwd/status/2104401208958230764"
         },
         {
           "kind": "video_reference",
           "description": "@thednyx's original motion video serving as layout and timing ground truth",
           "available": true,
-          "evidence": "left is @thednyx’s original. right is opus's version rebuilt with my own brand."
+          "evidence": "left is @thednyx’s original. right is opus's version rebuilt with my own brand.",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/notdwd/status/2104401208958230764"
         }
       ],
       "inputsDocumented": true,
       "tools": [
         {
-          "name": "Playwright",
-          "role": "Frame-by-frame screenshot renderer of the HTML/SVG animation",
-          "evidence": "6. Render with Playwright (one screenshot per frame, fonts loaded first), encode H.264 yuv420p at 60000/1001, mux the audio."
-        },
-        {
           "name": "FFmpeg",
           "role": "H.264 video encoder and audio multiplexer",
-          "evidence": "encode H.264 yuv420p at 60000/1001, mux the audio."
+          "evidence": "encode H.264 yuv420p at 60000/1001, mux the audio.",
+          "sourceUrl": "https://x.com/notdwd/status/2104401208958230764",
+          "status": "inferred"
+        },
+        {
+          "name": "Playwright",
+          "role": "Browser frame capture",
+          "evidence": "Render with Playwright (one screenshot per frame, fonts loaded first), encode H.264 yuv420p at 60000/1001, mux the audio.",
+          "sourceUrl": "https://x.com/notdwd/status/2104401208958230764",
+          "status": "required"
         }
       ],
       "targetModelRole": "Claude Opus 5.5 is responsible for writing the programmatic HTML/CSS/SVG animation script implementing the continuous seek(t) frame function and keyframe lookup tables.",
@@ -135,7 +153,7 @@
           "@thednyx's original motion video"
         ]
       },
-      "task": "other-animation",
+      "task": "explainers",
       "suitable": true,
       "reason": "Explicitly confirms Claude Opus 5.5, provides the complete reproducible prompt instructions for code-driven animation production, and includes the resulting video verifying the animated output.",
       "isAdvertisement": false,
@@ -159,6 +177,21 @@
         "reasons": [
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/notdwd/status/2104401208958230764",
+        "evidence": "Ask me for: my product name, a logo (or let you draw a simple mark), my brand colours (or pull them from my logo), the one-line thing a user types into the prompt box, the page that answers it (title + 2–3 sentences with one key phrase), two feature names for the stacked cards, and a music track. If I skip any, use the defaults: product \"Frame by Frame\" living inside its Whop hub, a viewfinder mark (four corner brackets around a bold \"FF\"), prompt \"Make a launch video for my app\", a lesson page titled \"2.1 Choose a reference\", cards \"Launch\" and \"Sound\", and Mixkit's free house track \"Rising Forest\" slowed to 124 BPM."
+      },
+      "purpose": {
+        "label": "Educational / explainer video",
+        "topic": "explainers",
+        "tags": []
       }
     },
     "summary": "Dawood provides a detailed creative direction prompt for Claude Opus 5.5 to rebuild a product launch motion design frame-by-frame as an HTML/SVG keyframe animation rendered via Playwright.",
@@ -175,8 +208,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "other-animation",
-    "useCase": "Dawood provides a detailed creative direction prompt for Claude Opus 5.5 to rebuild a product launch motion design frame-by-frame as an HTML/SVG keyframe animation rendered via Playwright.",
+    "category": "explainers",
+    "useCase": "Educational / explainer video",
     "hasReusablePrompt": true,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

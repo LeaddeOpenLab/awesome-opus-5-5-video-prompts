@@ -141,10 +141,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "i never knew opus 5.5 was this good with video"
       },
       "prompt": {
         "status": "fragment",
@@ -197,7 +197,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/gouthamjay8/status/2103816558523159008",
+        "evidence": "I want you to create a highly professional SaaS product launch video. Go and look up [website] Pick that, and then make sure to get actual assets and images and all of that stuff from the internet. Turn it into these typical, very professionally edited, motion-graphics-styled product launch videos that you see people making on Twitter when they launch new SaaS products (which are showing off the features, the benefits, and all of these things). It should show what an incredible motion designer you are, like it's your showreel for a resume. Go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A prompt designed to create a professional, motion-graphics-styled SaaS product launch video by automatically pulling assets and mascot designs from a specified website.",
     "summaryEn": "SaaS Product Launch Motion Graphics Video Prompt",
@@ -214,7 +229,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A prompt designed to create a professional, motion-graphics-styled SaaS product launch video by automatically pulling assets and mascot designs from a specified website.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

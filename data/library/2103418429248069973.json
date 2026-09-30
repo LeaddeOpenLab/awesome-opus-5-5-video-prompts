@@ -144,7 +144,22 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "JavaScript",
+          "role": "Programming language",
+          "status": "author_confirmed",
+          "evidence": "It built the whole thing as a single HTML file, using SVG and plain JavaScript with no animation library.",
+          "sourceUrl": "https://x.com/Sarut0biSasuke/status/2103418429248069973"
+        },
+        {
+          "name": "JavaScript",
+          "role": "Programming language",
+          "evidence": "Render a recipe motion graphic animation using JavaScript or HTML (whatever you think will produce the best result) to show the full recipe for a White Russian from start to finish, empty glass to completed cocktail.",
+          "sourceUrl": "https://x.com/Sarut0biSasuke/status/2103418429248069973",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/Sarut0biSasuke/status/2103418429248069973",
       "divisionEvidence": "",
@@ -179,7 +194,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Sarut0biSasuke/status/2103418429248069973",
+        "evidence": "Render a recipe motion graphic animation using JavaScript or HTML (whatever you think will produce the best result) to show the full recipe for a White Russian from start to finish, empty glass to completed cocktail. Explainer video style, showing the ingredients and measurements as they go into the glass. It should be a 30s video."
+      },
+      "purpose": {
+        "label": "Educational / explainer video",
+        "topic": "explainers",
+        "tags": []
+      }
     },
     "summary": "A prompt instructing the model to generate a 30-second explainer-style recipe motion graphic animation of a White Russian cocktail using JavaScript or HTML.",
     "summaryEn": "White Russian Recipe Motion Graphic",
@@ -195,8 +225,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "A prompt instructing the model to generate a 30-second explainer-style recipe motion graphic animation of a White Russian cocktail using JavaScript or HTML.",
+    "category": "explainers",
+    "useCase": "Educational / explainer video",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

@@ -81,10 +81,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "I have asked opus 5.5 to product explainer"
       },
       "prompt": {
         "status": "fragment",
@@ -137,7 +137,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/sudo_kiran/status/2103486573476254201",
+        "evidence": "make a dynamic 30-seconds motion graphic video about the distilbook like a product explainer the video has to be very incredible\n(product url)"
+      },
+      "purpose": {
+        "label": "Educational / explainer video",
+        "topic": "explainers",
+        "tags": []
+      }
     },
     "summary": "A dynamic motion graphic video prompt designed to generate a 30-second product explainer for Distilbook using Opus.",
     "summaryEn": "Distilbook Product Explainer Motion Graphic Prompt",
@@ -153,8 +168,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "A dynamic motion graphic video prompt designed to generate a 30-second product explainer for Distilbook using Opus.",
+    "category": "explainers",
+    "useCase": "Educational / explainer video",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

@@ -104,12 +104,15 @@
         {
           "name": "Claude Opus 5.5",
           "role": "映像および音響を生成するコード全体の執筆・構想",
-          "evidence": "Concept, Film & Sound: Claude Opus 5.5\n映像も音も、Claudeが書いたコードから作られている。"
+          "evidence": "Concept, Film & Sound: Claude Opus 5.5\n映像も音も、Claudeが書いたコードから作られている。",
+          "status": "inferred"
         },
         {
           "name": "コード実行・レンダラー環境",
           "role": "Claudeが記述したコードを実行して映像および音声を出力する実行基盤（具体的なフレームワークは未公開）",
-          "evidence": "映像も音も、Claudeが書いたコードから作られている。"
+          "evidence": "映像も音も、Claudeが書いたコードから作られている。",
+          "sourceUrl": "https://x.com/July4Chi/status/2104510125298090331",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "映像と音響を生成するコードのプログラミングおよび作品のコンセプト設計",
@@ -149,6 +152,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/July4Chi/status/2104510125298090331",
+        "evidence": ""
       }
     },
     "summary": "Claude Opus 5.5がコードを生成し、映像と音楽の両方を自律制作した1分21秒の自画像映像作品。",

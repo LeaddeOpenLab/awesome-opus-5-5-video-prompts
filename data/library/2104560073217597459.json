@@ -108,13 +108,17 @@
           "kind": "image",
           "description": "Picture 1: Reference image of the fashion model.",
           "available": false,
-          "evidence": "モデルと商品の画像2枚から15秒の広告に。"
+          "evidence": "モデルと商品の画像2枚から15秒の広告に。",
+          "origin": "user",
+          "sourceUrl": "https://x.com/ito1217yo/status/2104560073217597459"
         },
         {
           "kind": "image",
           "description": "Picture 2: Reference image of the handbag product.",
           "available": false,
-          "evidence": "モデルと商品の画像2枚から15秒の広告に。"
+          "evidence": "モデルと商品の画像2枚から15秒の広告に。",
+          "origin": "user",
+          "sourceUrl": "https://x.com/ito1217yo/status/2104560073217597459"
         }
       ],
       "inputsDocumented": false,
@@ -122,7 +126,9 @@
         {
           "name": "MiniMax H3",
           "role": "Video generation model executing the prompt structure.",
-          "evidence": "Claude Opus 5.5 × MiniMax H3で、架空ブランドの広告動画を作ってみました"
+          "evidence": "Claude Opus 5.5 × MiniMax H3で、架空ブランドの広告動画を作ってみました",
+          "sourceUrl": "https://x.com/ito1217yo/status/2104560073217597459",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Prompt authoring and shot-by-shot commercial video specification.",
@@ -162,6 +168,16 @@
           "incomplete_or_unreproducible_prompt",
           "necessary_inputs_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ito1217yo/status/2104560081165815862",
+        "evidence": ""
       }
     },
     "summary": "Multi-shot fashion commercial structured with Claude Opus 5.5 and rendered via MiniMax H3 using model and product reference images.",

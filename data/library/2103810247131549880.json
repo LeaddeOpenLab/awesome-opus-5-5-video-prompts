@@ -131,7 +131,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/KmAsiff/status/2103810247131549880",
+        "evidence": "make a dynamic 20-second motion graphics video that shows what an incredible our email verify tool is, put all the use case you can imagine. go all out'\ni want you to make it really modern and saas style. inspiration is yc videos and claude social videos"
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A prompt for generating a modern, SaaS-style 20-second motion graphics video showcasing an email verification tool and its use cases, inspired by YC and Claude social media videos.",
     "summaryEn": "Email Verification Tool SaaS Motion Graphics",
@@ -148,7 +163,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A prompt for generating a modern, SaaS-style 20-second motion graphics video showcasing an email verification tool and its use cases, inspired by YC and Claude social media videos.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

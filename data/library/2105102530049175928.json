@@ -103,7 +103,9 @@
           "kind": "physical_setup",
           "description": "Lower shelf containing three candles and a white pot, monitored by a camera and targeted by a projector",
           "available": false,
-          "evidence": "I gave Opus 5.5 a projector and a camera so it can auto calibrate the scene for projection mapping. I told it there are 3 candles and a white pot on the lower shelf"
+          "evidence": "I gave Opus 5.5 a projector and a camera so it can auto calibrate the scene for projection mapping. I told it there are 3 candles and a white pot on the lower shelf",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/antipdoom/status/2105102530049175928"
         }
       ],
       "inputsDocumented": false,
@@ -111,7 +113,9 @@
         {
           "name": "Projector & Camera Setup",
           "role": "Hardware interface for scene capture, auto-calibration, and displaying projected animations onto the physical shelf",
-          "evidence": "I gave Opus 5.5 a projector and a camera so it can auto calibrate the scene for projection mapping."
+          "evidence": "I gave Opus 5.5 a projector and a camera so it can auto calibrate the scene for projection mapping.",
+          "sourceUrl": "https://x.com/antipdoom/status/2105102530049175928",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Orchestrates scene calibration via camera feedback and generates animation mapping logic for the projection output.",
@@ -150,6 +154,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/antipdoom/status/2105102530049175928",
+        "evidence": ""
       }
     },
     "summary": "The author connected Claude Opus 5.5 with a camera and projector to auto-calibrate and project a custom animation onto a physical shelf containing three candles and a white pot.",

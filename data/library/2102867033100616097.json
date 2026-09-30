@@ -149,7 +149,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/_nikolajankovic/status/2102867033100616097",
+        "evidence": "make a hand-drawn stop-motion animation;\nstory: you're defi saver and explaining yourself in 1st person"
+      },
+      "purpose": {
+        "label": "Educational / explainer video",
+        "topic": "explainers",
+        "tags": []
+      }
     },
     "summary": "Nikola Jankovic shares a prompt used with Opus 5.5 to create a hand-drawn stop-motion animation explaining DeFi Saver from a first-person perspective.",
     "summaryEn": "Stop-Motion DeFi Saver Animation",
@@ -165,8 +180,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "Nikola Jankovic shares a prompt used with Opus 5.5 to create a hand-drawn stop-motion animation explaining DeFi Saver from a first-person perspective.",
+    "category": "explainers",
+    "useCase": "Educational / explainer video",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

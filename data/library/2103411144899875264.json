@@ -112,7 +112,15 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "JavaScript",
+          "role": "Programming language",
+          "evidence": "Create a pure javascript animation.",
+          "sourceUrl": "https://x.com/TomAndrieu96707/status/2103411148842283295",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/TomAndrieu96707/status/2103411144899875264",
       "divisionEvidence": "",
@@ -147,7 +155,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/TomAndrieu96707/status/2103411148842283295",
+        "evidence": ""
+      }
     },
     "summary": "Tom Andrieu shares an Opus 5.5 prompt used to generate a 30 to 60-second pure JavaScript animation in a whimsical hand-drawn collage style based on an 'about-us' page.",
     "summaryEn": "JavaScript About Us Page Animation",
@@ -163,7 +181,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "explainers",
     "useCase": "Tom Andrieu shares an Opus 5.5 prompt used to generate a 30 to 60-second pure JavaScript animation in a whimsical hand-drawn collage style based on an 'about-us' page.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

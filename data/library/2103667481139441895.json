@@ -75,10 +75,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Since everyone seems to be creating video with Opus 5.5 these last 2 days, I had to try!"
       },
       "prompt": {
         "status": "fragment",
@@ -131,7 +131,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/tak3sh8/status/2103667481139441895",
+        "evidence": "Prompt 1: \"Do a quick hand-drawn whiteboard animations explaining what is replica symmetry breaking in the SK model\""
+      },
+      "purpose": {
+        "label": "Educational / explainer video",
+        "topic": "explainers",
+        "tags": []
+      }
     },
     "summary": "A two-step prompt sequence used to generate a hand-drawn whiteboard animation explaining replica symmetry breaking in the SK model with narration.",
     "summaryEn": "Replica Symmetry Breaking Whiteboard Animation",
@@ -147,8 +162,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "A two-step prompt sequence used to generate a hand-drawn whiteboard animation explaining replica symmetry breaking in the SK model with narration.",
+    "category": "explainers",
+    "useCase": "Educational / explainer video",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

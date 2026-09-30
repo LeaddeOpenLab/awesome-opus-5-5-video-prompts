@@ -144,7 +144,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/1littlecoder/status/2103746736980378066",
+        "evidence": "create a 30 second ad for Opus 5.5 inspired by Apple 1984 ad, iykyk! avoid the border text or frames!"
+      },
+      "purpose": {
+        "label": "Concept advertisement / Apple 1984 homage",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "1LittleCoder shares a prompt used with Opus 5.5 to generate a 30-second advertisement inspired by the classic Apple 1984 commercial.",
     "summaryEn": "Opus 5.5 Ad Inspired by Apple 1984",
@@ -161,7 +176,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "1LittleCoder shares a prompt used with Opus 5.5 to generate a 30-second advertisement inspired by the classic Apple 1984 commercial.",
+    "useCase": "Concept advertisement / Apple 1984 homage",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

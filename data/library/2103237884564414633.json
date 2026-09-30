@@ -99,10 +99,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "made this with @HyperFrames_ and opus 5.5 and one rambled prompt via whispr i'll paste below https://t.co/XVyDriG7XC"
       },
       "prompt": {
         "status": "fragment",
@@ -155,7 +155,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/jake11moran/status/2103239225902874874",
+        "evidence": ""
+      }
     },
     "summary": "A detailed HyperFrames prompt designed to generate a polished 27-second hype teaser video for NotchBrowser, featuring smooth continuous camera motion across a Mac desktop.",
     "summaryEn": "NotchBrowser Teaser Video Prompt",

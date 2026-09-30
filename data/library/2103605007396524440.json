@@ -131,7 +131,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Madhav_XO/status/2103605007396524440",
+        "evidence": ""
+      }
     },
     "summary": "Madhav shared a 10-second video generated using a single prompt asking the AI model to create a video based on whatever it knows about him.",
     "summaryEn": "Opus 5.5 Video Prompt",

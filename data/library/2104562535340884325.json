@@ -120,7 +120,9 @@
           "kind": "website_reference",
           "description": "Author's product website URL and branding assets for Forgefy",
           "available": false,
-          "evidence": "\"I gave it my website and basically told it to go all out.\""
+          "evidence": "\"I gave it my website and basically told it to go all out.\"",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/0xPaulvibe/status/2104562535340884325"
         }
       ],
       "inputsDocumented": false,
@@ -136,7 +138,7 @@
           "Forgefy branding and UI elements"
         ]
       },
-      "task": "other-animation",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Directly demonstrates a full motion graphics product showcase attributed to Claude Opus 5.5 with verbatim prompt instructions, though the execution runtime remains undocumented.",
       "isAdvertisement": false,
@@ -164,6 +166,21 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/0xPaulvibe/status/2104562884860682714",
+        "evidence": "make a dynamic motion graphics video about [PASTE YOUR WEBSITE HERE] that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
       }
     },
     "summary": "The author shares a dynamic motion graphics promotional video for their product Forgefy, claiming it was generated in one shot by Opus 5.5 from a general showreel prompt with a website link.",
@@ -180,8 +197,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "other-animation",
-    "useCase": "The author shares a dynamic motion graphics promotional video for their product Forgefy, claiming it was generated in one shot by Opus 5.5 from a general showreel prompt with a website link.",
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

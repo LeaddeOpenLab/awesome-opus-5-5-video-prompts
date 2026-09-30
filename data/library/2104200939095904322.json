@@ -130,7 +130,8 @@
         {
           "name": "Claude Code CLI / Internal Renderer",
           "role": "Agent code generation, environment execution, and video compilation/export pipeline to MP4",
-          "evidence": "Author stated in replies: 'Claude code', '没有提前安装，底层原理是什么也不用关心，最终结交付的就是完整的mp4', and '对，全部自己搞定'"
+          "evidence": "Author stated in replies: 'Claude code', '没有提前安装，底层原理是什么也不用关心，最终结交付的就是完整的mp4', and '对，全部自己搞定'",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "End-to-end creative scriptwriting, animation coding, graphic design composition, and automated pipeline execution",
@@ -167,6 +168,16 @@
           "author_model_use_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/akokoi1/status/2104200939095904322",
+        "evidence": ""
       }
     },
     "summary": "Author prompts Claude Code using Opus 5.5 to independently generate and render an end-to-end scientific animation video titled 'The Beauty of Physics', spanning from quantum scales to black holes with a continuous timeline and cinematic layout.",

@@ -139,7 +139,24 @@
         "evidence": "Consistency check skipped for source-index import.",
         "textualResultQuote": ""
       },
-      "inputs": [],
+      "inputs": [
+        {
+          "kind": "reference_video",
+          "description": "Reference MV",
+          "evidence": "https://t.co/Yl2Awyusca",
+          "sourceUrl": "https://x.com/doubleunplussed/status/2103697584846238026",
+          "origin": "user",
+          "available": false
+        },
+        {
+          "kind": "audio",
+          "description": "Song",
+          "evidence": "https://t.co/hUE51reWBk",
+          "sourceUrl": "https://x.com/doubleunplussed/status/2103697584846238026",
+          "origin": "user",
+          "available": false
+        }
+      ],
       "inputsDocumented": false,
       "tools": [],
       "targetModelRole": "",
@@ -176,7 +193,26 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [
+          "2026-09-30 link check: reference MV short link resolves to https://github.com/JohnHeibel/PDoomVideo (HTTP 200); song resolves to https://www.youtube.com/watch?v=cobZuBii0Z0 (HTTP 200). Page access only; media playback/download not verified."
+        ],
+        "sourceUrl": "https://x.com/doubleunplussed/status/2103697584846238026",
+        "evidence": "I'd like you to make a music video in a similar style to this one:\n\nhttps://t.co/Yl2Awyusca\n\nTo this song:\n\nhttps://t.co/hUE51reWBk\n\nDon't feel the need to represent everything in the lyrics literally - feel free to include relevant references to concepts, events, and lore in the video, even if obscure (especially if obscure). E.g. when the lyrics say \"when they say they're just predicting tokens."
+      },
+      "purpose": {
+        "label": "Motion graphics / music videos",
+        "topic": "motion-graphics",
+        "tags": [
+          "music-video"
+        ]
+      }
     },
     "summary": "A prompt and iterative follow-up instructions given to Claude Opus to code and render an animated music video filled with AI lore and safety references for the song 'I am actually scared of linear algebra'.",
     "summaryEn": "Animated Music Video Prompt for Claude Opus",
@@ -193,7 +229,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A prompt and iterative follow-up instructions given to Claude Opus to code and render an animated music video filled with AI lore and safety references for the song 'I am actually scared of linear algebra'.",
+    "useCase": "Motion graphics / music videos",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

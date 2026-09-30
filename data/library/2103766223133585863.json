@@ -143,7 +143,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/paukraft/status/2103766225775915138",
+        "evidence": "make a dynamic motion graphics video about this project and its unique features that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "Pau Kraft shares a prompt used with Opus 5.5 to create a dynamic motion graphics video highlighting a project's unique features in the style of a motion designer's résumé showreel.",
     "summaryEn": "Dynamic Motion Graphics Showreel Prompt",
@@ -160,7 +175,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "Pau Kraft shares a prompt used with Opus 5.5 to create a dynamic motion graphics video highlighting a project's unique features in the style of a motion designer's résumé showreel.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

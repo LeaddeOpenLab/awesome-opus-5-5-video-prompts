@@ -87,10 +87,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "I asked Claude Opus 5.5 for a showreel as if it were applying for a motion design job, and it made this from one prompt without After Effects or stock music, writing every frame in code and the soundtrack in Python."
       },
       "prompt": {
         "status": "fragment",
@@ -108,7 +108,15 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Remotion",
+          "role": "Video renderer",
+          "status": "author_confirmed",
+          "evidence": "Built with Remotion for https://t.co/o8rkux5XrH",
+          "sourceUrl": "https://x.com/theattnlayer/status/2103777103561031832"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/theattnlayer/status/2103776779064471834",
       "divisionEvidence": "",
@@ -143,7 +151,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/theattnlayer/status/2103777103561031832",
+        "evidence": "make a dynamic 15 second motion graphics video that shows what an incredible motion designer you are, like its your showreel for a resume, go all out, its about the attention layer"
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A prompt given to Claude Opus to create a 15-second dynamic motion graphics showreel about 'The Attention Layer' using Remotion and Python code.",
     "summaryEn": "Dynamic Motion Graphics Showreel Prompt",
@@ -160,7 +183,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A prompt given to Claude Opus to create a 15-second dynamic motion graphics showreel about 'The Attention Layer' using Remotion and Python code.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

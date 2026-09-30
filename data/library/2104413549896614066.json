@@ -92,7 +92,9 @@
         {
           "name": "Unknown code execution/rendering engine",
           "role": "Compiling and rendering the animation, characters, soundtrack, and video file",
-          "evidence": "make a high quality animated short entirely in code, build the characters, environments, soundtrack and effects, then render the final video."
+          "evidence": "make a high quality animated short entirely in code, build the characters, environments, soundtrack and effects, then render the final video.",
+          "sourceUrl": "https://x.com/Zach__Harrison/status/2104413549896614066",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Claude Opus 5.5 acted as an autonomous coding agent writing code for characters, environments, audio, and visual effects in iterative loops.",
@@ -132,6 +134,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Zach__Harrison/status/2104413549896614066",
+        "evidence": ""
       }
     },
     "summary": "Zach Harrison documents an experiment using Claude Opus 5.5 via Claude Console as an autonomous coding agent instructed to create, refine, and render an animated short video entirely in code.",

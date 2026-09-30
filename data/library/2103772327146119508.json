@@ -191,7 +191,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/VisheshBaghell/status/2103772327146119508",
+        "evidence": ""
+      }
     },
     "summary": "Vishesh Baghel shared a prompt used with Opus to generate a product demo highlighting site features using the /brag skill.",
     "summaryEn": "Product Demo Prompt",

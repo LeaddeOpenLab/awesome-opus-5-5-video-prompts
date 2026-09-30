@@ -149,7 +149,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ezshine/status/2103501705698750731",
+        "evidence": ""
+      }
     },
     "summary": "A single prompt used with Claude Opus to automatically code and render a professional 16:9 MP4 product showcase video.",
     "summaryEn": "Product Promo Video Prompt",

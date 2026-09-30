@@ -106,9 +106,40 @@
         "evidence": "Consistency check skipped for source-index import.",
         "textualResultQuote": ""
       },
-      "inputs": [],
+      "inputs": [
+        {
+          "kind": "product",
+          "description": "Product URL and product details",
+          "evidence": "https://t.co/fTEq1mcBAx",
+          "sourceUrl": "https://x.com/felipemoller/status/2103847070419546556",
+          "origin": "user",
+          "available": false
+        }
+      ],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "FFmpeg",
+          "role": "Video encoding",
+          "evidence": "Use apenas: JavaScript, Playwright e FFmpeg.",
+          "sourceUrl": "https://x.com/felipemoller/status/2103847070419546556",
+          "status": "required"
+        },
+        {
+          "name": "JavaScript",
+          "role": "Programming language",
+          "evidence": "Use apenas: JavaScript, Playwright e FFmpeg.",
+          "sourceUrl": "https://x.com/felipemoller/status/2103847070419546556",
+          "status": "required"
+        },
+        {
+          "name": "Playwright",
+          "role": "Browser frame capture",
+          "evidence": "Use apenas: JavaScript, Playwright e FFmpeg.",
+          "sourceUrl": "https://x.com/felipemoller/status/2103847070419546556",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/felipemoller/status/2103846311149936736",
       "divisionEvidence": "",
@@ -143,7 +174,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/felipemoller/status/2103847070419546556",
+        "evidence": "Use apenas: JavaScript, Playwright e FFmpeg. Faça um vídeo moderno, elegante e impactante para meu produto (https://t.co/fTEq1mcBAx). Quero que simule os gastos em estabelecimentos do dia a dia, como mercado, posto de gasolina e restaurante. \n\nFaça no formato 9:16."
+      },
+      "purpose": {
+        "label": "Product promotional video",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A prompt shared by Felipe Möller using JavaScript, Playwright, and FFmpeg to generate a 9:16 modern promotional video simulating daily expenses for a financial product.",
     "summaryEn": "Product Promo Video Generation Prompt",
@@ -160,7 +206,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A prompt shared by Felipe Möller using JavaScript, Playwright, and FFmpeg to generate a 9:16 modern promotional video simulating daily expenses for a financial product.",
+    "useCase": "Product promotional video",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

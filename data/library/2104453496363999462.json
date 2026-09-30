@@ -97,13 +97,17 @@
           "kind": "codebase",
           "description": "Product codebase of The Talent App opened in the coding editor",
           "available": false,
-          "evidence": "open your coding editor in the same project as the product. The model already knows the codebase."
+          "evidence": "open your coding editor in the same project as the product. The model already knows the codebase.",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/VikashSparxIT/status/2104453496363999462"
         },
         {
           "kind": "reference",
           "description": "Visual or video reference pointed to by the user",
           "available": false,
-          "evidence": "You just point at a reference and say: make a product demo show reel."
+          "evidence": "You just point at a reference and say: make a product demo show reel.",
+          "origin": "user",
+          "sourceUrl": "https://x.com/VikashSparxIT/status/2104453496363999462"
         }
       ],
       "inputsDocumented": false,
@@ -111,7 +115,9 @@
         {
           "name": "Unknown Code Editor / Video Framework",
           "role": "Environment hosting the project codebase and rendering the generated animation/video code",
-          "evidence": "open your coding editor in the same project as the product. The model already knows the codebase."
+          "evidence": "open your coding editor in the same project as the product. The model already knows the codebase.",
+          "sourceUrl": "https://x.com/VikashSparxIT/status/2104453496363999462",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Understands product codebase and visual reference to write programmatic motion graphics / video code",
@@ -152,6 +158,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/VikashSparxIT/status/2104453496363999462",
+        "evidence": ""
       }
     },
     "summary": "Vikash Sharma demonstrates using Claude Opus 5.5 in a code editor with project codebase access to generate a complete motion graphics product demo reel for The Talent App from a single prompt and reference.",

@@ -93,12 +93,15 @@
         {
           "name": "Claude Code",
           "role": "Agent CLI environment used to interact with Claude Opus 5.5 and write the output file",
-          "evidence": "1 prompt in Claude Code, about 18 minutes."
+          "evidence": "1 prompt in Claude Code, about 18 minutes.",
+          "sourceUrl": "https://x.com/aichrislee/status/2105086032005726712",
+          "status": "inferred"
         },
         {
           "name": "Web Browser / WebGL",
           "role": "Runtime renderer displaying and executing the single HTML/JavaScript 3D canvas game",
-          "evidence": "Build me a 3D endless runner game in the browser, like Subway Surfers... One HTML file."
+          "evidence": "Build me a 3D endless runner game in the browser, like Subway Surfers... One HTML file.",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Wrote the entire standalone HTML and JavaScript 3D procedural game implementation without external 3D model assets or images.",
@@ -110,7 +113,7 @@
         "aspectRatio": "16:9",
         "referenceMaterials": []
       },
-      "task": "canvas-interactive",
+      "task": "games-interactive",
       "suitable": true,
       "reason": "Exemplary Opus 5.5 interactive 3D canvas production case featuring explicit model attribution, full verbatim prompt, documented tooling, and verified screen recording output.",
       "isAdvertisement": false,
@@ -135,6 +138,21 @@
           "author_model_use_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/aichrislee/status/2105086032005726712",
+        "evidence": "Build me a 3D endless runner game in the browser, like Subway Surfers. A little robot runs down a neon city street at night. Left and right arrow keys switch between 3 lanes, up jumps, down slides. Collect coins, jump over barriers, slide under signs, and dodge trains. The speed goes up the longer you survive. Show the score and coins at the top, a start screen, and a game over screen with a restart button. Make it look like a real game from the App Store."
+      },
+      "purpose": {
+        "label": "Game / playable prototype",
+        "topic": "games-interactive",
+        "tags": []
       }
     },
     "summary": "Claude Opus 5.5 in Claude Code generates a single-file 3D browser endless runner game inspired by Subway Surfers featuring a robot dodging trains in a neon city.",
@@ -151,8 +169,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "canvas-interactive",
-    "useCase": "Claude Opus 5.5 in Claude Code generates a single-file 3D browser endless runner game inspired by Subway Surfers featuring a robot dodging trains in a neon city.",
+    "category": "games-interactive",
+    "useCase": "Game / playable prototype",
     "hasReusablePrompt": true,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

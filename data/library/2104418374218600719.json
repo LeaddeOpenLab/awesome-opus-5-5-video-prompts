@@ -108,13 +108,16 @@
           "kind": "code_framework",
           "description": "Code environment and graphics/video rendering library",
           "available": false,
-          "evidence": "人物用代码画，动作/标签/镜头/口型，都由他写的程序自动安排"
+          "evidence": "人物用代码画，动作/标签/镜头/口型，都由他写的程序自动安排",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/bangbuilds/status/2104418374218600719"
         },
         {
           "kind": "audio_tts",
           "description": "Voice audio and pronunciation clips used in the dialogue",
           "available": false,
-          "evidence": "Accompanying spoken dialogue audio in the video output"
+          "evidence": "Accompanying spoken dialogue audio in the video output",
+          "origin": "unknown"
         }
       ],
       "inputsDocumented": false,
@@ -122,7 +125,9 @@
         {
           "name": "Unspecified programmatic renderer",
           "role": "Executes the code written by Opus to draw characters and animate gestures, lip-sync, and camera layout",
-          "evidence": "都由他写的程序自动安排"
+          "evidence": "都由他写的程序自动安排",
+          "sourceUrl": "https://x.com/bangbuilds/status/2104418374218600719",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Writing code that procedurally generates character art, gestures, subtitles, camera framing, and lip synchronization.",
@@ -160,6 +165,16 @@
           "incomplete_or_unreproducible_prompt",
           "necessary_inputs_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/bangbuilds/status/2104418374218600719",
+        "evidence": ""
       }
     },
     "summary": "Author uses Claude Opus 5.5 to write code for generating consistent 2D vector-style animated English learning videos with character graphics, motion, and lip-sync handled programmatically.",

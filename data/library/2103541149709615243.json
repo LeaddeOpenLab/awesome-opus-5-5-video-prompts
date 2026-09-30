@@ -87,10 +87,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Claude cooked really hard with opus 5.5"
       },
       "prompt": {
         "status": "fragment",
@@ -143,7 +143,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ajith_io/status/2103541149709615243",
+        "evidence": "Take reference from the given video (download it) and use the same visual style.\nand Research about Distilbook. Make a dynamic 30-second motion graphics video on Distilbook that shows what an incredible motion designer you are. like it's your showreel - Go all out.\nOne thing to keep in mind: it should be cool as fck."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A prompt given to Claude Opus to code a dynamic 30-second motion graphics showreel video for Distilbook based on a visual style reference.",
     "summaryEn": "Distilbook Motion Graphics Video Prompt",
@@ -160,7 +175,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A prompt given to Claude Opus to code a dynamic 30-second motion graphics showreel video for Distilbook based on a visual style reference.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

@@ -131,7 +131,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/SPEARwtf/status/2103857153308029058",
+        "evidence": ""
+      }
     },
     "summary": "A concise prompt used with Opus 5.5 to generate a 30-second brand pitch video.",
     "summaryEn": "Chaindotwtf Pitch Video Prompt",

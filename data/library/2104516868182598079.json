@@ -104,7 +104,9 @@
         {
           "name": "WebGL / JavaScript",
           "role": "Interactive 3D rendering engine",
-          "evidence": "\"This interactive lab needs JavaScript and WebGL.\""
+          "evidence": "This interactive lab needs JavaScript and WebGL.",
+          "sourceUrl": "https://www.airsup.ai/lab/jet-engine",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Generated interactive 3D simulation code and instructional explanation.",
@@ -144,6 +146,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/konstantinsaifo/status/2104516868182598079",
+        "evidence": ""
       }
     },
     "summary": "Author used Claude Opus 5.5 to create an interactive 3D WebGL F135 fighter jet engine model demonstrating internal airflow, combustion, and afterburner plume.",

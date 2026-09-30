@@ -102,7 +102,15 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "Remotion",
+          "role": "Video renderer",
+          "evidence": "Study how this https://t.co/SR0AyULLNp works and use Remotion to make a product showcase video.",
+          "sourceUrl": "https://x.com/lester_tyy/status/2103733819568480587",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/lester_tyy/status/2103733819568480587",
       "divisionEvidence": "",
@@ -137,7 +145,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/lester_tyy/status/2103733819568480587",
+        "evidence": ""
+      }
     },
     "summary": "A prompt instructing the model to study a specified website and generate a product showcase video using Remotion.",
     "summaryEn": "Remotion Product Showcase Video",

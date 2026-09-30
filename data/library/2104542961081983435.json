@@ -93,10 +93,20 @@
       },
       "inputs": [
         {
-          "kind": "image_assets",
-          "description": "Paper cutout visual elements generated via GPT Image 2.5 on Fal AI",
-          "available": false,
-          "evidence": "Build it from dozens or even hundreds of paper elements generated with GPT Image 2.5 on Fal AI."
+          "kind": "production_material",
+          "description": "Paper cutout image assets via GPT Image 2.5 on Fal AI",
+          "evidence": "generated with GPT Image 2.5 on Fal AI",
+          "sourceUrl": "https://x.com/M_Adrian2/status/2104542961081983435",
+          "origin": "generated",
+          "available": false
+        },
+        {
+          "kind": "production_material",
+          "description": "Recent research on self-evolving agents",
+          "evidence": "study articles from the last three months",
+          "sourceUrl": "https://x.com/M_Adrian2/status/2104542961081983435",
+          "origin": "searched",
+          "available": false
         }
       ],
       "inputsDocumented": true,
@@ -104,7 +114,9 @@
         {
           "name": "GPT Image 2.5 on Fal AI",
           "role": "Visual asset generation for cutouts",
-          "evidence": "generated with GPT Image 2.5 on Fal AI"
+          "evidence": "generated with GPT Image 2.5 on Fal AI",
+          "sourceUrl": "https://x.com/M_Adrian2/status/2104542961081983435",
+          "status": "required"
         }
       ],
       "targetModelRole": "Research synthesis, narrative scripting, asset orchestration, and animation code generation.",
@@ -116,7 +128,7 @@
         "aspectRatio": "16:9",
         "referenceMaterials": []
       },
-      "task": "other-animation",
+      "task": "explainers",
       "suitable": true,
       "reason": "Complete original author instructions directing Opus 5.5 to produce an educational motion graphics piece paired with verified video output.",
       "isAdvertisement": false,
@@ -142,6 +154,26 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [
+          "Image generation is an asset dependency; the video renderer is not stated."
+        ],
+        "sourceUrl": "https://x.com/M_Adrian2/status/2104542961081983435",
+        "evidence": "Hey Opus 5.5. \n\nCreate a 90–120 second educational motion-graphics video in English about the current limitations of recursive self-evolving AI agents. \n\nUse a paper-cutout stop-motion style on a white background, with tiny square characters explaining large visualized concepts.\n\nJuicy motion design such as anticipation, overshoot, squash and stretch, and paper tear, flip and slide transitions. \n\n"
+      },
+      "purpose": {
+        "label": "Educational motion graphics / AI agents",
+        "topic": "explainers",
+        "tags": [
+          "education",
+          "image-generation-dependency"
+        ]
       }
     },
     "summary": "Opus 5.5 prompt to create a stop-motion paper-cutout video explaining open problems in self-evolving agents using generated cutout assets.",
@@ -158,8 +190,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "other-animation",
-    "useCase": "Opus 5.5 prompt to create a stop-motion paper-cutout video explaining open problems in self-evolving agents using generated cutout assets.",
+    "category": "explainers",
+    "useCase": "Educational motion graphics / AI agents",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

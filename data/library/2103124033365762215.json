@@ -87,10 +87,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Anthropic has no image or video model, yet Opus 5.5 just made me this 30 second animated film using nothing but 2,800 lines of code"
       },
       "prompt": {
         "status": "fragment",
@@ -143,7 +143,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/itsolelehmann/status/2103124033365762215",
+        "evidence": "4 seasons passing outside a train window, a cozy carriage, a cup of coffee on the table, Grand Budapest Hotel style"
+      },
+      "purpose": {
+        "label": "Atmospheric animation / seasonal loop",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "Ole Lehmann shares an animated video created entirely through code generation via Claude Code based on a single descriptive prompt of the four seasons passing outside a train carriage.",
     "summaryEn": "Four Seasons Train Window Animation",
@@ -160,7 +175,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "Ole Lehmann shares an animated video created entirely through code generation via Claude Code based on a single descriptive prompt of the four seasons passing outside a train carriage.",
+    "useCase": "Atmospheric animation / seasonal loop",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

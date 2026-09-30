@@ -76,10 +76,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Made an entire product video with a single prompt using Opus 5.5."
       },
       "prompt": {
         "status": "fragment",
@@ -132,7 +132,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/bizibeast/status/2103696876130505124",
+        "evidence": "Research https://t.co/i8PTfdAVlV. Make a dynamic 40-second motion graphics video on https://t.co/i8PTfdAVlV that shows what an incredible motion designer you are. like it's your showreel - Go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A prompt provided to Opus 5.5 to research a URL and generate a dynamic 40-second motion graphics showreel-style product video.",
     "summaryEn": "Opus 5.5 Motion Graphics Video Prompt",
@@ -149,7 +164,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A prompt provided to Opus 5.5 to research a URL and generate a dynamic 40-second motion graphics showreel-style product video.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

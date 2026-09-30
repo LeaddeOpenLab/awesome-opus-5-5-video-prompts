@@ -73,10 +73,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5, third prompt: \"Make a 45-second silent short film with no dialogue, where sound tells half the story."
       },
       "prompt": {
         "status": "fragment",
@@ -129,7 +129,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/KamStudioLabs/status/2102908742518100086",
+        "evidence": ""
+      }
     },
     "summary": "A prompt instructing Opus 5.5 to create an original 45-second silent short film without dialogue, utilizing sound to tell half the narrative.",
     "summaryEn": "Silent Short Film Prompt",

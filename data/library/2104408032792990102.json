@@ -93,7 +93,9 @@
           "kind": "text",
           "description": "Richard Brautigan's 1967 poem 'All Watched Over by Machines of Loving Grace'",
           "available": true,
-          "evidence": "\"Brautigan's All Watched Over by Machines of Loving Grace\""
+          "evidence": "\"Brautigan's All Watched Over by Machines of Loving Grace\"",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/BretKerr/status/2104408032792990102"
         }
       ],
       "inputsDocumented": false,
@@ -101,7 +103,8 @@
         {
           "name": "Unknown rendering/audio toolchain",
           "role": "rendering motion graphics, animation elements, and speech synthesis",
-          "evidence": "No explicit code framework or external voice/video tools are identified in the post text."
+          "evidence": "No explicit code framework or external voice/video tools are identified in the post text.",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Generating the creative animation concept, text sequencing, and orchestration/code for the video",
@@ -143,6 +146,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/BretKerr/status/2104408032792990102",
+        "evidence": ""
       }
     },
     "summary": "Bret Kerr shares a psychedelic motion graphics spoken-word animated video for Richard Brautigan's poem 'All Watched Over by Machines of Loving Grace', created using Claude Opus 5.5.",

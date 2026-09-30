@@ -117,7 +117,9 @@
           "kind": "web_assets",
           "description": "Notion logos, UI screenshots, and partner brand marks gathered dynamically from the internet.",
           "available": true,
-          "evidence": "make sure to get actual assets and images and all of that stuff from the internet"
+          "evidence": "make sure to get actual assets and images and all of that stuff from the internet",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/moritzkremb/status/2103066083905417476"
         }
       ],
       "inputsDocumented": true,
@@ -125,7 +127,9 @@
         {
           "name": "hyperframes",
           "role": "Motion graphics rendering engine / video framework orchestrated by the agent.",
-          "evidence": "it used hyperframes"
+          "evidence": "it used hyperframes",
+          "sourceUrl": "https://x.com/moritzkremb/status/2103181107466567815",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Orchestrates research, asset collection, script structure, and motion graphics code via Hyperframes.",
@@ -163,6 +167,16 @@
         "reasons": [
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/moritzkremb/status/2103066083905417476",
+        "evidence": ""
       }
     },
     "summary": "Moritz Kremb prompts Claude Opus 5.5 to select a known SaaS product and produce a complete motion graphics launch video.",

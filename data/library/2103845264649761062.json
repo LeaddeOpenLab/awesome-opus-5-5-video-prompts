@@ -111,10 +111,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "I made this using Claude Opus 5.5 with effort set to high"
       },
       "prompt": {
         "status": "fragment",
@@ -130,7 +130,24 @@
         "evidence": "Consistency check skipped for source-index import.",
         "textualResultQuote": ""
       },
-      "inputs": [],
+      "inputs": [
+        {
+          "kind": "product",
+          "description": "Product URL, screenshots, logo and assets",
+          "evidence": "Use actual product screenshot/logo/assets",
+          "sourceUrl": "https://x.com/HO_BA/status/2103845264649761062",
+          "origin": "user",
+          "available": false
+        },
+        {
+          "kind": "audio",
+          "description": "Music for beat-synchronized motion",
+          "evidence": "Must have music",
+          "sourceUrl": "https://x.com/HO_BA/status/2103845264649761062",
+          "origin": "user",
+          "available": false
+        }
+      ],
       "inputsDocumented": false,
       "tools": [],
       "targetModelRole": "",
@@ -167,7 +184,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/HO_BA/status/2103845264649761062",
+        "evidence": "Make a dynamic 30-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.  Make it a video to introduce https://t.co/MoAjSy0RQM Use actual product screenshot/logo/assets Must have music and motion must match the music  Do it like a real professional production video, not like a demo or prototype. Add more animation and m"
+      },
+      "purpose": {
+        "label": "Product introduction video",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A detailed motion design prompt for Claude to generate a dynamic 30-second product introduction showreel video for mdfor.dev.",
     "summaryEn": "Remotion Product Intro Prompt",
@@ -184,7 +216,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A detailed motion design prompt for Claude to generate a dynamic 30-second product introduction showreel video for mdfor.dev.",
+    "useCase": "Product introduction video",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

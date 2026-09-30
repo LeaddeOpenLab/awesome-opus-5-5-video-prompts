@@ -131,7 +131,8 @@
           "kind": "youtube_channel",
           "description": "YouTube channel link and content info for 'ニッポン解体新書'",
           "available": true,
-          "evidence": "私のyoutubeチャンネルです。 ... https://t.co/RYkCZv5aZQ (youtube.com ニッポン解体新書)"
+          "evidence": "私のyoutubeチャンネルです。 ... https://t.co/RYkCZv5aZQ (youtube.com ニッポン解体新書)",
+          "origin": "unknown"
         }
       ],
       "inputsDocumented": false,
@@ -139,17 +140,23 @@
         {
           "name": "Claude Code",
           "role": "Agent execution environment / CLI",
-          "evidence": "画像と動画をfalのH3 Max TurboをClaude Codeから動かして動画を作る。"
+          "evidence": "画像と動画をfalのH3 Max TurboをClaude Codeから動かして動画を作る。",
+          "sourceUrl": "https://x.com/Oren46902/status/2104524402167775408",
+          "status": "inferred"
         },
         {
           "name": "fal H3 Max Turbo",
           "role": "External image and video generation model",
-          "evidence": "画像と動画をfalのH3 Max TurboをClaude Codeから動かして動画を作る。"
+          "evidence": "画像と動画をfalのH3 Max TurboをClaude Codeから動かして動画を作る。",
+          "sourceUrl": "https://x.com/Oren46902/status/2104524402167775408",
+          "status": "inferred"
         },
         {
           "name": "Gemini 3.8 Flash TTS",
           "role": "Narration / text-to-speech audio generation",
-          "evidence": "Gemini 3.8 Flash TTSでAIナレーション。"
+          "evidence": "Gemini 3.8 Flash TTSでAIナレーション。",
+          "sourceUrl": "https://x.com/Oren46902/status/2104523740197556593",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "High-level agent orchestrator that accepts user instructions, formulates scenes/scripts, and directs external generation models (fal H3 Max Turbo) and TTS APIs (Gemini 3.8 Flash TTS) via Claude Code.",
@@ -189,6 +196,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Oren46902/status/2104522740695007363",
+        "evidence": ""
       }
     },
     "summary": "Oren shares a promotional short video for their YouTube channel ('Nippon Kaitai Shinsho') depicting 200-year-old Edo life, orchestrated by Claude Opus 5.5 via Claude Code calling fal's H3 Max Turbo for visual generation and Gemini 3.8 Flash TTS for narration.",

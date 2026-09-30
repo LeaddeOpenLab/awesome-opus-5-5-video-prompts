@@ -108,12 +108,14 @@
         {
           "name": "HTML5 Canvas / JavaScript",
           "role": "运行 Opus 生成的动画代码，在浏览器中逐帧执行绘制并导出视觉画面",
-          "evidence": "视频画面中展示 Canvas 绘制函数 `function frame(t) { sky.draw(t); ... return canvas; }`，台词说明「因为我写的是代码」「浏览器照着它，一帧一帧地画」。"
+          "evidence": "视频画面中展示 Canvas 绘制函数 `function frame(t) { sky.draw(t); ... return canvas; }`，台词说明「因为我写的是代码」「浏览器照着它，一帧一帧地画」。",
+          "status": "inferred"
         },
         {
           "name": "MiniMax",
           "role": "提供旁白语音合成支持",
-          "evidence": "片尾标注：「语音 MiniMax」。"
+          "evidence": "片尾标注：「语音 MiniMax」。",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "根据用户提问撰写全片剧本、分镜脚本并编写 Canvas 逐帧动画代码与合成逻辑",
@@ -152,6 +154,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/kokoro_886/status/2104441050211475528",
+        "evidence": ""
       }
     },
     "summary": "作者让 Opus 5.5 介绍自己能制作何种类型的视频，模型构思了动画片《我只会写字》并生成逐帧绘制的 Canvas/代码动画脚本与旁白。",

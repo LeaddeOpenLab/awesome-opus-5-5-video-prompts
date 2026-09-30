@@ -127,19 +127,25 @@
           "kind": "video",
           "description": "Style reference video at local path /Users/danielmcateer/Downloads/jvnZ3SyyxxajVatp.mp4",
           "available": false,
-          "evidence": "\"/Users/danielmcateer/Downloads/jvnZ3SyyxxajVatp.mp4\""
+          "evidence": "\"/Users/danielmcateer/Downloads/jvnZ3SyyxxajVatp.mp4\"",
+          "origin": "downloaded",
+          "sourceUrl": "https://x.com/daniel_mac8/status/2103825989285331243"
         },
         {
           "kind": "video",
           "description": "Terminal recording video demonstrating navigation to ultracode reasoning effort",
           "available": false,
-          "evidence": "\"start with Claude Code in the terminal from the first attached video\""
+          "evidence": "\"start with Claude Code in the terminal from the first attached video\"",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/daniel_mac8/status/2103825989285331243"
         },
         {
           "kind": "video",
           "description": "Second attached video showing Claude icon characters",
           "available": false,
-          "evidence": "\"Claude icon characters similar to what's in the second video\""
+          "evidence": "\"Claude icon characters similar to what's in the second video\"",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/daniel_mac8/status/2103825989285331243"
         }
       ],
       "inputsDocumented": false,
@@ -147,12 +153,15 @@
         {
           "name": "Claude Code Dynamic Workflows / Ultracode",
           "role": "Agent orchestrator managing writer's room, character/set creation, render pipeline, and QA reviewers",
-          "evidence": "\"Ultracode turned Claude into an orchestrator / First workflow was a 'pre-production' writer's room / Parallel agents built the character, sets and render pipeline\""
+          "evidence": "\"Ultracode turned Claude into an orchestrator / First workflow was a 'pre-production' writer's room / Parallel agents built the character, sets and render pipeline\"",
+          "status": "inferred"
         },
         {
           "name": "Python",
           "role": "Audio synthesizer / soundtrack generation and rendering pipeline execution",
-          "evidence": "\"The soundtrack is entirely Python (!)\""
+          "evidence": "The soundtrack is entirely Python (!)",
+          "sourceUrl": "https://x.com/daniel_mac8/status/2103824976713306214",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Claude Opus 5.5 served as the multi-agent orchestrator, writing the code for scenes, characters, Python audio synthesis, and coordinating adversarial reviewer workflows.",
@@ -195,6 +204,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/daniel_mac8/status/2103825989285331243",
+        "evidence": ""
       }
     },
     "summary": "Dan McAteer prompts Claude Opus 5.5 via Claude Code Dynamic Workflows and Ultracode to orchestrate an animated movie shoot about developer usage efficiency, complete with Python-generated audio and 2D character animation.",

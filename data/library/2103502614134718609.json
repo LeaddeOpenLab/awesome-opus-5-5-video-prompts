@@ -143,7 +143,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/pankajkumar_dev/status/2103502614134718609",
+        "evidence": "create a motion design video of a poster breaking out of its own frame."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A motion design video prompt where a poster breaks out of its own frame, generated using Opus 5.5 with animated movement and synchronized audio.",
     "summaryEn": "Poster Breaking Out of Frame Motion Design",
@@ -160,7 +175,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A motion design video prompt where a poster breaks out of its own frame, generated using Opus 5.5 with animated movement and synchronized audio.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

@@ -109,7 +109,8 @@
         {
           "name": "unknown",
           "role": "Animation renderer / frontend runtime",
-          "evidence": "The author notes Claude generated the animated presentation, but does not explicitly name the frontend/rendering tool (e.g., Remotion, Canvas, or Web code)."
+          "evidence": "The author notes Claude generated the animated presentation, but does not explicitly name the frontend/rendering tool (e.g., Remotion, Canvas, or Web code).",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Generated the concept design, UI structure, and animation scripting",
@@ -148,6 +149,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/buildwithgautam/status/2104522362402267138",
+        "evidence": ""
       }
     },
     "summary": "Claude Opus 5.5 is prompted to design a health and fitness mobile app concept called 'halo' and animate it into a polished 17-second product presentation video.",

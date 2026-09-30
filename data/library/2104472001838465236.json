@@ -93,7 +93,9 @@
           "kind": "url",
           "description": "Product website link for Applore",
           "available": true,
-          "evidence": "👉 https://t.co/XMW1p8geoU"
+          "evidence": "👉 https://t.co/XMW1p8geoU",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/decohack/status/2104472001838465236"
         }
       ],
       "inputsDocumented": false,
@@ -136,6 +138,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/decohack/status/2104472001838465236",
+        "evidence": ""
       }
     },
     "summary": "The author prompts Claude Opus 5.5 to create a creative and stunning promotional video for the product Applore, resulting in a dynamic motion graphics showcase of app icons and features.",

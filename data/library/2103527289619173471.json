@@ -75,10 +75,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "LOL I asked Opus 5.5 to make a video out of my personal portfolio and it genuinely surprised me."
       },
       "prompt": {
         "status": "fragment",
@@ -131,7 +131,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/kikelopezdesign/status/2103527289619173471",
+        "evidence": ""
+      }
     },
     "summary": "A prompt asking Opus 5.5 to create a 20-second video based exclusively on the user's personal portfolio resources.",
     "summaryEn": "Portfolio Video Generation",

@@ -184,10 +184,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "I need a minute to process the result of this animation made with Opus 5.5"
       },
       "prompt": {
         "status": "fragment",
@@ -203,9 +203,54 @@
         "evidence": "Consistency check skipped for source-index import.",
         "textualResultQuote": ""
       },
-      "inputs": [],
+      "inputs": [
+        {
+          "kind": "production_material",
+          "description": "Landscapes, transparent cutouts, depth maps, animated clips and music",
+          "evidence": "Generate everything via the Magnific MCP",
+          "sourceUrl": "https://x.com/koldo2k/status/2103129347791986942",
+          "origin": "generated",
+          "available": false
+        }
+      ],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "GPT 2.5",
+          "role": "Transparent cutout image generation; author model name",
+          "evidence": "GPT 2.5 transparent cutouts, depth maps, Kling 2.5 animation, Lyria 3",
+          "sourceUrl": "https://x.com/koldo2k/status/2103129347791986942",
+          "status": "required"
+        },
+        {
+          "name": "Kling 2.5",
+          "role": "Video generation",
+          "evidence": "GPT 2.5 transparent cutouts, depth maps, Kling 2.5 animation, Lyria 3",
+          "sourceUrl": "https://x.com/koldo2k/status/2103129347791986942",
+          "status": "required"
+        },
+        {
+          "name": "Lyria 3",
+          "role": "Music generation",
+          "evidence": "GPT 2.5 transparent cutouts, depth maps, Kling 2.5 animation, Lyria 3",
+          "sourceUrl": "https://x.com/koldo2k/status/2103129347791986942",
+          "status": "required"
+        },
+        {
+          "name": "Magnific MCP",
+          "role": "External generation orchestration",
+          "evidence": "- Generate everything via the Magnific MCP (Seedream 5 Pro landscapes,",
+          "sourceUrl": "https://x.com/koldo2k/status/2103129347791986942",
+          "status": "required"
+        },
+        {
+          "name": "Seedream 5 Pro",
+          "role": "Landscape image generation",
+          "evidence": "- Generate everything via the Magnific MCP (Seedream 5 Pro landscapes,",
+          "sourceUrl": "https://x.com/koldo2k/status/2103129347791986942",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/koldo2k/status/2103129343253778767",
       "divisionEvidence": "",
@@ -215,7 +260,7 @@
         "aspectRatio": null,
         "referenceMaterials": []
       },
-      "task": "explainers",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Source-index import; extraction only.",
       "isAdvertisement": false,
@@ -240,7 +285,29 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [
+          "Requires external generation services; the prompt requires generation cost approval before production."
+        ],
+        "sourceUrl": "https://x.com/koldo2k/status/2103129347791986942",
+        "evidence": "Build a looping \"infinite zoom\" animation, After Effects style: the camera\ntravels from landscape to landscape by flying through vintage objects.\n\nLOOK: vintage collage realistic photo landscapes + black & white newspaper\ncutout objects (halftone, white paper border, soft shadow). Film grain,\nvignette, light flicker.\n\nWORLDS (loop): snowy mountains → pocket watch (swinging on its chain) →\nsea clif",
+        "inputSummary": "Requires external generation services",
+        "difficulty": "advanced"
+      },
+      "purpose": {
+        "label": "Infinite zoom collage animation",
+        "topic": "motion-graphics",
+        "tags": [
+          "external-generation",
+          "advanced"
+        ]
+      }
     },
     "summary": "A detailed multi-step prompt instructing Claude/Opus to orchestrate an infinite zoom vintage collage animation using Magnific MCP tools, parallax depth layers, seamlessly looped cutout elements, and an interactive artifact timeline viewer.",
     "summaryEn": "Infinite Zoom Vintage Collage Animation Prompt",
@@ -257,7 +324,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A detailed multi-step prompt instructing Claude/Opus to orchestrate an infinite zoom vintage collage animation using Magnific MCP tools, parallax depth layers, seamlessly looped cutout elements, and an interactive artifact timeline viewer.",
+    "useCase": "Infinite zoom collage animation",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

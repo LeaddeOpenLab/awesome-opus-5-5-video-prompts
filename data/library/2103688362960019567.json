@@ -155,7 +155,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/emollick/status/2103688362960019567",
+        "evidence": "A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential & clever & fast moving."
+      },
+      "purpose": {
+        "label": "Recursion explainer",
+        "topic": "explainers",
+        "tags": []
+      }
     },
     "summary": "A prompt given to Claude Opus 5.5 to generate a self-referential, fast-paced video explaining recursion across multiple radically different visual styles.",
     "summaryEn": "Recursion Explanation Video Prompt",
@@ -171,8 +186,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "A prompt given to Claude Opus 5.5 to generate a self-referential, fast-paced video explaining recursion across multiple radically different visual styles.",
+    "category": "explainers",
+    "useCase": "Recursion explainer",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

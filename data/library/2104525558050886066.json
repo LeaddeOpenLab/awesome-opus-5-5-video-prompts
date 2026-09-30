@@ -104,13 +104,17 @@
           "kind": "image",
           "description": "Official phone product images used as textures for screen and back panel.",
           "available": false,
-          "evidence": "屏幕和背板贴官方产品图"
+          "evidence": "屏幕和背板贴官方产品图",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/thinkszyg/status/2104525558050886066"
         },
         {
           "kind": "text",
           "description": "Copywriting text spreadsheet for on-screen specs and marketing titles.",
           "available": false,
-          "evidence": "上屏文字只用我给的文案表"
+          "evidence": "上屏文字只用我给的文案表",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/thinkszyg/status/2104525558050886066"
         }
       ],
       "inputsDocumented": false,
@@ -118,17 +122,23 @@
         {
           "name": "Claude Code",
           "role": "Agent director managing multi-agent task breakdown and file generation.",
-          "evidence": "Claude Code 在我 Mac 上当导演，带 6 个子代理"
-        },
-        {
-          "name": "three.js",
-          "role": "Rendering engine producing every video frame from code.",
-          "evidence": "每一帧是 three.js 渲染的"
+          "evidence": "Claude Code 在我 Mac 上当导演，带 6 个子代理",
+          "sourceUrl": "https://x.com/thinkszyg/status/2104525558050886066",
+          "status": "inferred"
         },
         {
           "name": "Python",
           "role": "Sound synthesis engine generating the background music.",
-          "evidence": "配乐是 Python 合成的"
+          "evidence": "配乐是 Python 合成的",
+          "sourceUrl": "https://x.com/thinkszyg/status/2104525558050886066",
+          "status": "inferred"
+        },
+        {
+          "name": "three.js",
+          "role": "Rendering engine producing every video frame from code.",
+          "evidence": "每一帧是 three.js 渲染的",
+          "sourceUrl": "https://x.com/thinkszyg/status/2104525558050886066",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Director and primary code generator orchestrating subagents to produce 3D Three.js animation and Python audio scripts.",
@@ -170,6 +180,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/thinkszyg/status/2104525558050886066",
+        "evidence": ""
       }
     },
     "summary": "Opus 5.5 orchestrating 6 subagents in Claude Code to direct, model, and animate a 45s phone ad rendered frame-by-frame via Three.js with Python-synthesized audio.",

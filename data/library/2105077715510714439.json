@@ -102,15 +102,19 @@
           "kind": "website",
           "description": "Author's agency website content",
           "available": false,
-          "evidence": "gave Opus 5.5 my website"
+          "evidence": "gave Opus 5.5 my website",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/motion_conquest/status/2105077715510714439"
         }
       ],
       "inputsDocumented": false,
       "tools": [
         {
-          "name": "Blender / After Effects / Premiere",
-          "role": "Execution and rendering software",
-          "evidence": "Use any software I have installed: Blender, After Effects, Premiere"
+          "name": "Blender",
+          "role": "3D creation / rendering",
+          "evidence": "Use any software I have installed: Blender, After Effects, Premiere – and make an insane 30-second motion design video.",
+          "sourceUrl": "https://x.com/motion_conquest/status/2105077715510714439",
+          "status": "required"
         }
       ],
       "targetModelRole": "Agent orchestrating creative direction and software automation",
@@ -122,7 +126,7 @@
         "aspectRatio": "16:9",
         "referenceMaterials": []
       },
-      "task": "other-animation",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Direct demonstration of Opus 5.5 driving motion graphics video production.",
       "isAdvertisement": false,
@@ -147,6 +151,21 @@
           "incomplete_or_unreproducible_prompt",
           "necessary_inputs_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/motion_conquest/status/2105077715510714439",
+        "evidence": "I want you to make a promo video for my agency. Use any software I have installed: Blender, After Effects, Premiere – and make an insane 30-second motion design video."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
       }
     },
     "summary": "Opus 5.5 was prompted with a website to create a 30-second agency promo video using installed creative software.",
@@ -163,8 +182,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "other-animation",
-    "useCase": "Opus 5.5 was prompted with a website to create a 30-second agency promo video using installed creative software.",
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

@@ -99,10 +99,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 built THIS detailed 3d world with a lot of weird creative builds in one prompt and in less than 8h!"
       },
       "prompt": {
         "status": "fragment",
@@ -130,7 +130,7 @@
         "aspectRatio": null,
         "referenceMaterials": []
       },
-      "task": "games-interactive",
+      "task": "3d-scenes",
       "suitable": true,
       "reason": "Source-index import; extraction only.",
       "isAdvertisement": false,
@@ -155,7 +155,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/LexnLin/status/2103194056104759742",
+        "evidence": "Create a cinematic browser-based 3D world that can be explored freely with a camera, focused on breathtaking landscapes and extraordinary original architecture. Fill the world with huge strange buildings, monumental structures, surreal ruins, cliffs, valleys, forests, water, and unusual ultra-detailed forms that feel mysterious and awe-inspiring. This is not a game and not combat-focused, the goal"
+      },
+      "purpose": {
+        "label": "Explorable cinematic 3D world",
+        "topic": "3d-scenes",
+        "tags": []
+      }
     },
     "summary": "Leon Lin shared the single prompt used with Opus 5.5 to build 'Monolith Wilds', an explorable cinematic browser-based 3D world featuring surreal ruins and extraordinary architecture.",
     "summaryEn": "Cinematic Browser-Based 3D World Prompt",
@@ -171,8 +186,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "Leon Lin shared the single prompt used with Opus 5.5 to build 'Monolith Wilds', an explorable cinematic browser-based 3D world featuring surreal ruins and extraordinary architecture.",
+    "category": "3d-scenes",
+    "useCase": "Explorable cinematic 3D world",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

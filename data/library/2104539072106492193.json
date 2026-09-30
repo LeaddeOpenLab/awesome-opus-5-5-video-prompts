@@ -104,7 +104,7 @@
         "aspectRatio": "16:9",
         "referenceMaterials": []
       },
-      "task": "other-animation",
+      "task": "motion-graphics",
       "suitable": true,
       "reason": "Directly presents video production work credited to Claude Opus 5.5 with an attached video demonstration, qualifying as an animation reference case under the policy despite missing framework details.",
       "isAdvertisement": false,
@@ -131,6 +131,21 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/carajnikant/status/2104539072106492193",
+        "evidence": "Research (your product).Make a dynamic 40-second motion graphics video on (your product) that shows what an incredible motion designer you are. like it's your showreel - Go all out."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
       }
     },
     "summary": "Rajnikant Patel shares a dynamic motion graphics product demo video depicting a document-to-video workflow, prompted using Claude Opus 5.5.",
@@ -147,8 +162,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "other-animation",
-    "useCase": "Rajnikant Patel shares a dynamic motion graphics product demo video depicting a document-to-video workflow, prompted using Claude Opus 5.5.",
+    "category": "motion-graphics",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

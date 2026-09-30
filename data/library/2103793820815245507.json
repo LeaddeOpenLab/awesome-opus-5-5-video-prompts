@@ -97,7 +97,36 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "FFmpeg",
+          "role": "Video encoding",
+          "evidence": "Python（numpy/scipy/PIL）用于调色板生成、程序化水下音效合成、质量检查联系表。ffmpeg用于混流、循环检查、联系表生成。",
+          "sourceUrl": "https://x.com/gmgmgm1545/status/2103794101892374823",
+          "status": "required"
+        },
+        {
+          "name": "NumPy",
+          "role": "Audio / numerical analysis",
+          "evidence": "Python（numpy/scipy/PIL）用于调色板生成、程序化水下音效合成、质量检查联系表。ffmpeg用于混流、循环检查、联系表生成。",
+          "sourceUrl": "https://x.com/gmgmgm1545/status/2103794101892374823",
+          "status": "required"
+        },
+        {
+          "name": "React",
+          "role": "Web UI framework",
+          "evidence": "Remotion（React + TypeScript）用于帧精确、确定性渲染。输出分辨率 1920×1080，30fps，H.264编码，高比特率（CRF ~14）。横屏显示。",
+          "sourceUrl": "https://x.com/gmgmgm1545/status/2103794101892374823",
+          "status": "required"
+        },
+        {
+          "name": "Remotion",
+          "role": "Video renderer",
+          "evidence": "Remotion（React + TypeScript）用于帧精确、确定性渲染。输出分辨率 1920×1080，30fps，H.264编码，高比特率（CRF ~14）。横屏显示。",
+          "sourceUrl": "https://x.com/gmgmgm1545/status/2103794101892374823",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/gmgmgm1545/status/2103793820815245507",
       "divisionEvidence": "",
@@ -132,7 +161,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/gmgmgm1545/status/2103794101892374823",
+        "evidence": ""
+      }
     },
     "summary": "A detailed, multi-stage director prompt instructing Claude to procedurally code, rig, score, and render a 45–50 second animated short film about a mechanical hermit crab chasing a light through deep-sea realms using Remotion, WebGL, SVG, and Python audio synthesis.",
     "summaryEn": "Code-Animated Short Film: Xi the Mechanical Hermit Crab",
@@ -148,7 +187,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "3d-scenes",
     "useCase": "A detailed, multi-stage director prompt instructing Claude to procedurally code, rig, score, and render a 45–50 second animated short film about a mechanical hermit crab chasing a light through deep-sea realms using Remotion, WebGL, SVG, and Python audio synthesis.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

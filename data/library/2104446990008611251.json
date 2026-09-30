@@ -116,19 +116,25 @@
           "kind": "reference_video",
           "description": "Reference video referred to as 'the pdoom video' used for reverse-engineering pacing/structure",
           "available": false,
-          "evidence": "\"I first asked Opus 5.5 to figure out how the pdoom video was made\""
+          "evidence": "\"I first asked Opus 5.5 to figure out how the pdoom video was made\"",
+          "origin": "user",
+          "sourceUrl": "https://x.com/JiquanNgiam/status/2104446992042889417"
         },
         {
           "kind": "document",
           "description": "Internal product documentation describing product functionality",
           "available": false,
-          "evidence": "\"then I asked it to read all our docs, and then make a song appropriate for what our product does.\""
+          "evidence": "\"then I asked it to read all our docs, and then make a song appropriate for what our product does.\"",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/JiquanNgiam/status/2104446992042889417"
         },
         {
           "kind": "audio",
           "description": "MP3 music track generated from Suno fed back to Opus for video synchronization",
           "available": true,
-          "evidence": "\"Downloaded the mp3, gave it back to Opus, and asked it to use @runwayml to make the video\""
+          "evidence": "\"Downloaded the mp3, gave it back to Opus, and asked it to use @runwayml to make the video\"",
+          "origin": "generated",
+          "sourceUrl": "https://x.com/JiquanNgiam/status/2104446992042889417"
         }
       ],
       "inputsDocumented": false,
@@ -136,17 +142,21 @@
         {
           "name": "Claude Opus 5.5",
           "role": "Agent orchestrator analyzing reference materials, generating lyrics and prompts, and directing video synthesis",
-          "evidence": "\"I first asked Opus 5.5 to figure out how the pdoom video was made, then I asked it to read all our docs... Downloaded the mp3, gave it back to Opus, and asked it to use @runwayml to make the video\""
-        },
-        {
-          "name": "Suno",
-          "role": "Audio and music generation",
-          "evidence": "\"I took the prompt, gave it to @suno to make the music.\""
+          "evidence": "\"I first asked Opus 5.5 to figure out how the pdoom video was made, then I asked it to read all our docs... Downloaded the mp3, gave it back to Opus, and asked it to use @runwayml to make the video\"",
+          "status": "inferred"
         },
         {
           "name": "RunwayML",
           "role": "External video generation model and renderer",
-          "evidence": "\"asked it to use @runwayml to make the video, and use a kpop style... boom.\""
+          "evidence": "asked it to use @runwayml to make the video, and use a kpop style... boom.",
+          "sourceUrl": "https://x.com/JiquanNgiam/status/2104446992042889417",
+          "status": "inferred"
+        },
+        {
+          "name": "Suno",
+          "role": "Audio and music generation",
+          "evidence": "\"I took the prompt, gave it to @suno to make the music.\"",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Claude Opus 5.5 acted as an autonomous creative director and pipeline orchestrator, formulating the lyric concept from product documentation and instructing RunwayML to generate synchronized visual shots.",
@@ -189,6 +199,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/JiquanNgiam/status/2104446992042889417",
+        "evidence": ""
       }
     },
     "summary": "Jiquan Ngiam uses Claude Opus 5.5 to analyze reference video pacing, synthesize company documentation into song lyrics, generate a soundtrack via Suno, and orchestrate RunwayML to generate a complete K-pop music video for their product Mint.",

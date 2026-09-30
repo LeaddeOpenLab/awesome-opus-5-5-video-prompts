@@ -75,10 +75,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "//Like most of you//  I asked opus 5.5 (medium) to generate animation to explain \"Tree as an ecosystem\" with AUDIO - no fancy prompts just oneliner prompt - and it created this https://t.co/ZgLGrUDzKn"
       },
       "prompt": {
         "status": "fragment",
@@ -131,7 +131,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/hunzai/status/2103904436141842605",
+        "evidence": ""
+      }
     },
     "summary": "An animated video explaining the concept of a tree as an ecosystem, generated using a simple one-liner prompt in Opus 5.5.",
     "summaryEn": "Tree as an Ecosystem Animation",
@@ -147,7 +157,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "explainers",
     "useCase": "An animated video explaining the concept of a tree as an ecosystem, generated using a simple one-liner prompt in Opus 5.5.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

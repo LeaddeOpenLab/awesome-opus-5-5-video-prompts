@@ -131,7 +131,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/andriyfernandes/status/2103225854599807308",
+        "evidence": ""
+      }
     },
     "summary": "Claude Opus was prompted to generate an animation of stickmen in a naval battle using sound effects from a specific folder.",
     "summaryEn": "Stickman Naval Battle Animation",

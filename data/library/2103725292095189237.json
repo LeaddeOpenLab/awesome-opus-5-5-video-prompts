@@ -131,7 +131,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/sahilvermaai/status/2103725292095189237",
+        "evidence": "create a motion design video of a poster breaking out of its own frame."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A single-sentence prompt used to generate a full motion design piece of a poster breaking out of its frame, including animation, camera moves, and synchronized sound design.",
     "summaryEn": "Motion Design Poster Breaking Frame Prompt",
@@ -148,7 +163,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A single-sentence prompt used to generate a full motion design piece of a poster breaking out of its frame, including animation, camera moves, and synchronized sound design.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

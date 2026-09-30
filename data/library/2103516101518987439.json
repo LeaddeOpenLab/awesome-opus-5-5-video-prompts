@@ -93,10 +93,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Tried to jump on the explainer video \"made entirely with Opus 5.5\" bandwagon."
       },
       "prompt": {
         "status": "fragment",
@@ -114,7 +114,15 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "JavaScript",
+          "role": "Programming language",
+          "evidence": "Create a pure javascript animation.",
+          "sourceUrl": "https://x.com/garmdotcom/status/2103516206581854456",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/garmdotcom/status/2103516101518987439",
       "divisionEvidence": "",
@@ -149,7 +157,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/garmdotcom/status/2103516206581854456",
+        "evidence": ""
+      }
     },
     "summary": "A prompt directing Opus to autonomously generate a whimsical hand-drawn JavaScript animation and audio explainer for the Headroom desktop app.",
     "summaryEn": "Autonomous JavaScript Explainer Animation Prompt",
@@ -165,7 +183,7 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
+    "category": "explainers",
     "useCase": "A prompt directing Opus to autonomously generate a whimsical hand-drawn JavaScript animation and audio explainer for the Headroom desktop app.",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,

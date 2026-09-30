@@ -112,9 +112,26 @@
         "evidence": "Consistency check skipped for source-index import.",
         "textualResultQuote": ""
       },
-      "inputs": [],
+      "inputs": [
+        {
+          "kind": "production_material",
+          "description": "Online weather data and historical comparisons",
+          "evidence": "Pull some online data",
+          "sourceUrl": "https://x.com/GroundControl/status/2103678916414132229",
+          "origin": "searched",
+          "available": false
+        }
+      ],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "JavaScript",
+          "role": "Programming language",
+          "evidence": "Make me a 3-minute animated visualization using JavaScript, or you can do it in TypeScript if you want, about Japan's hot weather in 2026.",
+          "sourceUrl": "https://x.com/GroundControl/status/2103678916414132229",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/GroundControl/status/2103678647777230877",
       "divisionEvidence": "",
@@ -124,7 +141,7 @@
         "aspectRatio": null,
         "referenceMaterials": []
       },
-      "task": "motion-graphics",
+      "task": "explainers",
       "suitable": true,
       "reason": "Source-index import; extraction only.",
       "isAdvertisement": false,
@@ -149,7 +166,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/GroundControl/status/2103678916414132229",
+        "evidence": "All right, this is an empty repo. Make me a 3-minute animated visualization using JavaScript, or you can do it in TypeScript if you want, about Japan's hot weather in 2026. Pull some online data to see why it was hot and how it compares to other years. I really want the animation to be visually appealing. I wanted to use a hand-drawn pencil style with a little bit of tasteful chromatic aberration."
+      },
+      "purpose": {
+        "label": "Weather data visualization / Japan summer",
+        "topic": "explainers",
+        "tags": []
+      }
     },
     "summary": "Prompt used to generate an animated TypeScript/JavaScript data visualization and live audio synthesizer portraying Japan's hot 2026 weather in a hand-drawn pencil style.",
     "summaryEn": "Japan Summer Weather Visualization",
@@ -165,8 +197,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "Prompt used to generate an animated TypeScript/JavaScript data visualization and live audio synthesizer portraying Japan's hot 2026 weather in a hand-drawn pencil style.",
+    "category": "explainers",
+    "useCase": "Weather data visualization / Japan summer",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

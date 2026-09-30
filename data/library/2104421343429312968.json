@@ -93,7 +93,8 @@
         {
           "name": "Web Browser / WebGL Canvas",
           "role": "Executes and renders the interactive 3D model and user interface",
-          "evidence": "Shown running in an interactive browser view with mouse controls ('Drag to orbit · Right-drag to pan · Scroll to zoom · Click any part')."
+          "evidence": "Shown running in an interactive browser view with mouse controls ('Drag to orbit · Right-drag to pan · Scroll to zoom · Click any part').",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Generates the code and structure for the interactive 3D explainer website",
@@ -132,6 +133,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ImperiumMentisX/status/2104421343429312968",
+        "evidence": ""
       }
     },
     "summary": "A screen recording showing an interactive 3D explainer web application of a twin-turbo V12 engine created with Claude Opus 5.5, featuring exploded views, part inspection, and combustion cycle animations.",

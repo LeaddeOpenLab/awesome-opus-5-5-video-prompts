@@ -133,12 +133,15 @@
         {
           "name": "Claude Code",
           "role": "Agent CLI tool executing Opus 5.5 to author project structure and 3D web code",
-          "evidence": "\"I guess Claude code knows things about me and has worked on things before which probably influenced it's context\""
+          "evidence": "I guess Claude code knows things about me and has worked on things before which probably influenced it's context",
+          "sourceUrl": "https://x.com/MandelDuck/status/2104221644176687132",
+          "status": "author_confirmed"
         },
         {
           "name": "WebGL / 3D Canvas Renderer",
           "role": "Interactive runtime rendering the 3D scene and gameplay in the browser",
-          "evidence": "\"hosted at mandelduck.com/vincents-cats/\""
+          "evidence": "\"hosted at mandelduck.com/vincents-cats/\"",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Orchestrated project creation and generated the 3D scene, assets, game mechanics, and UI logic.",
@@ -150,7 +153,7 @@
         "aspectRatio": "16:9",
         "referenceMaterials": []
       },
-      "task": "canvas-interactive",
+      "task": "games-interactive",
       "suitable": true,
       "reason": "Exemplary demonstration of Claude Opus 5.5 producing a complete interactive 3D WebGL scene/game from an original user prompt with accompanying gameplay video.",
       "isAdvertisement": false,
@@ -176,6 +179,23 @@
           "incomplete_or_unreproducible_prompt",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [
+          "Author reports prior Claude Code context. Browser renderer is not confirmed by the hosting URL."
+        ],
+        "sourceUrl": "https://x.com/MandelDuck/status/2103802923465768972",
+        "evidence": "can you make a 3d game where you walk around and spot cats inside of a van gogh painting? we can start with stary night and its town"
+      },
+      "purpose": {
+        "label": "3D exploration game / hidden cats",
+        "topic": "games-interactive",
+        "tags": []
       }
     },
     "summary": "Christian Moss demonstrates a 3D exploration game built with Claude Opus 5.5 via Claude Code from a single prompt, allowing players to walk through Van Gogh's Starry Night and locate hidden cats.",
@@ -192,8 +212,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "canvas-interactive",
-    "useCase": "Christian Moss demonstrates a 3D exploration game built with Claude Opus 5.5 via Claude Code from a single prompt, allowing players to walk through Van Gogh's Starry Night and locate hidden cats.",
+    "category": "games-interactive",
+    "useCase": "3D exploration game / hidden cats",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

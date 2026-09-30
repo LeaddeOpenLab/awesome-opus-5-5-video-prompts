@@ -92,13 +92,16 @@
           "kind": "video",
           "description": "博主芬达的参考混剪视频及背景音乐文件",
           "available": false,
-          "evidence": "我给了 Opus 5.5 芬达（比较著名的混剪博主）的一段混剪视频……我们的文件夹内有一个混剪视频……仍然用这个音乐来混剪"
+          "evidence": "我给了 Opus 5.5 芬达（比较著名的混剪博主）的一段混剪视频……我们的文件夹内有一个混剪视频……仍然用这个音乐来混剪",
+          "origin": "unknown"
         },
         {
           "kind": "video",
           "description": "智能体从台词音效网站检索并下载的电影原片素材",
           "available": false,
-          "evidence": "素材的话，你自己去一些专门根据台词、音效找片段的网站上去找，然后下载下来"
+          "evidence": "素材的话，你自己去一些专门根据台词、音效找片段的网站上去找，然后下载下来",
+          "origin": "downloaded",
+          "sourceUrl": "https://x.com/threeaus/status/2104499446872457243"
         }
       ],
       "inputsDocumented": false,
@@ -106,7 +109,8 @@
         {
           "name": "未明确的视频下载与剪辑渲染环境（如 Python / FFmpeg）",
           "role": "执行素材下载、音视频切片对齐、卡点拼合及字幕合成渲染",
-          "evidence": "作者未说明具体底层环境，但通过'自己下载素材来混剪'及'全程没有人类动手'表明由 Agent 调用底层脚本工具完成。"
+          "evidence": "作者未说明具体底层环境，但通过'自己下载素材来混剪'及'全程没有人类动手'表明由 Agent 调用底层脚本工具完成。",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "充当视频制作 Agent，负责构思选题、拆解音乐节奏、检索并下载素材片段、规划剪辑点与字幕台词衔接。",
@@ -148,6 +152,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/threeaus/status/2104499446872457243",
+        "evidence": ""
       }
     },
     "summary": "作者向 Claude Opus 5.5 提供参考混剪样本并要求以 AI 威胁论为主题，由 Opus 5.5 自主选题、检索下载影视台词片段、卡点配乐并生成字幕，完成全流程视频混剪制作。",

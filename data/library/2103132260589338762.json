@@ -159,7 +159,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/jackfriks/status/2103134485910892602",
+        "evidence": ""
+      }
     },
     "summary": "A prompt asking Claude to generate a 9:16 short story animation with sound effects using specific app assets and teaser elements.",
     "summaryEn": "Short Story Animation Prompt",

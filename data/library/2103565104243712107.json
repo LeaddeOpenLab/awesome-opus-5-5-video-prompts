@@ -87,10 +87,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 + Hyperframes is such a great way to generate videos!"
       },
       "prompt": {
         "status": "fragment",
@@ -143,7 +143,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/advait_jayant/status/2103565106504237084",
+        "evidence": "make a 20-second motion graphics manifesto for DreamFort: \"superintelligence should belong to everyone\". every frame and every sound written in code, no image or video models."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A prompt designed to create a code-generated 20-second motion graphics manifesto and soundscape for DreamFort without using traditional video or image generation models.",
     "summaryEn": "DreamFort Motion Graphics Manifesto Prompt",
@@ -160,7 +175,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A prompt designed to create a code-generated 20-second motion graphics manifesto and soundscape for DreamFort without using traditional video or image generation models.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

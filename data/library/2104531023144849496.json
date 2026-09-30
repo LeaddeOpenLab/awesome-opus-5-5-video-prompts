@@ -108,7 +108,8 @@
           "kind": "codebase",
           "description": "App source code and graphic modules",
           "available": false,
-          "evidence": "Claude vous ferra une vidéo à partir de votre code donc de TOUT votre projet que ce soir une App ou un SaaS. ... Reprend exactement les modules graphiques issus du code."
+          "evidence": "Claude vous ferra une vidéo à partir de votre code donc de TOUT votre projet que ce soir une App ou un SaaS. ... Reprend exactement les modules graphiques issus du code.",
+          "origin": "unknown"
         }
       ],
       "inputsDocumented": false,
@@ -116,12 +117,16 @@
         {
           "name": "Claude Opus 5.5",
           "role": "Code generation and animation orchestration",
-          "evidence": "Je viens de créer ma première vidéo de Motion design by Claude Opus 5.5 \n\nUne pépite, et mes prompts sont encore simplistes."
+          "evidence": "Je viens de créer ma première vidéo de Motion design by Claude Opus 5.5 \n\nUne pépite, et mes prompts sont encore simplistes.",
+          "sourceUrl": "https://x.com/Mishka_yan/status/2104531023144849496",
+          "status": "inferred"
         },
         {
           "name": "Unspecified video/code renderer",
           "role": "Execution and video rendering engine",
-          "evidence": "Claude vous ferra une vidéo à partir de votre code donc de TOUT votre projet"
+          "evidence": "Claude vous ferra une vidéo à partir de votre code donc de TOUT votre projet",
+          "sourceUrl": "https://x.com/Mishka_yan/status/2104531023144849496",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Generates motion graphic animation script/code directly from application codebase",
@@ -160,6 +165,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Mishka_yan/status/2104531028077674741",
+        "evidence": ""
       }
     },
     "summary": "Mishka used Claude Opus 5.5 to generate a TikTok/Reels-formatted motion design video showcasing an app called KOPIO from its source code and UI components.",

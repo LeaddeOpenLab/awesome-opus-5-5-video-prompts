@@ -101,20 +101,26 @@
           "kind": "text / book content",
           "description": "Book text, chapters, milestones, and framework details for 'Winning With AI'",
           "available": false,
-          "evidence": "our book- Winning With AI"
+          "evidence": "our book- Winning With AI",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/anujmagazine/status/2104413797876367664"
         }
       ],
       "inputsDocumented": false,
       "tools": [
         {
-          "name": "HTML / SVG / GSAP",
-          "role": "Animation code framework written by Claude to define vector shapes, layout, and motion sequencing",
-          "evidence": "it writes the animation as code, usually one HTML file with SVG shapes and a timing library like GSAP"
-        },
-        {
           "name": "Headless browser / Video renderer",
           "role": "Frame capture and video compiler that records browser playback to MP4",
-          "evidence": "then looks at snapshots of its own frames, fixes what looks wrong, and renders the result out as a GIF or MP4"
+          "evidence": "then looks at snapshots of its own frames, fixes what looks wrong, and renders the result out as a GIF or MP4",
+          "sourceUrl": "https://x.com/anujmagazine/status/2104413797876367664",
+          "status": "inferred"
+        },
+        {
+          "name": "HTML / SVG / GSAP",
+          "role": "Animation code framework written by Claude to define vector shapes, layout, and motion sequencing",
+          "evidence": "it writes the animation as code, usually one HTML file with SVG shapes and a timing library like GSAP",
+          "sourceUrl": "https://x.com/anujmagazine/status/2104413797876367664",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Claude Opus 5.5 acts as an agent writing the HTML/SVG/GSAP code and iteratively inspecting frame snapshots to correct visual errors.",
@@ -152,6 +158,16 @@
           "incomplete_or_unreproducible_prompt",
           "necessary_inputs_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/anujmagazine/status/2104413797876367664",
+        "evidence": ""
       }
     },
     "summary": "Author prompts Claude Opus 5.5 to create an animated motion-graphics preview for the book 'Winning With AI', discussing how Opus 5.5 creates code-driven animations (HTML/SVG/GSAP) rather than natively rendering pixels.",

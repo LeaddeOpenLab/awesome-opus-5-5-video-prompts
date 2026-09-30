@@ -100,9 +100,40 @@
         "evidence": "Consistency check skipped for source-index import.",
         "textualResultQuote": ""
       },
-      "inputs": [],
-      "inputsDocumented": false,
-      "tools": [],
+      "inputs": [
+        {
+          "kind": "parameters_and_assets",
+          "description": "Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader, player, slider, toggle, tabs, chart, command palette, toast), pure black and white or one accent color, and a royalty-free song around 120 BPM (e.g. Mixkit, free for commercial use).",
+          "evidence": "Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader, player, slider, toggle, tabs, chart, command palette, toast), pure black and white or one accent color, and a royalty-free song around 120 BPM (e.g. Mixkit, free for commercial use).",
+          "available": false,
+          "origin": "user",
+          "sourceUrl": "https://x.com/sanjeevn72/status/2103456484793151834"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "FFmpeg",
+          "role": "Video encoding",
+          "evidence": "Render with Playwright: 4 subframes per frame, blended with ffmpeg tmix for motion blur at 60fps.",
+          "sourceUrl": "https://x.com/sanjeevn72/status/2103456484793151834",
+          "status": "required"
+        },
+        {
+          "name": "NumPy",
+          "role": "Audio / numerical analysis",
+          "evidence": "Analyze the song with numpy for the beat grid and start on a downbeat.",
+          "sourceUrl": "https://x.com/sanjeevn72/status/2103456484793151834",
+          "status": "required"
+        },
+        {
+          "name": "Playwright",
+          "role": "Browser frame capture",
+          "evidence": "Render with Playwright: 4 subframes per frame, blended with ffmpeg tmix for motion blur at 60fps.",
+          "sourceUrl": "https://x.com/sanjeevn72/status/2103456484793151834",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/sanjeevn72/status/2103456358125457691",
       "divisionEvidence": "",
@@ -137,7 +168,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/sanjeevn72/status/2103456484793151834",
+        "evidence": "Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader, player, slider, toggle, tabs, chart, command palette, toast), pure black and white or one accent color, and a royalty-free song around 120 BPM (e.g. Mixkit, free for commercial use)."
+      }
     },
     "summary": "A structured prompt for generating a continuous, looping Dribbble-style UI morph animation programmed in HTML and rendered via Playwright.",
     "summaryEn": "Continuous UI Motion Animation Prompt",

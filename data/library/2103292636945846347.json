@@ -103,7 +103,29 @@
       },
       "inputs": [],
       "inputsDocumented": false,
-      "tools": [],
+      "tools": [
+        {
+          "name": "FFmpeg",
+          "role": "Video encoding",
+          "evidence": "Use apenas: JavaScript, Playwright e FFmpeg.",
+          "sourceUrl": "https://x.com/andre_lucaxxs/status/2103292640645329213",
+          "status": "required"
+        },
+        {
+          "name": "JavaScript",
+          "role": "Programming language",
+          "evidence": "Use apenas: JavaScript, Playwright e FFmpeg.",
+          "sourceUrl": "https://x.com/andre_lucaxxs/status/2103292640645329213",
+          "status": "required"
+        },
+        {
+          "name": "Playwright",
+          "role": "Browser frame capture",
+          "evidence": "Use apenas: JavaScript, Playwright e FFmpeg.",
+          "sourceUrl": "https://x.com/andre_lucaxxs/status/2103292640645329213",
+          "status": "required"
+        }
+      ],
       "targetModelRole": "",
       "outputSource": "https://x.com/andre_lucaxxs/status/2103292636945846347",
       "divisionEvidence": "",
@@ -138,7 +160,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/andre_lucaxxs/status/2103292640645329213",
+        "evidence": ""
+      }
     },
     "summary": "A prompt given to Opus 5.5 instructing it to generate a modern and impactful promotional video for the Flora app using JavaScript, Playwright, and FFmpeg from a designated folder of assets.",
     "summaryEn": "Flora App Promo Video Prompt",

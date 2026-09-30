@@ -143,7 +143,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/johnsavage_ai/status/2103792945287876726",
+        "evidence": ""
+      }
     },
     "summary": "A video generation prompt using a style reference image to create a retro-futuristic Opus 5.5 launch video featuring film grain and CRT effects.",
     "summaryEn": "Retro/Futuristic Opus 5.5 Launch Video",

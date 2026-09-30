@@ -81,10 +81,10 @@
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 made this ad for @pictwinai from 2 prompts."
       },
       "prompt": {
         "status": "fragment",
@@ -137,7 +137,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/l3d1c/status/2103536553930752011",
+        "evidence": "Prompt 1: \"create a motion design prompt for an ad for our site\"\nPrompt 2: \"now apply it\""
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A two-prompt sequence used with Claude Opus to design and render an animated product advertisement from the codebase.",
     "summaryEn": "Pictwin AI Animated Ad",
@@ -154,7 +169,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A two-prompt sequence used with Claude Opus to design and render an animated product advertisement from the codebase.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

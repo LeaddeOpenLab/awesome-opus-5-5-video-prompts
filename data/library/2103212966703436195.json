@@ -137,7 +137,17 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/0xEvinho/status/2103212966703436195",
+        "evidence": ""
+      }
     },
     "summary": "A prompt used with Opus 5.5 alongside a reference video to generate a pixel animation themed around cryptocurrency.",
     "summaryEn": "Pixel Animation Crypto Reference Prompt",

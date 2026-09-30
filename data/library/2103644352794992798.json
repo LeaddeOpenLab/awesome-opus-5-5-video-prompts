@@ -131,7 +131,22 @@
           "consistency_check_skipped"
         ]
       },
-      "importMode": "source-index"
+      "importMode": "source-index",
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/VanshWTFFF/status/2103644352794992798",
+        "evidence": "make a dynamic 10 second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a resume."
+      },
+      "purpose": {
+        "label": "Motion graphics / showreel",
+        "topic": "motion-graphics",
+        "tags": []
+      }
     },
     "summary": "A prompt designed to generate a dynamic 10-second motion graphics showreel video showcasing motion design skills for a resume.",
     "summaryEn": "Dynamic Motion Designer Showreel Video",
@@ -148,7 +163,7 @@
       "opus5.5"
     ],
     "category": "motion-graphics",
-    "useCase": "A prompt designed to generate a dynamic 10-second motion graphics showreel video showcasing motion design skills for a resume.",
+    "useCase": "Motion graphics / showreel",
     "hasReusablePrompt": false,
     "promptResultConsistency": 0,
     "mediaReview": "automated",

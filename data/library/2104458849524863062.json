@@ -92,13 +92,15 @@
           "kind": "audio",
           "description": "DeepSeek 灰测主题原创/合成歌曲伴奏及人声音频",
           "available": false,
-          "evidence": "视频包含完整人声歌曲与伴奏，但推文未提供音频生成方式或源文件链接"
+          "evidence": "视频包含完整人声歌曲与伴奏，但推文未提供音频生成方式或源文件链接",
+          "origin": "unknown"
         },
         {
           "kind": "image_asset",
           "description": "DeepSeek 鲸鱼吉祥物及 Q 版人物立绘形象",
           "available": false,
-          "evidence": "视频中出现多处特定矢量角色与图标资产，未公开原始素材文件"
+          "evidence": "视频中出现多处特定矢量角色与图标资产，未公开原始素材文件",
+          "origin": "unknown"
         }
       ],
       "inputsDocumented": false,
@@ -106,7 +108,8 @@
         {
           "name": "Unknown Renderer / Framework",
           "role": "视频动效代码执行与渲染引擎",
-          "evidence": "作者仅提及使用 Opus 5.5 xhigh 档位耗时约 1 小时生成，未指明具体代码框架（如 Remotion、Web 动效或 Manim）"
+          "evidence": "作者仅提及使用 Opus 5.5 xhigh 档位耗时约 1 小时生成，未指明具体代码框架（如 Remotion、Web 动效或 Manim）",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "代码编写与动画生成智能体，负责编排视觉分镜并输出动画程序代码",
@@ -145,6 +148,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/esrhengwu/status/2104458849524863062",
+        "evidence": ""
       }
     },
     "summary": "作者使用 Opus 5.5（xhigh 档位）制作了一支关于 DeepSeek 灰度测试主题的 2D 动效音乐 MV，包含丰富的角色动画、动态排版及分镜。",

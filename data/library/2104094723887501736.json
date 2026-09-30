@@ -203,7 +203,8 @@
           "kind": "public specifications and diagrams",
           "description": "Public blueprint information, SpaceX published Raptor 3 specifications (280 tf, 350 s Isp, 350 bar chamber pressure)",
           "available": true,
-          "evidence": "Author replied: 'Some parts if you search online you will find some public informations of the blueprint' and webpage notes 'The model is simplified from public photos and diagrams. Thrust and specific impulse follow SpaceX's published Raptor 3 figures...'"
+          "evidence": "Author replied: 'Some parts if you search online you will find some public informations of the blueprint' and webpage notes 'The model is simplified from public photos and diagrams. Thrust and specific impulse follow SpaceX's published Raptor 3 figures...'",
+          "origin": "unknown"
         }
       ],
       "inputsDocumented": true,
@@ -211,7 +212,8 @@
         {
           "name": "Three.js / WebGL",
           "role": "Client-side 3D rendering and interaction engine running in the browser",
-          "evidence": "Author reply: '@0to60in2point9 yes three.js'"
+          "evidence": "Author reply: '@0to60in2point9 yes three.js'",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Claude Opus 5.5 generated the interactive WebGL/Three.js application code, animation logic, and simulation parameter calculations.",
@@ -251,6 +253,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/konstantinsaifo/status/2104094723887501736",
+        "evidence": ""
       }
     },
     "summary": "Konstantin Saifoulline showcases an interactive Three.js 3D browser simulation of SpaceX's Raptor 3 engine generated with Claude Opus 5.5, featuring cutaway views, propellant flow paths, throttling controls, and shock diamonds.",

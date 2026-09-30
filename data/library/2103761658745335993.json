@@ -104,7 +104,7 @@
         "aspectRatio": "16:9",
         "referenceMaterials": []
       },
-      "task": "other-animation",
+      "task": "explainers",
       "suitable": true,
       "reason": "Presents a complete video production result attributed by the author to Claude Opus 5.5, qualifying as a relevant reference case under policy overrides despite missing tool and pipeline documentation.",
       "isAdvertisement": false,
@@ -131,6 +131,21 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/sudo_kiran/status/2103761658745335993",
+        "evidence": "create best motion graphics explainer of the (your product) with very good script and good design colors and good music make sure the video should be incredible and people should feels like watch it many times.. it has to be in 30 seconds good and very intresting, it has to be best of the best of the best of the best video\n(product link)"
+      },
+      "purpose": {
+        "label": "Educational / explainer video",
+        "topic": "explainers",
+        "tags": []
       }
     },
     "summary": "Kiran shares a 30-second motion graphics product explainer video for DistilBook, claiming it was built using Claude Opus 5.5.",
@@ -147,8 +162,8 @@
     "targetModels": [
       "opus5.5"
     ],
-    "category": "other-animation",
-    "useCase": "Kiran shares a 30-second motion graphics product explainer video for DistilBook, claiming it was built using Claude Opus 5.5.",
+    "category": "explainers",
+    "useCase": "Educational / explainer video",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",

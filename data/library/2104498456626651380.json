@@ -104,7 +104,8 @@
         {
           "name": "Web Browser / 3D Canvas",
           "role": "Execution environment and 3D rendering of the simulated microring resonator application",
-          "evidence": "Screen recording captures browser navigation to voidlattice.com/labs/microring-resonator/microring displaying interactive 3D graphics."
+          "evidence": "Screen recording captures browser navigation to voidlattice.com/labs/microring-resonator/microring displaying interactive 3D graphics.",
+          "status": "inferred"
         }
       ],
       "targetModelRole": "Generating the interactive simulation logic, state management, and 3D visualization code.",
@@ -143,6 +144,16 @@
           "necessary_inputs_unverified",
           "opus_tool_responsibilities_unverified"
         ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/SaulFloresJr/status/2104498456626651380",
+        "evidence": ""
       }
     },
     "summary": "Saul Flores Jr. demonstrates an interactive 3D simulation of sunlight heating a microring resonator and controller compensation, created by prompting Claude Opus 5.5.",
