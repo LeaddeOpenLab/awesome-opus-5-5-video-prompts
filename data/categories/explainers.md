@@ -35,19 +35,33 @@
 <sub><a href="https://x.com/Ror_Fly/status/2102853258582880547">Original post ↗</a> · <a href="../../prompts/2102853258582880547.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2105116391439270222.md"><img src="../gifs/2105116391439270222.gif" alt="First &amp; 10 Yellow Line Explainer Video" width="256" height="144" /></a><br>
+<strong>First &amp; 10 Yellow Line Explainer Video</strong><br>
+<sub>Use: First &amp; 10 System Explainer<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
+<sub><a href="https://x.com/blueoctopusai/status/2105116391439270222">Original post ↗</a> · <a href="../../prompts/2105116391439270222.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="../../prompts/2105077598934241383.md"><img src="../gifs/2105077598934241383.gif" alt="Note Article to Explainer Video via Claude Code and HyperFrames" width="256" height="144" /></a><br>
 <strong>Note Article to Explainer Video via Claude Code and HyperFrames</strong><br>
 <sub>Use: An author generated a 95-second structured explainer video from a blog post using Claude Opus 5.5 via Claude Code, orchestrating the script, voiceover, subtitles, and HTML-based animation in HyperFrames.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/koumei_ai5566/status/2105077598934241383">Original post ↗</a> · <a href="../../prompts/2105077598934241383.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2104934916505108662.md"><img src="../gifs/2104934916505108662.gif" alt="Claude 发展史动态解说视频" width="256" height="144" /></a><br>
+<strong>Claude 发展史动态解说视频</strong><br>
+<sub>Use: Claude Evolution History Explainer<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
+<sub><a href="https://x.com/LawrenceW_Zen/status/2104934916505108662">Original post ↗</a> · <a href="../../prompts/2104934916505108662.md">Prompt ↗</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="../../prompts/2104554735382778328.md"><img src="../gifs/2104554735382778328.gif" alt="Opus 5.5 Motion Graphics: Chronicle of Two" width="256" height="144" /></a><br>
 <strong>Opus 5.5 Motion Graphics: Chronicle of Two</strong><br>
 <sub>Use: The author prompted Claude Opus 5.5 with high reasoning level to inspect memory and generate a motion graphics animation recounting their shared history, titled 'A story of the moon &amp; a little star'.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/monya_for_io/status/2104554735382778328">Original post ↗</a> · <a href="../../prompts/2104554735382778328.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104543926644564036.md"><img src="../gifs/2104543926644564036.gif" alt="History of Space Exploration Animated Video" width="256" height="144" /></a><br>
 <strong>History of Space Exploration Animated Video</strong><br>
@@ -60,14 +74,14 @@
 <sub>Use: Cryptocatguru showcases an animated timeline video covering the history of internet money from 1989 to present, stating that Claude Opus 5.5 generated the animation by writing code to draw each frame.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/cryptocatguru/status/2104525804604645802">Original post ↗</a> · <a href="../../prompts/2104525804604645802.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104519528873103773.md"><img src="../gifs/2104519528873103773.gif" alt="Opus 5.5 制作《星际穿越里的真物理》黑洞篇动效科普视频" width="256" height="144" /></a><br>
 <strong>Opus 5.5 制作《星际穿越里的真物理》黑洞篇动效科普视频</strong><br>
 <sub>Use: 作者展示使用 Claude Opus 5.5 基于单句主题「《星际穿越里的真物理》——黑洞篇」生成的科学动效解说视频，呈现了卡冈图雅黑洞、引力透镜、时间膨胀与事件视界望远镜对比等复杂视觉与双语字幕。<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/AndyL5cc/status/2104519528873103773">Original post ↗</a> · <a href="../../prompts/2104519528873103773.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104506459530866869.md"><img src="../gifs/2104506459530866869.gif" alt="History of Machine Communications Motion Graphic Video" width="256" height="144" /></a><br>
 <strong>History of Machine Communications Motion Graphic Video</strong><br>
@@ -80,14 +94,14 @@
 <sub>Use: Educational / explainer video<br>Inputs: YouTube animated explainer reference videos<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/andrewmichaelsa/status/2104490962139385936">Original post ↗</a> · <a href="../../prompts/2104490962139385936.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104474644279697754.md"><img src="../gifs/2104474644279697754.gif" alt="India's Got Latent Explainer Breakdown" width="256" height="144" /></a><br>
 <strong>India's Got Latent Explainer Breakdown</strong><br>
 <sub>Use: Ratnaksh Tyagi shares an animated motion graphics explainer breaking down the comedy talent show 'India's Got Latent', attributing the generation task to Opus 5.5.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ratnakshtyagi27/status/2104474644279697754">Original post ↗</a> · <a href="../../prompts/2104474644279697754.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104466394859593915.md"><img src="../gifs/2104466394859593915.gif" alt="Remotion Search History 15s Timeline Animation" width="256" height="144" /></a><br>
 <strong>Remotion Search History 15s Timeline Animation</strong><br>
@@ -100,14 +114,14 @@
 <sub>Use: 作者测试使用 Opus 5.5 输入简短提示制作关于北宋「水运仪象台」的 3D 解构与原理解析科普视频，视频包含机械结构拆解、擒纵机构运转展示及配音字幕。<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/AndyL5cc/status/2104428313544667245">Original post ↗</a> · <a href="../../prompts/2104428313544667245.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104419703997567302.md"><img src="../gifs/2104419703997567302.gif" alt="Persistence of Vision: A History of Hollywood in Code" width="256" height="144" /></a><br>
 <strong>Persistence of Vision: A History of Hollywood in Code</strong><br>
 <sub>Use: An animated short film tracing the history of cinema rendered from light and volumetric particle motes, created via code with Claude Opus 5.5 and narrated by ElevenLabs.<br>Inputs: Historical film references including The Horse in Motion, The Black Maria, and others.<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/abhi81i/status/2104419703997567302">Original post ↗</a> · <a href="../../prompts/2104419703997567302.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104416503164731646.md"><img src="../gifs/2104416503164731646.gif" alt="空气微流控芯片散热原理解析视频制作" width="256" height="144" /></a><br>
 <strong>空气微流控芯片散热原理解析视频制作</strong><br>
@@ -120,14 +134,14 @@
 <sub>Use: Deedy shares a 7-minute technical explainer animation analyzing SQLite's codebase structure, query lifecycle, and join-order execution, generated with Claude Opus 5.5 and Gemini TTS.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/deedydas/status/2104391577091407965">Original post ↗</a> · <a href="../../prompts/2104391577091407965.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104198927549604161.md"><img src="../gifs/2104198927549604161.gif" alt="Coding Agent Explainer Video" width="256" height="144" /></a><br>
 <strong>Coding Agent Explainer Video</strong><br>
 <sub>Use: Arthur Katcher shares a 40-second motion-graphics explainer video on how coding agents work, generated in a single prompt using Claude Code (Opus 5.5) with Remotion and a NumPy audio synthesizer.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/arthurkatcher/status/2104198927549604161">Original post ↗</a> · <a href="../../prompts/2104198927549604161.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103904436141842605.md"><img src="../gifs/2103904436141842605.gif" alt="Tree as an Ecosystem Animation" width="256" height="144" /></a><br>
 <strong>Tree as an Ecosystem Animation</strong><br>
@@ -140,14 +154,14 @@
 <sub>Use: Krzysztof Gonia prompted Opus 5.5 to generate a Three.js cinematic film that smoothly zooms out from an Earth hillside all the way to the observable universe without external assets.<br>Inputs: No external assets required by the prompt<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/kgonia7/status/2103835848575746268">Original post ↗</a> · <a href="../../prompts/2103835848575746268.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103833991879053577.md"><img src="../gifs/2103833991879053577.gif" alt="3D Desk to CPU Atom Zoom" width="256" height="144" /></a><br>
 <strong>3D Desk to CPU Atom Zoom</strong><br>
 <sub>Use: A continuous 3D browser-rendered motion graphic zooming in from a desk all the way down to a single silicon atom inside a CPU, created with Claude Opus 5.5.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Acoramaa/status/2103833991879053577">Original post ↗</a> · <a href="../../prompts/2103833991879053577.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103814603100856596.md"><img src="../gifs/2103814603100856596.gif" alt="Mechanical Keyboard Explainer" width="256" height="144" /></a><br>
 <strong>Mechanical Keyboard Explainer</strong><br>
@@ -160,14 +174,14 @@
 <sub>Use: Educational / explainer video<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/henkvaness/status/2103801351993975279">Original post ↗</a> · <a href="../../prompts/2103801351993975279.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103761658745335993.md"><img src="../gifs/2103761658745335993.gif" alt="DistilBook Motion Graphics Product Explainer Demo" width="256" height="144" /></a><br>
 <strong>DistilBook Motion Graphics Product Explainer Demo</strong><br>
 <sub>Use: Educational / explainer video<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/sudo_kiran/status/2103761658745335993">Original post ↗</a> · <a href="../../prompts/2103761658745335993.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103737604277780553.md"><img src="../gifs/2103737604277780553.gif" alt="Anuprerna Explainer Video Prompt" width="256" height="144" /></a><br>
 <strong>Anuprerna Explainer Video</strong><br>
@@ -180,14 +194,14 @@
 <sub>Use: Recursion explainer<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/emollick/status/2103688362960019567">Original post ↗</a> · <a href="../../prompts/2103688362960019567.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103678647777230877.md"><img src="../gifs/2103678647777230877.gif" alt="Japan Summer Weather Visualization" width="256" height="144" /></a><br>
 <strong>Japan Summer Weather Visualization</strong><br>
 <sub>Use: Weather data visualization / Japan summer<br>Inputs: User inputs not specified by the author<br>Tools: JavaScript</sub><br>
 <sub><a href="https://x.com/GroundControl/status/2103678647777230877">Original post ↗</a> · <a href="../../prompts/2103678647777230877.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103667481139441895.md"><img src="../gifs/2103667481139441895.gif" alt="Replica Symmetry Breaking Whiteboard Animation" width="256" height="144" /></a><br>
 <strong>Replica Symmetry Breaking Whiteboard Animation</strong><br>
@@ -200,14 +214,14 @@
 <sub>Use: A prompt given to Claude Opus 5.5 to create an animated video illustrating key moments in artificial intelligence history.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/kloss_xyz/status/2103652674336067876">Original post ↗</a> · <a href="../../prompts/2103652674336067876.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103629247751618782.md"><img src="../gifs/2103629247751618782.gif" alt="Photon Journey Explainer Animation" width="256" height="144" /></a><br>
 <strong>Photon Journey Explainer Animation</strong><br>
 <sub>Use: Science explainer / photon journey<br>Inputs: User inputs not specified by the author<br>Tools: JavaScript</sub><br>
 <sub><a href="https://x.com/AstroTheWizard/status/2103629247751618782">Original post ↗</a> · <a href="../../prompts/2103629247751618782.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103603025579331584.md"><img src="../gifs/2103603025579331584.gif" alt="PayBox Logo Motion Design Reel" width="256" height="144" /></a><br>
 <strong>PayBox Logo Motion Design Reel</strong><br>
@@ -220,14 +234,14 @@
 <sub>Use: A prompt directing Opus to autonomously generate a whimsical hand-drawn JavaScript animation and audio explainer for the Headroom desktop app.<br>Inputs: User inputs not specified by the author<br>Tools: JavaScript</sub><br>
 <sub><a href="https://x.com/garmdotcom/status/2103516101518987439">Original post ↗</a> · <a href="../../prompts/2103516101518987439.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103499977632997524.md"><img src="../gifs/2103499977632997524.gif" alt="Animated Explainer Motion Designer Prompt" width="256" height="144" /></a><br>
 <strong>Animated Explainer Motion Designer</strong><br>
 <sub>Use: Educational / explainer video<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/alex_prompter/status/2103499977632997524">Original post ↗</a> · <a href="../../prompts/2103499977632997524.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103486573476254201.md"><img src="../gifs/2103486573476254201.gif" alt="Distilbook Product Explainer Motion Graphic Prompt" width="256" height="144" /></a><br>
 <strong>Distilbook Product Explainer Motion Graphic</strong><br>
@@ -245,14 +259,14 @@
 • required formats (1:1, 16:9, 9:16)<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/verbove/status/2103483957266268381">Original post ↗</a> · <a href="../../prompts/2103483957266268381.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103418429248069973.md"><img src="../gifs/2103418429248069973.gif" alt="White Russian Recipe Motion Graphic" width="256" height="144" /></a><br>
 <strong>White Russian Recipe Motion Graphic</strong><br>
 <sub>Use: Educational / explainer video<br>Inputs: User inputs not specified by the author<br>Tools: JavaScript</sub><br>
 <sub><a href="https://x.com/Sarut0biSasuke/status/2103418429248069973">Original post ↗</a> · <a href="../../prompts/2103418429248069973.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103411144899875264.md"><img src="../gifs/2103411144899875264.gif" alt="JavaScript About Us Page Animation" width="256" height="144" /></a><br>
 <strong>JavaScript About Us Page Animation</strong><br>
@@ -265,14 +279,14 @@
 <sub>Use: Nick Frith shares an animation generated using Opus 5.5 with a prompt asking for an explanation of why celld earns its place.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/0xnfrith/status/2103358957050068999">Original post ↗</a> · <a href="../../prompts/2103358957050068999.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103247530259603851.md"><img src="../gifs/2103247530259603851.gif" alt="Educational Video Prompt for Sotto App" width="256" height="144" /></a><br>
 <strong>Educational Video Prompt for Sotto App</strong><br>
 <sub>Use: Educational / explainer video<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/1stnoel_/status/2103247530259603851">Original post ↗</a> · <a href="../../prompts/2103247530259603851.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103237989065277590.md"><img src="../gifs/2103237989065277590.gif" alt="The Sphere History GSAP Motion Graphic Prompt" width="256" height="144" /></a><br>
 <strong>The Sphere History GSAP Motion Graphic</strong><br>
@@ -285,14 +299,14 @@
 <sub>Use: Parker Rex shares an animated diagram of a token bucket rate limiter created with an AI prompt utilizing HTML5 canvas without external libraries.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ParkerRex/status/2103206747846701462">Original post ↗</a> · <a href="../../prompts/2103206747846701462.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103128559174971663.md"><img src="../gifs/2103128559174971663.gif" alt="Manim Derivative Concept Educational Video Prompt" width="256" height="144" /></a><br>
 <strong>Manim Derivative Concept Educational Video</strong><br>
 <sub>Use: Derivative concept lesson<br>Inputs: User inputs not specified by the author<br>Tools: edge-tts / Manim</sub><br>
 <sub><a href="https://x.com/LinearUncle/status/2103128559174971663">Original post ↗</a> · <a href="../../prompts/2103128559174971663.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103020274107224281.md"><img src="../gifs/2103020274107224281.gif" alt="3D Water Simulation Benchmark" width="256" height="144" /></a><br>
 <strong>3D Water Simulation Benchmark</strong><br>
@@ -305,14 +319,12 @@
 <sub>Use: Educational / explainer video<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/_nikolajankovic/status/2102867033100616097">Original post ↗</a> · <a href="../../prompts/2102867033100616097.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102847039415476517.md"><img src="../gifs/2102847039415476517.gif" alt="Datagran Explainer Video Prompt" width="256" height="144" /></a><br>
 <strong>Datagran Explainer Video</strong><br>
 <sub>Use: A prompt requesting an AI model to generate a modern, punchy explainer video showcasing Datagran's end-to-end autonomous growth loop.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/charlesmendez/status/2102847039415476517">Original post ↗</a> · <a href="../../prompts/2102847039415476517.md">Prompt ↗</a></sub>
-</td><td></td><td></td>
+</td>
 </tr>
 </table>
 

@@ -40,7 +40,7 @@
   ],
   "source": "https://www.anthropic.com/claude-opus-5-5",
   "canonicalUrl": "https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts",
-  "verifiedCases": 1,
-  "referenceCases": 359,
+  "verifiedCases": 2,
+  "referenceCases": 377,
   "pendingCases": 0
 }

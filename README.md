@@ -2,15 +2,15 @@
 
 **Claude Opus 5.5 video prompts, organized by what you want to make.** Browse motion graphics, explainers, 3D showcases and interactive demos.
 Save this library to find a useful result, copy the creator’s public prompt, and see the inputs and tools needed to start.
-**30 homepage picks** · **360 browsable video + prompt pairs** · Original creator links on every card.
-**Latest addition: 2026-09-30** · **360 total records** · **+19 in the latest addition**
+**30 homepage picks** · **379 browsable video + prompt pairs** · Original creator links on every card.
+**Latest addition: 2026-09-30** · **379 total records** · **+19 in the latest addition**
 
 ## Browse the full library
 
-- [Motion graphics](data/categories/motion-graphics.md) (244)
-- [Explainers](data/categories/explainers.md) (46)
-- [3D scenes](data/categories/3d-scenes.md) (24)
-- [Games & interactive](data/categories/games-interactive.md) (46)
+- [Motion graphics](data/categories/motion-graphics.md) (254)
+- [Explainers](data/categories/explainers.md) (48)
+- [3D scenes](data/categories/3d-scenes.md) (27)
+- [Games & interactive](data/categories/games-interactive.md) (50)
 - [How to use a prompt](#how-to-use) · [Credits](#credits)
 
 ## Featured videos + prompts
@@ -66,11 +66,11 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 
 ## Recently added
 
-- [Interactive WebGPU Melon Jelly Simulation](prompts/2104504957173153951.md) — Claude Opus 5.5 generated a self-contained WebGPU/XPBD soft-body 3D watermelon jelly simulation shown in a side-by-side screen recording.
-- [Industrial Hub 30-Second Motion Graphics Video by Claude Opus 5.5](prompts/2104524606841217044.md) — Motion graphics / showreel
-- [Persona 5-Style Hefei Promotional Motion Graphics Video with Claude Opus 5.5](prompts/2104535752373895249.md) — Author created a 2-minute 42-second Persona 5-styled infographic motion graphics promotional video showcasing Hefei's historical background, economic milestones, and industrial development using Claude Opus 5.5.
-- [History of Space Exploration Animated Video](prompts/2104543926644564036.md) — Video covering space exploration milestones generated via code and audio written by Claude Opus 5.5.
-- [Vaporwave Motion Graphics Generated with Opus 5.5 for After Effects](prompts/2104544365901459579.md) — The author used Claude Opus 5.5 with a casual vaporwave prompt to generate layered animation data that was imported into After Effects with layer structures preserved.
+- [《月光小星》- Claude Opus 5.5 动画短片](prompts/2105086526619091374.md) — Animated Story Short
+- [3D Animated Music Video Produced with Claude Opus 5.5 and Blender](prompts/2105091868149354753.md) — 3D Animation / Music Video
+- [One-Shot 3D Motion Graphics Teaser for Location-Based WebXR](prompts/2105100452232577419.md) — Open Source Repo Promo Video
+- [btop-like Live Machine Dashboard Web App](prompts/2105102932114813383.md) — System Monitoring Live Web Dashboard
+- [Autonomous 14-Minute Documentary on Elon Musk Directed and Cut by Claude Opus 5.5](prompts/2105105890936233985.md) — An agentic video production project where Claude Opus 5.5 was prompted with a high-level creative brief to produce a documentary film using archival footage, AI-synthesized narration, classical scoring, and programmatic editing via FFmpeg and Python.
 
 ## Motion graphics — homepage picks
 
@@ -145,7 +145,7 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 </tr>
 </table>
 
-[Browse all 244 motion graphics →](data/categories/motion-graphics.md)
+[Browse all 254 motion graphics →](data/categories/motion-graphics.md)
 
 ## Explainers — homepage picks
 
@@ -192,7 +192,7 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 </tr>
 </table>
 
-[Browse all 46 explainers →](data/categories/explainers.md)
+[Browse all 48 explainers →](data/categories/explainers.md)
 
 ## 3D scenes — homepage picks
 
@@ -227,7 +227,7 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 </tr>
 </table>
 
-[Browse all 24 3d scenes →](data/categories/3d-scenes.md)
+[Browse all 27 3d scenes →](data/categories/3d-scenes.md)
 
 ## Games & interactive — homepage picks
 
@@ -282,17 +282,17 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 </tr>
 </table>
 
-[Browse all 46 games & interactive →](data/categories/games-interactive.md)
+[Browse all 50 games & interactive →](data/categories/games-interactive.md)
 
 <details>
 <summary>Browse by tool</summary>
 
-- [canvas-interactive](data/categories/canvas-interactive.md) — 46
+- [canvas-interactive](data/categories/canvas-interactive.md) — 50
 - [manim](data/categories/manim.md) — 1
 - [remotion](data/categories/remotion.md) — 7
-- [blender](data/categories/blender.md) — 3
-- [external-video-model](data/categories/external-video-model.md) — 1
-- [other-animation](data/categories/other-animation.md) — 302
+- [blender](data/categories/blender.md) — 4
+- [external-video-model](data/categories/external-video-model.md) — 2
+- [other-animation](data/categories/other-animation.md) — 316
 
 </details>
 
