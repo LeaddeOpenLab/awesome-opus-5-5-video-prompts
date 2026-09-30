@@ -3,16 +3,36 @@
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="../../prompts/2105090561023901698.md"><img src="../gifs/2105090561023901698.gif" alt="Three.js 3D Closest to the Pin Golf Game Comparison" width="256" height="144" /></a><br>
+<strong>Three.js 3D Closest to the Pin Golf Game Comparison</strong><br>
+<sub>Use: Interactive demo or playable prototype<br>Inputs: No external assets listed; check the original for prior context.<br>Tools: Three.js</sub><br>
+<sub><a href="https://x.com/Kyler_Lorin/status/2105090561023901698">Original post ↗</a> · <a href="../../prompts/2105090561023901698.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2105086032005726712.md"><img src="../gifs/2105086032005726712.gif" alt="3D Neon City Robot Endless Runner Game" width="256" height="144" /></a><br>
+<strong>3D Neon City Robot Endless Runner Game</strong><br>
+<sub>Use: Interactive demo or playable prototype<br>Inputs: No external assets listed; check the original for prior context.<br>Tools: Claude Code, Web Browser / WebGL</sub><br>
+<sub><a href="https://x.com/aichrislee/status/2105086032005726712">Original post ↗</a> · <a href="../../prompts/2105086032005726712.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2104520072014508316.md"><img src="../gifs/2104520072014508316.gif" alt="Interactive 2D/3D Floor Plan and Interior Design Web Tool" width="256" height="144" /></a><br>
 <strong>Interactive 2D/3D Floor Plan and Interior Design Web Tool</strong><br>
 <sub>Use: Interactive demo or playable prototype<br>Inputs: Floor plan image with millimeter dimension annotations (not supplied)<br>Tools: three.js, HTML/Canvas/JavaScript</sub><br>
 <sub><a href="https://x.com/akokoi1/status/2104520072014508316">Original post ↗</a> · <a href="../../prompts/2104520072014508316.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104514806443303238.md"><img src="../gifs/2104514806443303238.gif" alt="Interactive WebGPU Strawberry Cake Soft-Body Physics" width="256" height="144" /></a><br>
 <strong>Interactive WebGPU Strawberry Cake Soft-Body Physics</strong><br>
 <sub>Use: Interactive demo or playable prototype<br>Inputs: No external assets listed; check the original for prior context.<br>Tools: WebGPU / WGSL, Three.js</sub><br>
 <sub><a href="https://x.com/ImaStudio_ai/status/2104514806443303238">Original post ↗</a> · <a href="../../prompts/2104514806443303238.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2104504957173153951.md"><img src="../gifs/2104504957173153951.gif" alt="Interactive WebGPU Melon Jelly Simulation" width="256" height="144" /></a><br>
+<strong>Interactive WebGPU Melon Jelly Simulation</strong><br>
+<sub>Use: Interactive demo or playable prototype<br>Inputs: No external assets listed; check the original for prior context.<br>Tools: WebGPU / WGSL, JavaScript / HTML Canvas</sub><br>
+<sub><a href="https://x.com/esrhengwu/status/2104504957173153951">Original post ↗</a> · <a href="../../prompts/2104504957173153951.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2104189915693269112.md"><img src="../gifs/2104189915693269112.gif" alt="Interactive Rain Window Calming App" width="256" height="144" /></a><br>
@@ -35,13 +55,19 @@
 <sub><a href="https://x.com/Ror_Fly/status/2102853258582880547">Original post ↗</a> · <a href="../../prompts/2102853258582880547.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2105095134354473053.md"><img src="../gifs/2105095134354473053.gif" alt="3D Character Modeling and Animation Comparison: Dopakichi Mascot" width="256" height="144" /></a><br>
+<strong>3D Character Modeling and Animation Comparison: Dopakichi Mascot</strong><br>
+<sub>Use: Interactive demo or playable prototype<br>Inputs: Reference illustration of Dopadrill's mascot character 'ドパキチ' (Dopakichi) (not supplied)<br>Tools: WebGL / Three.js 3D Renderer</sub><br>
+<sub><a href="https://x.com/grmchn4ai/status/2105095134354473053">Original post ↗</a> · <a href="../../prompts/2105095134354473053.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="../../prompts/2104539335249088582.md"><img src="../gifs/2104539335249088582.gif" alt="Game Boy Tetris Recreation in MONORAL Engine" width="256" height="144" /></a><br>
 <strong>Game Boy Tetris Recreation in MONORAL Engine</strong><br>
 <sub>Use: Interactive demo or playable prototype<br>Inputs: MONORAL engine setup and 3D Game Boy mockup with canvas rendering (not supplied)<br>Tools: MONORAL</sub><br>
 <sub><a href="https://x.com/mickeysmith_jp/status/2104539335249088582">Original post ↗</a> · <a href="../../prompts/2104539335249088582.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104532802486345950.md"><img src="../gifs/2104532802486345950.gif" alt="Interactive 3D Sticker Layer Breakdown Demo" width="256" height="144" /></a><br>
 <strong>Interactive 3D Sticker Layer Breakdown Demo</strong><br>
@@ -54,14 +80,14 @@
 <sub>Use: Interactive demo or playable prototype<br>Inputs: Inputs not fully specified; check the original post.<br>Tools: WebGL / JavaScript</sub><br>
 <sub><a href="https://x.com/konstantinsaifo/status/2104516868182598079">Original post ↗</a> · <a href="../../prompts/2104516868182598079.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104509574409769436.md"><img src="../gifs/2104509574409769436.gif" alt="Three.js 3D Swamp Scene Generated via Opus 5.5" width="256" height="144" /></a><br>
 <strong>Three.js 3D Swamp Scene Generated via Opus 5.5</strong><br>
 <sub>Use: Interactive demo or playable prototype<br>Inputs: Inputs not fully specified; check the original post.<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/chetanankola/status/2104509574409769436">Original post ↗</a> · <a href="../../prompts/2104509574409769436.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104498456626651380.md"><img src="../gifs/2104498456626651380.gif" alt="Microring Resonator Thermal Drift and Controller Simulation" width="256" height="144" /></a><br>
 <strong>Microring Resonator Thermal Drift and Controller Simulation</strong><br>
@@ -74,14 +100,14 @@
 <sub>Use: Interactive demo or playable prototype<br>Inputs: No external assets listed; check the original for prior context.<br>Tools: Web Browser / Web Technologies (HTML/CSS/JS)</sub><br>
 <sub><a href="https://x.com/neco1751662/status/2104485636690584000">Original post ↗</a> · <a href="../../prompts/2104485636690584000.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104467552281952473.md"><img src="../gifs/2104467552281952473.gif" alt="Interactive Flight Simulator Comparison Built by Opus 5.5" width="256" height="144" /></a><br>
 <strong>Interactive Flight Simulator Comparison Built by Opus 5.5</strong><br>
 <sub>Use: Interactive demo or playable prototype<br>Inputs: Inputs not fully specified; check the original post.<br>Tools: Unknown WebGL/3D Canvas Renderer</sub><br>
 <sub><a href="https://x.com/cryptocatguru/status/2104467552281952473">Original post ↗</a> · <a href="../../prompts/2104467552281952473.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104463774862446760.md"><img src="../gifs/2104463774862446760.gif" alt="Interactive Bubble Genre Selection UI in App Development" width="256" height="144" /></a><br>
 <strong>Interactive Bubble Genre Selection UI in App Development</strong><br>
@@ -94,14 +120,14 @@
 <sub>Use: Interactive demo or playable prototype<br>Inputs: Inputs not fully specified; check the original post.<br>Tools: Browser Canvas / WebGL</sub><br>
 <sub><a href="https://x.com/VibeCode_SahilM/status/2104452405144535314">Original post ↗</a> · <a href="../../prompts/2104452405144535314.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104441050211475528.md"><img src="../gifs/2104441050211475528.gif" alt="Opus 5.5 代码逐帧生成动画短片《我只会写字》" width="256" height="144" /></a><br>
 <strong>Opus 5.5 代码逐帧生成动画短片《我只会写字》</strong><br>
 <sub>Use: Interactive demo or playable prototype<br>Inputs: Inputs not fully specified; check the original post.<br>Tools: HTML5 Canvas / JavaScript, MiniMax</sub><br>
 <sub><a href="https://x.com/kokoro_886/status/2104441050211475528">Original post ↗</a> · <a href="../../prompts/2104441050211475528.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104436377546818041.md"><img src="../gifs/2104436377546818041.gif" alt="Interactive 3D Camera Lens Focus Lab" width="256" height="144" /></a><br>
 <strong>Interactive 3D Camera Lens Focus Lab</strong><br>
@@ -114,14 +140,14 @@
 <sub>Use: Interactive demo or playable prototype<br>Inputs: Inputs not fully specified; check the original post.<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/RAJKATAJJ/status/2104434742959755463">Original post ↗</a> · <a href="../../prompts/2104434742959755463.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104421343429312968.md"><img src="../gifs/2104421343429312968.gif" alt="Interactive Explodable Twin-Turbo V12 Engine Explainer" width="256" height="144" /></a><br>
 <strong>Interactive Explodable Twin-Turbo V12 Engine Explainer</strong><br>
 <sub>Use: Interactive demo or playable prototype<br>Inputs: Inputs not fully specified; check the original post.<br>Tools: Web Browser / WebGL Canvas</sub><br>
 <sub><a href="https://x.com/ImperiumMentisX/status/2104421343429312968">Original post ↗</a> · <a href="../../prompts/2104421343429312968.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104420680142082118.md"><img src="../gifs/2104420680142082118.gif" alt="Code-Rendered Generative Music Video for I'm Upping My P(doom)" width="256" height="144" /></a><br>
 <strong>Code-Rendered Generative Music Video for I'm Upping My P(doom)</strong><br>
@@ -134,14 +160,14 @@
 <sub>Use: Interactive demo or playable prototype<br>Inputs: Inputs not fully specified; check the original post.<br>Tools: Web 3D Engine / Browser</sub><br>
 <sub><a href="https://x.com/tiagochilanti/status/2104407040135164032">Original post ↗</a> · <a href="../../prompts/2104407040135164032.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104406088862810533.md"><img src="../gifs/2104406088862810533.gif" alt="Interactive 3D Flight Simulator Game" width="256" height="144" /></a><br>
 <strong>Interactive 3D Flight Simulator Game</strong><br>
 <sub>Use: Interactive demo or playable prototype<br>Inputs: Inputs not fully specified; check the original post.<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ekcheungAI/status/2104406088862810533">Original post ↗</a> · <a href="../../prompts/2104406088862810533.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104212398303543512.md"><img src="../gifs/2104212398303543512.gif" alt="Claude Opus 5.5による動画編集プレビュー・カット承認UIの構築" width="256" height="144" /></a><br>
 <strong>Claude Opus 5.5による動画編集プレビュー・カット承認UIの構築</strong><br>
@@ -154,12 +180,14 @@
 <sub>Use: Interactive demo or playable prototype<br>Inputs: Base sticker graphic assets (e.g. 'You're Absolutely Right', 'TypingMind Motion', 'AGI disco p…<br>Tools: Web Browser / Canvas / WebGL, TypingMind</sub><br>
 <sub><a href="https://x.com/ann_nnng/status/2104159923886244176">Original post ↗</a> · <a href="../../prompts/2104159923886244176.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104094723887501736.md"><img src="../gifs/2104094723887501736.gif" alt="Interactive 3D Raptor 3 Rocket Engine WebGL Model" width="256" height="144" /></a><br>
 <strong>Interactive 3D Raptor 3 Rocket Engine WebGL Model</strong><br>
 <sub>Use: Interactive demo or playable prototype<br>Inputs: Public blueprint information, SpaceX published Raptor 3 specifications (280 tf, 350 s Isp, 350…<br>Tools: Three.js / WebGL</sub><br>
 <sub><a href="https://x.com/konstantinsaifo/status/2104094723887501736">Original post ↗</a> · <a href="../../prompts/2104094723887501736.md">Prompt ↗</a></sub>
-</td>
+</td><td></td><td></td>
 </tr>
 </table>
 

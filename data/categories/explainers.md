@@ -23,6 +23,26 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="../../prompts/2105077598934241383.md"><img src="../gifs/2105077598934241383.gif" alt="Note Article to Explainer Video via Claude Code and HyperFrames" width="256" height="144" /></a><br>
+<strong>Note Article to Explainer Video via Claude Code and HyperFrames</strong><br>
+<sub>Use: Explain a concept or teach a topic<br>Inputs: Source note article written by the author in June (not supplied)<br>Tools: Claude Code, HyperFrames, Free TTS Engine</sub><br>
+<sub><a href="https://x.com/koumei_ai5566/status/2105077598934241383">Original post ↗</a> · <a href="../../prompts/2105077598934241383.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2104554735382778328.md"><img src="../gifs/2104554735382778328.gif" alt="Opus 5.5 Motion Graphics: Chronicle of Two" width="256" height="144" /></a><br>
+<strong>Opus 5.5 Motion Graphics: Chronicle of Two</strong><br>
+<sub>Use: Explain a concept or teach a topic<br>Inputs: Conversation memory of past interactions and history between the user and IO/Claude (not suppl…<br>Tools: Tool setup not specified by the source</sub><br>
+<sub><a href="https://x.com/monya_for_io/status/2104554735382778328">Original post ↗</a> · <a href="../../prompts/2104554735382778328.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2104543926644564036.md"><img src="../gifs/2104543926644564036.gif" alt="History of Space Exploration Animated Video" width="256" height="144" /></a><br>
+<strong>History of Space Exploration Animated Video</strong><br>
+<sub>Use: Explain a concept or teach a topic<br>Inputs: Inputs not fully specified; check the original post.<br>Tools: Code execution environment</sub><br>
+<sub><a href="https://x.com/0xSarthak/status/2104543926644564036">Original post ↗</a> · <a href="../../prompts/2104543926644564036.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="../../prompts/2104525804604645802.md"><img src="../gifs/2104525804604645802.gif" alt="History of Internet Money Code Animation" width="256" height="144" /></a><br>
 <strong>History of Internet Money Code Animation</strong><br>
 <sub>Use: Explain a concept or teach a topic<br>Inputs: No external assets listed; check the original for prior context.<br>Tools: Code execution renderer</sub><br>

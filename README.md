@@ -2,15 +2,15 @@
 
 **Claude Opus 5.5 video prompts, organized by what you want to make.** Browse motion graphics, explainers, 3D showcases and interactive demos.
 Save this library to find a useful result, copy the creator’s public prompt, and see the inputs and tools needed to start.
-**32 homepage picks** · **341 browsable video + prompt pairs** · Original creator links on every card.
-**Latest addition: 2026-09-28** · **341 total records** · **+19 in the latest addition**
+**32 homepage picks** · **360 browsable video + prompt pairs** · Original creator links on every card.
+**Latest addition: 2026-09-30** · **360 total records** · **+19 in the latest addition**
 
 ## Browse the full library
 
-- [Motion graphics](data/categories/motion-graphics.md) (224)
-- [Explainers](data/categories/explainers.md) (44)
-- [3D scenes](data/categories/3d-scenes.md) (30)
-- [Games & interactive](data/categories/games-interactive.md) (43)
+- [Motion graphics](data/categories/motion-graphics.md) (234)
+- [Explainers](data/categories/explainers.md) (47)
+- [3D scenes](data/categories/3d-scenes.md) (32)
+- [Games & interactive](data/categories/games-interactive.md) (47)
 - [How to use a prompt](#how-to-use) · [Credits](#credits)
 
 ## Featured videos + prompts
@@ -66,11 +66,11 @@ make a dynamic 15-second motion graphics video that shows what an incredible mot
 
 ## Recently added
 
-- [Interactive Rain Window Calming App](prompts/2104189915693269112.md) — Interactive demo or playable prototype
-- [Beauty of Physics One-Shot Animation via Claude Code and Opus 5.5](prompts/2104200939095904322.md) — Motion reel, title sequence or social clip
-- [Claude Opus 5.5による動画編集プレビュー・カット承認UIの構築](prompts/2104212398303543512.md) — Interactive demo or playable prototype
-- [Opus 5.5 Future of Human-AI Relationship Animation](prompts/2104213206629572779.md) — Motion reel, title sequence or social clip
-- [Promotional Motion Graphics Video for EDteam via Single Prompt in Claude Opus 5.5](prompts/2104219468079526187.md) — Product launch or brand promo
+- [Interactive WebGPU Melon Jelly Simulation](prompts/2104504957173153951.md) — Interactive demo or playable prototype
+- [Industrial Hub 30-Second Motion Graphics Video by Claude Opus 5.5](prompts/2104524606841217044.md) — Product launch or brand promo
+- [Persona 5-Style Hefei Promotional Motion Graphics Video with Claude Opus 5.5](prompts/2104535752373895249.md) — Product launch or brand promo
+- [History of Space Exploration Animated Video](prompts/2104543926644564036.md) — Explain a concept or teach a topic
+- [Vaporwave Motion Graphics Generated with Opus 5.5 for After Effects](prompts/2104544365901459579.md) — Motion reel, title sequence or social clip
 
 ## Motion graphics — homepage picks
 
@@ -131,7 +131,7 @@ make a dynamic 15-second motion graphics video that shows what an incredible mot
 </tr>
 </table>
 
-[Browse all 224 motion graphics →](data/categories/motion-graphics.md)
+[Browse all 234 motion graphics →](data/categories/motion-graphics.md)
 
 ## Explainers — homepage picks
 
@@ -186,7 +186,7 @@ make a dynamic 15-second motion graphics video that shows what an incredible mot
 </tr>
 </table>
 
-[Browse all 44 explainers →](data/categories/explainers.md)
+[Browse all 47 explainers →](data/categories/explainers.md)
 
 ## 3D scenes — homepage picks
 
@@ -241,7 +241,7 @@ make a dynamic 15-second motion graphics video that shows what an incredible mot
 </tr>
 </table>
 
-[Browse all 30 3d scenes →](data/categories/3d-scenes.md)
+[Browse all 32 3d scenes →](data/categories/3d-scenes.md)
 
 ## Games & interactive — homepage picks
 
@@ -274,39 +274,39 @@ make a dynamic 15-second motion graphics video that shows what an incredible mot
 <sub><a href="https://x.com/aisongman/status/2103763192971461057">Original post ↗</a> · <a href="prompts/2103763192971461057.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2104520072014508316.md"><img src="data/gifs/2104520072014508316.gif" alt="Interactive 2D/3D Floor Plan and Interior Design Web Tool" width="256" height="144" /></a><br>
-<strong>Interactive 2D/3D Floor Plan and Interior Design Web Tool</strong><br>
-<sub>Use: Interactive demo or playable prototype<br>Inputs: Floor plan image with millimeter dimension annotations (not supplied)<br>Tools: three.js, HTML/Canvas/JavaScript</sub><br>
-<sub><a href="https://x.com/akokoi1/status/2104520072014508316">Original post ↗</a> · <a href="prompts/2104520072014508316.md">Prompt ↗</a></sub>
+<a href="prompts/2105090561023901698.md"><img src="data/gifs/2105090561023901698.gif" alt="Three.js 3D Closest to the Pin Golf Game Comparison" width="256" height="144" /></a><br>
+<strong>Three.js 3D Closest to the Pin Golf Game Comparison</strong><br>
+<sub>Use: Interactive demo or playable prototype<br>Inputs: No external assets listed; check the original for prior context.<br>Tools: Three.js</sub><br>
+<sub><a href="https://x.com/Kyler_Lorin/status/2105090561023901698">Original post ↗</a> · <a href="prompts/2105090561023901698.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2104514806443303238.md"><img src="data/gifs/2104514806443303238.gif" alt="Interactive WebGPU Strawberry Cake Soft-Body Physics" width="256" height="144" /></a><br>
-<strong>Interactive WebGPU Strawberry Cake Soft-Body Physics</strong><br>
-<sub>Use: Interactive demo or playable prototype<br>Inputs: No external assets listed; check the original for prior context.<br>Tools: WebGPU / WGSL, Three.js</sub><br>
-<sub><a href="https://x.com/ImaStudio_ai/status/2104514806443303238">Original post ↗</a> · <a href="prompts/2104514806443303238.md">Prompt ↗</a></sub>
+<a href="prompts/2105086032005726712.md"><img src="data/gifs/2105086032005726712.gif" alt="3D Neon City Robot Endless Runner Game" width="256" height="144" /></a><br>
+<strong>3D Neon City Robot Endless Runner Game</strong><br>
+<sub>Use: Interactive demo or playable prototype<br>Inputs: No external assets listed; check the original for prior context.<br>Tools: Claude Code, Web Browser / WebGL</sub><br>
+<sub><a href="https://x.com/aichrislee/status/2105086032005726712">Original post ↗</a> · <a href="prompts/2105086032005726712.md">Prompt ↗</a></sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="prompts/2104189915693269112.md"><img src="data/gifs/2104189915693269112.gif" alt="Interactive Rain Window Calming App" width="256" height="144" /></a><br>
-<strong>Interactive Rain Window Calming App</strong><br>
-<sub>Use: Interactive demo or playable prototype<br>Inputs: No external assets listed; check the original for prior context.<br>Tools: Claude Artifacts</sub><br>
-<sub><a href="https://x.com/d_llm_kr/status/2104189915693269112">Original post ↗</a> · <a href="prompts/2104189915693269112.md">Prompt ↗</a></sub>
+<a href="prompts/2104520072014508316.md"><img src="data/gifs/2104520072014508316.gif" alt="Interactive 2D/3D Floor Plan and Interior Design Web Tool" width="256" height="144" /></a><br>
+<strong>Interactive 2D/3D Floor Plan and Interior Design Web Tool</strong><br>
+<sub>Use: Interactive demo or playable prototype<br>Inputs: Floor plan image with millimeter dimension annotations (not supplied)<br>Tools: three.js, HTML/Canvas/JavaScript</sub><br>
+<sub><a href="https://x.com/akokoi1/status/2104520072014508316">Original post ↗</a> · <a href="prompts/2104520072014508316.md">Prompt ↗</a></sub>
 </td><td></td><td></td>
 </tr>
 </table>
 
-[Browse all 43 games & interactive →](data/categories/games-interactive.md)
+[Browse all 47 games & interactive →](data/categories/games-interactive.md)
 
 <details>
 <summary>Browse by tool</summary>
 
-- [canvas-interactive](data/categories/canvas-interactive.md) — 24
+- [canvas-interactive](data/categories/canvas-interactive.md) — 28
 - [manim](data/categories/manim.md) — 0
 - [remotion](data/categories/remotion.md) — 5
 - [blender](data/categories/blender.md) — 2
-- [external-video-model](data/categories/external-video-model.md) — 3
-- [other-animation](data/categories/other-animation.md) — 63
+- [external-video-model](data/categories/external-video-model.md) — 4
+- [other-animation](data/categories/other-animation.md) — 77
 
 </details>
 
