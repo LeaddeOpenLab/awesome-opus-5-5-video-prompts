@@ -3,11 +3,25 @@
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="../../prompts/2108501256067285443.md"><img src="../gifs/2108501256067285443.gif" alt="Interactive Honey Keyboard Simulation" width="256" height="144" /></a><br>
+<strong>Interactive Honey Keyboard Simulation</strong><br>
+<sub>Use: Interactive 3D Honey Keyboard<br>Inputs: User inputs not specified by the author<br>Tools: HTML/WebGL</sub><br>
+<sub><a href="https://x.com/keydol123/status/2108501256067285443">Original post ↗</a> · <a href="../../prompts/2108501256067285443.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2108486895344767283.md"><img src="../gifs/2108486895344767283.gif" alt="Interactive WebGPU Plush Hammerhead Shark" width="256" height="144" /></a><br>
+<strong>Interactive WebGPU Plush Hammerhead Shark</strong><br>
+<sub>Use: Interactive WebGPU Plush Toy Simulation<br>Inputs: User inputs not specified by the author<br>Tools: WebGPU</sub><br>
+<sub><a href="https://x.com/vib3coded/status/2108486895344767283">Original post ↗</a> · <a href="../../prompts/2108486895344767283.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2105190658701201725.md"><img src="../gifs/2105190658701201725.gif" alt="Squid Jelly: Interactive 3D WebGPU Gummy Squid Simulation" width="256" height="144" /></a><br>
 <strong>Squid Jelly: Interactive 3D WebGPU Gummy Squid Simulation</strong><br>
 <sub>Use: Interactive 3D WebGPU Gummy Squid Simulation<br>Inputs: User inputs not specified by the author<br>Tools: WebGPU / WGSL</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2105190658701201725">Original post ↗</a> · <a href="../../prompts/2105190658701201725.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2105090561023901698.md"><img src="../gifs/2105090561023901698.gif" alt="Three.js 3D Closest to the Pin Golf Game Comparison" width="256" height="144" /></a><br>
 <strong>Three.js 3D Closest to the Pin Golf Game Comparison</strong><br>
@@ -20,14 +34,14 @@
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/aichrislee/status/2105086032005726712">Original post ↗</a> · <a href="../../prompts/2105086032005726712.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2105051697525686340.md"><img src="../gifs/2105051697525686340.gif" alt="FLIP CLASH Game UI Redesign with Blender Backgrounds" width="256" height="144" /></a><br>
 <strong>FLIP CLASH Game UI Redesign with Blender Backgrounds</strong><br>
 <sub>Use: Game UI Redesign &amp; 3D Backgrounds<br>Inputs: FLIP CLASH game source code and original settings interface<br>Tools: Blender</sub><br>
 <sub><a href="https://x.com/hii_studio_jp/status/2105051697525686340">Original post ↗</a> · <a href="../../prompts/2105051697525686340.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104920915112829231.md"><img src="../gifs/2104920915112829231.gif" alt="Bodycam FPS 'Fogline' Built with Three.js and Web Shaders" width="256" height="144" /></a><br>
 <strong>Bodycam FPS 'Fogline' Built with Three.js and Web Shaders</strong><br>
@@ -40,14 +54,14 @@
 <sub>Use: Interactive floor-plan design tool<br>Inputs: Floor plan image with millimeter dimension annotations<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/akokoi1/status/2104520072014508316">Original post ↗</a> · <a href="../../prompts/2104520072014508316.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104514806443303238.md"><img src="../gifs/2104514806443303238.gif" alt="Interactive WebGPU Strawberry Cake Soft-Body Physics" width="256" height="144" /></a><br>
 <strong>Interactive WebGPU Strawberry Cake Soft-Body Physics</strong><br>
 <sub>Use: Interactive soft-body physics demo<br>Inputs: No external assets required by the prompt<br>Tools: WebGPU / WGSL</sub><br>
 <sub><a href="https://x.com/ImaStudio_ai/status/2104514806443303238">Original post ↗</a> · <a href="../../prompts/2104514806443303238.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104504957173153951.md"><img src="../gifs/2104504957173153951.gif" alt="Interactive WebGPU Melon Jelly Simulation" width="256" height="144" /></a><br>
 <strong>Interactive WebGPU Melon Jelly Simulation</strong><br>
@@ -60,13 +74,19 @@
 <sub>Use: Calming rain interaction<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/d_llm_kr/status/2104189915693269112">Original post ↗</a> · <a href="../../prompts/2104189915693269112.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103802923465768972.md"><img src="../gifs/2103802923465768972.gif" alt="Vincent's Cats: 3D Starry Night Game" width="256" height="144" /></a><br>
 <strong>Vincent's Cats: 3D Starry Night Game</strong><br>
 <sub>Use: 3D exploration game / hidden cats<br>Inputs: User inputs not specified by the author<br>Tools: Claude Code</sub><br>
 <sub><a href="https://x.com/MandelDuck/status/2103802923465768972">Original post ↗</a> · <a href="../../prompts/2103802923465768972.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2108514670411907296.md"><img src="../gifs/2108514670411907296.gif" alt="Interactive Jelly Koi Pond Simulation with Physics" width="256" height="144" /></a><br>
+<strong>Interactive Jelly Koi Pond Simulation with Physics</strong><br>
+<sub>Use: Interactive Jelly Koi Pond Simulation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
+<sub><a href="https://x.com/zyroxxx111/status/2108514670411907296">Original post ↗</a> · <a href="../../prompts/2108514670411907296.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2105160746363662816.md"><img src="../gifs/2105160746363662816.gif" alt="Span Nine Space Racing Game Evolution" width="256" height="144" /></a><br>

@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T11:58:05.628Z",
+  "model": "opus5.5",
+  "prompt": "dude, make a motion for criptobr, don't make mistakes",
+  "promptTranslations": {
+    "en": "dude, make a motion for criptobr, don't make mistakes"
+  },
+  "summary": "Author showcases a high-energy promotional motion graphics video for criptobr.net created using a prompt sent to Claude Opus 5.5.",
+  "summaryEn": "CriptoBR Promotional Motion Graphics",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108226554740289897",
+    "canonicalUrl": "https://x.com/olivrweb3/status/2108226554740289897",
+    "author": {
+      "username": "olivrweb3",
+      "displayName": "olivrweb3",
+      "profileUrl": "https://x.com/olivrweb3"
+    },
+    "publishedAt": "2026-10-08T16:02:34.000Z",
+    "collectedAt": "2026-10-09T11:14:23.213Z",
+    "language": "pt",
+    "originalText": "Hoje todo mundo tá falando de GPT-6 e Haiku 5.5. \n\nMandei assim pro opus 5.5: cara, faça um motion pra criptobr, nao cometa falhas\n\n= isso aqui \n\nficou muito bom https://t.co/cFfZNRG7sE",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/olivrweb3/status/2108226554740289897",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108225398815223808/img/wjrCW4zgwO4arSu8.jpg",
+        "analysisUrl": "https://x.com/olivrweb3/status/2108226554740289897"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 22
+    },
+    "matchedRuleIds": [
+      "group:opus:pt:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/olivrweb3/status/2108226554740289897",
+        "text": "olivrweb3 on X: \"Hoje todo mundo tá falando de GPT-6 e Haiku 5.5. \n\nMandei assim pro opus 5.5: cara, faça um motion pra criptobr, nao cometa falhas\n\n= isso aqui \n\nficou muito bom\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nolivrweb3 on X: \"Hoje todo mundo tá falando de GPT-6 e Haiku 5.5. \n\nMandei assim pro opus 5.5: cara, faça um motion pra criptobr, nao cometa falhas\n\n= isso aqui \n\nficou muito bom\"\n\n\n\nolivrweb3\n\n@olivrweb3\n\n\n\n\nShow translation\nHoje todo mundo tá falando de GPT-6 e Haiku 5.5. \n\nMandei assim pro opus 5.5: cara, faça um motion pra criptobr, nao cometa falhas\n\n= isso aqui \n\nficou muito bom\n\n\n00:00\n\n\n\n\n\n\n\n\n4:02 PM · Oct 8, 2026·22\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nolivrweb3@olivrweb3Follow\nEx CM: @floki @tinyworldgamefi @lumiterragame | @maestrobots Ambassador | Blockchain maximalist since 2020 \n\nLOYALTY IS EVERYTHING\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nolivrweb3\n\n@olivrweb3\n\n\n\n\nShow translation\nHoje todo mundo tá falando de GPT-6 e Haiku 5.5. \n\nMandei assim pro opus 5.5: cara, faça um motion pra criptobr, nao cometa falhas\n\n= isso aqui \n\nficou muito bom\n\n\n00:00\n\n\n\n\n\n\n\n\n4:02 PM · Oct 8, 2026·22\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "olivrweb3"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/olivrweb3/status/2108226554740289897",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108225398815223808/img/wjrCW4zgwO4arSu8.jpg",
+  "coverPath": "data/covers/2108226554740289897-wide.jpg",
+  "gifPath": "data/gifs/2108226554740289897.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108225398815223808",
+    "x-post:2108226554740289897"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "CriptoBR Promotional Motion Graphics",
+      "summary": "Author showcases a high-energy promotional motion graphics video for criptobr.net created using a prompt sent to Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Mandei assim pro opus 5.5: cara, faça um motion pra criptobr, nao cometa falhas"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "cara, faça um motion pra criptobr, nao cometa falhas",
+        "englishText": "dude, make a motion for criptobr, don't make mistakes",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "motion graphics framework or code (e.g. Remotion, Canvas, After Effects script)",
+          "asset generation instructions and reference images (golden bull, 3D coin, UI mockups)",
+          "soundtrack and timing synchronization parameters"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The 15-second video presents kinetic typography, metric tickers, 3D splash renders of a golden bull and Bitcoin coin, and branded UI elements for criptobr.net.",
+        "textualResultQuote": "= isso aqui \n\nficou muito bom"
+      },
+      "inputs": [
+        {
+          "kind": "image",
+          "description": "Rendered golden bull and splashing liquid asset",
+          "available": false,
+          "evidence": "Appears prominently throughout the video at 00:01 and 00:07.",
+          "origin": "unknown"
+        },
+        {
+          "kind": "audio",
+          "description": "Background electronic beat soundtrack",
+          "available": false,
+          "evidence": "Audible in the video playback.",
+          "origin": "unknown"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Motion Graphics Engine",
+          "role": "Execution and rendering of the animated video components",
+          "evidence": "Inferred from the motion output format; author does not specify the exact framework used (e.g., Remotion, Canvas, or external compositor).",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Crypto Brand Motion Promo",
+        "topic": "motion-graphics",
+        "tags": [
+          "crypto",
+          "kinetic-typography",
+          "branding",
+          "promo"
+        ]
+      },
+      "targetModelRole": "Motion design planning and code generation",
+      "outputSource": "Rendered motion graphics video",
+      "divisionEvidence": "The author prompted Claude Opus 5.5 ('faça um motion pra criptobr') while the resulting output was rendered into video format using external graphic assets and execution tooling.",
+      "video": {
+        "shots": "Fast-paced multi-scene sequence with kinetic text, animated data counters, news card transitions, and central 3D hero assets",
+        "duration": "00:15",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic video motion graphics showcase demonstrating Claude Opus 5.5 workflow with verbatim prompt excerpt and complete video media.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/olivrweb3/status/2108226554740289897",
+        "start": 78,
+        "end": 130
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/olivrweb3/status/2108226554740289897",
+        "author": "olivrweb3",
+        "postId": "2108226554740289897",
+        "publishedAt": "2026-10-08T16:02:34.000Z"
+      },
+      "checkedAt": "2026-10-09T11:43:16.731Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/olivrweb3/status/2108226554740289897",
+        "evidence": ""
+      }
+    },
+    "summary": "Author showcases a high-energy promotional motion graphics video for criptobr.net created using a prompt sent to Claude Opus 5.5.",
+    "summaryEn": "CriptoBR Promotional Motion Graphics",
+    "originalPrompt": "cara, faça um motion pra criptobr, nao cometa falhas",
+    "sourceRange": {
+      "start": 78,
+      "end": 130
+    },
+    "translations": {
+      "zh": "cara, faça um motion pra criptobr, nao cometa falhas",
+      "en": "dude, make a motion for criptobr, don't make mistakes"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Crypto Brand Motion Promo",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "motion graphics framework or code (e.g. Remotion, Canvas, After Effects script)",
+        "asset generation instructions and reference images (golden bull, 3D coin, UI mockups)",
+        "soundtrack and timing synchronization parameters"
+      ],
+      "evidence": "The 15-second video presents kinetic typography, metric tickers, 3D splash renders of a golden bull and Bitcoin coin, and branded UI elements for criptobr.net."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

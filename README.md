@@ -2,15 +2,15 @@
 
 **Claude Opus 5.5 video prompts, organized by what you want to make.** Browse motion graphics, explainers, 3D showcases and interactive demos.
 Save this library to find a useful result, copy the creator’s public prompt, and see the inputs and tools needed to start.
-**30 homepage picks** · **417 browsable video + prompt pairs** · Original creator links on every card.
-**Latest addition: 2026-10-09** · **417 total records** · **+19 in the latest addition**
+**30 homepage picks** · **436 browsable video + prompt pairs** · Original creator links on every card.
+**Latest addition: 2026-10-09** · **436 total records** · **+19 in the latest addition**
 
 ## Browse the full library
 
-- [Motion graphics](data/categories/motion-graphics.md) (269)
-- [Explainers](data/categories/explainers.md) (60)
-- [3D scenes](data/categories/3d-scenes.md) (32)
-- [Games & interactive](data/categories/games-interactive.md) (56)
+- [Motion graphics](data/categories/motion-graphics.md) (276)
+- [Explainers](data/categories/explainers.md) (62)
+- [3D scenes](data/categories/3d-scenes.md) (39)
+- [Games & interactive](data/categories/games-interactive.md) (59)
 - [How to use a prompt](#how-to-use) · [Credits](#credits)
 
 ## Featured videos + prompts
@@ -66,11 +66,11 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 
 ## Recently added
 
-- [Dynamic Product Motion Graphics Showreel](prompts/2105034298483220849.md) — Product Motion Graphics Showreel
-- [Batch Merch 3D Clothes Rack Interactive Portfolio](prompts/2104999693113766152.md) — Interactive 3D Merch Portfolio
-- [FLIP CLASH Game UI Redesign with Blender Backgrounds](prompts/2105051697525686340.md) — Game UI Redesign & 3D Backgrounds
-- [Carvuk 30-Second Motion Graphics Explainer](prompts/2105064666904813711.md) — Product Explainer Motion Graphics
-- [Explainer Animation on AI Chat vs Agents Generated with Claude Opus 5.5](prompts/2104893606679253047.md) — AI Concepts Explainer Animation
+- [Bragly Review Widgets Feature Teaser Video](prompts/2108478302625071205.md) — Product Feature Teaser Video
+- [Paper Planes Motion Design Showreel Comparison](prompts/2105208251956830625.md) — Paper Planes Motion Design Showreel
+- [Interactive 3D Eiffel Tower Scene in Browser](prompts/2108490153467478249.md) — Interactive 3D Eiffel Tower Scene
+- [Procedural 3D Elephant with Three.js](prompts/2108511286795640926.md) — Procedural 3D Elephant Scene
+- [Rawnd App Promotional Motion Graphics Video with Claude Opus 5.5](prompts/2108511993955065948.md) — Product Explainer Motion Graphics
 
 ## Motion graphics — homepage picks
 
@@ -145,7 +145,7 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 </tr>
 </table>
 
-[Browse all 269 motion graphics →](data/categories/motion-graphics.md)
+[Browse all 276 motion graphics →](data/categories/motion-graphics.md)
 
 ## Explainers — homepage picks
 
@@ -192,7 +192,7 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 </tr>
 </table>
 
-[Browse all 60 explainers →](data/categories/explainers.md)
+[Browse all 62 explainers →](data/categories/explainers.md)
 
 ## 3D scenes — homepage picks
 
@@ -227,7 +227,7 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 </tr>
 </table>
 
-[Browse all 32 3d scenes →](data/categories/3d-scenes.md)
+[Browse all 39 3d scenes →](data/categories/3d-scenes.md)
 
 ## Games & interactive — homepage picks
 
@@ -282,17 +282,17 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 </tr>
 </table>
 
-[Browse all 56 games & interactive →](data/categories/games-interactive.md)
+[Browse all 59 games & interactive →](data/categories/games-interactive.md)
 
 <details>
 <summary>Browse by tool</summary>
 
-- [canvas-interactive](data/categories/canvas-interactive.md) — 56
+- [canvas-interactive](data/categories/canvas-interactive.md) — 59
 - [manim](data/categories/manim.md) — 2
 - [remotion](data/categories/remotion.md) — 9
-- [blender](data/categories/blender.md) — 6
-- [external-video-model](data/categories/external-video-model.md) — 2
-- [other-animation](data/categories/other-animation.md) — 344
+- [blender](data/categories/blender.md) — 7
+- [external-video-model](data/categories/external-video-model.md) — 3
+- [other-animation](data/categories/other-animation.md) — 358
 
 </details>
 
