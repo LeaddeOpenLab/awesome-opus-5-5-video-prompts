@@ -3,6 +3,12 @@
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="../../prompts/2104953406708175097.md"><img src="../gifs/2104953406708175097.gif" alt="Procedural Rube Goldberg Machine via Blender MCP" width="256" height="144" /></a><br>
+<strong>Procedural Rube Goldberg Machine via Blender MCP</strong><br>
+<sub>Use: Procedural Rube Goldberg Machine in Blender<br>Inputs: User inputs not specified by the author<br>Tools: Blender / Blender MCP / Cursor</sub><br>
+<sub><a href="https://x.com/Kwazikot/status/2104953406708175097">Original post ↗</a> · <a href="../../prompts/2104953406708175097.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2104909723443302770.md"><img src="../gifs/2104909723443302770.gif" alt="Continuous Zoom from Pencil Tip to Carbon Atom in Three.js" width="256" height="144" /></a><br>
 <strong>Continuous Zoom from Pencil Tip to Carbon Atom in Three.js</strong><br>
 <sub>Use: Continuous Macro Zoom Explainer<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
@@ -14,20 +20,28 @@
 <sub>Use: Interactive 3D Particle Morphing System<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 Canvas API / Three.js</sub><br>
 <sub><a href="https://x.com/DaisyDiao2/status/2104827632538022154">Original post ↗</a> · <a href="../../prompts/2104827632538022154.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104788406656184436.md"><img src="../gifs/2104788406656184436.gif" alt="The Beauty of Three.js Showcase Video" width="256" height="144" /></a><br>
 <strong>The Beauty of Three.js Showcase Video</strong><br>
 <sub>Use: Three.js Cinematic Feature Reel<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/yupengfei990919/status/2104788406656184436">Original post ↗</a> · <a href="../../prompts/2104788406656184436.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104471436039803295.md"><img src="../gifs/2104471436039803295.gif" alt="Three.js 15s 3D Motion Graphics" width="256" height="144" /></a><br>
 <strong>Three.js 15s 3D Motion Graphics</strong><br>
 <sub>Use: 3D motion graphics / website hero<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/hiro19_k/status/2104471436039803295">Original post ↗</a> · <a href="../../prompts/2104471436039803295.md">Prompt ↗</a></sub>
 </td>
+<td width="33%" valign="top">
+<a href="../../prompts/2105193450467389763.md"><img src="../gifs/2105193450467389763.gif" alt="Dracula Chapter 1 3D Scene Recreation with Three.js" width="256" height="144" /></a><br>
+<strong>Dracula Chapter 1 3D Scene Recreation with Three.js</strong><br>
+<sub>Use: Literary 3D Narrative Animation<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
+<sub><a href="https://x.com/original_ngv/status/2105193450467389763">Original post ↗</a> · <a href="../../prompts/2105193450467389763.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2105100907952353560.md"><img src="../gifs/2105100907952353560.gif" alt="Stained-Glass Maple Leaf 3D Animation Comparison: GPT 6.1 SOL vs Opus 5.5" width="256" height="144" /></a><br>
 <strong>Stained-Glass Maple Leaf 3D Animation Comparison: GPT 6.1 SOL vs…</strong><br>
@@ -39,6 +53,12 @@
 <strong>3D Animated Music Video Produced and Blender</strong><br>
 <sub>Use: 3D Animation / Music Video<br>Inputs: Original musical composition created by the author; Storyboards and directorial instructions created by the author<br>Tools: Blender / three.js</sub><br>
 <sub><a href="https://x.com/LugiAXETomXV/status/2105091868149354753">Original post ↗</a> · <a href="../../prompts/2105091868149354753.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2105049523139850561.md"><img src="../gifs/2105049523139850561.gif" alt="NASA Mars Canyon Flight Simulation" width="256" height="144" /></a><br>
+<strong>NASA Mars Canyon Flight Simulation</strong><br>
+<sub>Use: Mars Canyon Procedural Flight<br>Inputs: User inputs not specified by the author<br>Tools: Claude Code / ffmpeg / Gemini 3.8 Flash TTS / Playwright / Three.js / whisper</sub><br>
+<sub><a href="https://x.com/Mochi_AGI/status/2105049523139850561">Original post ↗</a> · <a href="../../prompts/2105049523139850561.md">Prompt ↗</a></sub>
 </td>
 </tr>
 <tr>

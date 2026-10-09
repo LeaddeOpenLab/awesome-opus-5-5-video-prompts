@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T11:10:43.382Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 15-20-second motion graphics video that shows what an incredible motion designer you are for the [SEU REPO/SITE/PRODUTO/APP] product, like it's your showreel for a résumé. go all out",
+  "promptTranslations": {
+    "en": "make a dynamic 15-20-second motion graphics video that shows what an incredible motion designer you are for the [SEU REPO/SITE/PRODUTO/APP] product, like it's your showreel for a résumé. go all out"
+  },
+  "summary": "The author shares a dynamic 17-second motion graphics showreel for a recycling app (GOLT) generated via Claude Opus 5.5, along with the prompt template used.",
+  "summaryEn": "Dynamic Product Motion Graphics Showreel",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2105034298483220849",
+    "canonicalUrl": "https://x.com/greco_dev/status/2105034298483220849",
+    "author": {
+      "username": "greco_dev",
+      "displayName": "greco",
+      "profileUrl": "https://x.com/greco_dev"
+    },
+    "publishedAt": "2026-09-29T20:37:41.000Z",
+    "collectedAt": "2026-09-30T08:22:51.245Z",
+    "language": "pt",
+    "originalText": "motion designer morreu\n\neu to literalmente em choque com o opus 5.5\n\nobv alguns detalhes a melhorar, mas pqp que absurdo https://t.co/tol1O3BNtW",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/greco_dev/status/2105034298483220849",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2105034279918948353/img/e_RLE5jNuP1dzDV8.jpg",
+        "analysisUrl": "https://x.com/greco_dev/status/2105034298483220849"
+      }
+    ],
+    "metrics": {
+      "likeCount": 15,
+      "repostCount": 3,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 979
+    },
+    "matchedRuleIds": [
+      "group:opus:pt:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/greco_dev/status/2105134902202990860",
+        "text": "@leandrorr kkkkkkkk parsa sim bgl 1 ano atras era impossível de fazer sem ter conhecimento agora ate uma porta igual eu faz pqp",
+        "author": "greco_dev"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/greco_dev/status/2105124875908390968",
+        "text": "@gabztodaro eu literalmente so mandei isso aqui no opus 5.5:\n\nmake a dynamic 15-20-second motion graphics video that shows what an incredible motion designer you are for the [SEU REPO/SITE/PRODUTO/APP] product, like it's your showreel for a résumé. go all out",
+        "author": "greco_dev"
+      },
+      {
+        "url": "https://x.com/greco_dev/status/2105034298483220849",
+        "text": "greco on X: \"motion designer morreu\n\neu to literalmente em choque com o opus 5.5\n\nobv alguns detalhes a melhorar, mas pqp que absurdo\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\ngreco on X: \"motion designer morreu\n\neu to literalmente em choque com o opus 5.5\n\nobv alguns detalhes a melhorar, mas pqp que absurdo\"\n\n\n\ngreco\n\n@greco_dev\n\n\n\n\nShow translation\nmotion designer morreu\n\neu to literalmente em choque com o opus 5.5\n\nobv alguns detalhes a melhorar, mas pqp que absurdo\n\n\n00:00\n\n\n\n\n\n\n\n\n8:37 PM · Sep 29, 2026·980\nViews\n\n\n\n3\n3\n15\n7\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\ngreco@greco_devFollow\ndata engineer 🇧🇷\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngreco\n\n@greco_dev\n\n\n\n\nShow translation\nmotion designer morreu\n\neu to literalmente em choque com o opus 5.5\n\nobv alguns detalhes a melhorar, mas pqp que absurdo\n\n\n00:00\n\n\n\n\n\n\n\n\n8:37 PM · Sep 29, 2026·980\nViews\n\n\n\n3\n3\n15\n7\n\n\n\n\n\n\n\n\n\nGuts from Dark\n\n@leandrorr\n6h\n\n\nmotion designers neste momento:\n\n\n\n\n\n\n\n1\n\n1\n31\n\n\n\n\n\n\n\n\n\n\n\nln -s \"Marcos Lima\" ~/skvggor\n@skvggor\n5h\n\n\nSai tudo \"igual\". Só de olhar já sei que foi no Claude.\n\n(semana toda vendo galera gringa na área de dev fazendo tutoriais)\n\n\n\n\n\n16\n\n\n\n\n\n\n\n\n\n\n\ngabz → ctrlavana.app\n\n@gabztodaro\n10h\n\n\nTu que fez? Com o Opus?\n\nMe explica?\n\n\n2\n\n\n78\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "greco_dev"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/greco_dev/status/2105034298483220849",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2105034279918948353/img/e_RLE5jNuP1dzDV8.jpg",
+  "coverPath": "data/covers/2105034298483220849-wide.jpg",
+  "gifPath": "data/gifs/2105034298483220849.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2105034279918948353",
+    "x-post:2105034298483220849"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Dynamic Product Motion Graphics Showreel",
+      "summary": "The author shares a dynamic 17-second motion graphics showreel for a recycling app (GOLT) generated via Claude Opus 5.5, along with the prompt template used.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "\"eu to literalmente em choque com o opus 5.5\" and \"eu literalmente so mandei isso aqui no opus 5.5\""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a dynamic 15-20-second motion graphics video that shows what an incredible motion designer you are for the [SEU REPO/SITE/PRODUTO/APP] product, like it's your showreel for a résumé. go all out",
+        "englishText": "make a dynamic 15-20-second motion graphics video that shows what an incredible motion designer you are for the [SEU REPO/SITE/PRODUTO/APP] product, like it's your showreel for a résumé. go all out",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Specific product details, copy, and UI assets for GOLT replacing the placeholder [SEU REPO/SITE/PRODUTO/APP]",
+          "Target rendering framework and execution environment setup"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 17-second video displays a high-tempo, multi-scene motion graphics showreel for the GOLT recycling app matching the requested 15-20 second duration and dynamic showreel style.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "product_context",
+          "description": "Product repository, website, or UI details for GOLT used to replace the template placeholder",
+          "available": false,
+          "evidence": "\"[SEU REPO/SITE/PRODUTO/APP]\"",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/greco_dev/status/2105124875908390968"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Animation Code Renderer",
+          "role": "Renders programmatic motion graphics code generated by Claude into video frames",
+          "evidence": "make a dynamic 15-20-second motion graphics video that shows what an incredible motion designer you are",
+          "sourceUrl": "https://x.com/greco_dev/status/2105124875908390968",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Product Motion Graphics Showreel",
+        "topic": "motion-graphics",
+        "tags": [
+          "motion-graphics",
+          "showreel",
+          "product-demo",
+          "kinetic-typography",
+          "ui-animation"
+        ]
+      },
+      "targetModelRole": "Generates code and animation logic for the multi-scene motion graphics showreel",
+      "outputSource": "External execution and rendering of animation code written by Claude Opus 5.5",
+      "divisionEvidence": "\"eu literalmente so mandei isso aqui no opus 5.5: make a dynamic 15-20-second motion graphics video...\"",
+      "video": {
+        "shots": "Six distinct scenes: manifesto title, statistical data infographics, brand typography, app UI walkthroughs, custody chain tracker, and final logo reveal",
+        "duration": "17s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Authentic showcase of Claude Opus 5.5 generating a high-quality 17-second dynamic motion graphics showreel with video media and original prompt template shared.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/greco_dev/status/2105124875908390968",
+        "start": 62,
+        "end": 259
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/greco_dev/status/2105034298483220849",
+        "author": "greco_dev",
+        "postId": "2105034298483220849",
+        "publishedAt": "2026-09-29T20:37:41.000Z"
+      },
+      "checkedAt": "2026-09-30T09:26:06.084Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/greco_dev/status/2105124875908390968",
+        "evidence": ""
+      }
+    },
+    "summary": "The author shares a dynamic 17-second motion graphics showreel for a recycling app (GOLT) generated via Claude Opus 5.5, along with the prompt template used.",
+    "summaryEn": "Dynamic Product Motion Graphics Showreel",
+    "originalPrompt": "make a dynamic 15-20-second motion graphics video that shows what an incredible motion designer you are for the [SEU REPO/SITE/PRODUTO/APP] product, like it's your showreel for a résumé. go all out",
+    "sourceRange": {
+      "start": 62,
+      "end": 259
+    },
+    "translations": {
+      "zh": "make a dynamic 15-20-second motion graphics video that shows what an incredible motion designer you are for the [SEU REPO/SITE/PRODUTO/APP] product, like it's your showreel for a résumé. go all out",
+      "en": "make a dynamic 15-20-second motion graphics video that shows what an incredible motion designer you are for the [SEU REPO/SITE/PRODUTO/APP] product, like it's your showreel for a résumé. go all out"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Product Motion Graphics Showreel",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Specific product details, copy, and UI assets for GOLT replacing the placeholder [SEU REPO/SITE/PRODUTO/APP]",
+        "Target rendering framework and execution environment setup"
+      ],
+      "evidence": "The attached 17-second video displays a high-tempo, multi-scene motion graphics showreel for the GOLT recycling app matching the requested 15-20 second duration and dynamic showreel style."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
