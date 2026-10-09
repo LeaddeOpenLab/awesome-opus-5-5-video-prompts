@@ -29,6 +29,26 @@
 <sub><a href="https://x.com/maker_evan/status/2108459952683811167">Original post ↗</a> · <a href="../../prompts/2108459952683811167.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2108438685184401904.md"><img src="../gifs/2108438685184401904.gif" alt="Smartwatch ORBIT Cinematic 3D Product Reveal Film in Three.js" width="256" height="144" /></a><br>
+<strong>Smartwatch ORBIT Cinematic 3D Product Reveal Film in Three.js</strong><br>
+<sub>Use: Smartwatch Product Reveal Film<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
+<sub><a href="https://x.com/maker_evan/status/2108438685184401904">Original post ↗</a> · <a href="../../prompts/2108438685184401904.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2108384651362394407.md"><img src="../gifs/2108384651362394407.gif" alt="Tesseract: Six Universes, One Box (HTML5 3D Shader Demo)" width="256" height="144" /></a><br>
+<strong>Tesseract: Six Universes, One Box (HTML5 3D Shader Demo)</strong><br>
+<sub>Use: Tesseract 3D Shader Illusion<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 / WebGL</sub><br>
+<sub><a href="https://x.com/TragoBuilds/status/2108384651362394407">Original post ↗</a> · <a href="../../prompts/2108384651362394407.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2108347412636938609.md"><img src="../gifs/2108347412636938609.gif" alt="Interactive 3D Saturn V Rocket Cutaway in Three.js" width="256" height="144" /></a><br>
+<strong>Interactive 3D Saturn V Rocket Cutaway in Three.js</strong><br>
+<sub>Use: Interactive 3D Saturn V rocket exploded view<br>Inputs: User inputs not specified by the author<br>Tools: Claude Code / Three.js</sub><br>
+<sub><a href="https://x.com/aichrislee/status/2108347412636938609">Original post ↗</a> · <a href="../../prompts/2108347412636938609.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2108230699224596746.md"><img src="../gifs/2108230699224596746.gif" alt="Mountainside Car Chase Previs" width="256" height="144" /></a><br>
 <strong>Mountainside Car Chase Previs</strong><br>
 <sub>Use: Car Chase Previs<br>Inputs: User inputs not specified by the author<br>Tools: Blender / Blender MCP</sub><br>
