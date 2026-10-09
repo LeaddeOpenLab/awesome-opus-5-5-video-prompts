@@ -2,15 +2,15 @@
 
 **Claude Opus 5.5 video prompts, organized by what you want to make.** Browse motion graphics, explainers, 3D showcases and interactive demos.
 Save this library to find a useful result, copy the creator’s public prompt, and see the inputs and tools needed to start.
-**30 homepage picks** · **474 browsable video + prompt pairs** · Original creator links on every card.
-**Latest addition: 2026-10-09** · **474 total records** · **+19 in the latest addition**
+**30 homepage picks** · **489 browsable video + prompt pairs** · Original creator links on every card.
+**Latest addition: 2026-10-09** · **489 total records** · **+15 in the latest addition**
 
 ## Browse the full library
 
-- [Motion graphics](data/categories/motion-graphics.md) (290)
+- [Motion graphics](data/categories/motion-graphics.md) (298)
 - [Explainers](data/categories/explainers.md) (65)
-- [3D scenes](data/categories/3d-scenes.md) (48)
-- [Games & interactive](data/categories/games-interactive.md) (71)
+- [3D scenes](data/categories/3d-scenes.md) (49)
+- [Games & interactive](data/categories/games-interactive.md) (77)
 - [How to use a prompt](#how-to-use) · [Credits](#credits)
 
 ## Featured videos + prompts
@@ -66,11 +66,11 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 
 ## Recently added
 
-- [Code-Based Anime Video Assembly and Post-Processing](prompts/2108361488130023466.md) — Programmatic Video Assembly
-- [Relay SaaS App Launch Video](prompts/2108333562462408823.md) — SaaS Product Launch Motion Graphics
-- [Interactive Fall Foliage Simulator Comparison: Claude Opus 5.5 vs GPT-6 Astra](prompts/2108520350908916007.md) — Fall Foliage Interactive Browser Simulator
-- [Night Monster](prompts/2108218235468325374.md) — Cinematic horror creature reveal scene
-- [Interactive 3D Coral Reef Diorama Simulation](prompts/2108218949808656725.md) — Interactive 3D Coral Reef Diorama
+- [Higgsfield Katana Preset Orchestration with Opus 5.5](prompts/2108484647713984755.md) — AI Music Video Orchestration
+- [Skyhold: 3D Procedural Sky Island Balance Game Built with Three.js](prompts/2108495368585371666.md) — Interactive 3D Sky Island Balance Game
+- [Seamless Morphing UI Motion Design](prompts/2108432616558879016.md) — Seamless Morphing Motion Graphics
+- [Hraunheim: Interactive 3D Lava River and Volcano in Three.js](prompts/2108311732376453546.md) — Interactive 3D Lava River and Gnome Habitat in Three.js
+- [Interactive MacBook Keyboard with Key Sounds and Split-Flap Animation](prompts/2108400811411996801.md) — Interactive Animated Keyboard
 
 ## Motion graphics — homepage picks
 
@@ -145,7 +145,7 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 </tr>
 </table>
 
-[Browse all 290 motion graphics →](data/categories/motion-graphics.md)
+[Browse all 298 motion graphics →](data/categories/motion-graphics.md)
 
 ## Explainers — homepage picks
 
@@ -227,7 +227,7 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 </tr>
 </table>
 
-[Browse all 48 3d scenes →](data/categories/3d-scenes.md)
+[Browse all 49 3d scenes →](data/categories/3d-scenes.md)
 
 ## Games & interactive — homepage picks
 
@@ -282,17 +282,17 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 </tr>
 </table>
 
-[Browse all 71 games & interactive →](data/categories/games-interactive.md)
+[Browse all 77 games & interactive →](data/categories/games-interactive.md)
 
 <details>
 <summary>Browse by tool</summary>
 
-- [canvas-interactive](data/categories/canvas-interactive.md) — 71
+- [canvas-interactive](data/categories/canvas-interactive.md) — 77
 - [manim](data/categories/manim.md) — 2
 - [remotion](data/categories/remotion.md) — 10
 - [blender](data/categories/blender.md) — 7
-- [external-video-model](data/categories/external-video-model.md) — 4
-- [other-animation](data/categories/other-animation.md) — 382
+- [external-video-model](data/categories/external-video-model.md) — 5
+- [other-animation](data/categories/other-animation.md) — 390
 
 </details>
 

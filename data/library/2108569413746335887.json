@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T20:09:28.673Z",
+  "model": "opus5.5",
+  "prompt": "You are a frontend design and motion design expert with top-tier aesthetic taste. Please design a 20-second flash video with a strong sense of musical rhythm to introduce the concept of **quantum mechanics**, utilizing rich motion design techniques (such as typography, graphic transformations, 3D, particles, fluid morphing, color transitions, data charts, etc.). The content should primarily be in English, with proper nouns accompanied by Chinese translations.",
+  "promptTranslations": {
+    "en": "You are a frontend design and motion design expert with top-tier aesthetic taste. Please design a 20-second flash video with a strong sense of musical rhythm to introduce the concept of **quantum mechanics**, utilizing rich motion design techniques (such as typography, graphic transformations, 3D, particles, fluid morphing, color transitions, data charts, etc.). The content should primarily be in English, with proper nouns accompanied by Chinese translations."
+  },
+  "summary": "A 20-second rhythmic kinetic typography and scientific motion graphics explainer about quantum mechanics, generated using Claude Opus 5.5 frontend animation instructions.",
+  "summaryEn": "Quantum Mechanics Kinetic Typography Explainer",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108569413746335887",
+    "canonicalUrl": "https://x.com/YuanXi901019/status/2108569413746335887",
+    "author": {
+      "username": "YuanXi901019",
+      "displayName": "拜托嫄小姐",
+      "profileUrl": "https://x.com/YuanXi901019"
+    },
+    "publishedAt": "2026-10-09T14:44:58.000Z",
+    "collectedAt": "2026-10-09T18:05:23.524Z",
+    "language": "zh",
+    "originalText": "Opus 5.5通用版快闪视频提示词\n提示词：你是一位拥有顶级审美的前端设计和动效设计专家，请设计一段 20秒的极具音乐律动感的快闪视频，介绍一下**量子力学**这一概念，运用丰富的动效技巧(比如：文字排版、图形变换、3D、粒子、流体形变、色彩变换、数据图表等)。内容主用英文，专有名词带上中文译名。 https://t.co/achkXDZkNi",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/YuanXi901019/status/2108569413746335887",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108568545248567296/img/_c-TYGfgUEuELhLw.jpg",
+        "analysisUrl": "https://x.com/YuanXi901019/status/2108569413746335887"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 101
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Top:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/YuanXi901019/status/2108569413746335887",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108568545248567296/img/_c-TYGfgUEuELhLw.jpg",
+  "coverPath": "data/covers/2108569413746335887-wide.jpg",
+  "gifPath": "data/gifs/2108569413746335887.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108568545248567296",
+    "x-post:2108569413746335887"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Quantum Mechanics Kinetic Typography Explainer",
+      "summary": "A 20-second rhythmic kinetic typography and scientific motion graphics explainer about quantum mechanics, generated using Claude Opus 5.5 frontend animation instructions.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5通用版快闪视频提示词"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "你是一位拥有顶级审美的前端设计和动效设计专家，请设计一段 20秒的极具音乐律动感的快闪视频，介绍一下**量子力学**这一概念，运用丰富的动效技巧(比如：文字排版、图形变换、3D、粒子、流体形变、色彩变换、数据图表等)。内容主用英文，专有名词带上中文译名。",
+        "englishText": "You are a frontend design and motion design expert with top-tier aesthetic taste. Please design a 20-second flash video with a strong sense of musical rhythm to introduce the concept of **quantum mechanics**, utilizing rich motion design techniques (such as typography, graphic transformations, 3D, particles, fluid morphing, color transitions, data charts, etc.). The content should primarily be in English, with proper nouns accompanied by Chinese translations.",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Target rendering framework or frontend code environment (e.g., Canvas, WebGL, CSS, Remotion)",
+          "Audio track and synchronization configuration"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The 20-second video demonstrates an 11-part rhythmic kinetic typography sequence explaining quantum mechanics concepts (Quantization, Wave-Particle Duality, Double-Slit, Superposition, Uncertainty Principle, Entanglement, Quantum Tunneling, Transistors, Quantum Computers) using bilingual titles, particle animations, dynamic data charts, and 3D wireframe visuals exactly as requested.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Frontend Animation Engine",
+          "role": "Renders the web-based kinetic typography, graphics, and particle animations",
+          "evidence": "你是一位拥有顶级审美的前端设计和动效设计专家",
+          "status": "inferred",
+          "sourceUrl": "https://x.com/YuanXi901019/status/2108569413746335887"
+        }
+      ],
+      "purpose": {
+        "label": "Quantum Mechanics Kinetic Typography Explainer",
+        "topic": "motion-graphics",
+        "tags": [
+          "kinetic-typography",
+          "motion-graphics",
+          "quantum-mechanics",
+          "explainer",
+          "frontend-animation"
+        ]
+      },
+      "targetModelRole": "Acts as the frontend design and motion design expert to structure the 20-second sequence and generate the animation code/parameters.",
+      "outputSource": "Web frontend or creative coding canvas rendered to video.",
+      "divisionEvidence": "The prompt addresses Claude Opus 5.5 as a '前端设计和动效设计专家' (frontend design and motion design expert) to specify layout, transitions, and timing for a 20-second kinetic video.",
+      "video": {
+        "shots": "11 sequential animated slides/sections detailing quantum mechanics concepts",
+        "duration": "20s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Directly provides the verbatim author prompt and corresponding 20-second video result showcasing Claude Opus 5.5 for kinetic motion graphics video production.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/YuanXi901019/status/2108569413746335887",
+        "start": 23,
+        "end": 150
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/YuanXi901019/status/2108569413746335887",
+        "author": "YuanXi901019",
+        "postId": "2108569413746335887",
+        "publishedAt": "2026-10-09T14:44:58.000Z"
+      },
+      "checkedAt": "2026-10-09T16:53:58.272Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/YuanXi901019/status/2108569413746335887",
+        "evidence": ""
+      }
+    },
+    "summary": "A 20-second rhythmic kinetic typography and scientific motion graphics explainer about quantum mechanics, generated using Claude Opus 5.5 frontend animation instructions.",
+    "summaryEn": "Quantum Mechanics Kinetic Typography Explainer",
+    "originalPrompt": "你是一位拥有顶级审美的前端设计和动效设计专家，请设计一段 20秒的极具音乐律动感的快闪视频，介绍一下**量子力学**这一概念，运用丰富的动效技巧(比如：文字排版、图形变换、3D、粒子、流体形变、色彩变换、数据图表等)。内容主用英文，专有名词带上中文译名。",
+    "sourceRange": {
+      "start": 23,
+      "end": 150
+    },
+    "translations": {
+      "zh": "你是一位拥有顶级审美的前端设计和动效设计专家，请设计一段 20秒的极具音乐律动感的快闪视频，介绍一下**量子力学**这一概念，运用丰富的动效技巧(比如：文字排版、图形变换、3D、粒子、流体形变、色彩变换、数据图表等)。内容主用英文，专有名词带上中文译名。",
+      "en": "You are a frontend design and motion design expert with top-tier aesthetic taste. Please design a 20-second flash video with a strong sense of musical rhythm to introduce the concept of **quantum mechanics**, utilizing rich motion design techniques (such as typography, graphic transformations, 3D, particles, fluid morphing, color transitions, data charts, etc.). The content should primarily be in English, with proper nouns accompanied by Chinese translations."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Quantum Mechanics Kinetic Typography Explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Target rendering framework or frontend code environment (e.g., Canvas, WebGL, CSS, Remotion)",
+        "Audio track and synchronization configuration"
+      ],
+      "evidence": "The 20-second video demonstrates an 11-part rhythmic kinetic typography sequence explaining quantum mechanics concepts (Quantization, Wave-Particle Duality, Double-Slit, Superposition, Uncertainty Principle, Entanglement, Quantum Tunneling, Transistors, Quantum Computers) using bilingual titles, particle animations, dynamic data charts, and 3D wireframe visuals exactly as requested."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T20:09:29.428Z",
+  "model": "opus5.5",
+  "prompt": "You are a front-end design and motion design expert with top-tier aesthetics. Centering on the concept of \"Video as Code\", design a 15-second fast-paced kinetic video with video content in English.",
+  "promptTranslations": {
+    "en": "You are a front-end design and motion design expert with top-tier aesthetics. Centering on the concept of \"Video as Code\", design a 15-second fast-paced kinetic video with video content in English."
+  },
+  "summary": "拜托嫄小姐 shares an Opus 5.5 prompt to design a 15-second kinetic typography promo on the concept of 'Video as Code', realized through Remotion.",
+  "summaryEn": "Video as Code 15-Second Kinetic Typography with Remotion",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108570435575222596",
+    "canonicalUrl": "https://x.com/YuanXi901019/status/2108570435575222596",
+    "author": {
+      "username": "YuanXi901019",
+      "displayName": "拜托嫄小姐",
+      "profileUrl": "https://x.com/YuanXi901019"
+    },
+    "publishedAt": "2026-10-09T14:49:01.000Z",
+    "collectedAt": "2026-10-09T18:05:23.524Z",
+    "language": "zh",
+    "originalText": "Opus 5.5宣告视频即代码的时代到来\n自从它来了之后，以前积累的视觉规范、积累的动效词典，现在看起来像小儿科似的  \n\n提示词：你是一位拥有顶级审美的前端设计和动效设计专家，围绕“Video as Code”这一理念，设计一段 15秒的快闪视频，视频内容用英文。 https://t.co/g2IJTrdHxX",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/YuanXi901019/status/2108570435575222596",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108569669716332546/img/3BDbcfC1lDLO5w5g.jpg",
+        "analysisUrl": "https://x.com/YuanXi901019/status/2108570435575222596"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 67
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Top:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/YuanXi901019/status/2108570435575222596",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108569669716332546/img/3BDbcfC1lDLO5w5g.jpg",
+  "coverPath": "data/covers/2108570435575222596-wide.jpg",
+  "gifPath": "data/gifs/2108570435575222596.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108569669716332546",
+    "x-post:2108570435575222596"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Video as Code 15-Second Kinetic Typography with Remotion",
+      "summary": "拜托嫄小姐 shares an Opus 5.5 prompt to design a 15-second kinetic typography promo on the concept of 'Video as Code', realized through Remotion.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5宣告视频即代码的时代到来"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "你是一位拥有顶级审美的前端设计和动效设计专家，围绕“Video as Code”这一理念，设计一段 15秒的快闪视频，视频内容用英文。",
+        "englishText": "You are a front-end design and motion design expert with top-tier aesthetics. Centering on the concept of \"Video as Code\", design a 15-second fast-paced kinetic video with video content in English.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The 15-second video (450 frames at 30fps) delivers an English kinetic typography and code-driven motion sequence showcasing Remotion code, React components, and the 'Video as Code' concept.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Remotion",
+          "role": "React-based programmatic video rendering framework",
+          "evidence": "Visible in the video: 'const frame = useCurrentFrame();' and '$ npx remotion render'",
+          "sourceUrl": "https://x.com/YuanXi901019/status/2108570435575222596",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Video as Code Kinetic Typography Promo",
+        "topic": "motion-graphics",
+        "tags": [
+          "remotion",
+          "video-as-code",
+          "kinetic-typography",
+          "react",
+          "motion-design"
+        ]
+      },
+      "targetModelRole": "Code and motion graphic design generation",
+      "outputSource": "Remotion execution / rendering pipeline",
+      "divisionEvidence": "Author specifies the prompt for Opus 5.5 to design the 15-second video, and the resulting screen output displays Remotion code components rendered into a synchronized video.",
+      "video": {
+        "shots": "Multi-scene kinetic typography sequence with code editor mockups and graphic title cards",
+        "duration": "15s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "remotion",
+      "suitable": true,
+      "reason": "Complete original prompt for Opus 5.5 targeting code-driven motion graphics with matching video output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/YuanXi901019/status/2108570435575222596",
+        "start": 66,
+        "end": 133
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/YuanXi901019/status/2108570435575222596",
+        "author": "YuanXi901019",
+        "postId": "2108570435575222596",
+        "publishedAt": "2026-10-09T14:49:01.000Z"
+      },
+      "checkedAt": "2026-10-09T16:53:59.103Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/YuanXi901019/status/2108570435575222596",
+        "evidence": ""
+      }
+    },
+    "summary": "拜托嫄小姐 shares an Opus 5.5 prompt to design a 15-second kinetic typography promo on the concept of 'Video as Code', realized through Remotion.",
+    "summaryEn": "Video as Code 15-Second Kinetic Typography with Remotion",
+    "originalPrompt": "你是一位拥有顶级审美的前端设计和动效设计专家，围绕“Video as Code”这一理念，设计一段 15秒的快闪视频，视频内容用英文。",
+    "sourceRange": {
+      "start": 66,
+      "end": 133
+    },
+    "translations": {
+      "zh": "你是一位拥有顶级审美的前端设计和动效设计专家，围绕“Video as Code”这一理念，设计一段 15秒的快闪视频，视频内容用英文。",
+      "en": "You are a front-end design and motion design expert with top-tier aesthetics. Centering on the concept of \"Video as Code\", design a 15-second fast-paced kinetic video with video content in English."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "remotion",
+    "useCase": "Video as Code Kinetic Typography Promo",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The 15-second video (450 frames at 30fps) delivers an English kinetic typography and code-driven motion sequence showcasing Remotion code, React components, and the 'Video as Code' concept."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
