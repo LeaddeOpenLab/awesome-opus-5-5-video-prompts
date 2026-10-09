@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-09T15:55:42.817Z",
+  "model": "opus5.5",
+  "prompt": "Make something",
+  "promptTranslations": {
+    "en": "Make something"
+  },
+  "summary": "A creative coding demonstration created with Claude Opus 5.5 and Three.js, transitioning through a glowing cube, voxel terrains, organic morphing blobs, and a procedural galaxy simulation.",
+  "summaryEn": "Generative 3D Morphing Scenes with Claude Opus 5.5 and Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108547315971793119",
+    "canonicalUrl": "https://x.com/narukijima/status/2108547315971793119",
+    "author": {
+      "username": "narukijima",
+      "displayName": "Naru Kijima",
+      "profileUrl": "https://x.com/narukijima"
+    },
+    "publishedAt": "2026-10-09T13:17:09.000Z",
+    "collectedAt": "2026-10-09T13:41:12.340Z",
+    "language": "ja",
+    "originalText": "なにか作って — made with Claude Opus 5.5 × Three.js https://t.co/bGuTaKJr6F",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/narukijima/status/2108547315971793119",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108546900811227136/img/mWE8EmTxq4nZ9PZ1.jpg",
+        "analysisUrl": "https://x.com/narukijima/status/2108547315971793119"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 16
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Top:backfill24h"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/narukijima/status/2108547315971793119",
+        "text": "Naru Kijima on X: \"なにか作って — made with Claude Opus 5.5 × Three.js\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nNaru Kijima on X: \"なにか作って — made with Claude Opus 5.5 × Three.js\"\n\n\n\nNaru Kijima\n\n@narukijima\n\n\n\n\nなにか作って — made with Claude Opus 5.5 × Three.js\n\n\n00:00\n\n\n\n\n\n\n\n\n1:17 PM · Oct 9, 2026·19\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nNaru Kijima@narukijimaFollow\n革命家。最近はAIを使って、研究・開発・事業・創作の自動化を中心にやっています。\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNaru Kijima\n\n@narukijima\n\n\n\n\nなにか作って — made with Claude Opus 5.5 × Three.js\n\n\n00:00\n\n\n\n\n\n\n\n\n1:17 PM · Oct 9, 2026·19\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "narukijima"
+      }
+    ],
+    "sourceMaterialErrors": []
+  },
+  "xUrl": "https://x.com/narukijima/status/2108547315971793119",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108546900811227136/img/mWE8EmTxq4nZ9PZ1.jpg",
+  "coverPath": "data/covers/2108547315971793119-wide.jpg",
+  "gifPath": "data/gifs/2108547315971793119.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108546900811227136/vid/avc1/480x270/Dnkq9ahb0k3qmFso.mp4?tag=29",
+    "x-video:2108546900811227136",
+    "x-post:2108547315971793119"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Generative 3D Morphing Scenes with Claude Opus 5.5 and Three.js",
+      "summary": "A creative coding demonstration created with Claude Opus 5.5 and Three.js, transitioning through a glowing cube, voxel terrains, organic morphing blobs, and a procedural galaxy simulation.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "made with Claude Opus 5.5 × Three.js"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "なにか作って",
+        "englishText": "Make something",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full Claude Opus 5.5 code generation instructions or system prompt",
+          "Three.js implementation source code and project configuration"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video demonstrates the terminal prompt '> なにか作って' generating dynamic Three.js visual transitions including expanding voxels, dynamic wave planes, an iridescent pulsating sphere, and an orbiting particle galaxy, followed by '> もうちょっと小さく' collapsing to a point and displaying 'make something.' (Evaluated on the lower bitrate preview version).",
+        "textualResultQuote": "完成しました。\nmake something."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "WebGL 3D graphics rendering and animation engine",
+          "evidence": "made with Claude Opus 5.5 × Three.js",
+          "sourceUrl": "https://x.com/narukijima/status/2108547315971793119",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Generative 3D Visual Morphing",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "generative-art",
+          "creative-coding",
+          "voxel",
+          "procedural-animation"
+        ]
+      },
+      "targetModelRole": "Code generation and procedural animation orchestration for Three.js scenes",
+      "outputSource": "Three.js WebGL canvas rendering",
+      "divisionEvidence": "Author credits 'made with Claude Opus 5.5 × Three.js', separating the generative LLM agent from the Three.js rendering library.",
+      "video": {
+        "shots": "Continuous multi-stage transition across geometric, landscape, organic, and cosmic scenes",
+        "duration": "45s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic author showcase of Claude Opus 5.5 generating procedural 3D motion scenes in Three.js, accompanied by a full video recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/narukijima/status/2108547315971793119",
+        "start": 0,
+        "end": 6
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/narukijima/status/2108547315971793119",
+        "author": "narukijima",
+        "postId": "2108547315971793119",
+        "publishedAt": "2026-10-09T13:17:09.000Z"
+      },
+      "checkedAt": "2026-10-09T14:32:52.554Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/narukijima/status/2108547315971793119",
+        "evidence": ""
+      }
+    },
+    "summary": "A creative coding demonstration created with Claude Opus 5.5 and Three.js, transitioning through a glowing cube, voxel terrains, organic morphing blobs, and a procedural galaxy simulation.",
+    "summaryEn": "Generative 3D Morphing Scenes with Claude Opus 5.5 and Three.js",
+    "originalPrompt": "なにか作って",
+    "sourceRange": {
+      "start": 0,
+      "end": 6
+    },
+    "translations": {
+      "zh": "なにか作って",
+      "en": "Make something"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Generative 3D Visual Morphing",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full Claude Opus 5.5 code generation instructions or system prompt",
+        "Three.js implementation source code and project configuration"
+      ],
+      "evidence": "The video demonstrates the terminal prompt '> なにか作って' generating dynamic Three.js visual transitions including expanding voxels, dynamic wave planes, an iridescent pulsating sphere, and an orbiting particle galaxy, followed by '> もうちょっと小さく' collapsing to a point and displaying 'make something.' (Evaluated on the lower bitrate preview version)."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -3,6 +3,12 @@
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="../../prompts/2108552389871444113.md"><img src="../gifs/2108552389871444113.gif" alt="Airplane Landing 3D Animation Benchmark" width="256" height="144" /></a><br>
+<strong>Airplane Landing 3D Animation Benchmark</strong><br>
+<sub>Use: Airplane Landing Animation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
+<sub><a href="https://x.com/sebmoska/status/2108552389871444113">Original post ↗</a> · <a href="../../prompts/2108552389871444113.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2108512810774802657.md"><img src="../gifs/2108512810774802657.gif" alt="Cinematic F1 Pit Stop in Three.js" width="256" height="144" /></a><br>
 <strong>Cinematic F1 Pit Stop in Three.js</strong><br>
 <sub>Use: Cinematic 3D F1 Pit Stop<br>Inputs: User inputs not specified by the author<br>Tools: Claude Haiku 5.5 / Three.js</sub><br>
@@ -14,14 +20,14 @@
 <sub>Use: Interactive 3D Eiffel Tower Scene<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/maker_evan/status/2108490153467478249">Original post ↗</a> · <a href="../../prompts/2108490153467478249.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108475056082850278.md"><img src="../gifs/2108475056082850278.gif" alt="AH-64E Apache Guardian Interactive 3D Presentation" width="256" height="144" /></a><br>
 <strong>AH-64E Apache Guardian Interactive 3D Presentation</strong><br>
 <sub>Use: AH-64E Apache Guardian 3D Presentation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/maker_evan/status/2108475056082850278">Original post ↗</a> · <a href="../../prompts/2108475056082850278.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108459952683811167.md"><img src="../gifs/2108459952683811167.gif" alt="Interactive Educational 3D Jet Engine in the Browser" width="256" height="144" /></a><br>
 <strong>Interactive Educational 3D Jet Engine in the Browser</strong><br>
@@ -34,14 +40,14 @@
 <sub>Use: Smartwatch Product Reveal Film<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/maker_evan/status/2108438685184401904">Original post ↗</a> · <a href="../../prompts/2108438685184401904.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108384651362394407.md"><img src="../gifs/2108384651362394407.gif" alt="Tesseract: Six Universes, One Box (HTML5 3D Shader Demo)" width="256" height="144" /></a><br>
 <strong>Tesseract: Six Universes, One Box (HTML5 3D Shader Demo)</strong><br>
 <sub>Use: Tesseract 3D Shader Illusion<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 / WebGL</sub><br>
 <sub><a href="https://x.com/TragoBuilds/status/2108384651362394407">Original post ↗</a> · <a href="../../prompts/2108384651362394407.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108347412636938609.md"><img src="../gifs/2108347412636938609.gif" alt="Interactive 3D Saturn V Rocket Cutaway in Three.js" width="256" height="144" /></a><br>
 <strong>Interactive 3D Saturn V Rocket Cutaway in Three.js</strong><br>
@@ -54,14 +60,14 @@
 <sub>Use: Car Chase Previs<br>Inputs: User inputs not specified by the author<br>Tools: Blender / Blender MCP</sub><br>
 <sub><a href="https://x.com/tonysurix/status/2108230699224596746">Original post ↗</a> · <a href="../../prompts/2108230699224596746.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104953406708175097.md"><img src="../gifs/2104953406708175097.gif" alt="Procedural Rube Goldberg Machine via Blender MCP" width="256" height="144" /></a><br>
 <strong>Procedural Rube Goldberg Machine via Blender MCP</strong><br>
 <sub>Use: Procedural Rube Goldberg Machine in Blender<br>Inputs: User inputs not specified by the author<br>Tools: Blender / Blender MCP / Cursor</sub><br>
 <sub><a href="https://x.com/Kwazikot/status/2104953406708175097">Original post ↗</a> · <a href="../../prompts/2104953406708175097.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104909723443302770.md"><img src="../gifs/2104909723443302770.gif" alt="Continuous Zoom from Pencil Tip to Carbon Atom in Three.js" width="256" height="144" /></a><br>
 <strong>Continuous Zoom from Pencil Tip to Carbon Atom in Three.js</strong><br>
@@ -74,19 +80,33 @@
 <sub>Use: Interactive 3D Particle Morphing System<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 Canvas API / Three.js</sub><br>
 <sub><a href="https://x.com/DaisyDiao2/status/2104827632538022154">Original post ↗</a> · <a href="../../prompts/2104827632538022154.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104788406656184436.md"><img src="../gifs/2104788406656184436.gif" alt="The Beauty of Three.js Showcase Video" width="256" height="144" /></a><br>
 <strong>The Beauty of Three.js Showcase Video</strong><br>
 <sub>Use: Three.js Cinematic Feature Reel<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/yupengfei990919/status/2104788406656184436">Original post ↗</a> · <a href="../../prompts/2104788406656184436.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104471436039803295.md"><img src="../gifs/2104471436039803295.gif" alt="Three.js 15s 3D Motion Graphics" width="256" height="144" /></a><br>
 <strong>Three.js 15s 3D Motion Graphics</strong><br>
 <sub>Use: 3D motion graphics / website hero<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/hiro19_k/status/2104471436039803295">Original post ↗</a> · <a href="../../prompts/2104471436039803295.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2108547315971793119.md"><img src="../gifs/2108547315971793119.gif" alt="Generative 3D Morphing Scenes with Claude Opus 5.5 and Three.js" width="256" height="144" /></a><br>
+<strong>Generative 3D Morphing Scenes and Three.js</strong><br>
+<sub>Use: Generative 3D Visual Morphing<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
+<sub><a href="https://x.com/narukijima/status/2108547315971793119">Original post ↗</a> · <a href="../../prompts/2108547315971793119.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2108537908583919966.md"><img src="../gifs/2108537908583919966.gif" alt="GPT-6 Astra vs Claude Opus 5.5 Video Lighting Comparison" width="256" height="144" /></a><br>
+<strong>GPT-6 Astra vs Claude Opus 5.5 Video Lighting Comparison</strong><br>
+<sub>Use: Cinematic Scene Lighting and Video Generation Comparison<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
+<sub><a href="https://x.com/kinderlayer/status/2108537908583919966">Original post ↗</a> · <a href="../../prompts/2108537908583919966.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2108511286795640926.md"><img src="../gifs/2108511286795640926.gif" alt="Procedural 3D Elephant with Three.js" width="256" height="144" /></a><br>
@@ -95,10 +115,30 @@
 <sub><a href="https://x.com/Thusatharan/status/2108511286795640926">Original post ↗</a> · <a href="../../prompts/2108511286795640926.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2108301527483838465.md"><img src="../gifs/2108301527483838465.gif" alt="Interactive 3D Liquid-Cooled AI Hall Concept in Three.js" width="256" height="144" /></a><br>
+<strong>Interactive 3D Liquid-Cooled AI Hall Concept in Three.js</strong><br>
+<sub>Use: Data Center Infrastructure 3D Walkthrough<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
+<sub><a href="https://x.com/Solvaix/status/2108301527483838465">Original post ↗</a> · <a href="../../prompts/2108301527483838465.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="../../prompts/2108301452384870600.md"><img src="../gifs/2108301452384870600.gif" alt="Interactive WebGL Lava Lamp in Single HTML File" width="256" height="144" /></a><br>
 <strong>Interactive WebGL Lava Lamp in Single HTML File</strong><br>
 <sub>Use: Interactive WebGL Lava Lamp Simulation<br>Inputs: User inputs not specified by the author<br>Tools: Google Chrome / WebGL</sub><br>
 <sub><a href="https://x.com/juancarlos17626/status/2108301452384870600">Original post ↗</a> · <a href="../../prompts/2108301452384870600.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2108289170871582851.md"><img src="../gifs/2108289170871582851.gif" alt="F1 Pit Stop Procedural Three.js Animation with Claude Opus 5.5 Orchestration" width="256" height="144" /></a><br>
+<strong>F1 Pit Stop Procedural Three.js Animation Orchestration</strong><br>
+<sub>Use: Procedural 3D F1 Pit Stop Animation<br>Inputs: User inputs not specified by the author<br>Tools: Claude Haiku 5.5 / Three.js</sub><br>
+<sub><a href="https://x.com/rubenssoto_ai/status/2108289170871582851">Original post ↗</a> · <a href="../../prompts/2108289170871582851.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2108218235468325374.md"><img src="../gifs/2108218235468325374.gif" alt="Night Monster" width="256" height="144" /></a><br>
+<strong>Night Monster</strong><br>
+<sub>Use: Cinematic horror creature reveal scene<br>Inputs: User inputs not specified by the author<br>Tools: Claude Opus 5.5 / Higgsfield / Seedance 2.5</sub><br>
+<sub><a href="https://x.com/MadMax_Series/status/2108218235468325374">Original post ↗</a> · <a href="../../prompts/2108218235468325374.md">Prompt ↗</a></sub>
 </td>
 </tr>
 <tr>
