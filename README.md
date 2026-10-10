@@ -2,15 +2,15 @@
 
 **Claude Opus 5.5 video prompts, organized by what you want to make.** Browse motion graphics, explainers, 3D showcases and interactive demos.
 Save this library to find a useful result, copy the creator’s public prompt, and see the inputs and tools needed to start.
-**30 homepage picks** · **489 browsable video + prompt pairs** · Original creator links on every card.
-**Latest addition: 2026-10-09** · **489 total records** · **+15 in the latest addition**
+**30 homepage picks** · **507 browsable video + prompt pairs** · Original creator links on every card.
+**Latest addition: 2026-10-10** · **507 total records** · **+18 in the latest addition**
 
 ## Browse the full library
 
-- [Motion graphics](data/categories/motion-graphics.md) (298)
-- [Explainers](data/categories/explainers.md) (65)
-- [3D scenes](data/categories/3d-scenes.md) (49)
-- [Games & interactive](data/categories/games-interactive.md) (77)
+- [Motion graphics](data/categories/motion-graphics.md) (300)
+- [Explainers](data/categories/explainers.md) (70)
+- [3D scenes](data/categories/3d-scenes.md) (52)
+- [Games & interactive](data/categories/games-interactive.md) (85)
 - [How to use a prompt](#how-to-use) · [Credits](#credits)
 
 ## Featured videos + prompts
@@ -66,11 +66,11 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 
 ## Recently added
 
-- [Higgsfield Katana Preset Orchestration with Opus 5.5](prompts/2108484647713984755.md) — AI Music Video Orchestration
-- [Skyhold: 3D Procedural Sky Island Balance Game Built with Three.js](prompts/2108495368585371666.md) — Interactive 3D Sky Island Balance Game
-- [Seamless Morphing UI Motion Design](prompts/2108432616558879016.md) — Seamless Morphing Motion Graphics
-- [Hraunheim: Interactive 3D Lava River and Volcano in Three.js](prompts/2108311732376453546.md) — Interactive 3D Lava River and Gnome Habitat in Three.js
-- [Interactive MacBook Keyboard with Key Sounds and Split-Flap Animation](prompts/2108400811411996801.md) — Interactive Animated Keyboard
+- [Bike Gears Explainer 3D Wireframe Animation](prompts/2108410208708169910.md) — Bike Gears Mechanism 3D Explainer
+- [Attack on Titan ODM Gear Setup in Minecraft](prompts/2108301605544047099.md) — Attack on Titan ODM Gear in Minecraft
+- [Offline Mode Implementation and Screen Recordings for Todo App](prompts/2108484778747920389.md) — App Feature Implementation & Screen Recording Walkthrough
+- [Arthur Morgan in Minecraft via Opus 5.5](prompts/2108303873538683065.md) — RDR2 and Minecraft Mashup Demo
+- [Automated Guitar Chord Visualization from Video Reel](prompts/2108329031892713883.md) — Synchronized Guitar Chord Explainer Video
 
 ## Motion graphics — homepage picks
 
@@ -145,7 +145,7 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 </tr>
 </table>
 
-[Browse all 298 motion graphics →](data/categories/motion-graphics.md)
+[Browse all 300 motion graphics →](data/categories/motion-graphics.md)
 
 ## Explainers — homepage picks
 
@@ -192,7 +192,7 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 </tr>
 </table>
 
-[Browse all 65 explainers →](data/categories/explainers.md)
+[Browse all 70 explainers →](data/categories/explainers.md)
 
 ## 3D scenes — homepage picks
 
@@ -227,7 +227,7 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 </tr>
 </table>
 
-[Browse all 49 3d scenes →](data/categories/3d-scenes.md)
+[Browse all 52 3d scenes →](data/categories/3d-scenes.md)
 
 ## Games & interactive — homepage picks
 
@@ -282,17 +282,17 @@ A continuous, beat-synced demonstration of UI states and interactions.<br>
 </tr>
 </table>
 
-[Browse all 77 games & interactive →](data/categories/games-interactive.md)
+[Browse all 85 games & interactive →](data/categories/games-interactive.md)
 
 <details>
 <summary>Browse by tool</summary>
 
-- [canvas-interactive](data/categories/canvas-interactive.md) — 77
+- [canvas-interactive](data/categories/canvas-interactive.md) — 85
 - [manim](data/categories/manim.md) — 2
 - [remotion](data/categories/remotion.md) — 10
 - [blender](data/categories/blender.md) — 7
-- [external-video-model](data/categories/external-video-model.md) — 5
-- [other-animation](data/categories/other-animation.md) — 390
+- [external-video-model](data/categories/external-video-model.md) — 6
+- [other-animation](data/categories/other-animation.md) — 399
 
 </details>
 

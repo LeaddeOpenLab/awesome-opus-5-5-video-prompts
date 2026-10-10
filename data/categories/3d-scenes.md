@@ -3,6 +3,26 @@
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="../../prompts/2108649845405929924.md"><img src="../gifs/2108649845405929924.gif" alt="Castle Jelly WebGPU Diorama" width="256" height="144" /></a><br>
+<strong>Castle Jelly WebGPU Diorama</strong><br>
+<sub>Use: Interactive Jelly Diorama<br>Inputs: User inputs not specified by the author<br>Tools: Claude Artifacts / WebGPU</sub><br>
+<sub><a href="https://x.com/vib3coded/status/2108649845405929924">Original post ↗</a> · <a href="../../prompts/2108649845405929924.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2108577475752054868.md"><img src="../gifs/2108577475752054868.gif" alt="Meteor Time-Freeze Cinematic Sequence Prompt Orchestrated by Opus 5.5" width="256" height="144" /></a><br>
+<strong>Meteor Time-Freeze Cinematic Sequence Prompt Orchestrated by Opu…</strong><br>
+<sub>Use: Cinematic sci-fi scene generation via prompt orchestration<br>Inputs: User inputs not specified by the author<br>Tools: Flova.ai / Seedance 2.5</sub><br>
+<sub><a href="https://x.com/MadMax_Series/status/2108577475752054868">Original post ↗</a> · <a href="../../prompts/2108577475752054868.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2108572856044986846.md"><img src="../gifs/2108572856044986846.gif" alt="Interactive WebGPU Plush Cow Material Study" width="256" height="144" /></a><br>
+<strong>Interactive WebGPU Plush Cow Material Study</strong><br>
+<sub>Use: Interactive 3D Soft-Body WebGPU Simulation<br>Inputs: User inputs not specified by the author<br>Tools: WebAudio / WebGPU</sub><br>
+<sub><a href="https://x.com/vib3coded/status/2108572856044986846">Original post ↗</a> · <a href="../../prompts/2108572856044986846.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="../../prompts/2108552389871444113.md"><img src="../gifs/2108552389871444113.gif" alt="Airplane Landing 3D Animation Benchmark" width="256" height="144" /></a><br>
 <strong>Airplane Landing 3D Animation Benchmark</strong><br>
 <sub>Use: Airplane Landing Animation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
