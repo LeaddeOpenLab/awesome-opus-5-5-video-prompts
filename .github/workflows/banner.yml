@@ -2,6 +2,10 @@ name: Refresh README banner
 on:
   push:
     branches: [main]
+    paths:
+      - data/library/**
+      - .github/scripts/update-banner.py
+      - .github/workflows/banner.yml
   workflow_dispatch:
 permissions:
   contents: write
