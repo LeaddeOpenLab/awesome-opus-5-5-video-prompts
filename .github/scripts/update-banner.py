@@ -96,3 +96,10 @@ target = root / 'data/banner.svg'
 target.parent.mkdir(parents=True, exist_ok=True)
 target.write_text(svg)
 print(f'Updated {target.relative_to(root)}')
+
+# Each content batch gets a new image URL, avoiding stale raw-image caches.
+stamp = datetime.fromisoformat(addition_date.replace('Z', '+00:00')).strftime('%Y%m%d-%H%M%S') if addition_date else 'pending'
+versioned = root / f'data/banner-{stamp}.svg'
+versioned.write_text(svg)
+readme = root / 'README.md'
+readme.write_text(re.sub(r'\]\(data/banner[^)]*\)', f']({versioned.relative_to(root)})', readme.read_text()))
