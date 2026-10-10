@@ -1,6 +1,6 @@
 # Awesome Opus 5.5 Video Prompts
 
-[![2000+ prompts — latest repository update](data/banner-20261010-093643.svg)](#featured-creations)
+[![2000+ prompts — latest repository update](data/banner.svg?v=batch-18)](#featured-creations)
 
 Explore Claude video prompts for product demos, motion graphics, educational animations and 3D scenes, including Remotion, Manim and Three.js workflows. Browse previews, copy shared prompts and check setup requirements.
 
@@ -11,8 +11,8 @@ Explore Claude video prompts for product demos, motion graphics, educational ani
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="prompts/2103449416325890146.md"><img src="data/gifs/2103449416325890146.gif" alt="Claude Opus 5.5 15-Second Motion Design Showreel via Remotion" width="100%" /></a><br>
-<strong>Claude Opus 5.5 15-Second Motion Design Showreel via Remotion</strong><br>
+<a href="prompts/2103449416325890146.md"><img src="data/gifs/2103449416325890146.gif" alt="Motion Designer Résumé Showreel with Claude Opus 5.5 and Remotion" width="100%" /></a><br>
+<strong>Motion Designer Résumé Showreel and Remotion</strong><br>
 
 <sub><a href="https://x.com/ajith_io/status/2103449416325890146">Original post ↗</a> · <a href="prompts/2103449416325890146.md">Prompt ↗</a></sub>
 </td>
@@ -87,35 +87,35 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="prompts/2108637690698633713.md"><img src="data/gifs/2108637690698633713.gif" alt="First-Person 3D Procedural Arms and Dynamic Grip Rigging in Three.js" width="100%" /></a><br>
-<strong>First-Person 3D Procedural Arms and Dynamic Grip Rigging in Thre…</strong><br>
+<a href="prompts/2107128920407502910.md"><img src="data/gifs/2107128920407502910.gif" alt="Verify Loop Agentic Music Video by Opus 5.5" width="100%" /></a><br>
+<strong>Verify Loop Agentic Music Video by Opus 5.5</strong><br>
 
-<sub><a href="https://x.com/maxt3chno/status/2108637690698633713">Original post ↗</a> · <a href="prompts/2108637690698633713.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/IvySparkleAI/status/2107128920407502910">Original post ↗</a> · <a href="prompts/2107128920407502910.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2108553430708990181.md"><img src="data/gifs/2108553430708990181.gif" alt="Retro 2D Zelda Game Built and Played by Claude Opus 5.5" width="100%" /></a><br>
-<strong>Retro 2D Zelda Game Built and Played</strong><br>
+<a href="prompts/2108226554740289897.md"><img src="data/gifs/2108226554740289897.gif" alt="criptobr.net Promotional Motion Graphics" width="100%" /></a><br>
+<strong>criptobr.net Promotional Motion Graphics</strong><br>
 
-<sub><a href="https://x.com/IAenCrudo/status/2108553430708990181">Original post ↗</a> · <a href="prompts/2108553430708990181.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/olivrweb3/status/2108226554740289897">Original post ↗</a> · <a href="prompts/2108226554740289897.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2108611423421043095.md"><img src="data/gifs/2108611423421043095.gif" alt="Mario 64 in Elden Ring" width="100%" /></a><br>
-<strong>Mario 64 in Elden Ring</strong><br>
+<a href="prompts/2104564078954107374.md"><img src="data/gifs/2104564078954107374.gif" alt="Futuristic Little Red Riding Hood with AI Bots" width="100%" /></a><br>
+<strong>Futuristic Little Red Riding Hood with AI Bots</strong><br>
 
-<sub><a href="https://x.com/0xDeniAi/status/2108611423421043095">Original post ↗</a> · <a href="prompts/2108611423421043095.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/stagerbn/status/2104564078954107374">Original post ↗</a> · <a href="prompts/2104564078954107374.md">Prompt ↗</a></sub>
 </td>
 </tr>
 </table>
 
 ## Browse the full library
 
-- [Product & Brand Videos](data/categories/product-brand.md) (67)
-- [Motion Graphics & Typography](data/categories/motion-graphics.md) (214)
+- [Product & Brand Videos](data/categories/product-brand.md) (73)
+- [Motion Graphics & Typography](data/categories/motion-graphics.md) (216)
 - [UI & Web Animation](data/categories/ui-web.md) (14)
-- [Explainers & Education](data/categories/explainers.md) (66)
-- [Music & Storytelling](data/categories/music-storytelling.md) (25)
+- [Explainers & Education](data/categories/explainers.md) (69)
+- [Music & Storytelling](data/categories/music-storytelling.md) (27)
 - [3D Worlds & Simulations](data/categories/3d-scenes.md) (66)
-- [Games & Interactive Experiences](data/categories/games-interactive.md) (64)
+- [Games & Interactive Experiences](data/categories/games-interactive.md) (65)
 
 30 homepage picks · Original creator links on every card.
 
@@ -158,7 +158,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 67 product & brand videos →](data/categories/product-brand.md)
+[Browse all 73 product & brand videos →](data/categories/product-brand.md)
 
 ## Motion Graphics & Typography — homepage picks
 
@@ -185,7 +185,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 214 motion graphics & typography →](data/categories/motion-graphics.md)
+[Browse all 216 motion graphics & typography →](data/categories/motion-graphics.md)
 
 ## UI & Web Animation — homepage picks
 
@@ -247,7 +247,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 66 explainers & education →](data/categories/explainers.md)
+[Browse all 69 explainers & education →](data/categories/explainers.md)
 
 ## Music & Storytelling — homepage picks
 
@@ -262,7 +262,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 25 music & storytelling →](data/categories/music-storytelling.md)
+[Browse all 27 music & storytelling →](data/categories/music-storytelling.md)
 
 ## 3D Worlds & Simulations — homepage picks
 
@@ -330,17 +330,17 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 64 games & interactive experiences →](data/categories/games-interactive.md)
+[Browse all 65 games & interactive experiences →](data/categories/games-interactive.md)
 
 <details>
 <summary>Browse by tool</summary>
 
-- [canvas-interactive](data/categories/canvas-interactive.md) — 64
+- [canvas-interactive](data/categories/canvas-interactive.md) — 65
 - [manim](data/categories/manim.md) — 2
-- [remotion](data/categories/remotion.md) — 10
+- [remotion](data/categories/remotion.md) — 11
 - [blender](data/categories/blender.md) — 7
-- [external-video-model](data/categories/external-video-model.md) — 7
-- [other-animation](data/categories/other-animation.md) — 427
+- [external-video-model](data/categories/external-video-model.md) — 8
+- [other-animation](data/categories/other-animation.md) — 438
 
 </details>
 

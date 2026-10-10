@@ -69,19 +69,25 @@
 <sub><a href="https://x.com/imxishi/status/2104459910247235966">Original post ↗</a> · <a href="../../prompts/2104459910247235966.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2103901720539476209.md"><img src="../gifs/2103901720539476209.gif" alt="A Máquina Transformer Mini-Documentary" width="256" height="144" /></a><br>
+<strong>A Máquina Transformer Mini-Documentary</strong><br>
+<sub>Use: Transformer Architecture Explainer<br>Inputs: User inputs not specified by the author<br>Tools: Code-based audio and visual generation</sub><br>
+<sub><a href="https://x.com/joaoli13/status/2103901720539476209">Original post ↗</a> · <a href="../../prompts/2103901720539476209.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2102853258582880547.md"><img src="../gifs/2102853258582880547.gif" alt="Negroni Cocktail Explainer Motion Graphic in HTML" width="256" height="144" /></a><br>
 <strong>Negroni Cocktail Explainer Motion Graphic in HTML</strong><br>
 <sub>Use: Cocktail recipe explainer<br>Inputs: Reference cocktail recipe illustration image attached to the prompt<br>Tools: JavaScript</sub><br>
 <sub><a href="https://x.com/Ror_Fly/status/2102853258582880547">Original post ↗</a> · <a href="../../prompts/2102853258582880547.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108729269681520726.md"><img src="../gifs/2108729269681520726.gif" alt="13.8 Billion Years of Human Revelations Told Through Hands" width="256" height="144" /></a><br>
 <strong>13.8 Billion Years of Human Revelations Told Through Hands</strong><br>
 <sub>Use: AI-Directed Historical Video Essay<br>Inputs: User inputs not specified by the author<br>Tools: ElevenLabs / Tesseract</sub><br>
 <sub><a href="https://x.com/nett0eth/status/2108729269681520726">Original post ↗</a> · <a href="../../prompts/2108729269681520726.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108716885646639338.md"><img src="../gifs/2108716885646639338.gif" alt="Educational Explainer on the Riemann Hypothesis" width="256" height="144" /></a><br>
 <strong>Educational Explainer on the Riemann Hypothesis</strong><br>
@@ -94,14 +100,14 @@
 <sub>Use: BAAJA Energy Permitting Explainer<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/__drewface/status/2108663466383016430">Original post ↗</a> · <a href="../../prompts/2108663466383016430.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108563710260170985.md"><img src="../gifs/2108563710260170985.gif" alt="Explainer for the 2026 Nobel Prize in Literature (Anne Carson)" width="256" height="144" /></a><br>
 <strong>Explainer for the 2026 Nobel Prize in Literature (Anne Carson)</strong><br>
 <sub>Use: 2026 Nobel Prize in Literature Explainer<br>Inputs: User inputs not specified by the author<br>Tools: Kokoro-82M / Scott Buckley Music</sub><br>
 <sub><a href="https://x.com/moreisdifferent/status/2108563710260170985">Original post ↗</a> · <a href="../../prompts/2108563710260170985.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108517404712325592.md"><img src="../gifs/2108517404712325592.gif" alt="Simulating the Moon Crashing into Earth" width="256" height="144" /></a><br>
 <strong>Simulating the Moon Crashing into Earth</strong><br>
@@ -114,14 +120,14 @@
 <sub>Use: GenLayer Explainer Animation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/RahilBuilds/status/2108505330066092060">Original post ↗</a> · <a href="../../prompts/2108505330066092060.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108410208708169910.md"><img src="../gifs/2108410208708169910.gif" alt="Bike Gears Explainer 3D Wireframe Animation" width="256" height="144" /></a><br>
 <strong>Bike Gears Explainer 3D Wireframe Animation</strong><br>
 <sub>Use: Bike Gears Mechanism 3D Explainer<br>Inputs: User inputs not specified by the author<br>Tools: Claude Artifacts</sub><br>
 <sub><a href="https://x.com/harshitsatija/status/2108410208708169910">Original post ↗</a> · <a href="../../prompts/2108410208708169910.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108329031892713883.md"><img src="../gifs/2108329031892713883.gif" alt="Automated Guitar Chord Visualization from Video Reel" width="256" height="144" /></a><br>
 <strong>Automated Guitar Chord Visualization from Video Reel</strong><br>
@@ -133,6 +139,20 @@
 <strong>MTMC Multi-Camera Tracking Explainer Animation</strong><br>
 <sub>Use: Multi-Camera Tracking Technical Explainer<br>Inputs: Markdown document explaining multi-camera tracking logic<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Xterbase/status/2108161031243759993">Original post ↗</a> · <a href="../../prompts/2108161031243759993.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2106843639879987460.md"><img src="../gifs/2106843639879987460.gif" alt="Med Organizer TikTok Explainer via Remotion" width="256" height="144" /></a><br>
+<strong>Med Organizer TikTok Explainer via Remotion</strong><br>
+<sub>Use: Mobile Product Explainer<br>Inputs: MED product repository components<br>Tools: GPT Image 2.5 / Python / Remotion / Sonilo Music</sub><br>
+<sub><a href="https://x.com/WillDobrev/status/2106843639879987460">Original post ↗</a> · <a href="../../prompts/2106843639879987460.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2106728230707159472.md"><img src="../gifs/2106728230707159472.gif" alt="AI Agent Explainer Sea Shanty Animation via Claude Opus 5.5 Canvas Code" width="256" height="144" /></a><br>
+<strong>AI Agent Explainer Sea Shanty Animation Canvas Code</strong><br>
+<sub>Use: Sea shanty AI agent vertical explainer<br>Inputs: User inputs not specified by the author<br>Tools: Chromium headless / Claude Opus 5.5 / ffmpeg / Suno v6 / Whisper</sub><br>
+<sub><a href="https://x.com/leploutos/status/2106728230707159472">Original post ↗</a> · <a href="../../prompts/2106728230707159472.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2105188480817230124.md"><img src="../gifs/2105188480817230124.gif" alt="Sweeply CLI Launch Explainer Video" width="256" height="144" /></a><br>

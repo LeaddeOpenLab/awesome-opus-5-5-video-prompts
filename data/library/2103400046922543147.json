@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "storedAt": "2026-09-28T08:31:59.112Z",
+  "storedAt": "2026-10-10T16:59:32.590Z",
   "model": "opus5.5",
-  "prompt": "Search for elements that fit Korean Chuseok, compose a pixel animation, and create it",
+  "prompt": "Search for elements that fit Korean Chuseok, compose a pixel animation, and produce it",
   "promptTranslations": {
-    "en": "Search for elements that fit Korean Chuseok, compose a pixel animation, and create it"
+    "en": "Search for elements that fit Korean Chuseok, compose a pixel animation, and produce it"
   },
-  "summary": "A prompt requesting the creation of a pixel art animation incorporating traditional elements associated with Korean Chuseok.",
-  "summaryEn": "Chuseok Pixel Animation",
+  "summary": "Claude Opus 5.5 was prompted to research traditional Korean Chuseok elements and generate an animated pixel art greeting featuring a full moon with rabbits pounding rice cakes, persimmons, and festival lights.",
+  "summaryEn": "Pixel Art Chuseok Greeting Animation",
   "post": {
     "postKind": "original",
     "repostOf": null,
@@ -20,7 +20,7 @@
       "profileUrl": "https://x.com/hoyoyoda"
     },
     "publishedAt": "2026-09-25T08:23:45.000Z",
-    "collectedAt": "2026-09-28T08:20:04.128Z",
+    "collectedAt": "2026-10-10T16:12:38.397Z",
     "language": "ko",
     "originalText": "해피추석!!!!!!\n\nopus 5.5 픽셀 애니메이션 \n\nprompt\n한국의 추석에 어울리는 요소를 서치해서 픽셀 애니메이션을 구성해서 제작해줘 https://t.co/crS2l8xaAJ",
     "media": [
@@ -32,43 +32,19 @@
       }
     ],
     "metrics": {
-      "likeCount": 7,
+      "likeCount": 9,
       "repostCount": 6,
       "replyCount": 4,
       "quoteCount": 0,
-      "viewCount": 384
+      "viewCount": 446
     },
     "matchedRuleIds": [
-      "group:opus:source-index"
+      "group:opus:ko:Latest"
     ],
     "sourceMaterials": [
       {
-        "kind": "author_thread",
-        "url": "https://x.com/hoyoyoda/status/2103451946783039596",
-        "text": "@aveclesoleilll 파워풀 해피추석이야!",
-        "author": "hoyoyoda"
-      },
-      {
-        "kind": "author_thread",
-        "url": "https://x.com/hoyoyoda/status/2103423534617997786",
-        "text": "@sikong_100 ㅋㅋㅋ그것도 만들어 볼까~~~!!",
-        "author": "hoyoyoda"
-      },
-      {
-        "kind": "author_thread",
-        "url": "https://x.com/hoyoyoda/status/2103410855677419645",
-        "text": "@sikong_100 근데 무슨 강강수월래가 송편을 소환하는 것 같아 ㅋㅋㅋ",
-        "author": "hoyoyoda"
-      },
-      {
-        "kind": "author_thread",
-        "url": "https://x.com/hoyoyoda/status/2103400979999989847",
-        "text": "@lolounerose 귀욥지~ 신기해~~~~ AI영상제작이랑은 다른 귀여움이 있어 ㅋㅋ",
-        "author": "hoyoyoda"
-      },
-      {
         "url": "https://x.com/hoyoyoda/status/2103400046922543147",
-        "text": "호요요🌱 on X: \"해피추석!!!!!!\n\nopus 5.5 픽셀 애니메이션 \n\nprompt\n한국의 추석에 어울리는 요소를 서치해서 픽셀 애니메이션을 구성해서 제작해줘\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\n호요요🌱 on X: \"해피추석!!!!!!\n\nopus 5.5 픽셀 애니메이션 \n\nprompt\n한국의 추석에 어울리는 요소를 서치해서 픽셀 애니메이션을 구성해서 제작해줘\"\n\n\n\n호요요🌱\n\n@hoyoyoda\n\n\n\n\nShow translation\n해피추석!!!!!!\n\nopus 5.5 픽셀 애니메이션 \n\nprompt\n한국의 추석에 어울리는 요소를 서치해서 픽셀 애니메이션을 구성해서 제작해줘\n\n\n00:00\n\n\n\n\n\n\n\n\n8:23 AM · Sep 25, 2026·384\nViews\n\n\n\n4\n6\n7\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\n호요요🌱@hoyoyodaFollow\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n호요요🌱\n\n@hoyoyoda\n\n\n\n\nShow translation\n해피추석!!!!!!\n\nopus 5.5 픽셀 애니메이션 \n\nprompt\n한국의 추석에 어울리는 요소를 서치해서 픽셀 애니메이션을 구성해서 제작해줘\n\n\n00:00\n\n\n\n\n\n\n\n\n8:23 AM · Sep 25, 2026·384\nViews\n\n\n\n4\n6\n7\n1\n\n\n\n\n\n\n\n\n\n오프레(상태 퐁당퐁당당당)\n\n@offtherecord26\nSep 25\n\n\n오푸스 똑또카네\n\n\n\n\n\n20\n\n\n\n\n\n\n\n\n\n\n\n탈공한 돈에미친여자\n\n@aveclesoleilll\nSep 25\n\n\n해피추석 💛\n\n\n1\n\n\n8\n\n\n\n\n\n\n\n\n\n\n\n싸리🌸\n\n@sikong_100\nSep 25\n\n\n어머 픽셀 애니라니 넘 귀욤뽀짝이다 호요요대단쓰\n\n\n1\n\n\n19\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "text": "호요요🌱 on X: \"해피추석!!!!!!\n\nopus 5.5 픽셀 애니메이션 \n\nprompt\n한국의 추석에 어울리는 요소를 서치해서 픽셀 애니메이션을 구성해서 제작해줘\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\n호요요🌱 on X: \"해피추석!!!!!!\n\nopus 5.5 픽셀 애니메이션 \n\nprompt\n한국의 추석에 어울리는 요소를 서치해서 픽셀 애니메이션을 구성해서 제작해줘\"\n\n\n\n호요요🌱\n\n@hoyoyoda\n\n\n\n\nShow translation\n해피추석!!!!!!\n\nopus 5.5 픽셀 애니메이션 \n\nprompt\n한국의 추석에 어울리는 요소를 서치해서 픽셀 애니메이션을 구성해서 제작해줘\n\n\n00:00\n\n\n\n\n\n\n\n\n8:23 AM · Sep 25, 2026·446\nViews\n\n\n\n4\n6\n9\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\n호요요🌱@hoyoyodaFollow\n디자인💙AI creator/ #hoyoAI/ #AI공모요요\n기초덕후/광고협업DM/[email&#160;protected]\n비교적 건강한 할머니가 꿈! 수제트-하라\n여자랑 사는 여자\n🤙#블루레이디 -프로필 수정으로 검토중\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n호요요🌱\n\n@hoyoyoda\n\n\n\n\nShow translation\n해피추석!!!!!!\n\nopus 5.5 픽셀 애니메이션 \n\nprompt\n한국의 추석에 어울리는 요소를 서치해서 픽셀 애니메이션을 구성해서 제작해줘\n\n\n00:00\n\n\n\n\n\n\n\n\n8:23 AM · Sep 25, 2026·446\nViews\n\n\n\n4\n6\n9\n3\n\n\n\n\n\n\n\n\n\n오프레(상태 퐁당퐁당당당)\n\n@offtherecord26\nSep 25\n\n\n오푸스 똑또카네\n\n\n\n\n\n25\n\n\n\n\n\n\n\n\n\n\n\n탈공한 돈에미친여자\n\n@aveclesoleilll\nSep 25\n\n\n해피추석 💛\n\n\n1\n\n\n17\n\n\n\n\n\n\n\n\n\n\n\n싸리🌸\n\n@sikong_100\nSep 25\n\n\n어머 픽셀 애니라니 넘 귀욤뽀짝이다 호요요대단쓰\n\n\n1\n\n\n28\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
         "kind": "linked_public_material",
         "author": "hoyoyoda"
       }
@@ -94,45 +70,66 @@
   "analysis": {
     "caseEvidence": {
       "group": "opus",
-      "title": "Chuseok Pixel Animation",
-      "summary": "A prompt requesting the creation of a pixel art animation incorporating traditional elements associated with Korean Chuseok.",
+      "title": "Pixel Art Chuseok Greeting Animation",
+      "summary": "Claude Opus 5.5 was prompted to research traditional Korean Chuseok elements and generate an animated pixel art greeting featuring a full moon with rabbits pounding rice cakes, persimmons, and festival lights.",
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
-        "version": null,
+        "version": "5.5",
         "platform": null,
-        "authorUseConfirmed": false,
-        "evidence": ""
+        "authorUseConfirmed": true,
+        "evidence": "opus 5.5 픽셀 애니메이션"
       },
       "prompt": {
-        "status": "fragment",
+        "status": "full_original",
         "text": "한국의 추석에 어울리는 요소를 서치해서 픽셀 애니메이션을 구성해서 제작해줘",
-        "englishText": "Search for elements that fit Korean Chuseok, compose a pixel animation, and create it",
-        "complete": false,
+        "englishText": "Search for elements that fit Korean Chuseok, compose a pixel animation, and produce it",
+        "complete": true,
         "reproducible": false,
-        "missing": []
+        "missing": [
+          "Exact execution environment, runtime code, and styling parameters generated by Opus 5.5 are not disclosed in the post."
+        ]
       },
       "result": {
         "kind": "video",
-        "consistent": false,
-        "evidence": "Consistency check skipped for source-index import.",
+        "consistent": true,
+        "evidence": "The video shows a 16:9 pixel art night scene with traditional Chuseok elements including a glowing full moon with silhouetted rabbits pounding rice cakes, persimmon branches, festive candles, traditional tables, and an animated '추석 HAPPY CHUSEOK' title sequence.",
         "textualResultQuote": ""
       },
       "inputs": [],
-      "inputsDocumented": false,
-      "tools": [],
-      "targetModelRole": "",
-      "outputSource": "https://x.com/hoyoyoda/status/2103400046922543147",
-      "divisionEvidence": "",
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web/Animation Renderer",
+          "role": "Executes and renders the code generated by Opus 5.5 to produce the pixel animation video/canvas capture.",
+          "evidence": "opus 5.5 픽셀 애니메이션",
+          "sourceUrl": "https://x.com/hoyoyoda/status/2103400046922543147",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Chuseok Pixel Art Greeting Animation",
+        "topic": "motion-graphics",
+        "tags": [
+          "pixel-art",
+          "chuseok",
+          "holidays",
+          "motion-graphics",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Researched traditional Chuseok motifs and wrote the code for the pixel art animation composition.",
+      "outputSource": "Inferred execution of code (e.g., HTML5 Canvas, SVG, or custom web renderer) written by Claude Opus 5.5.",
+      "divisionEvidence": "The post explicitly credits 'opus 5.5 픽셀 애니메이션' using a natural language prompt instructing the model to research elements and compose the animation.",
       "video": {
-        "shots": null,
-        "duration": null,
-        "aspectRatio": null,
+        "shots": "Single continuous scene with layered animated elements and text appearance",
+        "duration": "12s",
+        "aspectRatio": "16:9",
         "referenceMaterials": []
       },
-      "task": "motion-graphics",
+      "task": "other-animation",
       "suitable": true,
-      "reason": "Source-index import; extraction only.",
+      "reason": "Authentic original post demonstrating Claude Opus 5.5 generating a complete Chuseok-themed pixel animation video from an explicit prompt.",
       "isAdvertisement": false,
       "promptSource": {
         "url": "https://x.com/hoyoyoda/status/2103400046922543147",
@@ -146,16 +143,16 @@
         "postId": "2103400046922543147",
         "publishedAt": "2026-09-25T08:23:45.000Z"
       },
-      "checkedAt": "2026-09-28T08:21:15.518Z",
-      "checkMethod": "text",
+      "checkedAt": "2026-10-10T16:24:34.086Z",
+      "checkMethod": "video",
       "publication": {
         "tier": "reference",
         "status": "publishable",
         "reasons": [
-          "consistency_check_skipped"
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
         ]
       },
-      "importMode": "source-index",
       "reproduction": {
         "status": "not_tested",
         "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
@@ -167,8 +164,8 @@
         "evidence": ""
       }
     },
-    "summary": "A prompt requesting the creation of a pixel art animation incorporating traditional elements associated with Korean Chuseok.",
-    "summaryEn": "Chuseok Pixel Animation",
+    "summary": "Claude Opus 5.5 was prompted to research traditional Korean Chuseok elements and generate an animated pixel art greeting featuring a full moon with rabbits pounding rice cakes, persimmons, and festival lights.",
+    "summaryEn": "Pixel Art Chuseok Greeting Animation",
     "originalPrompt": "한국의 추석에 어울리는 요소를 서치해서 픽셀 애니메이션을 구성해서 제작해줘",
     "sourceRange": {
       "start": 39,
@@ -176,22 +173,24 @@
     },
     "translations": {
       "zh": "한국의 추석에 어울리는 요소를 서치해서 픽셀 애니메이션을 구성해서 제작해줘",
-      "en": "Search for elements that fit Korean Chuseok, compose a pixel animation, and create it"
+      "en": "Search for elements that fit Korean Chuseok, compose a pixel animation, and produce it"
     },
     "targetModels": [
       "opus5.5"
     ],
-    "category": "motion-graphics",
-    "useCase": "A prompt requesting the creation of a pixel art animation incorporating traditional elements associated with Korean Chuseok.",
+    "category": "other-animation",
+    "useCase": "Chuseok Pixel Art Greeting Animation",
     "hasReusablePrompt": false,
-    "promptResultConsistency": 0,
+    "promptResultConsistency": 1,
     "mediaReview": "automated",
     "promptValidation": {
-      "complete": false,
+      "complete": true,
       "reproducible": false,
-      "matchesMedia": false,
-      "missingElements": [],
-      "evidence": "Consistency check skipped for source-index import."
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact execution environment, runtime code, and styling parameters generated by Opus 5.5 are not disclosed in the post."
+      ],
+      "evidence": "The video shows a 16:9 pixel art night scene with traditional Chuseok elements including a glowing full moon with silhouetted rabbits pounding rice cakes, persimmon branches, festive candles, traditional tables, and an animated '추석 HAPPY CHUSEOK' title sequence."
     },
     "isAdvertisement": false,
     "riskFlags": {
