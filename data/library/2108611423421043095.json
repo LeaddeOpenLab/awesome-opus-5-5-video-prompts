@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "storedAt": "2026-10-10T00:20:03.439Z",
+  "storedAt": "2026-10-10T09:36:28.674Z",
   "model": "opus5.5",
   "prompt": "drop Mario 64 into Elden Ring",
   "promptTranslations": {
     "en": "drop Mario 64 into Elden Ring"
   },
-  "summary": "Opus 5.5 setup importing Mario 64 mechanics, audio, and HUD into an Elden Ring lava castle setting.",
-  "summaryEn": "Mario 64 in Elden Ring Crossover",
+  "summary": "Screen recording showing Super Mario 64 mechanics integrated into an Elden Ring environment with pursuing enemies.",
+  "summaryEn": "Mario 64 in Elden Ring",
   "post": {
     "postKind": "original",
     "repostOf": null,
@@ -20,7 +20,7 @@
       "profileUrl": "https://x.com/0xDeniAi"
     },
     "publishedAt": "2026-10-09T17:31:54.000Z",
-    "collectedAt": "2026-10-09T22:15:07.777Z",
+    "collectedAt": "2026-10-10T08:56:06.893Z",
     "language": "en",
     "originalText": "OPUS 5.5, WHAT THE F*CK IS THIS...\n\ni asked it to drop Mario 64 into Elden Ring and now he’s running up stone stairs over a sea of lava while knights with swords chase him\n\nhe can’t fight back, so he just jumps, dodges and climbs straight up the castle walls\n\nthe funniest part is the music, it’s still happy Mario music while everything around him wants him dead\n\nnext i’m adding a boss fight, imagine Mario with 3 hearts against Malenia\n\nor i give the knights Mario’s jump and make this everyone’s nightmare",
     "media": [
@@ -32,15 +32,18 @@
       }
     ],
     "metrics": {
-      "likeCount": 46,
-      "repostCount": 5,
-      "replyCount": 3,
-      "quoteCount": 0,
-      "viewCount": 2400
+      "likeCount": 254,
+      "repostCount": 17,
+      "replyCount": 11,
+      "quoteCount": 3,
+      "viewCount": 29169
     },
     "matchedRuleIds": [
-      "group:opus:en:Top:backfill24h",
-      "group:opus:en:Latest:tasks:backfill24h"
+      "group:opus:en:Top:backfill24h"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
     ]
   },
   "xUrl": "https://x.com/0xDeniAi/status/2108611423421043095",
@@ -54,21 +57,22 @@
   "modelStatus": "identified",
   "mediaCategory": "video",
   "mediaFingerprints": [
+    "https://video-s.twimg.com/amplify_video/2108611340910657537/vid/avc1/480x270/CIIVsoukfo6nl5JR.mp4?tag=29",
     "x-video:2108611340910657537",
     "x-post:2108611423421043095"
   ],
   "analysis": {
     "caseEvidence": {
       "group": "opus",
-      "title": "Mario 64 in Elden Ring Crossover",
-      "summary": "Opus 5.5 setup importing Mario 64 mechanics, audio, and HUD into an Elden Ring lava castle setting.",
+      "title": "Mario 64 in Elden Ring",
+      "summary": "Screen recording showing Super Mario 64 mechanics integrated into an Elden Ring environment with pursuing enemies.",
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
         "version": "5.5",
         "platform": null,
         "authorUseConfirmed": true,
-        "evidence": "OPUS 5.5, WHAT THE F*CK IS THIS...\n\ni asked it to drop Mario 64 into Elden Ring"
+        "evidence": "\"OPUS 5.5, WHAT THE F*CK IS THIS... i asked it to drop Mario 64 into Elden Ring\""
       },
       "prompt": {
         "status": "fragment",
@@ -77,66 +81,49 @@
         "complete": false,
         "reproducible": false,
         "missing": [
-          "Complete system prompt",
-          "Game engine integration code",
-          "Asset loading instructions"
+          "game engine setup",
+          "asset pipeline instructions",
+          "complete code/scripting prompt"
         ]
       },
       "result": {
         "kind": "screen_recording",
         "consistent": true,
-        "evidence": "Screen recording displays Mario wall-jumping and dodging knights in a Volcano Manor style fortress.",
+        "evidence": "Video shows Mario dodging a knight on stone steps and wall-jumping up castle architecture above lava.",
         "textualResultQuote": ""
       },
-      "inputs": [
-        {
-          "kind": "3D Assets & Audio",
-          "description": "Mario 64 character model, animations, HUD elements, and BGM",
-          "available": false,
-          "evidence": "drop Mario 64 into Elden Ring",
-          "origin": "downloaded",
-          "sourceUrl": "https://x.com/0xDeniAi/status/2108611423421043095"
-        },
-        {
-          "kind": "3D Environment & Characters",
-          "description": "Elden Ring fortress level assets and knight enemy model",
-          "available": false,
-          "evidence": "now he's running up stone stairs over a sea of lava while knights with swords chase him",
-          "origin": "downloaded"
-        }
-      ],
+      "inputs": [],
       "inputsDocumented": false,
       "tools": [
         {
-          "name": "Game Engine / Modding Framework",
-          "role": "Real-time rendering and scene execution",
-          "evidence": "Gameplay demonstration of Mario inside Elden Ring environment",
+          "name": "Unknown 3D Engine / Modding Environment",
+          "role": "Real-time physics and graphics rendering",
+          "evidence": "Displays real-time Mario 64 HUD, animations, and high-fidelity 3D assets.",
           "status": "inferred"
         }
       ],
       "purpose": {
-        "label": "Mario 64 Elden Ring Mashup",
+        "label": "Mario 64 and Elden Ring Crossover",
         "topic": "games-interactive",
         "tags": [
-          "gameplay",
-          "crossover",
+          "games-interactive",
           "mario-64",
           "elden-ring",
-          "3d-scene"
+          "3d-scenes"
         ]
       },
-      "targetModelRole": "Code generation and crossover logic implementation",
-      "outputSource": "Screen recording of game engine execution",
-      "divisionEvidence": "Author asked Opus to combine the games, with execution running in a 3D game engine.",
+      "targetModelRole": "Generated code or integration scripts combining game assets and mechanics.",
+      "outputSource": "External real-time 3D game engine.",
+      "divisionEvidence": "Claude Opus provided logic/code while an external 3D runtime rendered the gameplay.",
       "video": {
-        "shots": "Single continuous gameplay capture",
-        "duration": "21s",
+        "shots": "Single continuous third-person gameplay camera",
+        "duration": "0:21",
         "aspectRatio": "16:9",
         "referenceMaterials": []
       },
       "task": "games-interactive",
       "suitable": true,
-      "reason": "Demonstrates an Opus 5.5-directed interactive game scene and capture, supported by clear gameplay footage.",
+      "reason": "Demonstrates interactive game scene generation and mechanics synthesis.",
       "isAdvertisement": false,
       "promptSource": {
         "url": "https://x.com/0xDeniAi/status/2108611423421043095",
@@ -150,12 +137,13 @@
         "postId": "2108611423421043095",
         "publishedAt": "2026-10-09T17:31:54.000Z"
       },
-      "checkedAt": "2026-10-09T18:14:44.665Z",
+      "checkedAt": "2026-10-10T09:30:34.290Z",
       "checkMethod": "video",
       "publication": {
         "tier": "reference",
         "status": "publishable",
         "reasons": [
+          "author_model_use_unverified",
           "prompt_disclosure_requires_editor_review:fragment",
           "incomplete_or_unreproducible_prompt",
           "necessary_inputs_unverified",
@@ -173,8 +161,8 @@
         "evidence": ""
       }
     },
-    "summary": "Opus 5.5 setup importing Mario 64 mechanics, audio, and HUD into an Elden Ring lava castle setting.",
-    "summaryEn": "Mario 64 in Elden Ring Crossover",
+    "summary": "Screen recording showing Super Mario 64 mechanics integrated into an Elden Ring environment with pursuing enemies.",
+    "summaryEn": "Mario 64 in Elden Ring",
     "originalPrompt": "drop Mario 64 into Elden Ring",
     "sourceRange": {
       "start": 50,
@@ -188,7 +176,7 @@
       "opus5.5"
     ],
     "category": "games-interactive",
-    "useCase": "Mario 64 Elden Ring Mashup",
+    "useCase": "Mario 64 and Elden Ring Crossover",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",
@@ -197,11 +185,11 @@
       "reproducible": false,
       "matchesMedia": true,
       "missingElements": [
-        "Complete system prompt",
-        "Game engine integration code",
-        "Asset loading instructions"
+        "game engine setup",
+        "asset pipeline instructions",
+        "complete code/scripting prompt"
       ],
-      "evidence": "Screen recording displays Mario wall-jumping and dodging knights in a Volcano Manor style fortress."
+      "evidence": "Video shows Mario dodging a knight on stone steps and wall-jumping up castle architecture above lava."
     },
     "isAdvertisement": false,
     "riskFlags": {

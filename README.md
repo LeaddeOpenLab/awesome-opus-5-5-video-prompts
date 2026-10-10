@@ -1,6 +1,8 @@
 # Awesome Opus 5.5 Video Prompts
 
-[![2000+ prompts — latest repository update](data/banner-20261010-083455.svg)](#featured-creations)
+[![2000+ prompts — latest repository update](data/banner.svg?v=batch-18)](#featured-creations)
+
+Explore Claude video prompts for product demos, motion graphics, educational animations and 3D scenes, including Remotion, Manim and Three.js workflows. Browse previews, copy shared prompts and check setup requirements.
 
 **[Explore the collection →](#browse-the-full-library)** · [Start with a prompt](#start-here) · [Latest additions](#recently-added)
 
@@ -11,23 +13,17 @@
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="prompts/2108663864581558301.md"><img src="data/gifs/2108663864581558301.gif" alt="Three.js 3D Logo Intro Studio Generator" width="100%" /></a><br>
-<strong>Three.js 3D Logo Intro Studio Generator</strong><br>
+<a href="prompts/2108637690698633713.md"><img src="data/gifs/2108637690698633713.gif" alt="First-Person 3D Procedural Arms and Dynamic Grip Rigging in Three.js" width="100%" /></a><br>
+<strong>First-Person 3D Procedural Arms and Dynamic Grip Rigging in Thre…</strong><br>
 
-<sub><a href="https://x.com/juancarlos17626/status/2108663864581558301">Original post ↗</a> · <a href="prompts/2108663864581558301.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/maxt3chno/status/2108637690698633713">Original post ↗</a> · <a href="prompts/2108637690698633713.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2108685334343221621.md"><img src="data/gifs/2108685334343221621.gif" alt="Claude Opus 5.5 Gravity Motion Graphics Explainer" width="100%" /></a><br>
-<strong>Claude Opus 5.5 Gravity Motion Graphics Explainer</strong><br>
+<a href="prompts/2108553430708990181.md"><img src="data/gifs/2108553430708990181.gif" alt="Retro 2D Zelda Game Built and Played by Claude Opus 5.5" width="100%" /></a><br>
+<strong>Retro 2D Zelda Game Built and Played</strong><br>
 
-<sub><a href="https://x.com/redbickey/status/2108685334343221621">Original post ↗</a> · <a href="prompts/2108685334343221621.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2108716885646639338.md"><img src="data/gifs/2108716885646639338.gif" alt="Educational Explainer on the Riemann Hypothesis" width="100%" /></a><br>
-<strong>Educational Explainer on the Riemann Hypothesis</strong><br>
-
-<sub><a href="https://x.com/insideology/status/2108716885646639338">Original post ↗</a> · <a href="prompts/2108716885646639338.md">Prompt ↗</a></sub>
-</td>
+<sub><a href="https://x.com/IAenCrudo/status/2108553430708990181">Original post ↗</a> · <a href="prompts/2108553430708990181.md">Prompt ↗</a></sub>
+</td><td></td>
 </tr>
 </table>
 
@@ -39,7 +35,7 @@
 - [Explainers & Education](data/categories/explainers.md) (5)
 - [Music & Storytelling](data/categories/music-storytelling.md) (0)
 - [3D Worlds & Simulations](data/categories/3d-scenes.md) (5)
-- [Games & Interactive Experiences](data/categories/games-interactive.md) (0)
+- [Games & Interactive Experiences](data/categories/games-interactive.md) (3)
 
 0 homepage picks · Original creator links on every card.
 
@@ -83,12 +79,12 @@ New video + public prompt pairs are on the way.
 
 New video + public prompt pairs are on the way.
 
-[Browse all 0 games & interactive experiences →](data/categories/games-interactive.md)
+[Browse all 3 games & interactive experiences →](data/categories/games-interactive.md)
 
 <details>
 <summary>Browse by tool</summary>
 
-- [canvas-interactive](data/categories/canvas-interactive.md) — 0
+- [canvas-interactive](data/categories/canvas-interactive.md) — 3
 - [manim](data/categories/manim.md) — 0
 - [remotion](data/categories/remotion.md) — 0
 - [blender](data/categories/blender.md) — 0
