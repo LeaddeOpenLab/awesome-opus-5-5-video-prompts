@@ -51,6 +51,7 @@
 </tr>
 </table>
 
+
 ## Recently added
 
 <table>
@@ -78,14 +79,17 @@
 
 ## Browse the full library
 
-- [Motion graphics](data/categories/motion-graphics.md) (300)
-- [Explainers](data/categories/explainers.md) (70)
-- [3D scenes](data/categories/3d-scenes.md) (52)
-- [Games & interactive](data/categories/games-interactive.md) (85)
+- [Product & Brand Videos](data/categories/product-brand.md) (68)
+- [Motion Graphics & Typography](data/categories/motion-graphics.md) (210)
+- [UI & Web Animation](data/categories/ui-web.md) (14)
+- [Explainers & Education](data/categories/explainers.md) (62)
+- [Music & Storytelling](data/categories/music-storytelling.md) (26)
+- [3D Worlds & Simulations](data/categories/3d-scenes.md) (65)
+- [Games & Interactive Experiences](data/categories/games-interactive.md) (62)
 
 30 homepage picks · Original creator links on every card.
 
-## Motion graphics — homepage picks
+## Product & Brand Videos — homepage picks
 
 <table>
 <tr>
@@ -96,36 +100,16 @@
 <sub><a href="https://x.com/felipemoller/status/2103846311149936736">Original post ↗</a> · <a href="prompts/2103846311149936736.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2103129343253778767.md"><img src="data/gifs/2103129343253778767.gif" alt="Infinite Zoom Vintage Collage Animation Prompt" width="100%" /></a><br>
-<strong>Infinite Zoom Vintage Collage Animation</strong><br>
-
-<sub><a href="https://x.com/koldo2k/status/2103129343253778767">Original post ↗</a> · <a href="prompts/2103129343253778767.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
 <a href="prompts/2102554209166000267.md"><img src="data/gifs/2102554209166000267.gif" alt="Code-Driven Motion Design Video Prompt" width="100%" /></a><br>
 <strong>Code-Driven Motion Design Video</strong><br>
 
 <sub><a href="https://x.com/twoclipping/status/2102554209166000267">Original post ↗</a> · <a href="prompts/2102554209166000267.md">Prompt ↗</a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<a href="prompts/2103801834930606193.md"><img src="data/gifs/2103801834930606193.gif" alt="Spotify-Themed Motion Design Prompt" width="100%" /></a><br>
-<strong>Spotify-Themed Motion Design</strong><br>
-
-<sub><a href="https://x.com/brainextends/status/2103801834930606193">Original post ↗</a> · <a href="prompts/2103801834930606193.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="prompts/2103835273813496100.md"><img src="data/gifs/2103835273813496100.gif" alt="Code-Based Apple-Style Keynote Motion Design Prompt" width="100%" /></a><br>
 <strong>Code-Based Apple-Style Keynote Motion Design</strong><br>
 
 <sub><a href="https://x.com/twoclipping/status/2103835273813496100">Original post ↗</a> · <a href="prompts/2103835273813496100.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2103124033365762215.md"><img src="data/gifs/2103124033365762215.gif" alt="Four Seasons Train Window Animation" width="100%" /></a><br>
-<strong>Four Seasons Train Window Animation</strong><br>
-
-<sub><a href="https://x.com/itsolelehmann/status/2103124033365762215">Original post ↗</a> · <a href="prompts/2103124033365762215.md">Prompt ↗</a></sub>
 </td>
 </tr>
 <tr>
@@ -140,19 +124,61 @@
 <strong>Remotion Product Intro</strong><br>
 
 <sub><a href="https://x.com/HO_BA/status/2103845264649761062">Original post ↗</a> · <a href="prompts/2103845264649761062.md">Prompt ↗</a></sub>
+</td><td></td>
+</tr>
+</table>
+
+[Browse all 68 product & brand videos →](data/categories/product-brand.md)
+
+## Motion Graphics & Typography — homepage picks
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="prompts/2103129343253778767.md"><img src="data/gifs/2103129343253778767.gif" alt="Infinite Zoom Vintage Collage Animation Prompt" width="100%" /></a><br>
+<strong>Infinite Zoom Vintage Collage Animation</strong><br>
+
+<sub><a href="https://x.com/koldo2k/status/2103129343253778767">Original post ↗</a> · <a href="prompts/2103129343253778767.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2103697580421181894.md"><img src="data/gifs/2103697580421181894.gif" alt="Animated Music Video Prompt for Claude Opus" width="100%" /></a><br>
-<strong>Animated Music Video Prompt for Claude Opus</strong><br>
+<a href="prompts/2103801834930606193.md"><img src="data/gifs/2103801834930606193.gif" alt="Spotify-Themed Motion Design Prompt" width="100%" /></a><br>
+<strong>Spotify-Themed Motion Design</strong><br>
 
-<sub><a href="https://x.com/doubleunplussed/status/2103697580421181894">Original post ↗</a> · <a href="prompts/2103697580421181894.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/brainextends/status/2103801834930606193">Original post ↗</a> · <a href="prompts/2103801834930606193.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103124033365762215.md"><img src="data/gifs/2103124033365762215.gif" alt="Four Seasons Train Window Animation" width="100%" /></a><br>
+<strong>Four Seasons Train Window Animation</strong><br>
+
+<sub><a href="https://x.com/itsolelehmann/status/2103124033365762215">Original post ↗</a> · <a href="prompts/2103124033365762215.md">Prompt ↗</a></sub>
 </td>
 </tr>
 </table>
 
-[Browse all 300 motion graphics →](data/categories/motion-graphics.md)
+[Browse all 210 motion graphics & typography →](data/categories/motion-graphics.md)
 
-## Explainers — homepage picks
+## UI & Web Animation — homepage picks
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="prompts/2104471436039803295.md"><img src="data/gifs/2104471436039803295.gif" alt="Three.js 15s 3D Motion Graphics" width="100%" /></a><br>
+<strong>Three.js 15s 3D Motion Graphics</strong><br>
+
+<sub><a href="https://x.com/hiro19_k/status/2104471436039803295">Original post ↗</a> · <a href="prompts/2104471436039803295.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103820321673675031.md"><img src="data/gifs/2103820321673675031.gif" alt="Auren Header Scroll-Scrubbed Hero Section" width="100%" /></a><br>
+<strong>Auren Header Scroll-Scrubbed Hero Section</strong><br>
+
+<sub><a href="https://x.com/iamtanzil_/status/2103820321673675031">Original post ↗</a> · <a href="prompts/2103820321673675031.md">Prompt ↗</a></sub>
+</td><td></td>
+</tr>
+</table>
+
+[Browse all 14 ui & web animation →](data/categories/ui-web.md)
+
+## Explainers & Education — homepage picks
 
 <table>
 <tr>
@@ -191,9 +217,24 @@
 </tr>
 </table>
 
-[Browse all 70 explainers →](data/categories/explainers.md)
+[Browse all 62 explainers & education →](data/categories/explainers.md)
 
-## 3D scenes — homepage picks
+## Music & Storytelling — homepage picks
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="prompts/2103697580421181894.md"><img src="data/gifs/2103697580421181894.gif" alt="Animated Music Video Prompt for Claude Opus" width="100%" /></a><br>
+<strong>Animated Music Video Prompt for Claude Opus</strong><br>
+
+<sub><a href="https://x.com/doubleunplussed/status/2103697580421181894">Original post ↗</a> · <a href="prompts/2103697580421181894.md">Prompt ↗</a></sub>
+</td><td></td><td></td>
+</tr>
+</table>
+
+[Browse all 26 music & storytelling →](data/categories/music-storytelling.md)
+
+## 3D Worlds & Simulations — homepage picks
 
 <table>
 <tr>
@@ -210,17 +251,17 @@
 <sub><a href="https://x.com/AxtonLiu/status/2103119648271290566">Original post ↗</a> · <a href="prompts/2103119648271290566.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2104471436039803295.md"><img src="data/gifs/2104471436039803295.gif" alt="Three.js 15s 3D Motion Graphics" width="100%" /></a><br>
-<strong>Three.js 15s 3D Motion Graphics</strong><br>
+<a href="prompts/2104514806443303238.md"><img src="data/gifs/2104514806443303238.gif" alt="Interactive WebGPU Strawberry Cake Soft-Body Physics" width="100%" /></a><br>
+<strong>Interactive WebGPU Strawberry Cake Soft-Body Physics</strong><br>
 
-<sub><a href="https://x.com/hiro19_k/status/2104471436039803295">Original post ↗</a> · <a href="prompts/2104471436039803295.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/ImaStudio_ai/status/2104514806443303238">Original post ↗</a> · <a href="prompts/2104514806443303238.md">Prompt ↗</a></sub>
 </td>
 </tr>
 </table>
 
-[Browse all 52 3d scenes →](data/categories/3d-scenes.md)
+[Browse all 65 3d worlds & simulations →](data/categories/3d-scenes.md)
 
-## Games & interactive — homepage picks
+## Games & Interactive Experiences — homepage picks
 
 <table>
 <tr>
@@ -231,25 +272,19 @@
 <sub><a href="https://x.com/0xChuckstock/status/2103804606794879327">Original post ↗</a> · <a href="prompts/2103804606794879327.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2103820321673675031.md"><img src="data/gifs/2103820321673675031.gif" alt="Auren Header Scroll-Scrubbed Hero Section" width="100%" /></a><br>
-<strong>Auren Header Scroll-Scrubbed Hero Section</strong><br>
-
-<sub><a href="https://x.com/iamtanzil_/status/2103820321673675031">Original post ↗</a> · <a href="prompts/2103820321673675031.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
 <a href="prompts/2103789415323562325.md"><img src="data/gifs/2103789415323562325.gif" alt="Police Chase Arcade Game PRD Prompt" width="100%" /></a><br>
 <strong>Police Chase Arcade Game PRD</strong><br>
 
 <sub><a href="https://x.com/froessell/status/2103789415323562325">Original post ↗</a> · <a href="prompts/2103789415323562325.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="prompts/2103763192971461057.md"><img src="data/gifs/2103763192971461057.gif" alt="Pixel Art Hearthstone-Style Card Game Prompt" width="100%" /></a><br>
 <strong>Pixel Art Hearthstone-Style Card Game</strong><br>
 
 <sub><a href="https://x.com/aisongman/status/2103763192971461057">Original post ↗</a> · <a href="prompts/2103763192971461057.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="prompts/2104520072014508316.md"><img src="data/gifs/2104520072014508316.gif" alt="Interactive 2D/3D Floor Plan and Interior Design Web Tool" width="100%" /></a><br>
 <strong>Interactive 2D/3D Floor Plan and Interior Design Web Tool</strong><br>
@@ -257,33 +292,25 @@
 <sub><a href="https://x.com/akokoi1/status/2104520072014508316">Original post ↗</a> · <a href="prompts/2104520072014508316.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2104514806443303238.md"><img src="data/gifs/2104514806443303238.gif" alt="Interactive WebGPU Strawberry Cake Soft-Body Physics" width="100%" /></a><br>
-<strong>Interactive WebGPU Strawberry Cake Soft-Body Physics</strong><br>
-
-<sub><a href="https://x.com/ImaStudio_ai/status/2104514806443303238">Original post ↗</a> · <a href="prompts/2104514806443303238.md">Prompt ↗</a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
 <a href="prompts/2104189915693269112.md"><img src="data/gifs/2104189915693269112.gif" alt="Interactive Rain Window Calming App" width="100%" /></a><br>
 <strong>Interactive Rain Window Calming App</strong><br>
 
 <sub><a href="https://x.com/d_llm_kr/status/2104189915693269112">Original post ↗</a> · <a href="prompts/2104189915693269112.md">Prompt ↗</a></sub>
-</td><td></td><td></td>
+</td><td></td>
 </tr>
 </table>
 
-[Browse all 85 games & interactive →](data/categories/games-interactive.md)
+[Browse all 62 games & interactive experiences →](data/categories/games-interactive.md)
 
 <details>
 <summary>Browse by tool</summary>
 
-- [canvas-interactive](data/categories/canvas-interactive.md) — 85
+- [canvas-interactive](data/categories/canvas-interactive.md) — 62
 - [manim](data/categories/manim.md) — 2
 - [remotion](data/categories/remotion.md) — 10
 - [blender](data/categories/blender.md) — 7
 - [external-video-model](data/categories/external-video-model.md) — 6
-- [other-animation](data/categories/other-animation.md) — 399
+- [other-animation](data/categories/other-animation.md) — 421
 
 </details>
 

@@ -34,7 +34,7 @@ if os.environ.get('GITHUB_TOKEN'):
         commits = json.load(response)
     history = []
     for commit in commits:
-        match = re.match(r'^Add ([1-9]\d*) prompts? ·', commit['commit']['message'])
+        match = re.match(r'^Add ([1-9]\d*) prompts?(?: ·|$)', commit['commit']['message'].splitlines()[0])
         if match:
             history.append({'date': commit['commit']['committer']['date'], 'added': int(match[1])})
         if len(history) == 3:
