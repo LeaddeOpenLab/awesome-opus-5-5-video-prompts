@@ -54,25 +54,30 @@
 
 ## Start here
 
-Three starting points, chosen for clear instructions and distinct uses. Setup guidance below is editorial; these examples have not been reproduced by this repository.
+Pick a result to try. Setup instructions are on each prompt page; these examples have not been reproduced by this repository.
 
-### [Easiest start: pixel-art wizard](prompts/2102476258948927543.md#prompt-english)
-
-**You need:** An Opus coding agent and a browser. The prompt asks for no external assets or libraries.
-
-**Try it:** Copy the prompt, ask the agent to save the generated code as an HTML file, then open it in your browser to view the looping animation.
-
-### [Your product: a 30-second business explainer](prompts/2103499977632997524.md#prompt-english)
-
-**You need:** An Opus coding agent, a browser, and a short description of your business, audience and brand colors.
-
-**Try it:** Copy the prompt and replace the bracketed business description. Ask the agent to save the result as an HTML file, then open it in your browser. This prompt requests a web animation; MP4 export is a separate step.
-
-### [Teach a concept: derivatives with Manim](prompts/2103128559174971663.md#prompt-english)
-
-**You need:** An Opus coding agent with Python, Manim and edge-tts available. Voice generation needs network access.
-
-**Try it:** Copy the prompt, ask the agent to create the animation and narration, then ask it to render and combine them and report the output video path. Open the exported video to review the lesson.
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="prompts/2102476258948927543.md"><img src="data/gifs/2102476258948927543.gif" alt="Easiest start: pixel-art wizard" width="100%" /></a><br>
+<strong>Easiest start: pixel-art wizard</strong><br>
+<sub>Copy the prompt, save one HTML file, and open it in your browser. No external assets.</sub><br>
+<a href="prompts/2102476258948927543.md#prompt-english">Copy prompt &amp; setup →</a>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103499977632997524.md"><img src="data/gifs/2103499977632997524.gif" alt="Your product: a 30-second business explainer" width="100%" /></a><br>
+<strong>Your product: a 30-second business explainer</strong><br>
+<sub>Replace the business description and brand colors, then preview the HTML animation.</sub><br>
+<a href="prompts/2103499977632997524.md#prompt-english">Copy prompt &amp; setup →</a>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103128559174971663.md"><img src="data/gifs/2103128559174971663.gif" alt="Teach a concept: derivatives with Manim" width="100%" /></a><br>
+<strong>Teach a concept: derivatives with Manim</strong><br>
+<sub>Generate a narrated lesson with Manim and edge-tts. Python setup required.</sub><br>
+<a href="prompts/2103128559174971663.md#prompt-english">Copy prompt &amp; setup →</a>
+</td>
+</tr>
+</table>
 
 
 ## Recently added
