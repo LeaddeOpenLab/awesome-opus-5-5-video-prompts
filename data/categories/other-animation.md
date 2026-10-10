@@ -15,13 +15,19 @@
 <sub><a href="https://x.com/redbickey/status/2108685334343221621">Original post ↗</a> · <a href="../../prompts/2108685334343221621.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2108596616756416945.md"><img src="../gifs/2108596616756416945.gif" alt="Apple 50-Year History Motion Graphics Animation" width="256" height="144" /></a><br>
+<strong>Apple 50-Year History Motion Graphics Animation</strong><br>
+<sub>Use: Apple 50-Year Evolution Motion Graphics<br>Inputs: User inputs not specified by the author<br>Tools: Code-based Audio Synthesizer</sub><br>
+<sub><a href="https://x.com/aiRobertDaily/status/2108596616756416945">Original post ↗</a> · <a href="../../prompts/2108596616756416945.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="../../prompts/2108570435575222596.md"><img src="../gifs/2108570435575222596.gif" alt="Video as Code Kinetic Typography Promo" width="256" height="144" /></a><br>
 <strong>Video as Code Kinetic Typography Promo</strong><br>
 <sub>Use: Video as Code Promo<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/YuanXi901019/status/2108570435575222596">Original post ↗</a> · <a href="../../prompts/2108570435575222596.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108569413746335887.md"><img src="../gifs/2108569413746335887.gif" alt="Quantum Mechanics Motion Graphic Flash Video" width="256" height="144" /></a><br>
 <strong>Quantum Mechanics Motion Graphic Flash Video</strong><br>
@@ -34,19 +40,33 @@
 <sub>Use: Neutrino Astronomy 3D Scientific Explainer<br>Inputs: SRT timing file and lyrics about Nobel prize neutrino physics<br>Tools: Claude CLI / GLSL / 3D Graphics / Suno</sub><br>
 <sub><a href="https://x.com/beebidao/status/2108567783789515051">Original post ↗</a> · <a href="../../prompts/2108567783789515051.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108506248341856721.md"><img src="../gifs/2108506248341856721.gif" alt="Claude Opus 5.5 生成 AI 发展史动画视频" width="256" height="144" /></a><br>
 <strong>Claude Opus 5.5 生成 AI 发展史动画视频</strong><br>
 <sub>Use: AI 发展史动效科普视频<br>Inputs: 要求制作 AI 发展史介绍视频的一句话提示词<br>Tools: HTML + SVG Animation Engine / Speech &amp; Music Synthesizer / Video Encoder (H.264)</sub><br>
 <sub><a href="https://x.com/Nuseti5/status/2108506248341856721">Original post ↗</a> · <a href="../../prompts/2108506248341856721.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2108816708378988795.md"><img src="../gifs/2108816708378988795.gif" alt="Satisfying 3D Looping Animations via Claude Opus 5.5" width="256" height="144" /></a><br>
+<strong>Satisfying 3D Looping Animations</strong><br>
+<sub>Use: 3D Looping Animation<br>Inputs: Example reference images 1, 2, and 4<br>Tools: Tool setup not specified by the source</sub><br>
+<sub><a href="https://x.com/patrickassale/status/2108816708378988795">Original post ↗</a> · <a href="../../prompts/2108816708378988795.md">Prompt ↗</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="../../prompts/2108802612669891048.md"><img src="../gifs/2108802612669891048.gif" alt="Opus 5.5 Self-Introduction Motion Graphics Video" width="256" height="144" /></a><br>
 <strong>Opus 5.5 Self-Introduction Motion Graphics Video</strong><br>
 <sub>Use: Self-introduction Motion Graphics<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/olezhavich/status/2108802612669891048">Original post ↗</a> · <a href="../../prompts/2108802612669891048.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2108800422433415607.md"><img src="../gifs/2108800422433415607.gif" alt="Claude in Code Land Three.js Cartoon" width="256" height="144" /></a><br>
+<strong>Claude in Code Land Three.js Cartoon</strong><br>
+<sub>Use: Procedural 3D Cartoon Animation<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
+<sub><a href="https://x.com/meylon257/status/2108800422433415607">Original post ↗</a> · <a href="../../prompts/2108800422433415607.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2108758475606229025.md"><img src="../gifs/2108758475606229025.gif" alt="Fireworks Festival Comparison in HTML/Canvas" width="256" height="144" /></a><br>

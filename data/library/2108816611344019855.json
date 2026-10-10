@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-10T09:39:55.904Z",
+  "model": "opus5.5",
+  "prompt": "build a flying car you can drive, fly, sail and dive in a browser tab",
+  "promptTranslations": {
+    "en": "build a flying car you can drive, fly, sail and dive in a browser tab"
+  },
+  "summary": "Demonstration of an in-browser WebGL vehicle demo capable of driving, flying, sailing, and diving across four distinct environments, developed using Claude Code with Opus 5.5 and Three.js.",
+  "summaryEn": "Autonomous WebGL Flying Car Demo by Claude Code Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108816611344019855",
+    "canonicalUrl": "https://x.com/AakarDesai/status/2108816611344019855",
+    "author": {
+      "username": "AakarDesai",
+      "displayName": "Aakar",
+      "profileUrl": "https://x.com/AakarDesai"
+    },
+    "publishedAt": "2026-10-10T07:07:14.000Z",
+    "collectedAt": "2026-10-10T08:56:06.893Z",
+    "language": "en",
+    "originalText": "I asked AI to build a flying car you can drive, fly, sail and dive in a browser tab. \n\n19 hours of autonomous work later: 4 worlds, a real FFT ocean, scanned forests, coral reefs and whales.\n\nBuilt with @claudeai Claude Code (Opus 5.5) + @threejs https://t.co/NCv9IHSCMh",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AakarDesai/status/2108816611344019855",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108816448894468096/img/2HdNFBK9ErIZjy_i.jpg",
+        "analysisUrl": "https://x.com/AakarDesai/status/2108816611344019855"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 16
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest"
+    ]
+  },
+  "xUrl": "https://x.com/AakarDesai/status/2108816611344019855",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108816448894468096/img/2HdNFBK9ErIZjy_i.jpg",
+  "coverPath": "data/covers/2108816611344019855-wide.jpg",
+  "gifPath": "data/gifs/2108816611344019855.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108816448894468096",
+    "x-post:2108816611344019855"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Autonomous WebGL Flying Car Demo by Claude Code Opus 5.5",
+      "summary": "Demonstration of an in-browser WebGL vehicle demo capable of driving, flying, sailing, and diving across four distinct environments, developed using Claude Code with Opus 5.5 and Three.js.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Code",
+        "authorUseConfirmed": true,
+        "evidence": "Built with @claudeai Claude Code (Opus 5.5) + @threejs"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build a flying car you can drive, fly, sail and dive in a browser tab",
+        "englishText": "build a flying car you can drive, fly, sail and dive in a browser tab",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full session prompt history",
+          "World generation parameters",
+          "Physics and vehicle controller implementation details"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Video verifies 4 interactive worlds (Azure Archipelago, Frostveil Fjords, Ember Canyons, Aetheria) with driving, flight, water navigation, underwater diving, FFT ocean, and vehicle selector. Evaluated on a lower bitrate preview stream.",
+        "textualResultQuote": "4 worlds, a real FFT ocean, scanned forests, coral reefs and whales."
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Claude Code",
+          "role": "Autonomous agent orchestrating code generation and project assembly",
+          "evidence": "Built with @claudeai Claude Code (Opus 5.5) + @threejs",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/AakarDesai/status/2108816611344019855"
+        },
+        {
+          "name": "Three.js",
+          "role": "Client-side 3D WebGL renderer and scene graph",
+          "evidence": "Built with @claudeai Claude Code (Opus 5.5) + @threejs",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/AakarDesai/status/2108816611344019855"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D WebGL Vehicle Demo",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "webgl",
+          "claude-code",
+          "interactive-3d",
+          "autonomous-coding"
+        ]
+      },
+      "targetModelRole": "Autonomous software engineering agent writing Three.js rendering and simulation code over 19 hours",
+      "outputSource": "In-browser Three.js WebGL canvas execution",
+      "divisionEvidence": "Author confirms Claude Code (Opus 5.5) autonomously generated the project code while Three.js provided the runtime rendering engine.",
+      "video": {
+        "shots": "Continuous multi-scene gameplay and cinematic capture across 4 biomes",
+        "duration": "06:36",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Exemplary showcase of Claude Opus 5.5 running autonomously via Claude Code to produce an interactive 3D WebGL experience.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/AakarDesai/status/2108816611344019855",
+        "start": 14,
+        "end": 83
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/AakarDesai/status/2108816611344019855",
+        "author": "AakarDesai",
+        "postId": "2108816611344019855",
+        "publishedAt": "2026-10-10T07:07:14.000Z"
+      },
+      "checkedAt": "2026-10-10T08:45:53.083Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/AakarDesai/status/2108816611344019855",
+        "evidence": ""
+      }
+    },
+    "summary": "Demonstration of an in-browser WebGL vehicle demo capable of driving, flying, sailing, and diving across four distinct environments, developed using Claude Code with Opus 5.5 and Three.js.",
+    "summaryEn": "Autonomous WebGL Flying Car Demo by Claude Code Opus 5.5",
+    "originalPrompt": "build a flying car you can drive, fly, sail and dive in a browser tab",
+    "sourceRange": {
+      "start": 14,
+      "end": 83
+    },
+    "translations": {
+      "zh": "build a flying car you can drive, fly, sail and dive in a browser tab",
+      "en": "build a flying car you can drive, fly, sail and dive in a browser tab"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D WebGL Vehicle Demo",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full session prompt history",
+        "World generation parameters",
+        "Physics and vehicle controller implementation details"
+      ],
+      "evidence": "Video verifies 4 interactive worlds (Azure Archipelago, Frostveil Fjords, Ember Canyons, Aetheria) with driving, flight, water navigation, underwater diving, FFT ocean, and vehicle selector. Evaluated on a lower bitrate preview stream."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
