@@ -18,7 +18,7 @@ def relative_time(value):
         then = then.replace(tzinfo=timezone.utc)
     hours = max(0, int((datetime.now(timezone.utc) - then).total_seconds() // 3600))
     if hours == 0:
-        return 'LESS THAN 1 HOUR AGO'
+        return 'NOW'
     return f'{hours} HOUR{"S" if hours != 1 else ""} AGO'
 
 added = int(update.get('added', 0))
