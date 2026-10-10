@@ -2,7 +2,7 @@
 
 [![2000+ prompts — latest repository update](data/banner.svg)](#featured-creations)
 
-**[Explore the collection →](#browse-the-full-library)** · [Start with a prompt](#how-to-use) · [Latest additions](#recently-added)
+**[Explore the collection →](#browse-the-full-library)** · [Start with a prompt](#start-here) · [Latest additions](#recently-added)
 
 ## Featured creations
 
@@ -50,6 +50,29 @@
 </td>
 </tr>
 </table>
+
+
+## Start here
+
+Three starting points, chosen for clear instructions and distinct uses. Setup guidance below is editorial; these examples have not been reproduced by this repository.
+
+### [Easiest start: pixel-art wizard](prompts/2102476258948927543.md#prompt-english)
+
+**You need:** An Opus coding agent and a browser. The prompt asks for no external assets or libraries.
+
+**Try it:** Copy the prompt, ask the agent to save the generated code as an HTML file, then open it in your browser to view the looping animation.
+
+### [Your product: a 30-second business explainer](prompts/2103499977632997524.md#prompt-english)
+
+**You need:** An Opus coding agent, a browser, and a short description of your business, audience and brand colors.
+
+**Try it:** Copy the prompt and replace the bracketed business description. Ask the agent to save the result as an HTML file, then open it in your browser. This prompt requests a web animation; MP4 export is a separate step.
+
+### [Teach a concept: derivatives with Manim](prompts/2103128559174971663.md#prompt-english)
+
+**You need:** An Opus coding agent with Python, Manim and edge-tts available. Voice generation needs network access.
+
+**Try it:** Copy the prompt, ask the agent to create the animation and narration, then ask it to render and combine them and report the output video path. Open the exported video to review the lesson.
 
 
 ## Recently added
