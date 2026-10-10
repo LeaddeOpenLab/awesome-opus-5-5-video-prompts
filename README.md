@@ -2,6 +2,8 @@
 
 [![2000+ prompts — latest repository update](data/banner.svg)](#featured-creations)
 
+Explore Claude video prompts for product demos, motion graphics, educational animations and 3D scenes, including Remotion, Manim and Three.js workflows. Browse previews, copy shared prompts and check setup requirements.
+
 **[Explore the collection →](#browse-the-full-library)** · [Start with a prompt](#start-here) · [Latest additions](#recently-added)
 
 ## Featured creations
