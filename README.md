@@ -1,11 +1,85 @@
 # Awesome Opus 5.5 Video Prompts
 
-[![2000+ prompts — latest repository update](data/banner-20261010-094039.svg)](#featured-creations)
+[![2000+ prompts — latest repository update](data/banner-20261010-093643.svg)](#featured-creations)
 
 Explore Claude video prompts for product demos, motion graphics, educational animations and 3D scenes, including Remotion, Manim and Three.js workflows. Browse previews, copy shared prompts and check setup requirements.
 
 **[Explore the collection →](#browse-the-full-library)** · [Start with a prompt](#start-here) · [Latest additions](#recently-added)
 
+## Featured creations
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="prompts/2103449416325890146.md"><img src="data/gifs/2103449416325890146.gif" alt="Claude Opus 5.5 15-Second Motion Design Showreel via Remotion" width="100%" /></a><br>
+<strong>Claude Opus 5.5 15-Second Motion Design Showreel via Remotion</strong><br>
+
+<sub><a href="https://x.com/ajith_io/status/2103449416325890146">Original post ↗</a> · <a href="prompts/2103449416325890146.md">Prompt ↗</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="prompts/2103802923465768972.md"><img src="data/gifs/2103802923465768972.gif" alt="Vincent's Cats: 3D Starry Night Game" width="100%" /></a><br>
+<strong>Vincent's Cats: 3D Starry Night Game</strong><br>
+
+<sub><a href="https://x.com/MandelDuck/status/2103802923465768972">Original post ↗</a> · <a href="prompts/2103802923465768972.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="prompts/2103273003555402193.md"><img src="data/gifs/2103273003555402193.gif" alt="Code-Driven Looping UI Motion Graphics with Claude Opus 5.5" width="100%" /></a><br>
+<strong>Code-Driven Looping UI Motion Graphics</strong><br>
+
+<sub><a href="https://x.com/twoclipping/status/2103273003555402193">Original post ↗</a> · <a href="prompts/2103273003555402193.md">Prompt ↗</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="prompts/2103128559174971663.md"><img src="data/gifs/2103128559174971663.gif" alt="Manim Derivative Concept Educational Video Prompt" width="100%" /></a><br>
+<strong>Manim Derivative Concept Educational Video</strong><br>
+
+<sub><a href="https://x.com/LinearUncle/status/2103128559174971663">Original post ↗</a> · <a href="prompts/2103128559174971663.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="prompts/2102466523164274839.md"><img src="data/gifs/2102466523164274839.gif" alt="1906 San Francisco Market Street Blender Reconstruction" width="100%" /></a><br>
+<strong>1906 San Francisco Market Street Blender Reconstruction</strong><br>
+
+<sub><a href="https://x.com/alexalbert__/status/2102466523164274839">Original post ↗</a> · <a href="prompts/2102466523164274839.md">Prompt ↗</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="prompts/2102476258948927543.md"><img src="data/gifs/2102476258948927543.gif" alt="Animated Pixel Art Wizard in Canvas 2D" width="100%" /></a><br>
+<strong>Animated Pixel Art Wizard in Canvas 2D</strong><br>
+
+<sub><a href="https://x.com/majidmanzarpour/status/2102476258948927543">Original post ↗</a> · <a href="prompts/2102476258948927543.md">Prompt ↗</a></sub>
+</td>
+</tr>
+</table>
+
+
+## Start here
+
+Pick a result to try. Setup instructions are on each prompt page; these examples have not been reproduced by this repository.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="prompts/2102476258948927543.md"><img src="data/gifs/2102476258948927543.gif" alt="Easiest start: pixel-art wizard" width="100%" /></a><br>
+<strong>Easiest start: pixel-art wizard</strong><br>
+<sub>Copy the prompt, save one HTML file, and open it in your browser. No external assets.</sub><br>
+<a href="prompts/2102476258948927543.md#prompt-english">Copy prompt &amp; setup →</a>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103499977632997524.md"><img src="data/gifs/2103499977632997524.gif" alt="Your product: a 30-second business explainer" width="100%" /></a><br>
+<strong>Your product: a 30-second business explainer</strong><br>
+<sub>Replace the business description and brand colors, then preview the HTML animation.</sub><br>
+<a href="prompts/2103499977632997524.md#prompt-english">Copy prompt &amp; setup →</a>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103128559174971663.md"><img src="data/gifs/2103128559174971663.gif" alt="Teach a concept: derivatives with Manim" width="100%" /></a><br>
+<strong>Teach a concept: derivatives with Manim</strong><br>
+<sub>Generate a narrated lesson with Manim and edge-tts. Python setup required.</sub><br>
+<a href="prompts/2103128559174971663.md#prompt-english">Copy prompt &amp; setup →</a>
+</td>
+</tr>
+</table>
 
 
 ## Recently added
@@ -13,89 +87,260 @@ Explore Claude video prompts for product demos, motion graphics, educational ani
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="prompts/2108800422433415607.md"><img src="data/gifs/2108800422433415607.gif" alt="Claude in Code Land Three.js Cartoon" width="100%" /></a><br>
-<strong>Claude in Code Land Three.js Cartoon</strong><br>
+<a href="prompts/2108637690698633713.md"><img src="data/gifs/2108637690698633713.gif" alt="First-Person 3D Procedural Arms and Dynamic Grip Rigging in Three.js" width="100%" /></a><br>
+<strong>First-Person 3D Procedural Arms and Dynamic Grip Rigging in Thre…</strong><br>
 
-<sub><a href="https://x.com/meylon257/status/2108800422433415607">Original post ↗</a> · <a href="prompts/2108800422433415607.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/maxt3chno/status/2108637690698633713">Original post ↗</a> · <a href="prompts/2108637690698633713.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2108758920915452195.md"><img src="data/gifs/2108758920915452195.gif" alt="Attack on Titan ODM Gear in Minecraft" width="100%" /></a><br>
-<strong>Attack on Titan ODM Gear in Minecraft</strong><br>
+<a href="prompts/2108553430708990181.md"><img src="data/gifs/2108553430708990181.gif" alt="Retro 2D Zelda Game Built and Played by Claude Opus 5.5" width="100%" /></a><br>
+<strong>Retro 2D Zelda Game Built and Played</strong><br>
 
-<sub><a href="https://x.com/Enzoxbt01/status/2108758920915452195">Original post ↗</a> · <a href="prompts/2108758920915452195.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/IAenCrudo/status/2108553430708990181">Original post ↗</a> · <a href="prompts/2108553430708990181.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2108816708378988795.md"><img src="data/gifs/2108816708378988795.gif" alt="Satisfying 3D Looping Animations via Claude Opus 5.5" width="100%" /></a><br>
-<strong>Satisfying 3D Looping Animations</strong><br>
+<a href="prompts/2108611423421043095.md"><img src="data/gifs/2108611423421043095.gif" alt="Mario 64 in Elden Ring" width="100%" /></a><br>
+<strong>Mario 64 in Elden Ring</strong><br>
 
-<sub><a href="https://x.com/patrickassale/status/2108816708378988795">Original post ↗</a> · <a href="prompts/2108816708378988795.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/0xDeniAi/status/2108611423421043095">Original post ↗</a> · <a href="prompts/2108611423421043095.md">Prompt ↗</a></sub>
 </td>
 </tr>
 </table>
 
 ## Browse the full library
 
-- [Product & Brand Videos](data/categories/product-brand.md) (1)
-- [Motion Graphics & Typography](data/categories/motion-graphics.md) (8)
-- [UI & Web Animation](data/categories/ui-web.md) (0)
-- [Explainers & Education](data/categories/explainers.md) (5)
-- [Music & Storytelling](data/categories/music-storytelling.md) (0)
-- [3D Worlds & Simulations](data/categories/3d-scenes.md) (7)
-- [Games & Interactive Experiences](data/categories/games-interactive.md) (8)
+- [Product & Brand Videos](data/categories/product-brand.md) (67)
+- [Motion Graphics & Typography](data/categories/motion-graphics.md) (214)
+- [UI & Web Animation](data/categories/ui-web.md) (14)
+- [Explainers & Education](data/categories/explainers.md) (66)
+- [Music & Storytelling](data/categories/music-storytelling.md) (25)
+- [3D Worlds & Simulations](data/categories/3d-scenes.md) (66)
+- [Games & Interactive Experiences](data/categories/games-interactive.md) (64)
 
-0 homepage picks · Original creator links on every card.
+30 homepage picks · Original creator links on every card.
 
 ## Product & Brand Videos — homepage picks
 
-New video + public prompt pairs are on the way.
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="prompts/2103846311149936736.md"><img src="data/gifs/2103846311149936736.gif" alt="Product Promo Video Generation Prompt" width="100%" /></a><br>
+<strong>Product Promo Video Generation</strong><br>
 
-[Browse all 1 product & brand videos →](data/categories/product-brand.md)
+<sub><a href="https://x.com/felipemoller/status/2103846311149936736">Original post ↗</a> · <a href="prompts/2103846311149936736.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2102554209166000267.md"><img src="data/gifs/2102554209166000267.gif" alt="Code-Driven Motion Design Video Prompt" width="100%" /></a><br>
+<strong>Code-Driven Motion Design Video</strong><br>
+
+<sub><a href="https://x.com/twoclipping/status/2102554209166000267">Original post ↗</a> · <a href="prompts/2102554209166000267.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103835273813496100.md"><img src="data/gifs/2103835273813496100.gif" alt="Code-Based Apple-Style Keynote Motion Design Prompt" width="100%" /></a><br>
+<strong>Code-Based Apple-Style Keynote Motion Design</strong><br>
+
+<sub><a href="https://x.com/twoclipping/status/2103835273813496100">Original post ↗</a> · <a href="prompts/2103835273813496100.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="prompts/2103746736980378066.md"><img src="data/gifs/2103746736980378066.gif" alt="Opus 5.5 Ad Inspired by Apple 1984" width="100%" /></a><br>
+<strong>Opus 5.5 Ad Inspired by Apple 1984</strong><br>
+
+<sub><a href="https://x.com/1littlecoder/status/2103746736980378066">Original post ↗</a> · <a href="prompts/2103746736980378066.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103845264649761062.md"><img src="data/gifs/2103845264649761062.gif" alt="Remotion Product Intro Prompt" width="100%" /></a><br>
+<strong>Remotion Product Intro</strong><br>
+
+<sub><a href="https://x.com/HO_BA/status/2103845264649761062">Original post ↗</a> · <a href="prompts/2103845264649761062.md">Prompt ↗</a></sub>
+</td><td></td>
+</tr>
+</table>
+
+[Browse all 67 product & brand videos →](data/categories/product-brand.md)
 
 ## Motion Graphics & Typography — homepage picks
 
-New video + public prompt pairs are on the way.
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="prompts/2103129343253778767.md"><img src="data/gifs/2103129343253778767.gif" alt="Infinite Zoom Vintage Collage Animation Prompt" width="100%" /></a><br>
+<strong>Infinite Zoom Vintage Collage Animation</strong><br>
 
-[Browse all 8 motion graphics & typography →](data/categories/motion-graphics.md)
+<sub><a href="https://x.com/koldo2k/status/2103129343253778767">Original post ↗</a> · <a href="prompts/2103129343253778767.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103801834930606193.md"><img src="data/gifs/2103801834930606193.gif" alt="Spotify-Themed Motion Design Prompt" width="100%" /></a><br>
+<strong>Spotify-Themed Motion Design</strong><br>
+
+<sub><a href="https://x.com/brainextends/status/2103801834930606193">Original post ↗</a> · <a href="prompts/2103801834930606193.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103124033365762215.md"><img src="data/gifs/2103124033365762215.gif" alt="Four Seasons Train Window Animation" width="100%" /></a><br>
+<strong>Four Seasons Train Window Animation</strong><br>
+
+<sub><a href="https://x.com/itsolelehmann/status/2103124033365762215">Original post ↗</a> · <a href="prompts/2103124033365762215.md">Prompt ↗</a></sub>
+</td>
+</tr>
+</table>
+
+[Browse all 214 motion graphics & typography →](data/categories/motion-graphics.md)
 
 ## UI & Web Animation — homepage picks
 
-New video + public prompt pairs are on the way.
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="prompts/2104471436039803295.md"><img src="data/gifs/2104471436039803295.gif" alt="Three.js 15s 3D Motion Graphics" width="100%" /></a><br>
+<strong>Three.js 15s 3D Motion Graphics</strong><br>
 
-[Browse all 0 ui & web animation →](data/categories/ui-web.md)
+<sub><a href="https://x.com/hiro19_k/status/2104471436039803295">Original post ↗</a> · <a href="prompts/2104471436039803295.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103820321673675031.md"><img src="data/gifs/2103820321673675031.gif" alt="Auren Header Scroll-Scrubbed Hero Section" width="100%" /></a><br>
+<strong>Auren Header Scroll-Scrubbed Hero Section</strong><br>
+
+<sub><a href="https://x.com/iamtanzil_/status/2103820321673675031">Original post ↗</a> · <a href="prompts/2103820321673675031.md">Prompt ↗</a></sub>
+</td><td></td>
+</tr>
+</table>
+
+[Browse all 14 ui & web animation →](data/categories/ui-web.md)
 
 ## Explainers & Education — homepage picks
 
-New video + public prompt pairs are on the way.
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="prompts/2103688362960019567.md"><img src="data/gifs/2103688362960019567.gif" alt="Recursion Explanation Video Prompt" width="100%" /></a><br>
+<strong>Recursion Explanation Video</strong><br>
 
-[Browse all 5 explainers & education →](data/categories/explainers.md)
+<sub><a href="https://x.com/emollick/status/2103688362960019567">Original post ↗</a> · <a href="prompts/2103688362960019567.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103678647777230877.md"><img src="data/gifs/2103678647777230877.gif" alt="Japan Summer Weather Visualization" width="100%" /></a><br>
+<strong>Japan Summer Weather Visualization</strong><br>
+
+<sub><a href="https://x.com/GroundControl/status/2103678647777230877">Original post ↗</a> · <a href="prompts/2103678647777230877.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103629247751618782.md"><img src="data/gifs/2103629247751618782.gif" alt="Photon Journey Explainer Animation" width="100%" /></a><br>
+<strong>Photon Journey Explainer Animation</strong><br>
+
+<sub><a href="https://x.com/AstroTheWizard/status/2103629247751618782">Original post ↗</a> · <a href="prompts/2103629247751618782.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="prompts/2102853258582880547.md"><img src="data/gifs/2102853258582880547.gif" alt="Negroni Cocktail Explainer Motion Graphic in HTML" width="100%" /></a><br>
+<strong>Negroni Cocktail Explainer Motion Graphic in HTML</strong><br>
+
+<sub><a href="https://x.com/Ror_Fly/status/2102853258582880547">Original post ↗</a> · <a href="prompts/2102853258582880547.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2104542961081983435.md"><img src="data/gifs/2104542961081983435.gif" alt="Educational Motion-Graphics on Recursive AI Agent Limitations" width="100%" /></a><br>
+<strong>Educational Motion-Graphics on Recursive AI Agent Limitations</strong><br>
+
+<sub><a href="https://x.com/M_Adrian2/status/2104542961081983435">Original post ↗</a> · <a href="prompts/2104542961081983435.md">Prompt ↗</a></sub>
+</td><td></td>
+</tr>
+</table>
+
+[Browse all 66 explainers & education →](data/categories/explainers.md)
 
 ## Music & Storytelling — homepage picks
 
-New video + public prompt pairs are on the way.
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="prompts/2103697580421181894.md"><img src="data/gifs/2103697580421181894.gif" alt="Animated Music Video Prompt for Claude Opus" width="100%" /></a><br>
+<strong>Animated Music Video Prompt for Claude Opus</strong><br>
 
-[Browse all 0 music & storytelling →](data/categories/music-storytelling.md)
+<sub><a href="https://x.com/doubleunplussed/status/2103697580421181894">Original post ↗</a> · <a href="prompts/2103697580421181894.md">Prompt ↗</a></sub>
+</td><td></td><td></td>
+</tr>
+</table>
+
+[Browse all 25 music & storytelling →](data/categories/music-storytelling.md)
 
 ## 3D Worlds & Simulations — homepage picks
 
-New video + public prompt pairs are on the way.
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="prompts/2103194052850241739.md"><img src="data/gifs/2103194052850241739.gif" alt="Cinematic Browser-Based 3D World Prompt" width="100%" /></a><br>
+<strong>Cinematic Browser-Based 3D World</strong><br>
 
-[Browse all 7 3d worlds & simulations →](data/categories/3d-scenes.md)
+<sub><a href="https://x.com/LexnLin/status/2103194052850241739">Original post ↗</a> · <a href="prompts/2103194052850241739.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103119648271290566.md"><img src="data/gifs/2103119648271290566.gif" alt="Pelican Riding a Bicycle Animation" width="100%" /></a><br>
+<strong>Pelican Riding a Bicycle Animation</strong><br>
+
+<sub><a href="https://x.com/AxtonLiu/status/2103119648271290566">Original post ↗</a> · <a href="prompts/2103119648271290566.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2104514806443303238.md"><img src="data/gifs/2104514806443303238.gif" alt="Interactive WebGPU Strawberry Cake Soft-Body Physics" width="100%" /></a><br>
+<strong>Interactive WebGPU Strawberry Cake Soft-Body Physics</strong><br>
+
+<sub><a href="https://x.com/ImaStudio_ai/status/2104514806443303238">Original post ↗</a> · <a href="prompts/2104514806443303238.md">Prompt ↗</a></sub>
+</td>
+</tr>
+</table>
+
+[Browse all 66 3d worlds & simulations →](data/categories/3d-scenes.md)
 
 ## Games & Interactive Experiences — homepage picks
 
-New video + public prompt pairs are on the way.
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="prompts/2103804606794879327.md"><img src="data/gifs/2103804606794879327.gif" alt="3D Star Wars Multiplayer Game Prompt" width="100%" /></a><br>
+<strong>3D Star Wars Multiplayer Game</strong><br>
 
-[Browse all 8 games & interactive experiences →](data/categories/games-interactive.md)
+<sub><a href="https://x.com/0xChuckstock/status/2103804606794879327">Original post ↗</a> · <a href="prompts/2103804606794879327.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103789415323562325.md"><img src="data/gifs/2103789415323562325.gif" alt="Police Chase Arcade Game PRD Prompt" width="100%" /></a><br>
+<strong>Police Chase Arcade Game PRD</strong><br>
+
+<sub><a href="https://x.com/froessell/status/2103789415323562325">Original post ↗</a> · <a href="prompts/2103789415323562325.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2103763192971461057.md"><img src="data/gifs/2103763192971461057.gif" alt="Pixel Art Hearthstone-Style Card Game Prompt" width="100%" /></a><br>
+<strong>Pixel Art Hearthstone-Style Card Game</strong><br>
+
+<sub><a href="https://x.com/aisongman/status/2103763192971461057">Original post ↗</a> · <a href="prompts/2103763192971461057.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="prompts/2104520072014508316.md"><img src="data/gifs/2104520072014508316.gif" alt="Interactive 2D/3D Floor Plan and Interior Design Web Tool" width="100%" /></a><br>
+<strong>Interactive 2D/3D Floor Plan and Interior Design Web Tool</strong><br>
+
+<sub><a href="https://x.com/akokoi1/status/2104520072014508316">Original post ↗</a> · <a href="prompts/2104520072014508316.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2104189915693269112.md"><img src="data/gifs/2104189915693269112.gif" alt="Interactive Rain Window Calming App" width="100%" /></a><br>
+<strong>Interactive Rain Window Calming App</strong><br>
+
+<sub><a href="https://x.com/d_llm_kr/status/2104189915693269112">Original post ↗</a> · <a href="prompts/2104189915693269112.md">Prompt ↗</a></sub>
+</td><td></td>
+</tr>
+</table>
+
+[Browse all 64 games & interactive experiences →](data/categories/games-interactive.md)
 
 <details>
 <summary>Browse by tool</summary>
 
-- [canvas-interactive](data/categories/canvas-interactive.md) — 8
-- [manim](data/categories/manim.md) — 0
-- [remotion](data/categories/remotion.md) — 0
-- [blender](data/categories/blender.md) — 0
-- [external-video-model](data/categories/external-video-model.md) — 1
-- [other-animation](data/categories/other-animation.md) — 20
+- [canvas-interactive](data/categories/canvas-interactive.md) — 64
+- [manim](data/categories/manim.md) — 2
+- [remotion](data/categories/remotion.md) — 10
+- [blender](data/categories/blender.md) — 7
+- [external-video-model](data/categories/external-video-model.md) — 7
+- [other-animation](data/categories/other-animation.md) — 427
 
 </details>
 

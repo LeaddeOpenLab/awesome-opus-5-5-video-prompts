@@ -23,8 +23,12 @@ def relative_time(value):
 
 added = int(update.get('added', 0))
 addition_date = str(update.get('date', ''))
-history = json.loads(os.environ.get('BANNER_UPDATES', '[]'))
-if os.environ.get('GITHUB_TOKEN'):
+# Published batch metadata is authoritative, including editorial withdrawals.
+history = [{'date': item['date'], 'added': item['published']}
+           for item in update.get('history', [])]
+if not history:
+    history = json.loads(os.environ.get('BANNER_UPDATES', '[]'))
+if not history and os.environ.get('GITHUB_TOKEN'):
     repo = os.environ['GITHUB_REPOSITORY']
     req = urllib.request.Request(
         f'https://api.github.com/repos/{repo}/commits?path=data%2Flibrary&per_page=30',
