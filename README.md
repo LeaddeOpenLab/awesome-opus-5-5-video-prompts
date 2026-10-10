@@ -8,39 +8,41 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <a href="prompts/2103449416325890146.md"><img src="data/gifs/2103449416325890146.gif" alt="Claude Opus 5.5 15-Second Motion Design Showreel via Remotion" width="100%" /></a><br>
 <strong>Claude Opus 5.5 15-Second Motion Design Showreel via Remotion</strong><br>
 
 <sub><a href="https://x.com/ajith_io/status/2103449416325890146">Original post ↗</a> · <a href="prompts/2103449416325890146.md">Prompt ↗</a></sub>
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <a href="prompts/2103802923465768972.md"><img src="data/gifs/2103802923465768972.gif" alt="Vincent's Cats: 3D Starry Night Game" width="100%" /></a><br>
 <strong>Vincent's Cats: 3D Starry Night Game</strong><br>
 
 <sub><a href="https://x.com/MandelDuck/status/2103802923465768972">Original post ↗</a> · <a href="prompts/2103802923465768972.md">Prompt ↗</a></sub>
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="prompts/2103273003555402193.md"><img src="data/gifs/2103273003555402193.gif" alt="Code-Driven Looping UI Motion Graphics with Claude Opus 5.5" width="100%" /></a><br>
 <strong>Code-Driven Looping UI Motion Graphics</strong><br>
 
 <sub><a href="https://x.com/twoclipping/status/2103273003555402193">Original post ↗</a> · <a href="prompts/2103273003555402193.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <a href="prompts/2103128559174971663.md"><img src="data/gifs/2103128559174971663.gif" alt="Manim Derivative Concept Educational Video Prompt" width="100%" /></a><br>
 <strong>Manim Derivative Concept Educational Video</strong><br>
 
 <sub><a href="https://x.com/LinearUncle/status/2103128559174971663">Original post ↗</a> · <a href="prompts/2103128559174971663.md">Prompt ↗</a></sub>
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="prompts/2102466523164274839.md"><img src="data/gifs/2102466523164274839.gif" alt="1906 San Francisco Market Street Blender Reconstruction" width="100%" /></a><br>
 <strong>1906 San Francisco Market Street Blender Reconstruction</strong><br>
 
 <sub><a href="https://x.com/alexalbert__/status/2102466523164274839">Original post ↗</a> · <a href="prompts/2102466523164274839.md">Prompt ↗</a></sub>
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <a href="prompts/2102476258948927543.md"><img src="data/gifs/2102476258948927543.gif" alt="Animated Pixel Art Wizard in Canvas 2D" width="100%" /></a><br>
 <strong>Animated Pixel Art Wizard in Canvas 2D</strong><br>
 
@@ -48,7 +50,6 @@
 </td>
 </tr>
 </table>
-
 
 ## Recently added
 
