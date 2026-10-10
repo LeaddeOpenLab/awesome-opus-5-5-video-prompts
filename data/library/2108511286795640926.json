@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "storedAt": "2026-10-09T11:58:00.957Z",
+  "storedAt": "2026-10-10T08:33:31.200Z",
   "model": "opus5.5",
   "prompt": "build a 3D elephant in one HTML file with Three.js. Fully procedural, no assets.",
   "promptTranslations": {
     "en": "build a 3D elephant in one HTML file with Three.js. Fully procedural, no assets."
   },
-  "summary": "Comparison of procedural 3D elephant generations across Claude models, including Claude Opus 5.5 writing a single self-contained HTML file using Three.js without external assets.",
-  "summaryEn": "Procedural 3D Elephant with Three.js",
+  "summary": "Comparison of Claude models generating a procedural 3D elephant in a single HTML file using Three.js without external assets, showcasing Opus 5.5's code generation and rendering performance.",
+  "summaryEn": "Procedural 3D Elephant in Three.js with Claude Opus 5.5",
   "post": {
     "postKind": "original",
     "repostOf": null,
@@ -20,7 +20,7 @@
       "profileUrl": "https://x.com/Thusatharan"
     },
     "publishedAt": "2026-10-09T10:53:59.000Z",
-    "collectedAt": "2026-10-09T11:14:23.213Z",
+    "collectedAt": "2026-10-10T07:38:28.208Z",
     "language": "en",
     "originalText": "Same prompt, 4 Claude models: build a 3D elephant in one HTML file with Three.js. Fully procedural, no assets.\n\nBuild time · tokens\nFable 5.1: 21m 21s · 61.9k\nOpus 5.5: 6m 38s · 72.7k\nHaiku 5.5: 1m 59s · 57.4k\nSonnet 5.5: 29s · 35.6k\n\nWhich elephant wins? 👇 https://t.co/iHeCSrGtZl",
     "media": [
@@ -36,11 +36,10 @@
       "repostCount": 0,
       "replyCount": 1,
       "quoteCount": 0,
-      "viewCount": 24
+      "viewCount": 152
     },
     "matchedRuleIds": [
-      "group:opus:en:Latest",
-      "group:opus:en:Top:tasks"
+      "group:opus:en:Top:backfill24h"
     ],
     "sourceMaterials": [
       {
@@ -51,7 +50,7 @@
       },
       {
         "url": "https://x.com/Thusatharan/status/2108511286795640926",
-        "text": "Thusatharan on X: \"Same prompt, 4 Claude models: build a 3D elephant in one HTML file with Three.js. Fully procedural, no assets.\n\nBuild time · tokens\nFable 5.1: 21m 21s · 61.9k\nOpus 5.5: 6m 38s · 72.7k\nHaiku 5.5: 1m 59s · 57.4k\nSonnet 5.5: 29s · 35.6k\n\nWhich elephant wins? 👇\" / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nThusatharan on X: \"Same prompt, 4 Claude models: build a 3D elephant in one HTML file with Three.js. Fully procedural, no assets.\n\nBuild time · tokens\nFable 5.1: 21m 21s · 61.9k\nOpus 5.5: 6m 38s · 72.7k\nHaiku 5.5: 1m 59s · 57.4k\nSonnet 5.5: 29s · 35.6k\n\nWhich elephant wins? 👇\"\n\n\n\nThusatharan\n\n@Thusatharan\n\n\n\n\nSame prompt, 4 Claude models: build a 3D elephant in one HTML file with Three.js. Fully procedural, no assets.\n\nBuild time · tokens\nFable 5.1: 21m 21s · 61.9k\nOpus 5.5: 6m 38s · 72.7k\nHaiku 5.5: 1m 59s · 57.4k\nSonnet 5.5: 29s · 35.6k\n\nWhich elephant wins? 👇\n\n\n00:00\n\n\n\n\n\n\n\n\n10:53 AM · Oct 9, 2026·34\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nThusatharan@ThusatharanFollow\nSharing what I build with Flutter, Laravel, AI & Blender. Daily.\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThusatharan\n\n@Thusatharan\n\n\n\n\nSame prompt, 4 Claude models: build a 3D elephant in one HTML file with Three.js. Fully procedural, no assets.\n\nBuild time · tokens\nFable 5.1: 21m 21s · 61.9k\nOpus 5.5: 6m 38s · 72.7k\nHaiku 5.5: 1m 59s · 57.4k\nSonnet 5.5: 29s · 35.6k\n\nWhich elephant wins? 👇\n\n\n00:00\n\n\n\n\n\n\n\n\n10:53 AM · Oct 9, 2026·34\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\nThusatharan\n\n@Thusatharan\n20m\n\n\nFable took nearly 90x longer than Sonnet. \nSonnet finished in just 29 seconds, while Fable took 21 minutes.\n\n\n\n\n\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "text": "Thusatharan on X: \"Same prompt, 4 Claude models: build a 3D elephant in one HTML file with Three.js. Fully procedural, no assets.\n\nBuild time · tokens\nFable 5.1: 21m 21s · 61.9k\nOpus 5.5: 6m 38s · 72.7k\nHaiku 5.5: 1m 59s · 57.4k\nSonnet 5.5: 29s · 35.6k\n\nWhich elephant wins? 👇\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nThusatharan on X: \"Same prompt, 4 Claude models: build a 3D elephant in one HTML file with Three.js. Fully procedural, no assets.\n\nBuild time · tokens\nFable 5.1: 21m 21s · 61.9k\nOpus 5.5: 6m 38s · 72.7k\nHaiku 5.5: 1m 59s · 57.4k\nSonnet 5.5: 29s · 35.6k\n\nWhich elephant wins? 👇\"\n\n\n\nThusatharan\n\n@Thusatharan\n\n\n\n\nSame prompt, 4 Claude models: build a 3D elephant in one HTML file with Three.js. Fully procedural, no assets.\n\nBuild time · tokens\nFable 5.1: 21m 21s · 61.9k\nOpus 5.5: 6m 38s · 72.7k\nHaiku 5.5: 1m 59s · 57.4k\nSonnet 5.5: 29s · 35.6k\n\nWhich elephant wins? 👇\n\n\n00:00\n\n\n\n\n\n\n\n\n10:53 AM · Oct 9, 2026·152\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nThusatharan@ThusatharanFollow\nSharing what I build with Flutter, Laravel, AI & Blender. Daily.\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThusatharan\n\n@Thusatharan\n\n\n\n\nSame prompt, 4 Claude models: build a 3D elephant in one HTML file with Three.js. Fully procedural, no assets.\n\nBuild time · tokens\nFable 5.1: 21m 21s · 61.9k\nOpus 5.5: 6m 38s · 72.7k\nHaiku 5.5: 1m 59s · 57.4k\nSonnet 5.5: 29s · 35.6k\n\nWhich elephant wins? 👇\n\n\n00:00\n\n\n\n\n\n\n\n\n10:53 AM · Oct 9, 2026·152\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\nThusatharan\n\n@Thusatharan\n21h\n\n\nFable took nearly 90x longer than Sonnet. \nSonnet finished in just 29 seconds, while Fable took 21 minutes.\n\n\n\n\n\n46\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
         "kind": "linked_public_material",
         "author": "Thusatharan"
       }
@@ -78,15 +77,15 @@
   "analysis": {
     "caseEvidence": {
       "group": "opus",
-      "title": "Procedural 3D Elephant with Three.js",
-      "summary": "Comparison of procedural 3D elephant generations across Claude models, including Claude Opus 5.5 writing a single self-contained HTML file using Three.js without external assets.",
+      "title": "Procedural 3D Elephant in Three.js with Claude Opus 5.5",
+      "summary": "Comparison of Claude models generating a procedural 3D elephant in a single HTML file using Three.js without external assets, showcasing Opus 5.5's code generation and rendering performance.",
       "sourceRelation": "original",
       "model": {
         "name": "Claude Opus",
         "version": "5.5",
         "platform": "Anthropic",
         "authorUseConfirmed": true,
-        "evidence": "\"Opus 5.5: 6m 38s · 72.7k\""
+        "evidence": "Opus 5.5: 6m 38s · 72.7k"
       },
       "prompt": {
         "status": "fragment",
@@ -95,22 +94,29 @@
         "complete": false,
         "reproducible": false,
         "missing": [
-          "Exact system prompt or detailed environment setup",
-          "Camera setup, lighting parameters, and animation loop requirements if specified separately"
+          "Exact system prompt and conversational scaffolding",
+          "Specific animation and scene setup directives"
         ]
       },
       "result": {
         "kind": "screen_recording",
         "consistent": true,
-        "evidence": "The video shows a 4-split interactive screen recording of procedural 3D elephants rendered in WebGL/Three.js, with the top-right viewport displaying Opus 5.5's animated elephant model in a savanna scene. Note: Video evaluation was conducted on a lower-bitrate/resolution version as supplied.",
-        "textualResultQuote": "Build time · tokens\nFable 5.1: 21m 21s · 61.9k\nOpus 5.5: 6m 38s · 72.7k\nHaiku 5.5: 1m 59s · 57.4k\nSonnet 5.5: 29s · 35.6k"
+        "evidence": "Screen recording displays a quadrant benchmark of procedural 3D elephants rendered in WebGL via Three.js, with Opus 5.5 running in the top-right quadrant (evaluated on lower bitrate preview media).",
+        "textualResultQuote": ""
       },
       "inputs": [],
       "inputsDocumented": true,
       "tools": [
         {
+          "name": "HTML / Browser WebGL",
+          "role": "Execution container for the generated single-file web application",
+          "evidence": "in one HTML file with Three.js",
+          "sourceUrl": "https://x.com/Thusatharan/status/2108511286795640926",
+          "status": "author_confirmed"
+        },
+        {
           "name": "Three.js",
-          "role": "WebGL 3D rendering library executed inside a single HTML file",
+          "role": "WebGL 3D rendering library",
           "evidence": "build a 3D elephant in one HTML file with Three.js. Fully procedural, no assets.",
           "sourceUrl": "https://x.com/Thusatharan/status/2108511286795640926",
           "status": "author_confirmed"
@@ -124,28 +130,28 @@
         }
       ],
       "purpose": {
-        "label": "Procedural 3D Elephant Scene",
+        "label": "Procedural 3D Scene Generation",
         "topic": "3d-scenes",
         "tags": [
           "threejs",
-          "procedural-generation",
           "webgl",
-          "3d-animation",
-          "creative-coding"
+          "procedural",
+          "creative-coding",
+          "benchmark"
         ]
       },
-      "targetModelRole": "Generates the complete procedural Three.js HTML and JavaScript code defining the 3D geometry, materials, scene, and motion",
-      "outputSource": "Web browser WebGL renderer executing the Three.js code",
-      "divisionEvidence": "\"build a 3D elephant in one HTML file with Three.js. Fully procedural, no assets.\"",
+      "targetModelRole": "Wrote procedural Three.js JavaScript and HTML code creating the 3D mesh geometry, textures, lighting, and animations.",
+      "outputSource": "Web browser executing the Claude-generated Three.js HTML file",
+      "divisionEvidence": "Author notes: 'Same prompt, 4 Claude models: build a 3D elephant in one HTML file with Three.js. Fully procedural, no assets.'",
       "video": {
-        "shots": "single",
+        "shots": "1",
         "duration": "44s",
         "aspectRatio": "16:9",
         "referenceMaterials": []
       },
       "task": "canvas-interactive",
       "suitable": true,
-      "reason": "Direct demonstration of Claude Opus 5.5 writing code to produce an animated procedural 3D scene in Three.js, supported by a video screen recording.",
+      "reason": "Provides direct screen recording evidence of Claude Opus 5.5 orchestrating and generating procedural 3D interactive graphics via Three.js.",
       "isAdvertisement": false,
       "promptSource": {
         "url": "https://x.com/Thusatharan/status/2108511286795640926",
@@ -159,13 +165,12 @@
         "postId": "2108511286795640926",
         "publishedAt": "2026-10-09T10:53:59.000Z"
       },
-      "checkedAt": "2026-10-09T11:33:08.097Z",
+      "checkedAt": "2026-10-10T08:26:35.363Z",
       "checkMethod": "video",
       "publication": {
         "tier": "reference",
         "status": "publishable",
         "reasons": [
-          "author_model_use_unverified",
           "prompt_disclosure_requires_editor_review:fragment",
           "incomplete_or_unreproducible_prompt",
           "opus_tool_responsibilities_unverified"
@@ -182,8 +187,8 @@
         "evidence": ""
       }
     },
-    "summary": "Comparison of procedural 3D elephant generations across Claude models, including Claude Opus 5.5 writing a single self-contained HTML file using Three.js without external assets.",
-    "summaryEn": "Procedural 3D Elephant with Three.js",
+    "summary": "Comparison of Claude models generating a procedural 3D elephant in a single HTML file using Three.js without external assets, showcasing Opus 5.5's code generation and rendering performance.",
+    "summaryEn": "Procedural 3D Elephant in Three.js with Claude Opus 5.5",
     "originalPrompt": "build a 3D elephant in one HTML file with Three.js. Fully procedural, no assets.",
     "sourceRange": {
       "start": 30,
@@ -197,7 +202,7 @@
       "opus5.5"
     ],
     "category": "canvas-interactive",
-    "useCase": "Procedural 3D Elephant Scene",
+    "useCase": "Procedural 3D Scene Generation",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",
@@ -206,10 +211,10 @@
       "reproducible": false,
       "matchesMedia": true,
       "missingElements": [
-        "Exact system prompt or detailed environment setup",
-        "Camera setup, lighting parameters, and animation loop requirements if specified separately"
+        "Exact system prompt and conversational scaffolding",
+        "Specific animation and scene setup directives"
       ],
-      "evidence": "The video shows a 4-split interactive screen recording of procedural 3D elephants rendered in WebGL/Three.js, with the top-right viewport displaying Opus 5.5's animated elephant model in a savanna scene. Note: Video evaluation was conducted on a lower-bitrate/resolution version as supplied."
+      "evidence": "Screen recording displays a quadrant benchmark of procedural 3D elephants rendered in WebGL via Three.js, with Opus 5.5 running in the top-right quadrant (evaluated on lower bitrate preview media)."
     },
     "isAdvertisement": false,
     "riskFlags": {

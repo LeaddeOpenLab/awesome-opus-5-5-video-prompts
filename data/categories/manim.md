@@ -1,20 +1,5 @@
 # manim
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<a href="../../prompts/2104957026199900220.md"><img src="../gifs/2104957026199900220.gif" alt="Agentic Neocloud Business Explainer Video via Claude Code and Opus 5.5" width="256" height="144" /></a><br>
-<strong>Agentic Neocloud Business Explainer Video via Claude Code and Op…</strong><br>
-<sub>Use: Neocloud business explainer<br>Inputs: CoreWeave Form 10-K fiscal year 2025 report data, model.py, and assumptions.yaml referenced in video footers<br>Tools: Claude Code / ElevenLabs / ffmpeg / Gemini 3.8 TTS / Manim / Hyperframes / Motion Canvas / OpenRouter API / OpenTimelineIO</sub><br>
-<sub><a href="https://x.com/deedydas/status/2104957026199900220">Original post ↗</a> · <a href="../../prompts/2104957026199900220.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="../../prompts/2103128559174971663.md"><img src="../gifs/2103128559174971663.gif" alt="Manim Derivative Concept Educational Video Prompt" width="256" height="144" /></a><br>
-<strong>Manim Derivative Concept Educational Video</strong><br>
-<sub>Use: Derivative concept lesson<br>Inputs: User inputs not specified by the author<br>Tools: edge-tts / Manim</sub><br>
-<sub><a href="https://x.com/LinearUncle/status/2103128559174971663">Original post ↗</a> · <a href="../../prompts/2103128559174971663.md">Prompt ↗</a></sub>
-</td><td></td>
-</tr>
-</table>
+New video + public prompt pairs are on the way.
 
 [All tasks](../../README.md)
