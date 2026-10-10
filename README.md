@@ -1,11 +1,6 @@
 # Awesome Opus 5.5 Video Prompts
 
-**500+ Opus 5.5 Video Examples & Prompts**  
-A massive, growing collection of videos, animations, and interactive demos.
-
-| Examples | Categories | Latest addition | Added |
-| :---: | :---: | :---: | :---: |
-| **507** | **4** | **2026-10-10** | **+18** |
+[![2000+ prompts — latest repository update](data/banner.svg)](#featured-creations)
 
 **[Explore the collection →](#browse-the-full-library)** · [Start with a prompt](#how-to-use) · [Latest additions](#recently-added)
 
