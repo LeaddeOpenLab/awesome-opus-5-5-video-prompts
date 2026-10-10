@@ -1,6 +1,6 @@
 # Awesome Opus 5.5 Video Prompts
 
-[![2000+ prompts — latest repository update](data/banner.svg?v=batch-18)](#featured-creations)
+[![2000+ prompts — latest repository update](data/banner-20261010-094039.svg)](#featured-creations)
 
 Explore Claude video prompts for product demos, motion graphics, educational animations and 3D scenes, including Remotion, Manim and Three.js workflows. Browse previews, copy shared prompts and check setup requirements.
 
