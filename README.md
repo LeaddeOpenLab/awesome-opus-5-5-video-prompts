@@ -1,6 +1,6 @@
 # Awesome Opus 5.5 Video Prompts
 
-[![2000+ prompts — latest repository update](data/banner-20261010-170042.svg)](#featured-creations)
+[![2000+ prompts — latest repository update](data/banner.svg?v=batch-18)](#featured-creations)
 
 Explore Claude video prompts for product demos, motion graphics, educational animations and 3D scenes, including Remotion, Manim and Three.js workflows. Browse previews, copy shared prompts and check setup requirements.
 
@@ -87,35 +87,35 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="prompts/2107128920407502910.md"><img src="data/gifs/2107128920407502910.gif" alt="Verify Loop Agentic Music Video by Opus 5.5" width="100%" /></a><br>
-<strong>Verify Loop Agentic Music Video by Opus 5.5</strong><br>
+<a href="prompts/2107594959666728991.md"><img src="data/gifs/2107594959666728991.gif" alt="Polymarket Election Odds Explainer Video via HyperFrames" width="100%" /></a><br>
+<strong>Polymarket Election Odds Explainer Video via HyperFrames</strong><br>
 
-<sub><a href="https://x.com/IvySparkleAI/status/2107128920407502910">Original post ↗</a> · <a href="prompts/2107128920407502910.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/condzxyz/status/2107594959666728991">Original post ↗</a> · <a href="prompts/2107594959666728991.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2108226554740289897.md"><img src="data/gifs/2108226554740289897.gif" alt="criptobr.net Promotional Motion Graphics" width="100%" /></a><br>
-<strong>criptobr.net Promotional Motion Graphics</strong><br>
+<a href="prompts/2107435499686154557.md"><img src="data/gifs/2107435499686154557.gif" alt="Running Cow on Udder" width="100%" /></a><br>
+<strong>Running Cow on Udder</strong><br>
 
-<sub><a href="https://x.com/olivrweb3/status/2108226554740289897">Original post ↗</a> · <a href="prompts/2108226554740289897.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/AIMind_Ai/status/2107435499686154557">Original post ↗</a> · <a href="prompts/2107435499686154557.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2104564078954107374.md"><img src="data/gifs/2104564078954107374.gif" alt="Futuristic Little Red Riding Hood with AI Bots" width="100%" /></a><br>
-<strong>Futuristic Little Red Riding Hood with AI Bots</strong><br>
+<a href="prompts/2108301452384870600.md"><img src="data/gifs/2108301452384870600.gif" alt="Interactive WebGL Lava Lamp in Single HTML" width="100%" /></a><br>
+<strong>Interactive WebGL Lava Lamp in Single HTML</strong><br>
 
-<sub><a href="https://x.com/stagerbn/status/2104564078954107374">Original post ↗</a> · <a href="prompts/2104564078954107374.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/juancarlos17626/status/2108301452384870600">Original post ↗</a> · <a href="prompts/2108301452384870600.md">Prompt ↗</a></sub>
 </td>
 </tr>
 </table>
 
 ## Browse the full library
 
-- [Product & Brand Videos](data/categories/product-brand.md) (73)
-- [Motion Graphics & Typography](data/categories/motion-graphics.md) (216)
+- [Product & Brand Videos](data/categories/product-brand.md) (77)
+- [Motion Graphics & Typography](data/categories/motion-graphics.md) (217)
 - [UI & Web Animation](data/categories/ui-web.md) (14)
-- [Explainers & Education](data/categories/explainers.md) (69)
+- [Explainers & Education](data/categories/explainers.md) (73)
 - [Music & Storytelling](data/categories/music-storytelling.md) (27)
-- [3D Worlds & Simulations](data/categories/3d-scenes.md) (66)
-- [Games & Interactive Experiences](data/categories/games-interactive.md) (65)
+- [3D Worlds & Simulations](data/categories/3d-scenes.md) (69)
+- [Games & Interactive Experiences](data/categories/games-interactive.md) (69)
 
 30 homepage picks · Original creator links on every card.
 
@@ -158,7 +158,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 73 product & brand videos →](data/categories/product-brand.md)
+[Browse all 77 product & brand videos →](data/categories/product-brand.md)
 
 ## Motion Graphics & Typography — homepage picks
 
@@ -185,7 +185,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 216 motion graphics & typography →](data/categories/motion-graphics.md)
+[Browse all 217 motion graphics & typography →](data/categories/motion-graphics.md)
 
 ## UI & Web Animation — homepage picks
 
@@ -247,7 +247,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 69 explainers & education →](data/categories/explainers.md)
+[Browse all 73 explainers & education →](data/categories/explainers.md)
 
 ## Music & Storytelling — homepage picks
 
@@ -289,7 +289,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 66 3d worlds & simulations →](data/categories/3d-scenes.md)
+[Browse all 69 3d worlds & simulations →](data/categories/3d-scenes.md)
 
 ## Games & Interactive Experiences — homepage picks
 
@@ -330,17 +330,17 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 65 games & interactive experiences →](data/categories/games-interactive.md)
+[Browse all 69 games & interactive experiences →](data/categories/games-interactive.md)
 
 <details>
 <summary>Browse by tool</summary>
 
-- [canvas-interactive](data/categories/canvas-interactive.md) — 65
+- [canvas-interactive](data/categories/canvas-interactive.md) — 69
 - [manim](data/categories/manim.md) — 2
-- [remotion](data/categories/remotion.md) — 11
+- [remotion](data/categories/remotion.md) — 12
 - [blender](data/categories/blender.md) — 7
 - [external-video-model](data/categories/external-video-model.md) — 8
-- [other-animation](data/categories/other-animation.md) — 438
+- [other-animation](data/categories/other-animation.md) — 449
 
 </details>
 

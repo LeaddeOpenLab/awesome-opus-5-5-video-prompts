@@ -229,9 +229,9 @@
 <sub><a href="https://x.com/Solvaix/status/2108301527483838465">Original post ↗</a> · <a href="../../prompts/2108301527483838465.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="../../prompts/2108301452384870600.md"><img src="../gifs/2108301452384870600.gif" alt="Interactive WebGL Lava Lamp in Single HTML File" width="256" height="144" /></a><br>
-<strong>Interactive WebGL Lava Lamp in Single HTML File</strong><br>
-<sub>Use: Interactive WebGL Lava Lamp Simulation<br>Inputs: User inputs not specified by the author<br>Tools: Google Chrome / WebGL</sub><br>
+<a href="../../prompts/2108301452384870600.md"><img src="../gifs/2108301452384870600.gif" alt="Interactive WebGL Lava Lamp in Single HTML" width="256" height="144" /></a><br>
+<strong>Interactive WebGL Lava Lamp in Single HTML</strong><br>
+<sub>Use: WebGL 3D Lava Lamp Simulation<br>Inputs: User inputs not specified by the author<br>Tools: Google Chrome / WebGL / HTML5 Canvas</sub><br>
 <sub><a href="https://x.com/juancarlos17626/status/2108301452384870600">Original post ↗</a> · <a href="../../prompts/2108301452384870600.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
@@ -247,6 +247,26 @@
 <strong>Night Monster</strong><br>
 <sub>Use: Cinematic horror creature reveal scene<br>Inputs: User inputs not specified by the author<br>Tools: Claude Opus 5.5 / Higgsfield / Seedance 2.5</sub><br>
 <sub><a href="https://x.com/MadMax_Series/status/2108218235468325374">Original post ↗</a> · <a href="../../prompts/2108218235468325374.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2107435499686154557.md"><img src="../gifs/2107435499686154557.gif" alt="Running Cow on Udder" width="256" height="144" /></a><br>
+<strong>Running Cow on Udder</strong><br>
+<sub>Use: 3D Cartoon Character Animation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
+<sub><a href="https://x.com/AIMind_Ai/status/2107435499686154557">Original post ↗</a> · <a href="../../prompts/2107435499686154557.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2106710882567037394.md"><img src="../gifs/2106710882567037394.gif" alt="Maglev Train Journey Through Impossible Worlds" width="256" height="144" /></a><br>
+<strong>Maglev Train Journey Through Impossible Worlds</strong><br>
+<sub>Use: Continuous Multi-Environment Sci-Fi Train Journey<br>Inputs: User inputs not specified by the author<br>Tools: Seedance 2.5 / Vidfield</sub><br>
+<sub><a href="https://x.com/HeyAbhishek/status/2106710882567037394">Original post ↗</a> · <a href="../../prompts/2106710882567037394.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2106599643014414696.md"><img src="../gifs/2106599643014414696.gif" alt="Inside the Mind of Claude AI Three.js ASCII Animation" width="256" height="144" /></a><br>
+<strong>Inside the Mind of Claude AI Three.js ASCII Animation</strong><br>
+<sub>Use: AI Consciousness ASCII Journey<br>Inputs: User inputs not specified by the author<br>Tools: CapCut / Puppeteer with ffmpeg or CCapture.js / Three.js</sub><br>
+<sub><a href="https://x.com/trikcode/status/2106599643014414696">Original post ↗</a> · <a href="../../prompts/2106599643014414696.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2105100907952353560.md"><img src="../gifs/2105100907952353560.gif" alt="Stained-Glass Maple Leaf 3D Animation Comparison: GPT 6.1 SOL vs Opus 5.5" width="256" height="144" /></a><br>
@@ -335,19 +355,13 @@
 <sub><a href="https://x.com/Sayan_shanky/status/2103736579449868515">Original post ↗</a> · <a href="../../prompts/2103736579449868515.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="../../prompts/2103540288136315331.md"><img src="../gifs/2103540288136315331.gif" alt="Bedroom Layout Generator Prompt" width="256" height="144" /></a><br>
-<strong>Bedroom Layout Generator</strong><br>
-<sub>Use: Claude Opus 5.5 generated a 2D/3D bedroom planning app to test thousands of positions for fitting a double bed, based on specified room and furniture dimensions.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
-<sub><a href="https://x.com/goofyninjaaa/status/2103540288136315331">Original post ↗</a> · <a href="../../prompts/2103540288136315331.md">Prompt ↗</a></sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
 <a href="../../prompts/2103517910274818523.md"><img src="../gifs/2103517910274818523.gif" alt="Creative Front-End and Video Generation Prompt" width="256" height="144" /></a><br>
 <strong>Creative Front-End and Video Generation</strong><br>
 <sub>Use: A creative prompt asking the AI model to freely select a theme tailored to the user's interests, generating both a 30-second video and an interactive HTML page to showcase its front-end capabilities.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/DemitiyaGeekzen/status/2103517910274818523">Original post ↗</a> · <a href="../../prompts/2103517910274818523.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103499771206156628.md"><img src="../gifs/2103499771206156628.gif" alt="GLSL Fishbowl in Three.js" width="256" height="144" /></a><br>
 <strong>GLSL Fishbowl in Three.js</strong><br>
@@ -360,14 +374,14 @@
 <sub>Use: A creative coding prompt used with Claude Opus 5.5 to generate an interactive 3D pagoda navigation world in a single shot.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/BuildFastWithAI/status/2103483174957597035">Original post ↗</a> · <a href="../../prompts/2103483174957597035.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103195903012032809.md"><img src="../gifs/2103195903012032809.gif" alt="3D Animation of Gradient Descent" width="256" height="144" /></a><br>
 <strong>3D Animation of Gradient Descent</strong><br>
 <sub>Use: A prompt requesting Claude Opus to generate a 3D animation illustrating gradient descent with a ball moving from crest to trough, along with explanations and a specific color scheme.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/anirockshady/status/2103195903012032809">Original post ↗</a> · <a href="../../prompts/2103195903012032809.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103194052850241739.md"><img src="../gifs/2103194052850241739.gif" alt="Cinematic Browser-Based 3D World Prompt" width="256" height="144" /></a><br>
 <strong>Cinematic Browser-Based 3D World</strong><br>
@@ -380,14 +394,14 @@
 <sub>Use: A prompt given to Claude Opus asking it to create a video designed to go viral, leading to a coded physics simulation and synthesizer synchronized with Für Elise.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/kantamk/status/2103148907228176511">Original post ↗</a> · <a href="../../prompts/2103148907228176511.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103119648271290566.md"><img src="../gifs/2103119648271290566.gif" alt="Pelican Riding a Bicycle Animation" width="256" height="144" /></a><br>
 <strong>Pelican Riding a Bicycle Animation</strong><br>
 <sub>Use: Detailed character animation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/AxtonLiu/status/2103119648271290566">Original post ↗</a> · <a href="../../prompts/2103119648271290566.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103038625483272483.md"><img src="../gifs/2103038625483272483.gif" alt="Interactive 3D Taj Mahal in Three.js" width="256" height="144" /></a><br>
 <strong>Interactive 3D Taj Mahal in Three.js</strong><br>
@@ -400,14 +414,14 @@
 <sub>Use: Claude Opus 5.5 runs a benchmark task to generate a 3D procedural water simulation with terrain, rain, streams, and lakes using TypeScript and Three.js.<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/StephanFerraro/status/2103020274107224281">Original post ↗</a> · <a href="../../prompts/2103020274107224281.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102971287224135914.md"><img src="../gifs/2102971287224135914.gif" alt="Interactive Explosion Simulation Prompt" width="256" height="144" /></a><br>
 <strong>Interactive Explosion Simulation</strong><br>
 <sub>Use: A creative coding prompt instructing the AI to generate an advanced interactive explosion effect and unique environment with dynamic force propagation and visual aftermath.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/FornYapayZeka/status/2102971287224135914">Original post ↗</a> · <a href="../../prompts/2102971287224135914.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102920408743678129.md"><img src="../gifs/2102920408743678129.gif" alt="Stylistic 3D Particle Santa Monica Beach" width="256" height="144" /></a><br>
 <strong>Stylistic 3D Particle Santa Monica Beach</strong><br>
@@ -420,13 +434,19 @@
 <sub>Use: A creative coding prompt instructing the AI to design and build an impressive, cinematic fireworks or light particle show with depth, dynamic lighting, and interactive replay capabilities.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/FornYapayZeka/status/2102888241443795431">Original post ↗</a> · <a href="../../prompts/2102888241443795431.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102861939072434495.md"><img src="../gifs/2102861939072434495.gif" alt="Browser Minecraft Recreation Prompt" width="256" height="144" /></a><br>
 <strong>Browser Minecraft Recreation</strong><br>
 <sub>Use: A detailed prompt for Claude Opus 5.5 and PINOC MCP to generate a playable, browser-based Minecraft recreation with Three.js shaders and animated voxel NPCs.<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/Viggle_PINOC/status/2102861939072434495">Original post ↗</a> · <a href="../../prompts/2102861939072434495.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2102715938671878156.md"><img src="../gifs/2102715938671878156.gif" alt="Interactive 3D STEP File CAD Viewer" width="256" height="144" /></a><br>
+<strong>Interactive 3D STEP File CAD Viewer</strong><br>
+<sub>Use: STEP CAD Interactive 3D Viewer<br>Inputs: STEP AP203 CAD file with 65 bodies and 2,595 B-rep faces (201 x 161 x 488 mm)<br>Tools: Tool setup not specified by the source</sub><br>
+<sub><a href="https://x.com/profpicsou/status/2102715938671878156">Original post ↗</a> · <a href="../../prompts/2102715938671878156.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2102592355165782312.md"><img src="../gifs/2102592355165782312.gif" alt="250 Years of U.S. History Sand Animation" width="256" height="144" /></a><br>
