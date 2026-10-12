@@ -2,7 +2,9 @@
 
 [![2000+ prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner-20261011-173831-collection.svg)](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)
 
-**2000+ prompts. Fresh ideas with every update.** Curated by Leadde Open Lab, this Claude Opus 5.5 collection brings together creator-shared prompts for product videos, motion graphics, explainers, 3D worlds and interactive demos — with original sources and fresh additions tracked in every content drop. Start with the [web collection](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/) to watch selected results, copy a prompt and follow its setup notes, or dig into the complete library below.
+## 2000+ Prompts · Actively Updated
+
+Claude Opus 5.5 prompts for video, animation and 3D — curated by Leadde Open Lab, with original creator sources.
 
 **[Open the web collection →](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)** · Video previews, prompts & setup · English / 简体中文
 
