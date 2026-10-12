@@ -1,8 +1,10 @@
 # Awesome Opus 5.5 Video Prompts
 
-[![2000+ prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner-20261012-073434-collection.svg)](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)
+[![2000+ prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner.svg)](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)
 
-**2000+ prompts. Fresh ideas with every update.** Curated by Leadde Open Lab, this Claude Opus 5.5 collection brings together creator-shared prompts for product videos, motion graphics, explainers, 3D worlds and interactive demos — with original sources and fresh additions tracked in every content drop. Start with the [web collection](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/) to watch selected results, copy a prompt and follow its setup notes, or dig into the complete library below.
+## 2000+ Prompts · Actively Updated
+
+Claude Opus 5.5 prompts for video, animation and 3D — curated by Leadde Open Lab, with original creator sources.
 
 **[Open the web collection →](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)** · Video previews, prompts & setup · English / 简体中文
 
@@ -93,35 +95,35 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="prompts/2109198771712303213.md"><img src="data/gifs/2109198771712303213.gif" alt="Interactive Honey Jelly Computer Mouse" width="100%" /></a><br>
-<strong>Interactive Honey Jelly Computer Mouse</strong><br>
+<a href="prompts/2109288662319919127.md"><img src="data/gifs/2109288662319919127.gif" alt="Interactive WebGPU Plush Penguin Simulation with Soft-Body Physics and Shell Fur" width="100%" /></a><br>
+<strong>Interactive WebGPU Plush Penguin Simulation with Soft-Body Physi…</strong><br>
 
-<sub><a href="https://x.com/keydol123/status/2109198771712303213">Original post ↗</a> · <a href="prompts/2109198771712303213.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/vib3coded/status/2109288662319919127">Original post ↗</a> · <a href="prompts/2109288662319919127.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2109230205365858694.md"><img src="data/gifs/2109230205365858694.gif" alt="Music Video for Song Built in Code via Claude Opus 5.5" width="100%" /></a><br>
-<strong>Music Video for Song Built in Code</strong><br>
+<a href="prompts/2109297316242812936.md"><img src="data/gifs/2109297316242812936.gif" alt="Mascot Hatching From an Egg: Gregg Animated in Pure Code" width="100%" /></a><br>
+<strong>Mascot Hatching From an Egg: Gregg Animated in Pure Code</strong><br>
 
-<sub><a href="https://x.com/ImmuneHack/status/2109230205365858694">Original post ↗</a> · <a href="prompts/2109230205365858694.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/MyWestLord/status/2109297316242812936">Original post ↗</a> · <a href="prompts/2109297316242812936.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2109243587724755158.md"><img src="data/gifs/2109243587724755158.gif" alt="Quadruped Robot Perception &amp; Locomotion Simulation in Three.js" width="100%" /></a><br>
-<strong>Quadruped Robot Perception &amp; Locomotion Simulation in Three.js</strong><br>
+<a href="prompts/2109310203631906912.md"><img src="data/gifs/2109310203631906912.gif" alt="Navigation Menu Hover Animations with Opus 5.5" width="100%" /></a><br>
+<strong>Navigation Menu Hover Animations with Opus 5.5</strong><br>
 
-<sub><a href="https://x.com/konstantinsaifo/status/2109243587724755158">Original post ↗</a> · <a href="prompts/2109243587724755158.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/dinocorreia09/status/2109310203631906912">Original post ↗</a> · <a href="prompts/2109310203631906912.md">Prompt ↗</a></sub>
 </td>
 </tr>
 </table>
 
 ## Browse the full library
 
-- [Product & Brand Videos](data/categories/product-brand.md) (80)
-- [Motion Graphics & Typography](data/categories/motion-graphics.md) (222)
-- [UI & Web Animation](data/categories/ui-web.md) (14)
-- [Explainers & Education](data/categories/explainers.md) (74)
-- [Music & Storytelling](data/categories/music-storytelling.md) (28)
-- [3D Worlds & Simulations](data/categories/3d-scenes.md) (76)
-- [Games & Interactive Experiences](data/categories/games-interactive.md) (76)
+- [Product & Brand Videos](data/categories/product-brand.md) (82)
+- [Motion Graphics & Typography](data/categories/motion-graphics.md) (224)
+- [UI & Web Animation](data/categories/ui-web.md) (15)
+- [Explainers & Education](data/categories/explainers.md) (78)
+- [Music & Storytelling](data/categories/music-storytelling.md) (29)
+- [3D Worlds & Simulations](data/categories/3d-scenes.md) (81)
+- [Games & Interactive Experiences](data/categories/games-interactive.md) (79)
 
 30 homepage picks · Original creator links on every card.
 
@@ -164,7 +166,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 80 product & brand videos →](data/categories/product-brand.md)
+[Browse all 82 product & brand videos →](data/categories/product-brand.md)
 
 ## Motion Graphics & Typography — homepage picks
 
@@ -191,7 +193,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 222 motion graphics & typography →](data/categories/motion-graphics.md)
+[Browse all 224 motion graphics & typography →](data/categories/motion-graphics.md)
 
 ## UI & Web Animation — homepage picks
 
@@ -212,7 +214,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 14 ui & web animation →](data/categories/ui-web.md)
+[Browse all 15 ui & web animation →](data/categories/ui-web.md)
 
 ## Explainers & Education — homepage picks
 
@@ -253,7 +255,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 74 explainers & education →](data/categories/explainers.md)
+[Browse all 78 explainers & education →](data/categories/explainers.md)
 
 ## Music & Storytelling — homepage picks
 
@@ -268,7 +270,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 28 music & storytelling →](data/categories/music-storytelling.md)
+[Browse all 29 music & storytelling →](data/categories/music-storytelling.md)
 
 ## 3D Worlds & Simulations — homepage picks
 
@@ -295,7 +297,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 76 3d worlds & simulations →](data/categories/3d-scenes.md)
+[Browse all 81 3d worlds & simulations →](data/categories/3d-scenes.md)
 
 ## Games & Interactive Experiences — homepage picks
 
@@ -336,17 +338,17 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 76 games & interactive experiences →](data/categories/games-interactive.md)
+[Browse all 79 games & interactive experiences →](data/categories/games-interactive.md)
 
 <details>
 <summary>Browse by tool</summary>
 
-- [canvas-interactive](data/categories/canvas-interactive.md) — 76
+- [canvas-interactive](data/categories/canvas-interactive.md) — 79
 - [manim](data/categories/manim.md) — 2
-- [remotion](data/categories/remotion.md) — 12
+- [remotion](data/categories/remotion.md) — 13
 - [blender](data/categories/blender.md) — 7
 - [external-video-model](data/categories/external-video-model.md) — 10
-- [other-animation](data/categories/other-animation.md) — 464
+- [other-animation](data/categories/other-animation.md) — 478
 
 </details>
 
