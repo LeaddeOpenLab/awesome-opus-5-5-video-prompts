@@ -1314,3 +1314,8 @@ html[lang="zh-CN"] .hero h1 {
   opacity: 0;
 }
 .card-video.is-playing { opacity: 1; }
+
+.star-hint { padding: 12px 20px; background: var(--lilac); font-size: 13px; line-height: 1.6; }
+.star-hint span { color: var(--muted); }
+.star-hint a { color: var(--purple-dark); font-weight: 550; }
+.star-hint a:hover { text-decoration: underline; text-underline-offset: 3px; }

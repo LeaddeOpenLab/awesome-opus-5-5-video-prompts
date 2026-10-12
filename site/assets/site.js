@@ -21,7 +21,7 @@ document.addEventListener("click", (event) => {
   if (url.hostname === "github.com" || url.hostname === "leadde.ai") {
     track(url.hostname === "github.com" ? "github_click" : "leadde_click", {
       link_url: url.href,
-      placement: link.closest("header") ? "header" : link.closest("footer") ? "footer" : "content",
+      placement: link.dataset.placement || (link.closest("header") ? "header" : link.closest("footer") ? "footer" : "content"),
     });
   }
 });
@@ -68,6 +68,8 @@ document.querySelectorAll("[data-copy]").forEach((button) =>
       await navigator.clipboard.writeText(code.textContent);
       track("prompt_copy", { prompt_id: button.dataset.promptId, placement: button.closest("dialog") ? "preview" : "detail" });
       button.textContent = t("Copied ✓");
+      const hint = document.querySelector(`[data-star-hint="${button.dataset.copy}"]`);
+      if (hint) hint.hidden = false;
       setTimeout(() => {
         button.textContent = t("Copy prompt");
       }, 2000);
@@ -92,6 +94,7 @@ if (dialog) {
       const prompt = dialog.querySelector("#preview-prompt");
       prompt.textContent = window.sitePrompts[button.dataset.promptId];
       prompt.hidden = true;
+      dialog.querySelector("[data-star-hint]").hidden = true;
       const copy = dialog.querySelector("[data-copy]");
       copy.dataset.promptId = button.dataset.promptId;
       copy.textContent = t("Copy prompt");

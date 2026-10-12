@@ -2,9 +2,9 @@
 
 [![2000+ prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner-20261012-092235-collection.svg)](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)
 
-## 2000+ Prompts · Actively Updated
+**Creator-shared prompts, visual previews, and practical setup notes — curated by Leadde Open Lab.** Find the original prompt and source, watch selected results, and check the tools and inputs before you try them. Return for fresh picks for your next video, animation or 3D project.
 
-Claude Opus 5.5 prompts for video, animation and 3D — curated by Leadde Open Lab, with original creator sources.
+**☆ Star this repo to keep the prompts handy for your next project.**
 
 **[Open the web collection →](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)** · Video previews, prompts & setup · English / 简体中文
 
@@ -14,7 +14,7 @@ Claude Opus 5.5 prompts for video, animation and 3D — curated by Leadde Open L
 
 ## Featured creations
 
-Open any preview to watch the clip and read its prompt on the website.
+Read the prompt here on GitHub, or watch the preview and check setup notes on the website.
 
 <table>
 <tr>
@@ -22,13 +22,13 @@ Open any preview to watch the clip and read its prompt on the website.
 <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/remotion-motion-design-showreel/"><img src="data/gifs/2103449416325890146.gif" alt="Motion Designer Résumé Showreel with Claude Opus 5.5 and Remotion" width="100%" /></a><br>
 <strong>Motion Designer Résumé Showreel and Remotion</strong><br>
 
-<sub><a href="https://x.com/ajith_io/status/2103449416325890146">Original post ↗</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/remotion-motion-design-showreel/">Prompt ↗</a></sub>
+<sub><a href="prompts/2103449416325890146.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/remotion-motion-design-showreel/">Watch preview · Website ↗</a> · <a href="https://x.com/ajith_io/status/2103449416325890146">Original post ↗</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/starry-night-3d-cats-prompt/"><img src="data/gifs/2103802923465768972.gif" alt="Vincent's Cats: 3D Starry Night Game" width="100%" /></a><br>
 <strong>Vincent's Cats: 3D Starry Night Game</strong><br>
 
-<sub><a href="https://x.com/MandelDuck/status/2103802923465768972">Original post ↗</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/starry-night-3d-cats-prompt/">Prompt ↗</a></sub>
+<sub><a href="prompts/2103802923465768972.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/starry-night-3d-cats-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/MandelDuck/status/2103802923465768972">Original post ↗</a></sub>
 </td>
 </tr>
 <tr>
@@ -36,13 +36,13 @@ Open any preview to watch the clip and read its prompt on the website.
 <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/looping-ui-motion-prompt/"><img src="data/gifs/2103273003555402193.gif" alt="Code-Driven Looping UI Motion Graphics with Claude Opus 5.5" width="100%" /></a><br>
 <strong>Code-Driven Looping UI Motion Graphics</strong><br>
 
-<sub><a href="https://x.com/twoclipping/status/2103273003555402193">Original post ↗</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/looping-ui-motion-prompt/">Prompt ↗</a></sub>
+<sub><a href="prompts/2103273003555402193.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/looping-ui-motion-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/twoclipping/status/2103273003555402193">Original post ↗</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/manim-derivatives-explainer/"><img src="data/gifs/2103128559174971663.gif" alt="Manim Derivative Concept Educational Video Prompt" width="100%" /></a><br>
 <strong>Manim Derivative Concept Educational Video</strong><br>
 
-<sub><a href="https://x.com/LinearUncle/status/2103128559174971663">Original post ↗</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/manim-derivatives-explainer/">Prompt ↗</a></sub>
+<sub><a href="prompts/2103128559174971663.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/manim-derivatives-explainer/">Watch preview · Website ↗</a> · <a href="https://x.com/LinearUncle/status/2103128559174971663">Original post ↗</a></sub>
 </td>
 </tr>
 <tr>
@@ -50,13 +50,13 @@ Open any preview to watch the clip and read its prompt on the website.
 <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/blender-1906-san-francisco/"><img src="data/gifs/2102466523164274839.gif" alt="1906 San Francisco Market Street Blender Reconstruction" width="100%" /></a><br>
 <strong>1906 San Francisco Market Street Blender Reconstruction</strong><br>
 
-<sub><a href="https://x.com/alexalbert__/status/2102466523164274839">Original post ↗</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/blender-1906-san-francisco/">Prompt ↗</a></sub>
+<sub><a href="prompts/2102466523164274839.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/blender-1906-san-francisco/">Watch preview · Website ↗</a> · <a href="https://x.com/alexalbert__/status/2102466523164274839">Original post ↗</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/pixel-art-wizard-html-prompt/"><img src="data/gifs/2102476258948927543.gif" alt="Animated Pixel Art Wizard in Canvas 2D" width="100%" /></a><br>
 <strong>Animated Pixel Art Wizard in Canvas 2D</strong><br>
 
-<sub><a href="https://x.com/majidmanzarpour/status/2102476258948927543">Original post ↗</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/pixel-art-wizard-html-prompt/">Prompt ↗</a></sub>
+<sub><a href="prompts/2102476258948927543.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/pixel-art-wizard-html-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/majidmanzarpour/status/2102476258948927543">Original post ↗</a></sub>
 </td>
 </tr>
 </table>
