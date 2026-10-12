@@ -68,3 +68,11 @@ GitHub 项目站位于子路径，子路径下的 robots.txt 无法控制域名�
 ## 已添加 HTML 文件验证
 
 Google 提供的 `google9ddda4d9c22709a6.html` 保存在 `site/public/`，每次构建会原样复制到网站根目录。Search Console 中使用 HTML 文件验证即可，不必再填写 meta 验证值。验证成功后保留此文件。
+
+## 展示与行为统计
+
+卡片常驻播放入口，预览弹窗可直接复制原始提示词；复制权限不可用时显示并选中文本，供手动复制。首屏精选静音循环预览，离开可视区域、切换后台或打开弹窗时暂停，也可手动暂停；系统设置减少动态效果时默认不自动播放。
+
+在 `site/site.json` 中填写 `ga_measurement_id`，或在 GitHub Actions Variables 中设置 `GA_MEASUREMENT_ID`，重新构建部署后启用 GA4。未配置时只在当前页面的 `window.dataLayer` 中排队事件，不向统计服务器发送数据，也不会汇总访客数据。
+
+事件：`preview_play`（实际开始播放，每页面同一案例同一位置只计一次）、`prompt_copy`（剪贴板写入成功）、`github_click`、`leadde_click`。事件包含位置 `placement`，播放和复制包含 `prompt_id`，首屏播放标注 `autoplay`。不发送提示词正文或搜索输入。可以在 GA4 DebugView / 实时报告验证接收；需要按案例和位置分析时，将对应参数注册为自定义维度。

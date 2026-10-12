@@ -26,6 +26,7 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Build static pages
         env:
+          GA_MEASUREMENT_ID: ${{ vars.GA_MEASUREMENT_ID }}
           GOOGLE_SITE_VERIFICATION: ${{ vars.GOOGLE_SITE_VERIFICATION }}
         run: python3 site/build.py
       - name: Check pages and local links

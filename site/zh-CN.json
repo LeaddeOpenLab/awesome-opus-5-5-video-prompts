@@ -100,7 +100,27 @@
     "Return to the collection to find a prompt for your next project.": "回到作品集，为下一次创作寻找提示词。",
     "Back to the collection →": "返回作品集 →",
     ".": " 整理。",
-    "Page not found": "页面未找到"
+    "Page not found": "页面未找到",
+    "See what Claude": "看看 Claude",
+    "can animate.": "能做出什么动画。",
+    "Explore creator examples, copy the prompts, and build your own.": "浏览创作者案例，复制提示词，开始制作你的作品。",
+    "Play preview": "播放预览",
+    "Pause preview": "暂停预览",
+    "Resume preview": "继续预览",
+    "Setup & details →": "配置与详情 →",
+    "Browse prompts": "浏览提示词",
+    "Selected examples": "精选案例",
+    "Full prompt library ↗": "完整提示词库 ↗",
+    "Make this prompt yours": "从这些地方开始修改",
+    "Suggestions from Leadde Open Lab; the creator’s prompt above is unchanged.": "以下为 Leadde Open Lab 的修改建议，上方原作者提示词保持不变。",
+    "Subject:": "主题：",
+    "Replace the subject with your product, story or lesson.": "替换为你的产品、故事或课程主题。",
+    "Palette:": "配色：",
+    "Specify your brand colors and visual style.": "指定品牌颜色和视觉风格。",
+    "Timing:": "时长：",
+    "Set a duration for video, or a loop length for interactive work.": "指定视频时长，或交互作品的动画循环时长。",
+    "Frame:": "画幅：",
+    "Choose landscape 16:9, portrait 9:16 or square 1:1.": "选择横屏 16:9、竖屏 9:16 或方形 1:1。"
   },
   "categories": {
     "motion-graphics": {
