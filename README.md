@@ -1,62 +1,54 @@
 # Awesome Opus 5.5 Video Prompts
 
-[![2000+ prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner-20261011-173831-collection.svg)](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)
+[![2000+ prompts — latest repository update](data/banner.svg?v=batch-18)](#featured-creations)
 
-## 2000+ Prompts · Actively Updated
+Explore Claude video prompts for product demos, motion graphics, educational animations and 3D scenes, including Remotion, Manim and Three.js workflows. Browse previews, copy shared prompts and check setup requirements.
 
-Claude Opus 5.5 prompts for video, animation and 3D — curated by Leadde Open Lab, with original creator sources.
-
-**[Open the web collection →](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)** · Video previews, prompts & setup · English / 简体中文
-
-[Motion graphics](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/collections/motion-graphics/) · [Explainers](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/collections/explainers/) · [3D worlds](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/collections/3d-worlds/)
-
-[Browse the full repository](#browse-the-full-library) · [Start with a prompt](#start-here) · [Latest additions](#recently-added)
+**[Explore the collection →](#browse-the-full-library)** · [Start with a prompt](#start-here) · [Latest additions](#recently-added)
 
 ## Featured creations
-
-Open any preview to watch the clip and read its prompt on the website.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/remotion-motion-design-showreel/"><img src="data/gifs/2103449416325890146.gif" alt="Motion Designer Résumé Showreel with Claude Opus 5.5 and Remotion" width="100%" /></a><br>
+<a href="prompts/2103449416325890146.md"><img src="data/gifs/2103449416325890146.gif" alt="Motion Designer Résumé Showreel with Claude Opus 5.5 and Remotion" width="100%" /></a><br>
 <strong>Motion Designer Résumé Showreel and Remotion</strong><br>
 
-<sub><a href="https://x.com/ajith_io/status/2103449416325890146">Original post ↗</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/remotion-motion-design-showreel/">Prompt ↗</a></sub>
+<sub><a href="https://x.com/ajith_io/status/2103449416325890146">Original post ↗</a> · <a href="prompts/2103449416325890146.md">Prompt ↗</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/starry-night-3d-cats-prompt/"><img src="data/gifs/2103802923465768972.gif" alt="Vincent's Cats: 3D Starry Night Game" width="100%" /></a><br>
+<a href="prompts/2103802923465768972.md"><img src="data/gifs/2103802923465768972.gif" alt="Vincent's Cats: 3D Starry Night Game" width="100%" /></a><br>
 <strong>Vincent's Cats: 3D Starry Night Game</strong><br>
 
-<sub><a href="https://x.com/MandelDuck/status/2103802923465768972">Original post ↗</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/starry-night-3d-cats-prompt/">Prompt ↗</a></sub>
+<sub><a href="https://x.com/MandelDuck/status/2103802923465768972">Original post ↗</a> · <a href="prompts/2103802923465768972.md">Prompt ↗</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/looping-ui-motion-prompt/"><img src="data/gifs/2103273003555402193.gif" alt="Code-Driven Looping UI Motion Graphics with Claude Opus 5.5" width="100%" /></a><br>
+<a href="prompts/2103273003555402193.md"><img src="data/gifs/2103273003555402193.gif" alt="Code-Driven Looping UI Motion Graphics with Claude Opus 5.5" width="100%" /></a><br>
 <strong>Code-Driven Looping UI Motion Graphics</strong><br>
 
-<sub><a href="https://x.com/twoclipping/status/2103273003555402193">Original post ↗</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/looping-ui-motion-prompt/">Prompt ↗</a></sub>
+<sub><a href="https://x.com/twoclipping/status/2103273003555402193">Original post ↗</a> · <a href="prompts/2103273003555402193.md">Prompt ↗</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/manim-derivatives-explainer/"><img src="data/gifs/2103128559174971663.gif" alt="Manim Derivative Concept Educational Video Prompt" width="100%" /></a><br>
+<a href="prompts/2103128559174971663.md"><img src="data/gifs/2103128559174971663.gif" alt="Manim Derivative Concept Educational Video Prompt" width="100%" /></a><br>
 <strong>Manim Derivative Concept Educational Video</strong><br>
 
-<sub><a href="https://x.com/LinearUncle/status/2103128559174971663">Original post ↗</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/manim-derivatives-explainer/">Prompt ↗</a></sub>
+<sub><a href="https://x.com/LinearUncle/status/2103128559174971663">Original post ↗</a> · <a href="prompts/2103128559174971663.md">Prompt ↗</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/blender-1906-san-francisco/"><img src="data/gifs/2102466523164274839.gif" alt="1906 San Francisco Market Street Blender Reconstruction" width="100%" /></a><br>
+<a href="prompts/2102466523164274839.md"><img src="data/gifs/2102466523164274839.gif" alt="1906 San Francisco Market Street Blender Reconstruction" width="100%" /></a><br>
 <strong>1906 San Francisco Market Street Blender Reconstruction</strong><br>
 
-<sub><a href="https://x.com/alexalbert__/status/2102466523164274839">Original post ↗</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/blender-1906-san-francisco/">Prompt ↗</a></sub>
+<sub><a href="https://x.com/alexalbert__/status/2102466523164274839">Original post ↗</a> · <a href="prompts/2102466523164274839.md">Prompt ↗</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/pixel-art-wizard-html-prompt/"><img src="data/gifs/2102476258948927543.gif" alt="Animated Pixel Art Wizard in Canvas 2D" width="100%" /></a><br>
+<a href="prompts/2102476258948927543.md"><img src="data/gifs/2102476258948927543.gif" alt="Animated Pixel Art Wizard in Canvas 2D" width="100%" /></a><br>
 <strong>Animated Pixel Art Wizard in Canvas 2D</strong><br>
 
-<sub><a href="https://x.com/majidmanzarpour/status/2102476258948927543">Original post ↗</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/pixel-art-wizard-html-prompt/">Prompt ↗</a></sub>
+<sub><a href="https://x.com/majidmanzarpour/status/2102476258948927543">Original post ↗</a> · <a href="prompts/2102476258948927543.md">Prompt ↗</a></sub>
 </td>
 </tr>
 </table>
@@ -69,22 +61,22 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/pixel-art-wizard-html-prompt/"><img src="data/gifs/2102476258948927543.gif" alt="Easiest start: pixel-art wizard" width="100%" /></a><br>
+<a href="prompts/2102476258948927543.md"><img src="data/gifs/2102476258948927543.gif" alt="Easiest start: pixel-art wizard" width="100%" /></a><br>
 <strong>Easiest start: pixel-art wizard</strong><br>
 <sub>Copy the prompt, save one HTML file, and open it in your browser. No external assets.</sub><br>
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/pixel-art-wizard-html-prompt/">Copy prompt &amp; setup →</a>
+<a href="prompts/2102476258948927543.md#prompt-english">Copy prompt &amp; setup →</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/business-explainer-html-prompt/"><img src="data/gifs/2103499977632997524.gif" alt="Your product: a 30-second business explainer" width="100%" /></a><br>
+<a href="prompts/2103499977632997524.md"><img src="data/gifs/2103499977632997524.gif" alt="Your product: a 30-second business explainer" width="100%" /></a><br>
 <strong>Your product: a 30-second business explainer</strong><br>
 <sub>Replace the business description and brand colors, then preview the HTML animation.</sub><br>
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/business-explainer-html-prompt/">Copy prompt &amp; setup →</a>
+<a href="prompts/2103499977632997524.md#prompt-english">Copy prompt &amp; setup →</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/manim-derivatives-explainer/"><img src="data/gifs/2103128559174971663.gif" alt="Teach a concept: derivatives with Manim" width="100%" /></a><br>
+<a href="prompts/2103128559174971663.md"><img src="data/gifs/2103128559174971663.gif" alt="Teach a concept: derivatives with Manim" width="100%" /></a><br>
 <strong>Teach a concept: derivatives with Manim</strong><br>
 <sub>Generate a narrated lesson with Manim and edge-tts. Python setup required.</sub><br>
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/manim-derivatives-explainer/">Copy prompt &amp; setup →</a>
+<a href="prompts/2103128559174971663.md#prompt-english">Copy prompt &amp; setup →</a>
 </td>
 </tr>
 </table>
@@ -95,35 +87,35 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="prompts/2107594959666728991.md"><img src="data/gifs/2107594959666728991.gif" alt="Polymarket Election Odds Explainer Video via HyperFrames" width="100%" /></a><br>
-<strong>Polymarket Election Odds Explainer Video via HyperFrames</strong><br>
+<a href="prompts/2108717646157922687.md"><img src="data/gifs/2108717646157922687.gif" alt="Hasos 15-Second Motion Graphics Promo Video" width="100%" /></a><br>
+<strong>Hasos 15-Second Motion Graphics Promo Video</strong><br>
 
-<sub><a href="https://x.com/condzxyz/status/2107594959666728991">Original post ↗</a> · <a href="prompts/2107594959666728991.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/paidafluke/status/2108717646157922687">Original post ↗</a> · <a href="prompts/2108717646157922687.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2107435499686154557.md"><img src="data/gifs/2107435499686154557.gif" alt="Running Cow on Udder" width="100%" /></a><br>
-<strong>Running Cow on Udder</strong><br>
+<a href="prompts/2108709764817408244.md"><img src="data/gifs/2108709764817408244.gif" alt="Interactive 3D Camera Lens Cutaway with Three.js" width="100%" /></a><br>
+<strong>Interactive 3D Camera Lens Cutaway with Three.js</strong><br>
 
-<sub><a href="https://x.com/AIMind_Ai/status/2107435499686154557">Original post ↗</a> · <a href="prompts/2107435499686154557.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/aichrislee/status/2108709764817408244">Original post ↗</a> · <a href="prompts/2108709764817408244.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2108301452384870600.md"><img src="data/gifs/2108301452384870600.gif" alt="Interactive WebGL Lava Lamp in Single HTML" width="100%" /></a><br>
-<strong>Interactive WebGL Lava Lamp in Single HTML</strong><br>
+<a href="prompts/2107139305324122491.md"><img src="data/gifs/2107139305324122491.gif" alt="Full Stop: Autonomous Creative Coding Showcase by Claude Opus 5.5" width="100%" /></a><br>
+<strong>Full Stop: Autonomous Creative Coding Showcase</strong><br>
 
-<sub><a href="https://x.com/juancarlos17626/status/2108301452384870600">Original post ↗</a> · <a href="prompts/2108301452384870600.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/HBCoop_/status/2107139305324122491">Original post ↗</a> · <a href="prompts/2107139305324122491.md">Prompt ↗</a></sub>
 </td>
 </tr>
 </table>
 
 ## Browse the full library
 
-- [Product & Brand Videos](data/categories/product-brand.md) (77)
-- [Motion Graphics & Typography](data/categories/motion-graphics.md) (217)
+- [Product & Brand Videos](data/categories/product-brand.md) (80)
+- [Motion Graphics & Typography](data/categories/motion-graphics.md) (222)
 - [UI & Web Animation](data/categories/ui-web.md) (14)
-- [Explainers & Education](data/categories/explainers.md) (73)
+- [Explainers & Education](data/categories/explainers.md) (74)
 - [Music & Storytelling](data/categories/music-storytelling.md) (27)
-- [3D Worlds & Simulations](data/categories/3d-scenes.md) (69)
-- [Games & Interactive Experiences](data/categories/games-interactive.md) (69)
+- [3D Worlds & Simulations](data/categories/3d-scenes.md) (74)
+- [Games & Interactive Experiences](data/categories/games-interactive.md) (75)
 
 30 homepage picks · Original creator links on every card.
 
@@ -166,7 +158,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 77 product & brand videos →](data/categories/product-brand.md)
+[Browse all 80 product & brand videos →](data/categories/product-brand.md)
 
 ## Motion Graphics & Typography — homepage picks
 
@@ -193,7 +185,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 217 motion graphics & typography →](data/categories/motion-graphics.md)
+[Browse all 222 motion graphics & typography →](data/categories/motion-graphics.md)
 
 ## UI & Web Animation — homepage picks
 
@@ -255,7 +247,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 73 explainers & education →](data/categories/explainers.md)
+[Browse all 74 explainers & education →](data/categories/explainers.md)
 
 ## Music & Storytelling — homepage picks
 
@@ -297,7 +289,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 69 3d worlds & simulations →](data/categories/3d-scenes.md)
+[Browse all 74 3d worlds & simulations →](data/categories/3d-scenes.md)
 
 ## Games & Interactive Experiences — homepage picks
 
@@ -338,17 +330,17 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 69 games & interactive experiences →](data/categories/games-interactive.md)
+[Browse all 75 games & interactive experiences →](data/categories/games-interactive.md)
 
 <details>
 <summary>Browse by tool</summary>
 
-- [canvas-interactive](data/categories/canvas-interactive.md) — 69
+- [canvas-interactive](data/categories/canvas-interactive.md) — 75
 - [manim](data/categories/manim.md) — 2
 - [remotion](data/categories/remotion.md) — 12
 - [blender](data/categories/blender.md) — 7
-- [external-video-model](data/categories/external-video-model.md) — 8
-- [other-animation](data/categories/other-animation.md) — 449
+- [external-video-model](data/categories/external-video-model.md) — 10
+- [other-animation](data/categories/other-animation.md) — 461
 
 </details>
 

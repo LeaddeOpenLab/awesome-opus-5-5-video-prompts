@@ -3,11 +3,25 @@
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="../../prompts/2108936150681305270.md"><img src="../gifs/2108936150681305270.gif" alt="Little Agent Island: Cozy Interactive AI Agent World" width="256" height="144" /></a><br>
+<strong>Little Agent Island: Cozy Interactive AI Agent World</strong><br>
+<sub>Use: Interactive Agent Observability World<br>Inputs: No external assets required by the prompt<br>Tools: HTML/Canvas/SVG/CSS</sub><br>
+<sub><a href="https://x.com/kinderlayer/status/2108936150681305270">Original post ↗</a> · <a href="../../prompts/2108936150681305270.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2108902793797091808.md"><img src="../gifs/2108902793797091808.gif" alt="Interactive Web Experience 'Mid-Sentence' Built by Claude Opus 5.5" width="256" height="144" /></a><br>
+<strong>Interactive Web Experience 'Mid-Sentence' Built</strong><br>
+<sub>Use: Interactive Procedural Web Artwork<br>Inputs: User inputs not specified by the author<br>Tools: Claude Code / JavaScript</sub><br>
+<sub><a href="https://x.com/chetaslua/status/2108902793797091808">Original post ↗</a> · <a href="../../prompts/2108902793797091808.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2108637690698633713.md"><img src="../gifs/2108637690698633713.gif" alt="First-Person 3D Procedural Arms and Dynamic Grip Rigging in Three.js" width="256" height="144" /></a><br>
 <strong>First-Person 3D Procedural Arms and Dynamic Grip Rigging in Thre…</strong><br>
 <sub>Use: Procedural First-Person Rigging &amp; Three.js Shader Implementation<br>Inputs: Existing Three.js game codebase with item meshes, public arm API facade, and game world environment<br>Tools: MPFB2 / Three.js</sub><br>
 <sub><a href="https://x.com/maxt3chno/status/2108637690698633713">Original post ↗</a> · <a href="../../prompts/2108637690698633713.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108520350908916007.md"><img src="../gifs/2108520350908916007.gif" alt="Interactive Fall Foliage Simulator Comparison: Claude Opus 5.5 vs GPT-6 Astra" width="256" height="144" /></a><br>
 <strong>Interactive Fall Foliage Simulator Comparison: Claude Opus 5.5 v…</strong><br>
@@ -20,14 +34,14 @@
 <sub>Use: Interactive 3D Gummy Dice Experience<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/maker_evan/status/2108505251036774875">Original post ↗</a> · <a href="../../prompts/2108505251036774875.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108336208891801999.md"><img src="../gifs/2108336208891801999.gif" alt="Pirate Jelly Interactive WebGPU Diorama" width="256" height="144" /></a><br>
 <strong>Pirate Jelly Interactive WebGPU Diorama</strong><br>
 <sub>Use: Procedural WebGPU Jelly Pirate Cove Diorama<br>Inputs: User inputs not specified by the author<br>Tools: Claude Artifacts / WebGPU / WGSL</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2108336208891801999">Original post ↗</a> · <a href="../../prompts/2108336208891801999.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108275570534707601.md"><img src="../gifs/2108275570534707601.gif" alt="Interactive Ombak Balinese Gamelan Simulator" width="256" height="144" /></a><br>
 <strong>Interactive Ombak Balinese Gamelan Simulator</strong><br>
@@ -40,14 +54,14 @@
 <sub>Use: Minecraft voxel engine clone in single HTML file<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 / JavaScript / WebGL2</sub><br>
 <sub><a href="https://x.com/sgarlen01/status/2108257115026649419">Original post ↗</a> · <a href="../../prompts/2108257115026649419.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108195714081738990.md"><img src="../gifs/2108195714081738990.gif" alt="NFS-Inspired 3D Racing Game Demo in Three.js" width="256" height="144" /></a><br>
 <strong>NFS-Inspired 3D Racing Game Demo in Three.js</strong><br>
 <sub>Use: Interactive 3D Racing Game Demo<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/buzzybats/status/2108195714081738990">Original post ↗</a> · <a href="../../prompts/2108195714081738990.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2105090561023901698.md"><img src="../gifs/2105090561023901698.gif" alt="Three.js 3D Closest to the Pin Golf Game Comparison" width="256" height="144" /></a><br>
 <strong>Three.js 3D Closest to the Pin Golf Game Comparison</strong><br>
@@ -60,14 +74,14 @@
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/aichrislee/status/2105086032005726712">Original post ↗</a> · <a href="../../prompts/2105086032005726712.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104920915112829231.md"><img src="../gifs/2104920915112829231.gif" alt="Bodycam FPS 'Fogline' Built with Three.js and Web Shaders" width="256" height="144" /></a><br>
 <strong>Bodycam FPS 'Fogline' Built with Three.js and Web Shaders</strong><br>
 <sub>Use: Browser-based 3D bodycam shooter game<br>Inputs: User inputs not specified by the author<br>Tools: Browser renderer test harness / Three.js / Web Shaders</sub><br>
 <sub><a href="https://x.com/superalesha/status/2104920915112829231">Original post ↗</a> · <a href="../../prompts/2104920915112829231.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104520072014508316.md"><img src="../gifs/2104520072014508316.gif" alt="Interactive 2D/3D Floor Plan and Interior Design Web Tool" width="256" height="144" /></a><br>
 <strong>Interactive 2D/3D Floor Plan and Interior Design Web Tool</strong><br>
@@ -80,14 +94,14 @@
 <sub>Use: Calming rain interaction<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/d_llm_kr/status/2104189915693269112">Original post ↗</a> · <a href="../../prompts/2104189915693269112.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103802923465768972.md"><img src="../gifs/2103802923465768972.gif" alt="Vincent's Cats: 3D Starry Night Game" width="256" height="144" /></a><br>
 <strong>Vincent's Cats: 3D Starry Night Game</strong><br>
 <sub>Use: 3D exploration game / hidden cats<br>Inputs: User inputs not specified by the author<br>Tools: Claude Code</sub><br>
 <sub><a href="https://x.com/MandelDuck/status/2103802923465768972">Original post ↗</a> · <a href="../../prompts/2103802923465768972.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103641070299218145.md"><img src="../gifs/2103641070299218145.gif" alt="Interactive Stroke-by-Stroke Photo Painter App" width="256" height="144" /></a><br>
 <strong>Interactive Stroke-by-Stroke Photo Painter App</strong><br>
@@ -100,14 +114,34 @@
 <sub>Use: Browser 3D Voxel Engine Game<br>Inputs: User inputs not specified by the author<br>Tools: Three.js / WebGL2</sub><br>
 <sub><a href="https://x.com/oviniciuslana/status/2103086714772463953">Original post ↗</a> · <a href="../../prompts/2103086714772463953.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102493035393372363.md"><img src="../gifs/2102493035393372363.gif" alt="3D Truco Mineiro HTML Card Game" width="256" height="144" /></a><br>
 <strong>3D Truco Mineiro HTML Card Game</strong><br>
 <sub>Use: Interactive 3D Truco Mineiro Game<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 / WebGL</sub><br>
 <sub><a href="https://x.com/oviniciuslana/status/2102493035393372363">Original post ↗</a> · <a href="../../prompts/2102493035393372363.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2108951077991362922.md"><img src="../gifs/2108951077991362922.gif" alt="Thermal Courier: Dawn Balloon Mail Run Canvas Game &amp; Trailer" width="256" height="144" /></a><br>
+<strong>Thermal Courier: Dawn Balloon Mail Run Canvas Game &amp; Trailer</strong><br>
+<sub>Use: Thermal Courier Procedural Canvas Game and Trailer<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 Canvas</sub><br>
+<sub><a href="https://x.com/jeffbruchado/status/2108951077991362922">Original post ↗</a> · <a href="../../prompts/2108951077991362922.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2108932593911816392.md"><img src="../gifs/2108932593911816392.gif" alt="100 Years of Movie Genres Interactive Motion Visualization" width="256" height="144" /></a><br>
+<strong>100 Years of Movie Genres Interactive Motion Visualization</strong><br>
+<sub>Use: Movie Genre Historical Timeline Visualization<br>Inputs: User inputs not specified by the author<br>Tools: claude motion artifact</sub><br>
+<sub><a href="https://x.com/gavinpurcell/status/2108932593911816392">Original post ↗</a> · <a href="../../prompts/2108932593911816392.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2108932159419339151.md"><img src="../gifs/2108932159419339151.gif" alt="MOBA Character Design: Zed and Shadow Fiend Hybrid" width="256" height="144" /></a><br>
+<strong>MOBA Character Design: Zed and Shadow Fiend Hybrid</strong><br>
+<sub>Use: Interactive 3D MOBA Character Demo<br>Inputs: User inputs not specified by the author<br>Tools: OBS Studio</sub><br>
+<sub><a href="https://x.com/stablequan/status/2108932159419339151">Original post ↗</a> · <a href="../../prompts/2108932159419339151.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108611423421043095.md"><img src="../gifs/2108611423421043095.gif" alt="Mario 64 in Elden Ring" width="256" height="144" /></a><br>
 <strong>Mario 64 in Elden Ring</strong><br>
@@ -120,14 +154,14 @@
 <sub>Use: Attack on Titan Minecraft Game<br>Inputs: User inputs not specified by the author<br>Tools: Netlify</sub><br>
 <sub><a href="https://x.com/nicksaraev/status/2108604020814233606">Original post ↗</a> · <a href="../../prompts/2108604020814233606.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108588869255827570.md"><img src="../gifs/2108588869255827570.gif" alt="Procedural Avatar-Style 3D Browser Game in Three.js" width="256" height="144" /></a><br>
 <strong>Procedural Avatar-Style 3D Browser Game in Three.js</strong><br>
 <sub>Use: Procedural 3D browser game generation<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/0xRhinoX/status/2108588869255827570">Original post ↗</a> · <a href="../../prompts/2108588869255827570.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108587180218327099.md"><img src="../gifs/2108587180218327099.gif" alt="Myths vs Ink Pixel Art Fighting Game" width="256" height="144" /></a><br>
 <strong>Myths vs Ink Pixel Art Fighting Game</strong><br>
@@ -140,14 +174,14 @@
 <sub>Use: Interactive 3D Kaiju Stomp Game Demo<br>Inputs: User inputs not specified by the author<br>Tools: Claude Code / Maxon Cinema 4D MCP Bridge / Three.js</sub><br>
 <sub><a href="https://x.com/DLGNCE/status/2108558677850435724">Original post ↗</a> · <a href="../../prompts/2108558677850435724.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108553430708990181.md"><img src="../gifs/2108553430708990181.gif" alt="Retro 2D Zelda Game Built and Played by Claude Opus 5.5" width="256" height="144" /></a><br>
 <strong>Retro 2D Zelda Game Built and Played</strong><br>
 <sub>Use: Interactive 2D Retro Game Coded and Autonomously Played by AI<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 Canvas / JavaScript</sub><br>
 <sub><a href="https://x.com/IAenCrudo/status/2108553430708990181">Original post ↗</a> · <a href="../../prompts/2108553430708990181.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108541814718292438.md"><img src="../gifs/2108541814718292438.gif" alt="Interactive 3D Zen Garden with Rakeable Sand" width="256" height="144" /></a><br>
 <strong>Interactive 3D Zen Garden with Rakeable Sand</strong><br>
@@ -160,14 +194,14 @@
 <sub>Use: Interactive 3D Sky Island Balance Game<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/0xbobaaa/status/2108495368585371666">Original post ↗</a> · <a href="../../prompts/2108495368585371666.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108484778747920389.md"><img src="../gifs/2108484778747920389.gif" alt="Offline Mode Implementation and Screen Recordings for Todo App" width="256" height="144" /></a><br>
 <strong>Offline Mode Implementation and Screen Recordings for Todo App</strong><br>
 <sub>Use: App Feature Implementation &amp; Screen Recording Walkthrough<br>Inputs: Pre-existing todolist mobile application codebase for iPhone and Android<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/equivalent8/status/2108484778747920389">Original post ↗</a> · <a href="../../prompts/2108484778747920389.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108428917509911018.md"><img src="../gifs/2108428917509911018.gif" alt="Interactive browser game of a cow running on its teats built with Claude Opus 5.5" width="256" height="144" /></a><br>
 <strong>Interactive browser game of a cow running on its teats built</strong><br>
@@ -180,14 +214,14 @@
 <sub>Use: RDR2 and Minecraft Mashup Demo<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/0xAidanAi/status/2108303873538683065">Original post ↗</a> · <a href="../../prompts/2108303873538683065.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108301605544047099.md"><img src="../gifs/2108301605544047099.gif" alt="Attack on Titan ODM Gear Setup in Minecraft" width="256" height="144" /></a><br>
 <strong>Attack on Titan ODM Gear Setup in Minecraft</strong><br>
 <sub>Use: Attack on Titan ODM Gear in Minecraft<br>Inputs: User inputs not specified by the author<br>Tools: Grappling Mod and Shaders / Minecraft</sub><br>
 <sub><a href="https://x.com/0xDeniAi/status/2108301605544047099">Original post ↗</a> · <a href="../../prompts/2108301605544047099.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108238386318180841.md"><img src="../gifs/2108238386318180841.gif" alt="Hump Run: Inverted 3D Camel Runner Game" width="256" height="144" /></a><br>
 <strong>Hump Run: Inverted 3D Camel Runner Game</strong><br>
@@ -199,6 +233,12 @@
 <strong>Lantern Rise Rooftop Stacker Game and Trailer Generated</strong><br>
 <sub>Use: Lantern Rise Rooftop Stacker Game &amp; Trailer<br>Inputs: No external assets required by the prompt<br>Tools: HTML5 Canvas</sub><br>
 <sub><a href="https://x.com/jeffbruchado/status/2108226414621380679">Original post ↗</a> · <a href="../../prompts/2108226414621380679.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2107843676135100870.md"><img src="../gifs/2107843676135100870.gif" alt="Minecraft Inside GTA 5 Interactive Scene" width="256" height="144" /></a><br>
+<strong>Minecraft Inside GTA 5 Interactive Scene</strong><br>
+<sub>Use: Interactive 3D Game Environment<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
+<sub><a href="https://x.com/bonnyxen/status/2107843676135100870">Original post ↗</a> · <a href="../../prompts/2107843676135100870.md">Prompt ↗</a></sub>
 </td>
 </tr>
 <tr>

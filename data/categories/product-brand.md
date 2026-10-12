@@ -143,6 +143,12 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="../../prompts/2108717646157922687.md"><img src="../gifs/2108717646157922687.gif" alt="Hasos 15-Second Motion Graphics Promo Video" width="256" height="144" /></a><br>
+<strong>Hasos 15-Second Motion Graphics Promo Video</strong><br>
+<sub>Use: Dynamic SaaS Motion Graphics Promo<br>Inputs: Hasos website link providing project context and brand copy<br>Tools: Tool setup not specified by the source</sub><br>
+<sub><a href="https://x.com/paidafluke/status/2108717646157922687">Original post ↗</a> · <a href="../../prompts/2108717646157922687.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2108547893506478160.md"><img src="../gifs/2108547893506478160.gif" alt="Apple-Style Opus 5.5 Product Launch Video" width="256" height="144" /></a><br>
 <strong>Apple-Style Opus 5.5 Product Launch Video</strong><br>
 <sub>Use: Apple Design System Launch Video<br>Inputs: Apple product launch videos provided as reference material<br>Tools: Tool setup not specified by the source</sub><br>
@@ -154,14 +160,14 @@
 <sub>Use: Product Explainer Motion Graphics<br>Inputs: Logos, contact sheet preview imagery, and Rawnd web app interface UI assets featured throughout the video.<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/am56ay/status/2108511993955065948">Original post ↗</a> · <a href="../../prompts/2108511993955065948.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108333562462408823.md"><img src="../gifs/2108333562462408823.gif" alt="Relay SaaS App Launch Video" width="256" height="144" /></a><br>
 <strong>Relay SaaS App Launch Video</strong><br>
 <sub>Use: SaaS Product Launch Motion Graphics<br>Inputs: Application repository providing app code and context<br>Tools: Devin / Remotion</sub><br>
 <sub><a href="https://x.com/Screeendev/status/2108333562462408823">Original post ↗</a> · <a href="../../prompts/2108333562462408823.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108231764023861630.md"><img src="../gifs/2108231764023861630.gif" alt="Opus 5.5 Dynamic Motion Graphics Launch Video for Hunt" width="256" height="144" /></a><br>
 <strong>Opus 5.5 Dynamic Motion Graphics Launch Video for Hunt</strong><br>
@@ -174,11 +180,25 @@
 <sub>Use: Crypto Brand Motion Graphics Promo<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/olivrweb3/status/2108226554740289897">Original post ↗</a> · <a href="../../prompts/2108226554740289897.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108157503209197887.md"><img src="../gifs/2108157503209197887.gif" alt="Automated Hachijojima Promotional Video Generation with Claude Opus 5.5" width="256" height="144" /></a><br>
 <strong>Automated Hachijojima Promotional Video Generation</strong><br>
 <sub>Use: Automated Tourism Promotional Video<br>Inputs: User instruction requesting a PR video for Hachijojima<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/8jojima_/status/2108157503209197887">Original post ↗</a> · <a href="../../prompts/2108157503209197887.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2107311661430493193.md"><img src="../gifs/2107311661430493193.gif" alt="Airbnb UGC Tour Video via Opus 5.5 Orchestration" width="256" height="144" /></a><br>
+<strong>Airbnb UGC Tour Video via Opus 5.5 Orchestration</strong><br>
+<sub>Use: UGC Travel Promo<br>Inputs: Airbnb listing URL for the decommissioned Titan II nuclear missile complex in Arkansas<br>Tools: ElevenLabs / Seedance 2.5 / Topaz</sub><br>
+<sub><a href="https://x.com/venturetwins/status/2107311661430493193">Original post ↗</a> · <a href="../../prompts/2107311661430493193.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2107040421989994822.md"><img src="../gifs/2107040421989994822.gif" alt="SuperX Feature Teaser Motion Graphics" width="256" height="144" /></a><br>
+<strong>SuperX Feature Teaser Motion Graphics</strong><br>
+<sub>Use: Product Feature Teaser Video<br>Inputs: Product roadmap describing upcoming features including cross-posting<br>Tools: Claude Code</sub><br>
+<sub><a href="https://x.com/robj3d3/status/2107040421989994822">Original post ↗</a> · <a href="../../prompts/2107040421989994822.md">Prompt ↗</a></sub>
 </td>
 </tr>
 <tr>
