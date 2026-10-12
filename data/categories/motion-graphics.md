@@ -229,25 +229,39 @@
 <sub><a href="https://x.com/hoyoyoda/status/2103400046922543147">Original post ↗</a> · <a href="../../prompts/2103400046922543147.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2102894936316420109.md"><img src="../gifs/2102894936316420109.gif" alt="Pro-AI Accelerationist Code-Generated Edit" width="256" height="144" /></a><br>
+<strong>Pro-AI Accelerationist Code-Generated Edit</strong><br>
+<sub>Use: AI Accelerationist Thematic Edit<br>Inputs: Soundtrack file referenced via t.co link<br>Tools: Tool setup not specified by the source</sub><br>
+<sub><a href="https://x.com/holytrinity/status/2102894936316420109">Original post ↗</a> · <a href="../../prompts/2102894936316420109.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2102773737129156730.md"><img src="../gifs/2102773737129156730.gif" alt="Stop-Motion Animation Test with Claude Opus 5.5" width="256" height="144" /></a><br>
 <strong>Stop-Motion Animation Test</strong><br>
 <sub>Use: Paper cutout stop-motion animation demonstration<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/MustaphaFenzar/status/2102773737129156730">Original post ↗</a> · <a href="../../prompts/2102773737129156730.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102501547062239317.md"><img src="../gifs/2102501547062239317.gif" alt="Animated Seaside Amusement Park with Ferris Wheel and Carousel" width="256" height="144" /></a><br>
 <strong>Animated Seaside Amusement Park with Ferris Wheel and Carousel</strong><br>
 <sub>Use: Seaside Amusement Park Animation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/lucian__03/status/2102501547062239317">Original post ↗</a> · <a href="../../prompts/2102501547062239317.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2109675464688083380.md"><img src="../gifs/2109675464688083380.gif" alt="Meta Ad Motion Design with Claude Opus 5.5" width="256" height="144" /></a><br>
+<strong>Meta Ad Motion Design</strong><br>
+<sub>Use: Meta Ads Motion Graphics<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
+<sub><a href="https://x.com/evgeniymikholap/status/2109675464688083380">Original post ↗</a> · <a href="../../prompts/2109675464688083380.md">Prompt ↗</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="../../prompts/2109297316242812936.md"><img src="../gifs/2109297316242812936.gif" alt="Mascot Hatching From an Egg: Gregg Animated in Pure Code" width="256" height="144" /></a><br>
 <strong>Mascot Hatching From an Egg: Gregg Animated in Pure Code</strong><br>
 <sub>Use: Procedural Character Animation and Audio Synthesis<br>Inputs: User inputs not specified by the author<br>Tools: Custom Code Renderer</sub><br>
 <sub><a href="https://x.com/MyWestLord/status/2109297316242812936">Original post ↗</a> · <a href="../../prompts/2109297316242812936.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2109243092142571577.md"><img src="../gifs/2109243092142571577.gif" alt="GPT 6 Astra vs Opus 5.5 场景生成对比" width="256" height="144" /></a><br>
 <strong>GPT 6 Astra vs Opus 5.5 场景生成对比</strong><br>
@@ -260,14 +274,14 @@
 <sub>Use: Quantum Dog Animated Showcase<br>Inputs: User inputs not specified by the author<br>Tools: Claude Code</sub><br>
 <sub><a href="https://x.com/borntogambles/status/2108944282379796747">Original post ↗</a> · <a href="../../prompts/2108944282379796747.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108802612669891048.md"><img src="../gifs/2108802612669891048.gif" alt="Opus 5.5 Self-Introduction Motion Graphics Video" width="256" height="144" /></a><br>
 <strong>Opus 5.5 Self-Introduction Motion Graphics Video</strong><br>
 <sub>Use: Self-introduction Motion Graphics<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/olezhavich/status/2108802612669891048">Original post ↗</a> · <a href="../../prompts/2108802612669891048.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108758475606229025.md"><img src="../gifs/2108758475606229025.gif" alt="Fireworks Festival Comparison in HTML/Canvas" width="256" height="144" /></a><br>
 <strong>Fireworks Festival Comparison in HTML/Canvas</strong><br>
@@ -280,14 +294,14 @@
 <sub>Use: Software Launch Video<br>Inputs: Entune application codebase<br>Tools: BRAG</sub><br>
 <sub><a href="https://x.com/eandualem/status/2108678886426824980">Original post ↗</a> · <a href="../../prompts/2108678886426824980.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108596616756416945.md"><img src="../gifs/2108596616756416945.gif" alt="Apple 50-Year Evolution Motion Graphics" width="256" height="144" /></a><br>
 <strong>Apple 50-Year Evolution Motion Graphics</strong><br>
 <sub>Use: Brand History Motion Graphics<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/aiRobertDaily/status/2108596616756416945">Original post ↗</a> · <a href="../../prompts/2108596616756416945.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108584669859955083.md"><img src="../gifs/2108584669859955083.gif" alt="Opus 5.5 60-Second Attention-Grabbing Procedural Showcase" width="256" height="144" /></a><br>
 <strong>Opus 5.5 60-Second Attention-Grabbing Procedural Showcase</strong><br>
@@ -300,14 +314,14 @@
 <sub>Use: AI Capabilities Showcase<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/xiaofengai2023/status/2108563779046813910">Original post ↗</a> · <a href="../../prompts/2108563779046813910.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108555077933822275.md"><img src="../gifs/2108555077933822275.gif" alt="Kokopelli's Space Journey Animation" width="256" height="144" /></a><br>
 <strong>Kokopelli's Space Journey Animation</strong><br>
 <sub>Use: Kokopelli Space Flight<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/KimikoA97936/status/2108555077933822275">Original post ↗</a> · <a href="../../prompts/2108555077933822275.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108550192882503797.md"><img src="../gifs/2108550192882503797.gif" alt="Opus 5.5 vs Sonnet 5.5 Motion Graphics Comparison" width="256" height="144" /></a><br>
 <strong>Opus 5.5 vs Sonnet 5.5 Motion Graphics Comparison</strong><br>
@@ -320,19 +334,25 @@
 <sub>Use: Programmatic Video Assembly<br>Inputs: User inputs not specified by the author<br>Tools: Code-based editing pipeline / Seedance 2.5</sub><br>
 <sub><a href="https://x.com/neco1751662/status/2108361488130023466">Original post ↗</a> · <a href="../../prompts/2108361488130023466.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108242769844310331.md"><img src="../gifs/2108242769844310331.gif" alt="Anime Cold Open: Westworld x Cowboy Bebop x Blade Runner 2049" width="256" height="144" /></a><br>
 <strong>Anime Cold Open: Westworld x Cowboy Bebop x Blade Runner 2049</strong><br>
 <sub>Use: Anime Cold Open Generation<br>Inputs: User inputs not specified by the author<br>Tools: NVIDIA RTX 4090</sub><br>
 <sub><a href="https://x.com/gpbulkin/status/2108242769844310331">Original post ↗</a> · <a href="../../prompts/2108242769844310331.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108228989063991575.md"><img src="../gifs/2108228989063991575.gif" alt="Isometric Environment Verification Animation" width="256" height="144" /></a><br>
 <strong>Isometric Environment Verification Animation</strong><br>
 <sub>Use: Isometric Environment Verification Component<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/itsnotryan/status/2108228989063991575">Original post ↗</a> · <a href="../../prompts/2108228989063991575.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2107730352353452332.md"><img src="../gifs/2107730352353452332.gif" alt="Creepy Takeover Video: 5 Things Claude Can Do" width="256" height="144" /></a><br>
+<strong>Creepy Takeover Video: 5 Things Claude Can Do</strong><br>
+<sub>Use: AI capability showcase takeover animation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
+<sub><a href="https://x.com/forevertawl/status/2107730352353452332">Original post ↗</a> · <a href="../../prompts/2107730352353452332.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2106216524465729626.md"><img src="../gifs/2106216524465729626.gif" alt="Visualization of What Happens When We Die" width="256" height="144" /></a><br>

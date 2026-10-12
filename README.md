@@ -1,6 +1,6 @@
 # Awesome Opus 5.5 Video Prompts
 
-[![2000+ prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner-20261012-092235-collection.svg)](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)
+[![2000+ prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner.svg)](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)
 
 **Creator-shared prompts, visual previews, and practical setup notes — curated by Leadde Open Lab.** Find the original prompt and source, watch selected results, and check the tools and inputs before you try them. Return for fresh picks for your next video, animation or 3D project.
 
@@ -95,22 +95,22 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="prompts/2109288662319919127.md"><img src="data/gifs/2109288662319919127.gif" alt="Interactive WebGPU Plush Penguin Simulation with Soft-Body Physics and Shell Fur" width="100%" /></a><br>
-<strong>Interactive WebGPU Plush Penguin Simulation with Soft-Body Physi…</strong><br>
+<a href="prompts/2109620598704087055.md"><img src="data/gifs/2109620598704087055.gif" alt="Interactive 3D Plasma Lamp in Three.js" width="100%" /></a><br>
+<strong>Interactive 3D Plasma Lamp in Three.js</strong><br>
 
-<sub><a href="https://x.com/vib3coded/status/2109288662319919127">Original post ↗</a> · <a href="prompts/2109288662319919127.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/aeoniumsky/status/2109620598704087055">Original post ↗</a> · <a href="prompts/2109620598704087055.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2109297316242812936.md"><img src="data/gifs/2109297316242812936.gif" alt="Mascot Hatching From an Egg: Gregg Animated in Pure Code" width="100%" /></a><br>
-<strong>Mascot Hatching From an Egg: Gregg Animated in Pure Code</strong><br>
+<a href="prompts/2102486204419817954.md"><img src="data/gifs/2102486204419817954.gif" alt="Being a Claude: Interactive Self-Portrait in Seven Scenes" width="100%" /></a><br>
+<strong>Being a Claude: Interactive Self-Portrait in Seven Scenes</strong><br>
 
-<sub><a href="https://x.com/MyWestLord/status/2109297316242812936">Original post ↗</a> · <a href="prompts/2109297316242812936.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/digi_dot_exe/status/2102486204419817954">Original post ↗</a> · <a href="prompts/2102486204419817954.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2109310203631906912.md"><img src="data/gifs/2109310203631906912.gif" alt="Navigation Menu Hover Animations with Opus 5.5" width="100%" /></a><br>
-<strong>Navigation Menu Hover Animations with Opus 5.5</strong><br>
+<a href="prompts/2109388484569924030.md"><img src="data/gifs/2109388484569924030.gif" alt="Interactive 3D Hand Gestures with Framer and MediaPipe" width="100%" /></a><br>
+<strong>Interactive 3D Hand Gestures with Framer and MediaPipe</strong><br>
 
-<sub><a href="https://x.com/dinocorreia09/status/2109310203631906912">Original post ↗</a> · <a href="prompts/2109310203631906912.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/emili_iv/status/2109388484569924030">Original post ↗</a> · <a href="prompts/2109388484569924030.md">Prompt ↗</a></sub>
 </td>
 </tr>
 </table>
@@ -118,12 +118,12 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 ## Browse the full library
 
 - [Product & Brand Videos](data/categories/product-brand.md) (82)
-- [Motion Graphics & Typography](data/categories/motion-graphics.md) (224)
+- [Motion Graphics & Typography](data/categories/motion-graphics.md) (227)
 - [UI & Web Animation](data/categories/ui-web.md) (15)
-- [Explainers & Education](data/categories/explainers.md) (78)
+- [Explainers & Education](data/categories/explainers.md) (79)
 - [Music & Storytelling](data/categories/music-storytelling.md) (29)
-- [3D Worlds & Simulations](data/categories/3d-scenes.md) (81)
-- [Games & Interactive Experiences](data/categories/games-interactive.md) (79)
+- [3D Worlds & Simulations](data/categories/3d-scenes.md) (88)
+- [Games & Interactive Experiences](data/categories/games-interactive.md) (81)
 
 30 homepage picks · Original creator links on every card.
 
@@ -193,7 +193,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 224 motion graphics & typography →](data/categories/motion-graphics.md)
+[Browse all 227 motion graphics & typography →](data/categories/motion-graphics.md)
 
 ## UI & Web Animation — homepage picks
 
@@ -255,7 +255,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 78 explainers & education →](data/categories/explainers.md)
+[Browse all 79 explainers & education →](data/categories/explainers.md)
 
 ## Music & Storytelling — homepage picks
 
@@ -297,7 +297,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 81 3d worlds & simulations →](data/categories/3d-scenes.md)
+[Browse all 88 3d worlds & simulations →](data/categories/3d-scenes.md)
 
 ## Games & Interactive Experiences — homepage picks
 
@@ -338,17 +338,17 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 79 games & interactive experiences →](data/categories/games-interactive.md)
+[Browse all 81 games & interactive experiences →](data/categories/games-interactive.md)
 
 <details>
 <summary>Browse by tool</summary>
 
-- [canvas-interactive](data/categories/canvas-interactive.md) — 79
+- [canvas-interactive](data/categories/canvas-interactive.md) — 81
 - [manim](data/categories/manim.md) — 2
 - [remotion](data/categories/remotion.md) — 13
 - [blender](data/categories/blender.md) — 7
 - [external-video-model](data/categories/external-video-model.md) — 10
-- [other-animation](data/categories/other-animation.md) — 478
+- [other-animation](data/categories/other-animation.md) — 489
 
 </details>
 

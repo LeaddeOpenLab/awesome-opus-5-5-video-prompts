@@ -129,19 +129,25 @@
 <sub><a href="https://x.com/oviniciuslana/status/2102493035393372363">Original post ↗</a> · <a href="../../prompts/2102493035393372363.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2109388484569924030.md"><img src="../gifs/2109388484569924030.gif" alt="Interactive 3D Hand Gestures with Framer and MediaPipe" width="256" height="144" /></a><br>
+<strong>Interactive 3D Hand Gestures with Framer and MediaPipe</strong><br>
+<sub>Use: Interactive 3D gesture manipulation<br>Inputs: User webcam feed for real-time MediaPipe hand tracking<br>Tools: Framer / Google MediaPipe</sub><br>
+<sub><a href="https://x.com/emili_iv/status/2109388484569924030">Original post ↗</a> · <a href="../../prompts/2109388484569924030.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2108951077991362922.md"><img src="../gifs/2108951077991362922.gif" alt="Thermal Courier: Dawn Balloon Mail Run Canvas Game &amp; Trailer" width="256" height="144" /></a><br>
 <strong>Thermal Courier: Dawn Balloon Mail Run Canvas Game &amp; Trailer</strong><br>
 <sub>Use: Thermal Courier Procedural Canvas Game and Trailer<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 Canvas</sub><br>
 <sub><a href="https://x.com/jeffbruchado/status/2108951077991362922">Original post ↗</a> · <a href="../../prompts/2108951077991362922.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108932593911816392.md"><img src="../gifs/2108932593911816392.gif" alt="100 Years of Movie Genres Interactive Motion Visualization" width="256" height="144" /></a><br>
 <strong>100 Years of Movie Genres Interactive Motion Visualization</strong><br>
 <sub>Use: Movie Genre Historical Timeline Visualization<br>Inputs: User inputs not specified by the author<br>Tools: claude motion artifact</sub><br>
 <sub><a href="https://x.com/gavinpurcell/status/2108932593911816392">Original post ↗</a> · <a href="../../prompts/2108932593911816392.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108932159419339151.md"><img src="../gifs/2108932159419339151.gif" alt="MOBA Character Design: Zed and Shadow Fiend Hybrid" width="256" height="144" /></a><br>
 <strong>MOBA Character Design: Zed and Shadow Fiend Hybrid</strong><br>
@@ -154,14 +160,14 @@
 <sub>Use: RPG Combat Mockup<br>Inputs: User inputs not specified by the author<br>Tools: codex cli / GPT Images</sub><br>
 <sub><a href="https://x.com/huchat_gamedev/status/2108883842061013088">Original post ↗</a> · <a href="../../prompts/2108883842061013088.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108611423421043095.md"><img src="../gifs/2108611423421043095.gif" alt="Mario 64 in Elden Ring" width="256" height="144" /></a><br>
 <strong>Mario 64 in Elden Ring</strong><br>
 <sub>Use: Mario 64 and Elden Ring Crossover<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/0xDeniAi/status/2108611423421043095">Original post ↗</a> · <a href="../../prompts/2108611423421043095.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108604020814233606.md"><img src="../gifs/2108604020814233606.gif" alt="Attack on Titan Minecraft Web Game with Opus 5.5" width="256" height="144" /></a><br>
 <strong>Attack on Titan Minecraft Web Game with Opus 5.5</strong><br>
@@ -174,14 +180,14 @@
 <sub>Use: Procedural 3D browser game generation<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/0xRhinoX/status/2108588869255827570">Original post ↗</a> · <a href="../../prompts/2108588869255827570.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108587180218327099.md"><img src="../gifs/2108587180218327099.gif" alt="Myths vs Ink Pixel Art Fighting Game" width="256" height="144" /></a><br>
 <strong>Myths vs Ink Pixel Art Fighting Game</strong><br>
 <sub>Use: Myths vs Ink Fighting Game<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Techsupersta/status/2108587180218327099">Original post ↗</a> · <a href="../../prompts/2108587180218327099.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108558677850435724.md"><img src="../gifs/2108558677850435724.gif" alt="Interactive Kaiju Stomp 3D Scene via Cinema 4D MCP and Three.js" width="256" height="144" /></a><br>
 <strong>Interactive Kaiju Stomp 3D Scene via Cinema 4D MCP and Three.js</strong><br>
@@ -194,14 +200,14 @@
 <sub>Use: Interactive 2D Retro Game Coded and Autonomously Played by AI<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 Canvas / JavaScript</sub><br>
 <sub><a href="https://x.com/IAenCrudo/status/2108553430708990181">Original post ↗</a> · <a href="../../prompts/2108553430708990181.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108541814718292438.md"><img src="../gifs/2108541814718292438.gif" alt="Interactive 3D Zen Garden with Rakeable Sand" width="256" height="144" /></a><br>
 <strong>Interactive 3D Zen Garden with Rakeable Sand</strong><br>
 <sub>Use: Interactive 3D Zen Garden<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/arixxbt/status/2108541814718292438">Original post ↗</a> · <a href="../../prompts/2108541814718292438.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108495368585371666.md"><img src="../gifs/2108495368585371666.gif" alt="Skyhold: 3D Procedural Sky Island Balance Game Built with Three.js" width="256" height="144" /></a><br>
 <strong>Skyhold: 3D Procedural Sky Island Balance Game Built with Three.…</strong><br>
@@ -214,14 +220,14 @@
 <sub>Use: App Feature Implementation &amp; Screen Recording Walkthrough<br>Inputs: Pre-existing todolist mobile application codebase for iPhone and Android<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/equivalent8/status/2108484778747920389">Original post ↗</a> · <a href="../../prompts/2108484778747920389.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108428917509911018.md"><img src="../gifs/2108428917509911018.gif" alt="Interactive browser game of a cow running on its teats built with Claude Opus 5.5" width="256" height="144" /></a><br>
 <strong>Interactive browser game of a cow running on its teats built</strong><br>
 <sub>Use: Interactive QWOP-style Cow Runner Game<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/AIMind_Ai/status/2108428917509911018">Original post ↗</a> · <a href="../../prompts/2108428917509911018.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108303873538683065.md"><img src="../gifs/2108303873538683065.gif" alt="Arthur Morgan in Minecraft via Opus 5.5" width="256" height="144" /></a><br>
 <strong>Arthur Morgan in Minecraft via Opus 5.5</strong><br>
@@ -234,14 +240,14 @@
 <sub>Use: Attack on Titan ODM Gear in Minecraft<br>Inputs: User inputs not specified by the author<br>Tools: Grappling Mod and Shaders / Minecraft</sub><br>
 <sub><a href="https://x.com/0xDeniAi/status/2108301605544047099">Original post ↗</a> · <a href="../../prompts/2108301605544047099.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108238386318180841.md"><img src="../gifs/2108238386318180841.gif" alt="Hump Run: Inverted 3D Camel Runner Game" width="256" height="144" /></a><br>
 <strong>Hump Run: Inverted 3D Camel Runner Game</strong><br>
 <sub>Use: Interactive 3D Desert Runner Game<br>Inputs: User inputs not specified by the author<br>Tools: Claude Artifacts</sub><br>
 <sub><a href="https://x.com/N1njaCodex/status/2108238386318180841">Original post ↗</a> · <a href="../../prompts/2108238386318180841.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108226414621380679.md"><img src="../gifs/2108226414621380679.gif" alt="Lantern Rise Rooftop Stacker Game and Trailer Generated by Claude Opus 5.5" width="256" height="144" /></a><br>
 <strong>Lantern Rise Rooftop Stacker Game and Trailer Generated</strong><br>
@@ -254,14 +260,14 @@
 <sub>Use: Interactive 3D Game Environment<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/bonnyxen/status/2107843676135100870">Original post ↗</a> · <a href="../../prompts/2107843676135100870.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2107591732561097013.md"><img src="../gifs/2107591732561097013.gif" alt="Interactive AI Data Center Simulation in Three.js" width="256" height="144" /></a><br>
 <strong>Interactive AI Data Center Simulation in Three.js</strong><br>
 <sub>Use: Interactive 3D Data Center Explainer<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/IAenCrudo/status/2107591732561097013">Original post ↗</a> · <a href="../../prompts/2107591732561097013.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2107172334423650521.md"><img src="../gifs/2107172334423650521.gif" alt="The Sims 1 Web Port via Three.js with Opus 5.5" width="256" height="144" /></a><br>
 <strong>The Sims 1 Web Port via Three.js with Opus 5.5</strong><br>
@@ -274,14 +280,14 @@
 <sub>Use: Browser Space Racing Game<br>Inputs: User inputs not specified by the author<br>Tools: Web browser / WebGL 3D engine</sub><br>
 <sub><a href="https://x.com/Ryancampbell/status/2105160746363662816">Original post ↗</a> · <a href="../../prompts/2105160746363662816.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2105143909311803524.md"><img src="../gifs/2105143909311803524.gif" alt="Interactive 3D Electrical Experiment Workbench Comparison" width="256" height="144" /></a><br>
 <strong>Interactive 3D Electrical Experiment Workbench Comparison</strong><br>
 <sub>Use: Interactive 3D Electrical Experiment Workbench<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/akokoi1/status/2105143909311803524">Original post ↗</a> · <a href="../../prompts/2105143909311803524.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2105102932114813383.md"><img src="../gifs/2105102932114813383.gif" alt="btop-like Live Machine Dashboard Web App" width="256" height="144" /></a><br>
 <strong>btop-like Live Machine Dashboard Web App</strong><br>
@@ -294,14 +300,14 @@
 <sub>Use: Opus 5.5 was prompted to turn a 2D mascot character into an interactive 3D model, generating toon shading and a blinking animation compared against GPT-6.1 Sol.<br>Inputs: Reference illustration of Dopadrill's mascot character 'ドパキチ' (Dopakichi)<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/grmchn4ai/status/2105095134354473053">Original post ↗</a> · <a href="../../prompts/2105095134354473053.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2105028528198541622.md"><img src="../gifs/2105028528198541622.gif" alt="AI Factory Discrete Event Simulation Game" width="256" height="144" /></a><br>
 <strong>AI Factory Discrete Event Simulation Game</strong><br>
 <sub>Use: Discrete Event Simulation Game<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/konstantinsaifo/status/2105028528198541622">Original post ↗</a> · <a href="../../prompts/2105028528198541622.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104999693113766152.md"><img src="../gifs/2104999693113766152.gif" alt="Batch Merch 3D Clothes Rack Interactive Portfolio" width="256" height="144" /></a><br>
 <strong>Batch Merch 3D Clothes Rack Interactive Portfolio</strong><br>
@@ -314,14 +320,14 @@
 <sub>Use: Interactive Jackpot App Prototype<br>Inputs: User inputs not specified by the author<br>Tools: Claude Opus 5.5 / GPT 5 / higgsfield MCP / mobbin MCP</sub><br>
 <sub><a href="https://x.com/rehanxahmed/status/2104939145252749710">Original post ↗</a> · <a href="../../prompts/2104939145252749710.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104539335249088582.md"><img src="../gifs/2104539335249088582.gif" alt="Game Boy Tetris Recreation in MONORAL Engine" width="256" height="144" /></a><br>
 <strong>Game Boy Tetris Recreation in MONORAL Engine</strong><br>
 <sub>Use: The author modeled a Game Boy style housing using their MONORAL engine with the LCD rendered on canvas, then prompted Claude Opus 5.5 to recreate the Game Boy version of Tetris to run within MONORAL.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/mickeysmith_jp/status/2104539335249088582">Original post ↗</a> · <a href="../../prompts/2104539335249088582.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104532802486345950.md"><img src="../gifs/2104532802486345950.gif" alt="Interactive 3D Sticker Layer Breakdown Demo" width="256" height="144" /></a><br>
 <strong>Interactive 3D Sticker Layer Breakdown Demo</strong><br>
@@ -334,14 +340,14 @@
 <sub>Use: Interactive 3D swamp environment with boat, water wake, dynamic lighting, and foliage vibe-coded in Three.js using Claude Opus 5.5.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/chetanankola/status/2104509574409769436">Original post ↗</a> · <a href="../../prompts/2104509574409769436.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104485636690584000.md"><img src="../gifs/2104485636690584000.gif" alt="Interactive Educational Webpage on Ions and Coordinate Bonding" width="256" height="144" /></a><br>
 <strong>Interactive Educational Webpage on Ions and Coordinate Bonding</strong><br>
 <sub>Use: An interactive educational webpage with step-by-step animations explaining ions, coordinate bonding in hydronium (H3O+), and an interactive comprehension quiz generated using Claude Opus 5.5.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/neco1751662/status/2104485636690584000">Original post ↗</a> · <a href="../../prompts/2104485636690584000.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104467552281952473.md"><img src="../gifs/2104467552281952473.gif" alt="Interactive Flight Simulator Comparison Built by Opus 5.5" width="256" height="144" /></a><br>
 <strong>Interactive Flight Simulator Comparison Built by Opus 5.5</strong><br>
@@ -354,14 +360,14 @@
 <sub>Use: Author showcases an interactive 3D fireball spell casting simulation created with Claude Opus 5.5 across varying effort levels (low, medium, high, xhigh, max).<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/VibeCode_SahilM/status/2104452405144535314">Original post ↗</a> · <a href="../../prompts/2104452405144535314.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104441050211475528.md"><img src="../gifs/2104441050211475528.gif" alt="Opus 5.5 代码逐帧生成动画短片《我只会写字》" width="256" height="144" /></a><br>
 <strong>Opus 5.5 代码逐帧生成动画短片《我只会写字》</strong><br>
 <sub>Use: 作者让 Opus 5.5 介绍自己能制作何种类型的视频，模型构思了动画片《我只会写字》并生成逐帧绘制的 Canvas/代码动画脚本与旁白。<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/kokoro_886/status/2104441050211475528">Original post ↗</a> · <a href="../../prompts/2104441050211475528.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104436377546818041.md"><img src="../gifs/2104436377546818041.gif" alt="Interactive 3D Camera Lens Focus Lab" width="256" height="144" /></a><br>
 <strong>Interactive 3D Camera Lens Focus Lab</strong><br>
@@ -374,14 +380,14 @@
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/RAJKATAJJ/status/2104434742959755463">Original post ↗</a> · <a href="../../prompts/2104434742959755463.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104421343429312968.md"><img src="../gifs/2104421343429312968.gif" alt="Interactive Explodable Twin-Turbo V12 Engine Explainer" width="256" height="144" /></a><br>
 <strong>Interactive Explodable Twin-Turbo V12 Engine Explainer</strong><br>
 <sub>Use: A screen recording showing an interactive 3D explainer web application of a twin-turbo V12 engine created with Claude Opus 5.5, featuring exploded views, part inspection, and combustion cycle animations.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ImperiumMentisX/status/2104421343429312968">Original post ↗</a> · <a href="../../prompts/2104421343429312968.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104407040135164032.md"><img src="../gifs/2104407040135164032.gif" alt="Escola de Massinha 3D Game with Claude Opus 5.5" width="256" height="144" /></a><br>
 <strong>Escola de Massinha 3D Game</strong><br>
@@ -394,14 +400,14 @@
 <sub>Use: Author demonstrates a 3D flight simulator project created by prompting Claude Opus 5.5, featuring cockpit instrumentation, switchable camera angles, and city navigation.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ekcheungAI/status/2104406088862810533">Original post ↗</a> · <a href="../../prompts/2104406088862810533.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104159923886244176.md"><img src="../gifs/2104159923886244176.gif" alt="Interactive Glitter Sticker Effect with Peel Animation Comparison" width="256" height="144" /></a><br>
 <strong>Interactive Glitter Sticker Effect with Peel Animation Comparison</strong><br>
 <sub>Use: Ann Nguyen tests Claude Opus 5.5 against GPT-6 Sol on building an interactive glitter sticker effect with tilt and peel animations.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ann_nnng/status/2104159923886244176">Original post ↗</a> · <a href="../../prompts/2104159923886244176.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104094723887501736.md"><img src="../gifs/2104094723887501736.gif" alt="Interactive 3D Raptor 3 Rocket Engine WebGL Model" width="256" height="144" /></a><br>
 <strong>Interactive 3D Raptor 3 Rocket Engine WebGL Model</strong><br>
@@ -414,14 +420,14 @@
 <sub>Use: A 3D browser simulation game depicting a tiny underground parcel delivery network, created using Claude Opus 5.5 and Three.js.<br>Inputs: User inputs not specified by the author<br>Tools: React / Three.js</sub><br>
 <sub><a href="https://x.com/lisp_mi/status/2104046743751139812">Original post ↗</a> · <a href="../../prompts/2104046743751139812.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103867115044237752.md"><img src="../gifs/2103867115044237752.gif" alt="Minecraft-Style Browser Sandbox Game Prompt" width="256" height="144" /></a><br>
 <strong>Minecraft-Style Browser Sandbox Game</strong><br>
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/kepochnik/status/2103867115044237752">Original post ↗</a> · <a href="../../prompts/2103867115044237752.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103822946800165270.md"><img src="../gifs/2103822946800165270.gif" alt="Browser-Based Minecraft Game Prompt" width="256" height="144" /></a><br>
 <strong>Browser-Based Minecraft Game</strong><br>
@@ -434,14 +440,14 @@
 <sub>Use: 3D multiplayer space game<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/0xChuckstock/status/2103804606794879327">Original post ↗</a> · <a href="../../prompts/2103804606794879327.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103789415323562325.md"><img src="../gifs/2103789415323562325.gif" alt="Police Chase Arcade Game PRD Prompt" width="256" height="144" /></a><br>
 <strong>Police Chase Arcade Game PRD</strong><br>
 <sub>Use: Mobile arcade game prototype<br>Inputs: Existing Unity CLI project<br>Tools: Unity</sub><br>
 <sub><a href="https://x.com/froessell/status/2103789415323562325">Original post ↗</a> · <a href="../../prompts/2103789415323562325.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103763192971461057.md"><img src="../gifs/2103763192971461057.gif" alt="Pixel Art Hearthstone-Style Card Game Prompt" width="256" height="144" /></a><br>
 <strong>Pixel Art Hearthstone-Style Card Game</strong><br>
@@ -454,14 +460,14 @@
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Ved_CJ/status/2103708392930066575">Original post ↗</a> · <a href="../../prompts/2103708392930066575.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103628970000347627.md"><img src="../gifs/2103628970000347627.gif" alt="MapleStory Clone in Raylib-cs" width="256" height="144" /></a><br>
 <strong>MapleStory Clone in Raylib-cs</strong><br>
 <sub>Use: A prompt given to Claude Opus 5.5 to generate a MapleStory clone game using Raylib-cs.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/NoLit64/status/2103628970000347627">Original post ↗</a> · <a href="../../prompts/2103628970000347627.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103578336018505763.md"><img src="../gifs/2103578336018505763.gif" alt="Umbral: Procedural Canvas Game &amp; Animation" width="256" height="144" /></a><br>
 <strong>Umbral: Procedural Canvas Game &amp; Animation</strong><br>
@@ -474,14 +480,14 @@
 <sub>Use: Interactive 2D/3D Furniture Layout Simulator<br>Inputs: Room dimensions of 3.00 x 3.40 m, 80 cm door, 1.20 x 0.60 m closet, and 1.40 x 1.90 m double bed.<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/goofyninjaaa/status/2103540288136315331">Original post ↗</a> · <a href="../../prompts/2103540288136315331.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103437714695843891.md"><img src="../gifs/2103437714695843891.gif" alt="Retro Romance of the Three Kingdoms Game Prompt" width="256" height="144" /></a><br>
 <strong>Retro Romance of the Three Kingdoms Game</strong><br>
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/opener_ai/status/2103437714695843891">Original post ↗</a> · <a href="../../prompts/2103437714695843891.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103401820261355554.md"><img src="../gifs/2103401820261355554.gif" alt="INKBOUND Pixel Runner Game Prompt" width="256" height="144" /></a><br>
 <strong>INKBOUND Pixel Runner Game</strong><br>
@@ -494,14 +500,14 @@
 <sub>Use: A prompt used with Claude Opus 5.5 to generate a high-energy launch video highlighting live stats, cross-platform play, and themes for an online tennis game.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/deifosv/status/2103197522382786581">Original post ↗</a> · <a href="../../prompts/2103197522382786581.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103152898708582551.md"><img src="../gifs/2103152898708582551.gif" alt="Three.js Douglas A-1H Skyraider" width="256" height="144" /></a><br>
 <strong>Three.js Douglas A-1H Skyraider</strong><br>
 <sub>Use: A prompt used with Opus 5.5 to generate a Douglas A-1H Skyraider aircraft model entirely in Three.js within a single HTML file.<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/BuildFastWithAI/status/2103152898708582551">Original post ↗</a> · <a href="../../prompts/2103152898708582551.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102986585004511319.md"><img src="../gifs/2102986585004511319.gif" alt="Make a Tron Game Prompt" width="256" height="144" /></a><br>
 <strong>Make a Tron Game</strong><br>
@@ -514,20 +520,26 @@
 <sub>Use: Prompt provided to Claude Opus to create a 1990s-style demoscene demo synchronized to an S3M music track using C/C++ and OpenGL.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/gandamu_ml/status/2102919394775220530">Original post ↗</a> · <a href="../../prompts/2102919394775220530.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102889901297426722.md"><img src="../gifs/2102889901297426722.gif" alt="Higher Game Update on Spawn" width="256" height="144" /></a><br>
 <strong>Higher Game Update on Spawn</strong><br>
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/chukinice/status/2102889901297426722">Original post ↗</a> · <a href="../../prompts/2102889901297426722.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102882622053535814.md"><img src="../gifs/2102882622053535814.gif" alt="Deep-Sea Horror Game Prompt" width="256" height="144" /></a><br>
 <strong>Deep-Sea Horror Game</strong><br>
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ggsimm/status/2102882622053535814">Original post ↗</a> · <a href="../../prompts/2102882622053535814.md">Prompt ↗</a></sub>
-</td><td></td><td></td>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2102486204419817954.md"><img src="../gifs/2102486204419817954.gif" alt="Being a Claude: Interactive Self-Portrait in Seven Scenes" width="256" height="144" /></a><br>
+<strong>Being a Claude: Interactive Self-Portrait in Seven Scenes</strong><br>
+<sub>Use: Interactive AI Persona Self-Portrait<br>Inputs: User inputs not specified by the author<br>Tools: Claude Artifacts</sub><br>
+<sub><a href="https://x.com/digi_dot_exe/status/2102486204419817954">Original post ↗</a> · <a href="../../prompts/2102486204419817954.md">Prompt ↗</a></sub>
+</td>
 </tr>
 </table>
 

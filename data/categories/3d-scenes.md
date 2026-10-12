@@ -3,6 +3,12 @@
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="../../prompts/2109620598704087055.md"><img src="../gifs/2109620598704087055.gif" alt="Interactive 3D Plasma Lamp in Three.js" width="256" height="144" /></a><br>
+<strong>Interactive 3D Plasma Lamp in Three.js</strong><br>
+<sub>Use: Interactive 3D Lava Lamp<br>Inputs: Original aeoniumsky lava lamp reference GIF attached to the prompt.<br>Tools: Three.js</sub><br>
+<sub><a href="https://x.com/aeoniumsky/status/2109620598704087055">Original post ↗</a> · <a href="../../prompts/2109620598704087055.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2109288662319919127.md"><img src="../gifs/2109288662319919127.gif" alt="Interactive WebGPU Plush Penguin Simulation with Soft-Body Physics and Shell Fur" width="256" height="144" /></a><br>
 <strong>Interactive WebGPU Plush Penguin Simulation with Soft-Body Physi…</strong><br>
 <sub>Use: Interactive WebGPU Plush Penguin 3D Simulation<br>Inputs: User inputs not specified by the author<br>Tools: WebGPU</sub><br>
@@ -14,14 +20,14 @@
 <sub>Use: WebGPU Plush Hedgehog Physics Simulation<br>Inputs: User inputs not specified by the author<br>Tools: WebGPU</sub><br>
 <sub><a href="https://x.com/N1njaCodex/status/2109259805638455401">Original post ↗</a> · <a href="../../prompts/2109259805638455401.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2109197651518636184.md"><img src="../gifs/2109197651518636184.gif" alt="Midnight Cake Interactive 3D Scene" width="256" height="144" /></a><br>
 <strong>Midnight Cake Interactive 3D Scene</strong><br>
 <sub>Use: Interactive 3D Cake Application<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/SadAlbert10/status/2109197651518636184">Original post ↗</a> · <a href="../../prompts/2109197651518636184.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2109132993617125532.md"><img src="../gifs/2109132993617125532.gif" alt="Three.js 徒步探险纪实 3D 场景与解说视频生成" width="256" height="144" /></a><br>
 <strong>Three.js 徒步探险纪实 3D 场景与解说视频生成</strong><br>
@@ -34,14 +40,14 @@
 <sub>Use: Robotic Arm Kinematics Simulation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/0x_meden/status/2108914859492483132">Original post ↗</a> · <a href="../../prompts/2108914859492483132.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108890995459047654.md"><img src="../gifs/2108890995459047654.gif" alt="Interactive 3D Dino Jelly Diorama in Three.js" width="256" height="144" /></a><br>
 <strong>Interactive 3D Dino Jelly Diorama in Three.js</strong><br>
 <sub>Use: Interactive 3D WebGL Diorama<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/kepochnik/status/2108890995459047654">Original post ↗</a> · <a href="../../prompts/2108890995459047654.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108709764817408244.md"><img src="../gifs/2108709764817408244.gif" alt="Interactive 3D Camera Lens Cutaway with Three.js" width="256" height="144" /></a><br>
 <strong>Interactive 3D Camera Lens Cutaway with Three.js</strong><br>
@@ -54,14 +60,14 @@
 <sub>Use: Interactive Jelly Diorama<br>Inputs: User inputs not specified by the author<br>Tools: Claude Artifacts / WebGPU</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2108649845405929924">Original post ↗</a> · <a href="../../prompts/2108649845405929924.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108626076159357393.md"><img src="../gifs/2108626076159357393.gif" alt="Double Pendulum Chaos Simulation with 1e-9 Radian Separation" width="256" height="144" /></a><br>
 <strong>Double Pendulum Chaos Simulation with 1e-9 Radian Separation</strong><br>
 <sub>Use: Double Pendulum Chaos Simulation<br>Inputs: User inputs not specified by the author<br>Tools: Python</sub><br>
 <sub><a href="https://x.com/marsautomates/status/2108626076159357393">Original post ↗</a> · <a href="../../prompts/2108626076159357393.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108625335122026542.md"><img src="../gifs/2108625335122026542.gif" alt="Interactive Three.js Newton's Cradle" width="256" height="144" /></a><br>
 <strong>Interactive Three.js Newton's Cradle</strong><br>
@@ -74,14 +80,14 @@
 <sub>Use: Cinematic sci-fi scene generation via prompt orchestration<br>Inputs: User inputs not specified by the author<br>Tools: Flova.ai / Seedance 2.5</sub><br>
 <sub><a href="https://x.com/MadMax_Series/status/2108577475752054868">Original post ↗</a> · <a href="../../prompts/2108577475752054868.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108572856044986846.md"><img src="../gifs/2108572856044986846.gif" alt="Interactive WebGPU Plush Cow Material Study" width="256" height="144" /></a><br>
 <strong>Interactive WebGPU Plush Cow Material Study</strong><br>
 <sub>Use: Interactive 3D Soft-Body WebGPU Simulation<br>Inputs: User inputs not specified by the author<br>Tools: WebAudio / WebGPU</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2108572856044986846">Original post ↗</a> · <a href="../../prompts/2108572856044986846.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108512810774802657.md"><img src="../gifs/2108512810774802657.gif" alt="Cinematic F1 Pit Stop in Three.js" width="256" height="144" /></a><br>
 <strong>Cinematic F1 Pit Stop in Three.js</strong><br>
@@ -94,14 +100,14 @@
 <sub>Use: Interactive 3D Eiffel Tower Scene<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/maker_evan/status/2108490153467478249">Original post ↗</a> · <a href="../../prompts/2108490153467478249.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108486895344767283.md"><img src="../gifs/2108486895344767283.gif" alt="Interactive WebGPU Plush Hammerhead Shark" width="256" height="144" /></a><br>
 <strong>Interactive WebGPU Plush Hammerhead Shark</strong><br>
 <sub>Use: Interactive WebGPU Plush Toy Simulation<br>Inputs: User inputs not specified by the author<br>Tools: WebGPU</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2108486895344767283">Original post ↗</a> · <a href="../../prompts/2108486895344767283.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108475056082850278.md"><img src="../gifs/2108475056082850278.gif" alt="AH-64E Apache Guardian Interactive 3D Presentation" width="256" height="144" /></a><br>
 <strong>AH-64E Apache Guardian Interactive 3D Presentation</strong><br>
@@ -114,14 +120,14 @@
 <sub>Use: Interactive Educational 3D Jet Engine<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/maker_evan/status/2108459952683811167">Original post ↗</a> · <a href="../../prompts/2108459952683811167.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108384651362394407.md"><img src="../gifs/2108384651362394407.gif" alt="Tesseract: Six Universes, One Box (HTML5 3D Shader Demo)" width="256" height="144" /></a><br>
 <strong>Tesseract: Six Universes, One Box (HTML5 3D Shader Demo)</strong><br>
 <sub>Use: Tesseract 3D Shader Illusion<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 / WebGL</sub><br>
 <sub><a href="https://x.com/TragoBuilds/status/2108384651362394407">Original post ↗</a> · <a href="../../prompts/2108384651362394407.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108347412636938609.md"><img src="../gifs/2108347412636938609.gif" alt="Interactive 3D Saturn V Rocket Cutaway in Three.js" width="256" height="144" /></a><br>
 <strong>Interactive 3D Saturn V Rocket Cutaway in Three.js</strong><br>
@@ -134,14 +140,14 @@
 <sub>Use: Interactive Jelly Koi Pond<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 / WebGL</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2108256366879981677">Original post ↗</a> · <a href="../../prompts/2108256366879981677.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108249888571916688.md"><img src="../gifs/2108249888571916688.gif" alt="Propane Tank Crush and Explosion WebGPU Simulation" width="256" height="144" /></a><br>
 <strong>Propane Tank Crush and Explosion WebGPU Simulation</strong><br>
 <sub>Use: WebGPU Propane Tank Crushing and Explosion Simulation<br>Inputs: User inputs not specified by the author<br>Tools: Web Audio API / WebGPU / WGSL</sub><br>
 <sub><a href="https://x.com/theparuchh/status/2108249888571916688">Original post ↗</a> · <a href="../../prompts/2108249888571916688.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108230699224596746.md"><img src="../gifs/2108230699224596746.gif" alt="Mountainside Car Chase Previs" width="256" height="144" /></a><br>
 <strong>Mountainside Car Chase Previs</strong><br>
@@ -153,6 +159,20 @@
 <strong>Interactive 3D Coral Reef Diorama Simulation</strong><br>
 <sub>Use: Interactive 3D Coral Reef Diorama<br>Inputs: No external assets required by the prompt<br>Tools: three.js / Three.js / WebAudio API</sub><br>
 <sub><a href="https://x.com/0xRhinoX/status/2108218949808656725">Original post ↗</a> · <a href="../../prompts/2108218949808656725.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2107870393444729090.md"><img src="../gifs/2107870393444729090.gif" alt="Spaceport Digital Twin Dashboard Animation" width="256" height="144" /></a><br>
+<strong>Spaceport Digital Twin Dashboard Animation</strong><br>
+<sub>Use: 3D Spaceport Digital Twin Dashboard<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
+<sub><a href="https://x.com/HamidoFx1/status/2107870393444729090">Original post ↗</a> · <a href="../../prompts/2107870393444729090.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2107788313390416110.md"><img src="../gifs/2107788313390416110.gif" alt="Interactive 3D Planetary Gearbox CAD Simulation" width="256" height="144" /></a><br>
+<strong>Interactive 3D Planetary Gearbox CAD Simulation</strong><br>
+<sub>Use: Interactive 3D Planetary Gearbox CAD Demo<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
+<sub><a href="https://x.com/KanikaBK/status/2107788313390416110">Original post ↗</a> · <a href="../../prompts/2107788313390416110.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2105190658701201725.md"><img src="../gifs/2105190658701201725.gif" alt="Squid Jelly: Interactive 3D WebGPU Gummy Squid Simulation" width="256" height="144" /></a><br>
@@ -209,25 +229,39 @@
 <sub><a href="https://x.com/akokoi1/status/2104200939095904322">Original post ↗</a> · <a href="../../prompts/2104200939095904322.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2102893186330841502.md"><img src="../gifs/2102893186330841502.gif" alt="Ex Nihilo: Pure HTML/GLSL Demoscene Intro by Claude Opus 5.5" width="256" height="144" /></a><br>
+<strong>Ex Nihilo: Pure HTML/GLSL Demoscene Intro</strong><br>
+<sub>Use: Procedural Demoscene Production<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 / WebGL / Web Audio</sub><br>
+<sub><a href="https://x.com/JustinPerea/status/2102893186330841502">Original post ↗</a> · <a href="../../prompts/2102893186330841502.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2109313213678367157.md"><img src="../gifs/2109313213678367157.gif" alt="Banana Tree and Shaking Monkey 3D Code Animation" width="256" height="144" /></a><br>
 <strong>Banana Tree and Shaking Monkey 3D Code Animation</strong><br>
 <sub>Use: 3D Procedural Character and Tree Animation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Andr1ycp/status/2109313213678367157">Original post ↗</a> · <a href="../../prompts/2109313213678367157.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2109247904351445151.md"><img src="../gifs/2109247904351445151.gif" alt="Claude's Little Avatar and Dandelion Fluff Animation" width="256" height="144" /></a><br>
 <strong>Claude's Little Avatar and Dandelion Fluff Animation</strong><br>
 <sub>Use: Character Animation and Gentle 3D Scene<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Charlotteqozf/status/2109247904351445151">Original post ↗</a> · <a href="../../prompts/2109247904351445151.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2109243587724755158.md"><img src="../gifs/2109243587724755158.gif" alt="Quadruped Robot Perception &amp; Locomotion Simulation in Three.js" width="256" height="144" /></a><br>
 <strong>Quadruped Robot Perception &amp; Locomotion Simulation in Three.js</strong><br>
 <sub>Use: Robot Perception and Locomotion Simulation<br>Inputs: User inputs not specified by the author<br>Tools: build123d / MuJoCo / three.js</sub><br>
 <sub><a href="https://x.com/konstantinsaifo/status/2109243587724755158">Original post ↗</a> · <a href="../../prompts/2109243587724755158.md">Prompt ↗</a></sub>
 </td>
+<td width="33%" valign="top">
+<a href="../../prompts/2108986964615840035.md"><img src="../gifs/2108986964615840035.gif" alt="Breaching Whale at Sunrise in Three.js" width="256" height="144" /></a><br>
+<strong>Breaching Whale at Sunrise in Three.js</strong><br>
+<sub>Use: Whale Breaching Sunrise 3D Scene<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
+<sub><a href="https://x.com/Bhavani_00007/status/2108986964615840035">Original post ↗</a> · <a href="../../prompts/2108986964615840035.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108928100624896157.md"><img src="../gifs/2108928100624896157.gif" alt="Interactive 3D Domino Playground" width="256" height="144" /></a><br>
 <strong>Interactive 3D Domino Playground</strong><br>
@@ -240,14 +274,14 @@
 <sub>Use: Interactive 3D DIY Bookshelf Visualizer<br>Inputs: Room or DIY shelf specifications and request for blueprints and concept visualization<br>Tools: HTML / WebGL Viewer</sub><br>
 <sub><a href="https://x.com/Ponpara5/status/2108907357166313662">Original post ↗</a> · <a href="../../prompts/2108907357166313662.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108663864581558301.md"><img src="../gifs/2108663864581558301.gif" alt="Three.js 3D Logo Intro Studio Generator" width="256" height="144" /></a><br>
 <strong>Three.js 3D Logo Intro Studio Generator</strong><br>
 <sub>Use: 3D Logo Motion Intro<br>Inputs: User SVG logo code to be converted into 3D geometry<br>Tools: Google Chrome / three.js</sub><br>
 <sub><a href="https://x.com/juancarlos17626/status/2108663864581558301">Original post ↗</a> · <a href="../../prompts/2108663864581558301.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108564740519674082.md"><img src="../gifs/2108564740519674082.gif" alt="Interactive Jelly Koi Pond Simulation" width="256" height="144" /></a><br>
 <strong>Interactive Jelly Koi Pond Simulation</strong><br>
@@ -260,14 +294,14 @@
 <sub>Use: Airplane Landing 3D Animation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/sebmoska/status/2108552389871444113">Original post ↗</a> · <a href="../../prompts/2108552389871444113.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108547315971793119.md"><img src="../gifs/2108547315971793119.gif" alt="Three.js Morphing Cube and Galaxy Animation" width="256" height="144" /></a><br>
 <strong>Three.js Morphing Cube and Galaxy Animation</strong><br>
 <sub>Use: Procedural 3D Visualizer<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/narukijima/status/2108547315971793119">Original post ↗</a> · <a href="../../prompts/2108547315971793119.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108537908583919966.md"><img src="../gifs/2108537908583919966.gif" alt="GPT-6 Astra vs Claude Opus 5.5 Video Lighting Comparison" width="256" height="144" /></a><br>
 <strong>GPT-6 Astra vs Claude Opus 5.5 Video Lighting Comparison</strong><br>
@@ -280,14 +314,14 @@
 <sub>Use: Interactive 3D Plush Toy Simulation<br>Inputs: User inputs not specified by the author<br>Tools: Claude Artifacts</sub><br>
 <sub><a href="https://x.com/N1njaCodex/status/2108531279473910161">Original post ↗</a> · <a href="../../prompts/2108531279473910161.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108514670411907296.md"><img src="../gifs/2108514670411907296.gif" alt="Interactive Jelly Koi Pond Simulation with Physics" width="256" height="144" /></a><br>
 <strong>Interactive Jelly Koi Pond Simulation with Physics</strong><br>
 <sub>Use: Interactive Jelly Koi Pond Simulation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/zyroxxx111/status/2108514670411907296">Original post ↗</a> · <a href="../../prompts/2108514670411907296.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108511286795640926.md"><img src="../gifs/2108511286795640926.gif" alt="Procedural 3D Elephant in Three.js with Claude Opus 5.5" width="256" height="144" /></a><br>
 <strong>Procedural 3D Elephant in Three.js</strong><br>
@@ -300,14 +334,14 @@
 <sub>Use: Interactive 3D Lava River and Gnome Habitat in Three.js<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/ottollm/status/2108311732376453546">Original post ↗</a> · <a href="../../prompts/2108311732376453546.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108301527483838465.md"><img src="../gifs/2108301527483838465.gif" alt="Interactive 3D Liquid-Cooled AI Hall Concept in Three.js" width="256" height="144" /></a><br>
 <strong>Interactive 3D Liquid-Cooled AI Hall Concept in Three.js</strong><br>
 <sub>Use: Data Center Infrastructure 3D Walkthrough<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/Solvaix/status/2108301527483838465">Original post ↗</a> · <a href="../../prompts/2108301527483838465.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108301452384870600.md"><img src="../gifs/2108301452384870600.gif" alt="Interactive WebGL Lava Lamp in Single HTML" width="256" height="144" /></a><br>
 <strong>Interactive WebGL Lava Lamp in Single HTML</strong><br>
@@ -320,13 +354,25 @@
 <sub>Use: Procedural 3D F1 Pit Stop Animation<br>Inputs: User inputs not specified by the author<br>Tools: Claude Haiku 5.5 / Three.js</sub><br>
 <sub><a href="https://x.com/rubenssoto_ai/status/2108289170871582851">Original post ↗</a> · <a href="../../prompts/2108289170871582851.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108218235468325374.md"><img src="../gifs/2108218235468325374.gif" alt="Night Monster" width="256" height="144" /></a><br>
 <strong>Night Monster</strong><br>
 <sub>Use: Cinematic horror creature reveal scene<br>Inputs: User inputs not specified by the author<br>Tools: Claude Opus 5.5 / Higgsfield / Seedance 2.5</sub><br>
 <sub><a href="https://x.com/MadMax_Series/status/2108218235468325374">Original post ↗</a> · <a href="../../prompts/2108218235468325374.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2107812780690596105.md"><img src="../gifs/2107812780690596105.gif" alt="Running Crawler Spider Animation with Opus 5.5" width="256" height="144" /></a><br>
+<strong>Running Crawler Spider Animation with Opus 5.5</strong><br>
+<sub>Use: 3D Character Animation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
+<sub><a href="https://x.com/immortalhowwl/status/2107812780690596105">Original post ↗</a> · <a href="../../prompts/2107812780690596105.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2107683152865173619.md"><img src="../gifs/2107683152865173619.gif" alt="Interactive 3D Live Visitor Analytics Globe" width="256" height="144" /></a><br>
+<strong>Interactive 3D Live Visitor Analytics Globe</strong><br>
+<sub>Use: Live Visitor Map Visualization<br>Inputs: Cloudflare real-time socket connections and country codes<br>Tools: Tool setup not specified by the source</sub><br>
+<sub><a href="https://x.com/RyanSael/status/2107683152865173619">Original post ↗</a> · <a href="../../prompts/2107683152865173619.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2107435499686154557.md"><img src="../gifs/2107435499686154557.gif" alt="Running Cow on Udder" width="256" height="144" /></a><br>
@@ -334,14 +380,14 @@
 <sub>Use: 3D Cartoon Character Animation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/AIMind_Ai/status/2107435499686154557">Original post ↗</a> · <a href="../../prompts/2107435499686154557.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2106710882567037394.md"><img src="../gifs/2106710882567037394.gif" alt="Maglev Train Journey Through Impossible Worlds" width="256" height="144" /></a><br>
 <strong>Maglev Train Journey Through Impossible Worlds</strong><br>
 <sub>Use: Continuous Multi-Environment Sci-Fi Train Journey<br>Inputs: User inputs not specified by the author<br>Tools: Seedance 2.5 / Vidfield</sub><br>
 <sub><a href="https://x.com/HeyAbhishek/status/2106710882567037394">Original post ↗</a> · <a href="../../prompts/2106710882567037394.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2106599643014414696.md"><img src="../gifs/2106599643014414696.gif" alt="Inside the Mind of Claude AI Three.js ASCII Animation" width="256" height="144" /></a><br>
 <strong>Inside the Mind of Claude AI Three.js ASCII Animation</strong><br>
@@ -354,14 +400,14 @@
 <sub>Use: The author compares 3D generation capabilities between GPT 6.1 SOL and Claude Opus 5.5, requesting thin borders, translucent tones, detailed veins, and beveled edges on a rotating stained-glass leaf.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/abhinavflac/status/2105100907952353560">Original post ↗</a> · <a href="../../prompts/2105100907952353560.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2105086568155304269.md"><img src="../gifs/2105086568155304269.gif" alt="Interactive 20,000 Water Particle Fluid Simulation Comparison" width="256" height="144" /></a><br>
 <strong>Interactive 20,000 Water Particle Fluid Simulation Comparison</strong><br>
 <sub>Use: Interactive 2D particle fluid dynamics simulation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/viewsfrom02108/status/2105086568155304269">Original post ↗</a> · <a href="../../prompts/2105086568155304269.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2105049523139850561.md"><img src="../gifs/2105049523139850561.gif" alt="NASA Mars Canyon Flight Simulation" width="256" height="144" /></a><br>
 <strong>NASA Mars Canyon Flight Simulation</strong><br>
@@ -374,14 +420,14 @@
 <sub>Use: Interactive 3D ballistics and fluid ray tracing simulation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/decodedbysania/status/2104859976112206265">Original post ↗</a> · <a href="../../prompts/2104859976112206265.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104525642121519401.md"><img src="../gifs/2104525642121519401.gif" alt="Tokyo Station 3D Architectural Breakdown" width="256" height="144" /></a><br>
 <strong>Tokyo Station 3D Architectural Breakdown</strong><br>
 <sub>Use: 3D visualization dissecting Tokyo Station's multi-layered layout generated via Claude Code / Opus 5.5 scripting Blender.<br>Inputs: User inputs not specified by the author<br>Tools: Blender</sub><br>
 <sub><a href="https://x.com/yktgch/status/2104525642121519401">Original post ↗</a> · <a href="../../prompts/2104525642121519401.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104516868182598079.md"><img src="../gifs/2104516868182598079.gif" alt="Interactive F135 Jet Engine Simulation" width="256" height="144" /></a><br>
 <strong>Interactive F135 Jet Engine Simulation</strong><br>
@@ -394,14 +440,14 @@
 <sub>Use: Saul Flores Jr. demonstrates an interactive 3D simulation of sunlight heating a microring resonator and controller compensation, created by prompting Claude Opus 5.5.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/SaulFloresJr/status/2104498456626651380">Original post ↗</a> · <a href="../../prompts/2104498456626651380.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104458970865996117.md"><img src="../gifs/2104458970865996117.gif" alt="Claude Opus 5.5 Unity Rain and Lightning Effect Experiment" width="256" height="144" /></a><br>
 <strong>Claude Opus 5.5 Unity Rain and Lightning Effect Experiment</strong><br>
 <sub>Use: Unity weather-effects experiment<br>Inputs: Base Unity scene with simple 3D primitives and terrain before weather effects were added.<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/threediveai/status/2104458970865996117">Original post ↗</a> · <a href="../../prompts/2104458970865996117.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104410894167916709.md"><img src="../gifs/2104410894167916709.gif" alt="Toyota Prius 2027 3D Disassembly and Animation in Blender" width="256" height="144" /></a><br>
 <strong>Toyota Prius 2027 3D Disassembly and Animation in Blender</strong><br>
@@ -414,14 +460,14 @@
 <sub>Use: A Web3D prompt used with Opus 5.5 and Three.js to recreate the classic dogfight scene from Hayao Miyazaki's 'Porco Rosso' over a sunset sea.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/NFT_Chen/status/2103882415299350878">Original post ↗</a> · <a href="../../prompts/2103882415299350878.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103876499262800291.md"><img src="../gifs/2103876499262800291.gif" alt="3D Forest Conservation Website" width="256" height="144" /></a><br>
 <strong>3D Forest Conservation Website</strong><br>
 <sub>Use: A 3D website for a forest conservation agency generated in a single HTML file using Opus 5.5 based on a Pinterest reference.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Souradip3000/status/2103876499262800291">Original post ↗</a> · <a href="../../prompts/2103876499262800291.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103845689713111079.md"><img src="../gifs/2103845689713111079.gif" alt="AI Data Centre 3D Motion Graphic" width="256" height="144" /></a><br>
 <strong>AI Data Centre 3D Motion Graphic</strong><br>
@@ -434,14 +480,14 @@
 <sub>Use: A simple prompt given to Claude Opus to generate an animated 3D walkthrough showing what happens inside an AI data center from the grid down to silicon.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Sayan_shanky/status/2103736579449868515">Original post ↗</a> · <a href="../../prompts/2103736579449868515.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103517910274818523.md"><img src="../gifs/2103517910274818523.gif" alt="Creative Front-End and Video Generation Prompt" width="256" height="144" /></a><br>
 <strong>Creative Front-End and Video Generation</strong><br>
 <sub>Use: A creative prompt asking the AI model to freely select a theme tailored to the user's interests, generating both a 30-second video and an interactive HTML page to showcase its front-end capabilities.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/DemitiyaGeekzen/status/2103517910274818523">Original post ↗</a> · <a href="../../prompts/2103517910274818523.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103499771206156628.md"><img src="../gifs/2103499771206156628.gif" alt="GLSL Fishbowl in Three.js" width="256" height="144" /></a><br>
 <strong>GLSL Fishbowl in Three.js</strong><br>
@@ -454,14 +500,14 @@
 <sub>Use: A creative coding prompt used with Claude Opus 5.5 to generate an interactive 3D pagoda navigation world in a single shot.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/BuildFastWithAI/status/2103483174957597035">Original post ↗</a> · <a href="../../prompts/2103483174957597035.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103195903012032809.md"><img src="../gifs/2103195903012032809.gif" alt="3D Animation of Gradient Descent" width="256" height="144" /></a><br>
 <strong>3D Animation of Gradient Descent</strong><br>
 <sub>Use: A prompt requesting Claude Opus to generate a 3D animation illustrating gradient descent with a ball moving from crest to trough, along with explanations and a specific color scheme.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/anirockshady/status/2103195903012032809">Original post ↗</a> · <a href="../../prompts/2103195903012032809.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103194052850241739.md"><img src="../gifs/2103194052850241739.gif" alt="Cinematic Browser-Based 3D World Prompt" width="256" height="144" /></a><br>
 <strong>Cinematic Browser-Based 3D World</strong><br>
@@ -474,14 +520,14 @@
 <sub>Use: A prompt given to Claude Opus asking it to create a video designed to go viral, leading to a coded physics simulation and synthesizer synchronized with Für Elise.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/kantamk/status/2103148907228176511">Original post ↗</a> · <a href="../../prompts/2103148907228176511.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103119648271290566.md"><img src="../gifs/2103119648271290566.gif" alt="Pelican Riding a Bicycle Animation" width="256" height="144" /></a><br>
 <strong>Pelican Riding a Bicycle Animation</strong><br>
 <sub>Use: Detailed character animation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/AxtonLiu/status/2103119648271290566">Original post ↗</a> · <a href="../../prompts/2103119648271290566.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103038625483272483.md"><img src="../gifs/2103038625483272483.gif" alt="Interactive 3D Taj Mahal in Three.js" width="256" height="144" /></a><br>
 <strong>Interactive 3D Taj Mahal in Three.js</strong><br>
@@ -494,14 +540,14 @@
 <sub>Use: Claude Opus 5.5 runs a benchmark task to generate a 3D procedural water simulation with terrain, rain, streams, and lakes using TypeScript and Three.js.<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/StephanFerraro/status/2103020274107224281">Original post ↗</a> · <a href="../../prompts/2103020274107224281.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102971287224135914.md"><img src="../gifs/2102971287224135914.gif" alt="Interactive Explosion Simulation Prompt" width="256" height="144" /></a><br>
 <strong>Interactive Explosion Simulation</strong><br>
 <sub>Use: A creative coding prompt instructing the AI to generate an advanced interactive explosion effect and unique environment with dynamic force propagation and visual aftermath.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/FornYapayZeka/status/2102971287224135914">Original post ↗</a> · <a href="../../prompts/2102971287224135914.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102920408743678129.md"><img src="../gifs/2102920408743678129.gif" alt="Stylistic 3D Particle Santa Monica Beach" width="256" height="144" /></a><br>
 <strong>Stylistic 3D Particle Santa Monica Beach</strong><br>
@@ -514,14 +560,14 @@
 <sub>Use: A creative coding prompt instructing the AI to design and build an impressive, cinematic fireworks or light particle show with depth, dynamic lighting, and interactive replay capabilities.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/FornYapayZeka/status/2102888241443795431">Original post ↗</a> · <a href="../../prompts/2102888241443795431.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102861939072434495.md"><img src="../gifs/2102861939072434495.gif" alt="Browser Minecraft Recreation Prompt" width="256" height="144" /></a><br>
 <strong>Browser Minecraft Recreation</strong><br>
 <sub>Use: A detailed prompt for Claude Opus 5.5 and PINOC MCP to generate a playable, browser-based Minecraft recreation with Three.js shaders and animated voxel NPCs.<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/Viggle_PINOC/status/2102861939072434495">Original post ↗</a> · <a href="../../prompts/2102861939072434495.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102715938671878156.md"><img src="../gifs/2102715938671878156.gif" alt="Interactive 3D STEP File CAD Viewer" width="256" height="144" /></a><br>
 <strong>Interactive 3D STEP File CAD Viewer</strong><br>
@@ -534,12 +580,14 @@
 <sub>Use: A prompt to generate a 2-minute sand animation illustrating 250 years of U.S. history with accompanying background music and sound design.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Michaelzsguo/status/2102592355165782312">Original post ↗</a> · <a href="../../prompts/2102592355165782312.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102466523164274839.md"><img src="../gifs/2102466523164274839.gif" alt="1906 San Francisco Market Street Blender Reconstruction" width="256" height="144" /></a><br>
 <strong>1906 San Francisco Market Street Blender Reconstruction</strong><br>
 <sub>Use: Historical 3D reconstruction<br>Inputs: User inputs not specified by the author<br>Tools: Blender</sub><br>
 <sub><a href="https://x.com/alexalbert__/status/2102466523164274839">Original post ↗</a> · <a href="../../prompts/2102466523164274839.md">Prompt ↗</a></sub>
-</td>
+</td><td></td><td></td>
 </tr>
 </table>
 
