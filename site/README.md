@@ -76,3 +76,5 @@ Google 提供的 `google9ddda4d9c22709a6.html` 保存在 `site/public/`，每次
 在 `site/site.json` 中填写 `ga_measurement_id`，或在 GitHub Actions Variables 中设置 `GA_MEASUREMENT_ID`，重新构建部署后启用 GA4。未配置时只在当前页面的 `window.dataLayer` 中排队事件，不向统计服务器发送数据，也不会汇总访客数据。
 
 事件：`preview_play`（实际开始播放，每页面同一案例同一位置只计一次）、`prompt_copy`（剪贴板写入成功）、`github_click`、`leadde_click`。事件包含位置 `placement`，播放和复制包含 `prompt_id`，首屏播放标注 `autoplay`。不发送提示词正文或搜索输入。可以在 GA4 DebugView / 实时报告验证接收；需要按案例和位置分析时，将对应参数注册为自定义维度。
+
+作品区第一张主推卡进入可视区域后静音循环播放，可手动暂停；其他卡片在支持鼠标悬停的设备上悬停播放、移出暂停并恢复封面。移出可视区域、切换后台、筛选隐藏或打开弹窗时暂停。视频按需加载；触屏仍使用点击预览，减少动态效果设置下默认不自动播放。播放统计位置新增 `spotlight` 和 `hover`。

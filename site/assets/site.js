@@ -48,6 +48,7 @@ function filterCards() {
     );
   const empty = document.querySelector("[data-empty]");
   if (empty) empty.hidden = visible !== 0;
+  document.dispatchEvent(new Event("collectionfiltered"));
 }
 search?.addEventListener("input", filterCards);
 document.addEventListener("languagechange", filterCards);
@@ -99,7 +100,7 @@ if (dialog) {
       video.poster = button.dataset.poster;
       video.src = button.dataset.preview;
       dialog.showModal();
-      document.querySelector("[data-hero-video]")?.pause();
+      document.querySelectorAll("[data-hero-video], [data-card-video]").forEach((preview) => preview.pause());
       video.play().catch(() => {});
     }),
   );
@@ -130,11 +131,11 @@ if (dialog) {
 const played = new Set();
 document.querySelectorAll("video").forEach((video) => {
   video.addEventListener("playing", () => {
-    const placement = video.matches("[data-hero-video]") ? "hero" : video.closest("dialog") ? "preview" : "detail";
+    const placement = video.matches("[data-hero-video]") ? "hero" : video.dataset.cardVideo || (video.closest("dialog") ? "preview" : "detail");
     const key = placement + video.dataset.promptId;
     if (played.has(key)) return;
     played.add(key);
-    track("preview_play", { prompt_id: video.dataset.promptId, placement, autoplay: placement === "hero" });
+    track("preview_play", { prompt_id: video.dataset.promptId, placement, autoplay: placement === "hero" || placement === "spotlight" });
   });
 });
 const heroVideo = document.querySelector("[data-hero-video]");
@@ -165,4 +166,56 @@ if (heroVideo) {
 }
 document.addEventListener("languagechange", () => {
   if (dialog?.open) dialog.querySelector("h2").textContent = t(dialog.dataset.title);
+});
+
+// Load card previews only when they are about to play.
+const hoverPointer = matchMedia("(hover: hover) and (pointer: fine)");
+const reducedCards = matchMedia("(prefers-reduced-motion: reduce)");
+document.querySelectorAll("[data-card-video]").forEach((video) => {
+  const card = video.closest(".card");
+  const media = video.closest(".card-media");
+  const spotlight = video.dataset.cardVideo === "spotlight";
+  const toggle = media.querySelector("[data-card-toggle]");
+  let visible = false;
+  let hovering = false;
+  let paused = reducedCards.matches;
+  function label() {
+    if (toggle) toggle.textContent = t(video.paused ? "Resume preview" : "Pause preview");
+  }
+  function sync() {
+    const active = spotlight ? !paused : hovering && hoverPointer.matches && !reducedCards.matches;
+    if (visible && active && !card.hidden && !document.hidden && !dialog?.open) {
+      if (!video.getAttribute("src")) video.src = video.dataset.src;
+      video.play().catch(() => {});
+    } else {
+      video.pause();
+      if (!spotlight) video.classList.remove("is-playing");
+    }
+  }
+  new IntersectionObserver(([entry]) => {
+    visible = entry.isIntersecting;
+    sync();
+  }, { threshold: 0.15 }).observe(media);
+  card.addEventListener("pointerenter", (event) => {
+    if (event.pointerType === "touch") return;
+    hovering = true;
+    sync();
+  });
+  card.addEventListener("pointerleave", () => { hovering = false; sync(); });
+  video.addEventListener("playing", () => {
+    video.classList.add("is-playing");
+    label();
+  });
+  video.addEventListener("pause", label);
+  if (toggle) {
+    toggle.hidden = false;
+    label();
+    toggle.addEventListener("click", () => { paused = !video.paused; sync(); label(); });
+  }
+  reducedCards.addEventListener("change", () => { paused = reducedCards.matches; sync(); });
+  hoverPointer.addEventListener("change", sync);
+  document.addEventListener("visibilitychange", sync);
+  document.addEventListener("previewclosed", sync);
+  document.addEventListener("collectionfiltered", sync);
+  document.addEventListener("languagechange", label);
 });

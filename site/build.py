@@ -52,9 +52,11 @@ def card(item, prefix, filterable=False):
     data = f' data-card data-category="{item["category"]}" data-search="{E(search)}"' if filterable else ''
     feature = item.get('showcase', '') if filterable else ''
     style = ' card-' + feature if feature else ''
+    motion = 'spotlight' if feature == 'spotlight' else 'hover'
+    pause = '<button class="hero-pause" data-card-toggle hidden>Pause preview</button>' if feature == 'spotlight' else ''
     badge = '<div class="editor-pick">Editor’s pick</div>' if feature else ''
     return f'''<article class="card{style}"{data}>
-<div class="card-media"><a href="{prefix}{case_url(item)}" tabindex="-1" aria-hidden="true"><img src="{prefix}assets/posters/{item['id']}.jpg" alt="" width="800" height="500" loading="lazy"></a>{preview(item,prefix)}</div>
+<div class="card-media"><a href="{prefix}{case_url(item)}" tabindex="-1" aria-hidden="true"><img src="{prefix}assets/posters/{item['id']}.jpg" alt="" width="800" height="500" loading="lazy"></a><video class="card-video" data-card-video="{motion}" data-prompt-id="{item['id']}" data-src="{prefix}assets/previews/{item['id']}.mp4" muted playsinline loop preload="none" aria-hidden="true"></video>{pause}{preview(item,prefix)}</div>
 <div class="card-info">{badge}<div class="card-top"><span>{E(cat)}</span><span class="tool">{E(item['tool'])}</span></div>
 <h3><a href="{prefix}{case_url(item)}">{E(item['title'])}</a></h3><p>{E(item['description'])}</p>
 <div class="card-bottom"><a href="{E(item['source'])}">@{E(item['author'])} ↗</a><a href="{prefix}{case_url(item)}">Get prompt →</a></div></div></article>'''
