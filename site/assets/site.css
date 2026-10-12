@@ -1224,3 +1224,81 @@ html[lang="zh-CN"] .hero h1 {
   .hero { padding-top: 28px; gap: 22px; }
   .hero h1 { font-size: 42px; }
 }
+
+/* Editorial hierarchy: a lead film, two featured works, then the collection. */
+.hero {
+  grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.75fr);
+  gap: 42px;
+  padding: 46px 0 40px;
+}
+.hero h1 { font-size: clamp(38px, 4vw, 58px); }
+.hero-copy > p { max-width: 310px; font-size: 18px; }
+.hero .actions { gap: 15px; }
+.hero .hero-note { margin-top: 20px !important; }
+.hero-picture { border-radius: 14px; box-shadow: 0 16px 45px #20144318; }
+.hero-picture img { aspect-ratio: 16/10; }
+.hero-caption > a { font-size: 13px; white-space: nowrap; }
+.hero-caption strong { font-size: 16px; }
+.showcase-grid { grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 32px 24px; }
+.showcase-grid .card { grid-column: span 4; }
+.showcase-grid .card-media img { aspect-ratio: 16/10; }
+.showcase-grid .card-featured { grid-column: span 6; }
+.showcase-grid .card-featured .card-media img { aspect-ratio: 16/9; }
+.showcase-grid .card-featured h3 { font-size: 26px; }
+.showcase-grid .card-spotlight {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: minmax(0, 1.8fr) minmax(0, 1fr);
+  align-items: center;
+  background: #f1edff;
+  border-radius: 14px;
+  overflow: hidden;
+}
+.showcase-grid .card-spotlight .card-media { border-radius: 0; height: 100%; }
+.showcase-grid .card-spotlight .card-media > a { height: 100%; }
+.showcase-grid .card-spotlight .card-media img { height: 100%; min-height: 350px; aspect-ratio: 16/10; }
+.showcase-grid .card-spotlight .card-info { padding: 32px; }
+.showcase-grid .card-spotlight h3 { font-size: clamp(26px, 3vw, 38px); line-height: 1.15; }
+.showcase-grid .card-spotlight p { font-size: 15px; margin: 18px 0 24px; }
+.editor-pick { color: var(--purple-dark); font-size: 11px; font-weight: 650; letter-spacing: 0.08em; text-transform: uppercase; }
+.card-featured .editor-pick { margin-top: 20px; }
+.card-featured .card-top { margin-top: 8px; }
+.card-spotlight .card-top { margin-top: 16px; }
+.showcase-grid .card-bottom { align-items: center; margin-top: 16px; }
+.showcase-grid .card-bottom a:last-child { color: var(--purple-dark); font-size: 13px; font-weight: 600; padding: 8px 0; }
+.showcase-grid .play { min-height: 40px; padding: 0 14px; }
+.showcase-grid .card-spotlight .play, .showcase-grid .card-featured .play { bottom: 18px; right: 18px; min-height: 44px; font-size: 14px; }
+.collection .section-heading h2 { max-width: 640px; }
+@media (max-width: 1050px) {
+  .hero { gap: 28px; }
+  .hero h1 { font-size: 40px; }
+  .showcase-grid .card-spotlight .card-info { padding: 24px; }
+}
+@media (max-width: 760px) {
+  .hero { grid-template-columns: 1fr; padding-top: 28px; gap: 24px; }
+  .hero-copy > p { max-width: none; margin-top: 14px; }
+  .hero .hero-note { display: none; }
+  .hero h1 br { display: none; }
+  .hero h1 span::before { content: ' '; }
+  .hero h1 { font-size: 40px; }
+  .hero .actions { margin-top: 20px; }
+  .hero-picture img { aspect-ratio: 16/10; }
+  .hero-caption strong { font-size: 14px; }
+  .showcase-grid { gap: 28px 18px; }
+  .showcase-grid .card { grid-column: span 6; }
+  .showcase-grid .card-spotlight { grid-column: 1 / -1; grid-template-columns: 1fr; }
+  .showcase-grid .card-spotlight .card-media img { min-height: 0; height: auto; }
+  .showcase-grid .card-featured h3 { font-size: 22px; }
+  .showcase-grid .card-spotlight h3 { font-size: 30px; }
+  .showcase-grid .card-featured .play { font-size: 12px; right: 10px; bottom: 10px; padding: 0 10px; }
+}
+@media (max-width: 450px) {
+  .showcase-grid .card-featured { grid-column: 1 / -1; }
+  .showcase-grid .card:not(.card-featured):not(.card-spotlight) h3 { font-size: 17px; }
+  .showcase-grid .card:not(.card-featured):not(.card-spotlight) p { display: none; }
+  .showcase-grid .card:not(.card-featured):not(.card-spotlight) .play { font-size: 11px; padding: 0 8px; right: 8px; bottom: 8px; }
+  .showcase-grid .card-top { font-size: 9px; }
+  .showcase-grid .card-bottom { font-size: 10px; gap: 2px; }
+  .hero-caption { gap: 8px; }
+  .hero-caption > a { font-size: 12px; }
+}

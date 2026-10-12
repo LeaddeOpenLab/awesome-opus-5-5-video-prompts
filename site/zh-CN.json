@@ -120,7 +120,14 @@
     "Timing:": "时长：",
     "Set a duration for video, or a loop length for interactive work.": "指定视频时长，或交互作品的动画循环时长。",
     "Frame:": "画幅：",
-    "Choose landscape 16:9, portrait 9:16 or square 1:1.": "选择横屏 16:9、竖屏 9:16 或方形 1:1。"
+    "Choose landscape 16:9, portrait 9:16 or square 1:1.": "选择横屏 16:9、竖屏 9:16 或方形 1:1。",
+    "Editor’s pick": "编辑精选",
+    "Get prompt →": "获取提示词 →",
+    "Standout work. A prompt behind every frame.": "好作品，值得多看一眼。",
+    "Start with our editor’s picks, then explore more creative directions.": "从重点精选开始，发现更多创作方向与背后的提示词。",
+    "Watch the work. Take the prompt. Make it yours.": "看作品，拿提示词，做出你的版本。",
+    "Claude, in motion": "用 Claude，让创意动起来",
+    "FEATURED WORLD": "本期主推 · 3D 世界"
   },
   "categories": {
     "motion-graphics": {
