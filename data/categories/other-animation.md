@@ -3,11 +3,25 @@
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="../../prompts/2109259805638455401.md"><img src="../gifs/2109259805638455401.gif" alt="Interactive WebGPU Plush Hedgehog Simulation" width="256" height="144" /></a><br>
+<strong>Interactive WebGPU Plush Hedgehog Simulation</strong><br>
+<sub>Use: WebGPU Plush Hedgehog Physics Simulation<br>Inputs: User inputs not specified by the author<br>Tools: WebGPU</sub><br>
+<sub><a href="https://x.com/N1njaCodex/status/2109259805638455401">Original post ↗</a> · <a href="../../prompts/2109259805638455401.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2109230205365858694.md"><img src="../gifs/2109230205365858694.gif" alt="Music Video for Song Built in Code via Claude Opus 5.5" width="256" height="144" /></a><br>
+<strong>Music Video for Song Built in Code</strong><br>
+<sub>Use: Procedural Audio-Reactive Music Video<br>Inputs: Original audio file of the song 'I'm In Heaven Now'<br>Tools: Tool setup not specified by the source</sub><br>
+<sub><a href="https://x.com/ImmuneHack/status/2109230205365858694">Original post ↗</a> · <a href="../../prompts/2109230205365858694.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2109197651518636184.md"><img src="../gifs/2109197651518636184.gif" alt="Midnight Cake Interactive 3D Scene" width="256" height="144" /></a><br>
 <strong>Midnight Cake Interactive 3D Scene</strong><br>
 <sub>Use: Interactive 3D Cake Application<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/SadAlbert10/status/2109197651518636184">Original post ↗</a> · <a href="../../prompts/2109197651518636184.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2109187815195992248.md"><img src="../gifs/2109187815195992248.gif" alt="Music Machine Motion Graphics Video" width="256" height="144" /></a><br>
 <strong>Music Machine Motion Graphics Video</strong><br>
@@ -20,14 +34,14 @@
 <sub>Use: Hippo Running Cycle Animation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/pipeline_os/status/2108937773742756207">Original post ↗</a> · <a href="../../prompts/2108937773742756207.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108914859492483132.md"><img src="../gifs/2108914859492483132.gif" alt="6-Joint Robotic Arm Physics Simulation Generated from a Natural Language Specification" width="256" height="144" /></a><br>
 <strong>6-Joint Robotic Arm Physics Simulation Generated from a Natural…</strong><br>
 <sub>Use: Robotic Arm Kinematics Simulation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/0x_meden/status/2108914859492483132">Original post ↗</a> · <a href="../../prompts/2108914859492483132.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108890995459047654.md"><img src="../gifs/2108890995459047654.gif" alt="Interactive 3D Dino Jelly Diorama in Three.js" width="256" height="144" /></a><br>
 <strong>Interactive 3D Dino Jelly Diorama in Three.js</strong><br>
@@ -40,14 +54,14 @@
 <sub>Use: AI Architecture Visual Interpretation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/mikenevermiss/status/2108788464909218140">Original post ↗</a> · <a href="../../prompts/2108788464909218140.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108709764817408244.md"><img src="../gifs/2108709764817408244.gif" alt="Interactive 3D Camera Lens Cutaway with Three.js" width="256" height="144" /></a><br>
 <strong>Interactive 3D Camera Lens Cutaway with Three.js</strong><br>
 <sub>Use: Interactive 3D Camera Lens Cutaway Exploder<br>Inputs: User inputs not specified by the author<br>Tools: Claude Code / Three.js</sub><br>
 <sub><a href="https://x.com/aichrislee/status/2108709764817408244">Original post ↗</a> · <a href="../../prompts/2108709764817408244.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108685334343221621.md"><img src="../gifs/2108685334343221621.gif" alt="Claude Opus 5.5 Gravity Motion Graphics Explainer" width="256" height="144" /></a><br>
 <strong>Claude Opus 5.5 Gravity Motion Graphics Explainer</strong><br>
@@ -60,14 +74,14 @@
 <sub>Use: Interactive Jelly Diorama<br>Inputs: User inputs not specified by the author<br>Tools: Claude Artifacts / WebGPU</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2108649845405929924">Original post ↗</a> · <a href="../../prompts/2108649845405929924.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108626076159357393.md"><img src="../gifs/2108626076159357393.gif" alt="Double Pendulum Chaos Simulation with 1e-9 Radian Separation" width="256" height="144" /></a><br>
 <strong>Double Pendulum Chaos Simulation with 1e-9 Radian Separation</strong><br>
 <sub>Use: Double Pendulum Chaos Simulation<br>Inputs: User inputs not specified by the author<br>Tools: Python</sub><br>
 <sub><a href="https://x.com/marsautomates/status/2108626076159357393">Original post ↗</a> · <a href="../../prompts/2108626076159357393.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108625335122026542.md"><img src="../gifs/2108625335122026542.gif" alt="Interactive Three.js Newton's Cradle" width="256" height="144" /></a><br>
 <strong>Interactive Three.js Newton's Cradle</strong><br>
@@ -80,14 +94,14 @@
 <sub>Use: Interactive 3D Soft-Body WebGPU Simulation<br>Inputs: User inputs not specified by the author<br>Tools: WebAudio / WebGPU</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2108572856044986846">Original post ↗</a> · <a href="../../prompts/2108572856044986846.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108570435575222596.md"><img src="../gifs/2108570435575222596.gif" alt="Video as Code Kinetic Typography Promo" width="256" height="144" /></a><br>
 <strong>Video as Code Kinetic Typography Promo</strong><br>
 <sub>Use: Video as Code Promo<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/YuanXi901019/status/2108570435575222596">Original post ↗</a> · <a href="../../prompts/2108570435575222596.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108569413746335887.md"><img src="../gifs/2108569413746335887.gif" alt="Quantum Mechanics Motion Graphic Flash Video" width="256" height="144" /></a><br>
 <strong>Quantum Mechanics Motion Graphic Flash Video</strong><br>
@@ -100,14 +114,14 @@
 <sub>Use: Neutrino Astronomy 3D Scientific Explainer<br>Inputs: SRT timing file and lyrics about Nobel prize neutrino physics<br>Tools: Claude CLI / GLSL / 3D Graphics / Suno</sub><br>
 <sub><a href="https://x.com/beebidao/status/2108567783789515051">Original post ↗</a> · <a href="../../prompts/2108567783789515051.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108512810774802657.md"><img src="../gifs/2108512810774802657.gif" alt="Cinematic F1 Pit Stop in Three.js" width="256" height="144" /></a><br>
 <strong>Cinematic F1 Pit Stop in Three.js</strong><br>
 <sub>Use: Cinematic 3D F1 Pit Stop<br>Inputs: User inputs not specified by the author<br>Tools: Claude Haiku 5.5 / Three.js</sub><br>
 <sub><a href="https://x.com/rubenssoto_ai/status/2108512810774802657">Original post ↗</a> · <a href="../../prompts/2108512810774802657.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108506248341856721.md"><img src="../gifs/2108506248341856721.gif" alt="Claude Opus 5.5 生成 AI 发展史动画视频" width="256" height="144" /></a><br>
 <strong>Claude Opus 5.5 生成 AI 发展史动画视频</strong><br>
@@ -120,14 +134,14 @@
 <sub>Use: Interactive 3D Honey Keyboard<br>Inputs: User inputs not specified by the author<br>Tools: HTML/WebGL</sub><br>
 <sub><a href="https://x.com/keydol123/status/2108501256067285443">Original post ↗</a> · <a href="../../prompts/2108501256067285443.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108490153467478249.md"><img src="../gifs/2108490153467478249.gif" alt="Interactive 3D Eiffel Tower Scene in Browser" width="256" height="144" /></a><br>
 <strong>Interactive 3D Eiffel Tower Scene in Browser</strong><br>
 <sub>Use: Interactive 3D Eiffel Tower Scene<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/maker_evan/status/2108490153467478249">Original post ↗</a> · <a href="../../prompts/2108490153467478249.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108486895344767283.md"><img src="../gifs/2108486895344767283.gif" alt="Interactive WebGPU Plush Hammerhead Shark" width="256" height="144" /></a><br>
 <strong>Interactive WebGPU Plush Hammerhead Shark</strong><br>
@@ -140,14 +154,14 @@
 <sub>Use: AH-64E Apache Guardian 3D Presentation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/maker_evan/status/2108475056082850278">Original post ↗</a> · <a href="../../prompts/2108475056082850278.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108459952683811167.md"><img src="../gifs/2108459952683811167.gif" alt="Interactive Educational 3D Jet Engine in the Browser" width="256" height="144" /></a><br>
 <strong>Interactive Educational 3D Jet Engine in the Browser</strong><br>
 <sub>Use: Interactive Educational 3D Jet Engine<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/maker_evan/status/2108459952683811167">Original post ↗</a> · <a href="../../prompts/2108459952683811167.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108438685184401904.md"><img src="../gifs/2108438685184401904.gif" alt="Smartwatch ORBIT Cinematic 3D Product Reveal Film in Three.js" width="256" height="144" /></a><br>
 <strong>Smartwatch ORBIT Cinematic 3D Product Reveal Film in Three.js</strong><br>
@@ -160,14 +174,14 @@
 <sub>Use: Seamless Morphing Motion Graphics<br>Inputs: Ask me for: 4 photos (a mountain valley at sunrise, a top-down drone shot of a roundabout, a latte being poured from above, the sun over the sea at golden hour), one accent color (mine is violet #A898FF), and a royalty-free song around 118 BPM with a drop (e.g. Pixabay, free for commercial use).<br>Tools: HTML Canvas / numpy / NumPy / Playwright</sub><br>
 <sub><a href="https://x.com/finnardley/status/2108432616558879016">Original post ↗</a> · <a href="../../prompts/2108432616558879016.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108418928397500487.md"><img src="../gifs/2108418928397500487.gif" alt="Claude Opus 5.5 Motion Graphics Dream Sequence" width="256" height="144" /></a><br>
 <strong>Claude Opus 5.5 Motion Graphics Dream Sequence</strong><br>
 <sub>Use: Dynamic Motion Graphics with Sound Design and Pixel Art<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/arsbond_/status/2108418928397500487">Original post ↗</a> · <a href="../../prompts/2108418928397500487.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108384651362394407.md"><img src="../gifs/2108384651362394407.gif" alt="Tesseract: Six Universes, One Box (HTML5 3D Shader Demo)" width="256" height="144" /></a><br>
 <strong>Tesseract: Six Universes, One Box (HTML5 3D Shader Demo)</strong><br>
@@ -180,14 +194,14 @@
 <sub>Use: Interactive 3D Saturn V rocket exploded view<br>Inputs: User inputs not specified by the author<br>Tools: Claude Code / Three.js</sub><br>
 <sub><a href="https://x.com/aichrislee/status/2108347412636938609">Original post ↗</a> · <a href="../../prompts/2108347412636938609.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108326197516198346.md"><img src="../gifs/2108326197516198346.gif" alt="Roblox Game Trailer for Last Strike" width="256" height="144" /></a><br>
 <strong>Roblox Game Trailer for Last Strike</strong><br>
 <sub>Use: Roblox Game Promotional Trailer<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Aryanpxcr7/status/2108326197516198346">Original post ↗</a> · <a href="../../prompts/2108326197516198346.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108326054431707284.md"><img src="../gifs/2108326054431707284.gif" alt="Article-to-Motion Video via Claude in Chrome" width="256" height="144" /></a><br>
 <strong>Article-to-Motion Video via Claude in Chrome</strong><br>
@@ -200,14 +214,14 @@
 <sub>Use: Motion Design Showreel<br>Inputs: User inputs not specified by the author<br>Tools: DuskCut</sub><br>
 <sub><a href="https://x.com/pascal_gha83332/status/2108300297487413491">Original post ↗</a> · <a href="../../prompts/2108300297487413491.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108256366879981677.md"><img src="../gifs/2108256366879981677.gif" alt="Interactive 3D Jelly Koi Pond Simulation" width="256" height="144" /></a><br>
 <strong>Interactive 3D Jelly Koi Pond Simulation</strong><br>
 <sub>Use: Interactive Jelly Koi Pond<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 / WebGL</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2108256366879981677">Original post ↗</a> · <a href="../../prompts/2108256366879981677.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108249888571916688.md"><img src="../gifs/2108249888571916688.gif" alt="Propane Tank Crush and Explosion WebGPU Simulation" width="256" height="144" /></a><br>
 <strong>Propane Tank Crush and Explosion WebGPU Simulation</strong><br>
@@ -220,14 +234,14 @@
 <sub>Use: Interactive 3D Coral Reef Diorama<br>Inputs: No external assets required by the prompt<br>Tools: three.js / Three.js / WebAudio API</sub><br>
 <sub><a href="https://x.com/0xRhinoX/status/2108218949808656725">Original post ↗</a> · <a href="../../prompts/2108218949808656725.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108196827036054007.md"><img src="../gifs/2108196827036054007.gif" alt="Dog Fetching Stick Animation Comparison" width="256" height="144" /></a><br>
 <strong>Dog Fetching Stick Animation Comparison</strong><br>
 <sub>Use: 2D Dog Fetch Animation<br>Inputs: User inputs not specified by the author<br>Tools: HyperFrames</sub><br>
 <sub><a href="https://x.com/sebmoska/status/2108196827036054007">Original post ↗</a> · <a href="../../prompts/2108196827036054007.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2108184711206257149.md"><img src="../gifs/2108184711206257149.gif" alt="Saitama Prefecture Motion Graphics Showreel" width="256" height="144" /></a><br>
 <strong>Saitama Prefecture Motion Graphics Showreel</strong><br>
@@ -240,14 +254,14 @@
 <sub>Use: UI Motion Design<br>Inputs: Figma crypto card UI design<br>Tools: Figma / Jitter</sub><br>
 <sub><a href="https://x.com/Khlaseek_dsgner/status/2108167809997877659">Original post ↗</a> · <a href="../../prompts/2108167809997877659.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2107712528239218744.md"><img src="../gifs/2107712528239218744.gif" alt="Paper Airplane Animation Prompt Comparison" width="256" height="144" /></a><br>
 <strong>Paper Airplane Animation Prompt Comparison</strong><br>
 <sub>Use: Paper airplane animation test<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/0xtoberry/status/2107712528239218744">Original post ↗</a> · <a href="../../prompts/2107712528239218744.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2107594959666728991.md"><img src="../gifs/2107594959666728991.gif" alt="Polymarket Election Odds Explainer Video via HyperFrames" width="256" height="144" /></a><br>
 <strong>Polymarket Election Odds Explainer Video via HyperFrames</strong><br>
@@ -260,14 +274,14 @@
 <sub>Use: Creative Coding Motion Graphics Showcase<br>Inputs: User inputs not specified by the author<br>Tools: Procedural Code / Shader Engine</sub><br>
 <sub><a href="https://x.com/HBCoop_/status/2107139305324122491">Original post ↗</a> · <a href="../../prompts/2107139305324122491.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2105287909343428943.md"><img src="../gifs/2105287909343428943.gif" alt="App Store Launch Preview Video for Dog Training App" width="256" height="144" /></a><br>
 <strong>App Store Launch Preview Video for Dog Training App</strong><br>
 <sub>Use: App Store Preview Promo<br>Inputs: Hyperframes automation skill; App branding, visual assets, and style guide<br>Tools: FFmpeg / hyperframes / JavaScript / Playwright</sub><br>
 <sub><a href="https://x.com/JeanLucas/status/2105287909343428943">Original post ↗</a> · <a href="../../prompts/2105287909343428943.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2105208251956830625.md"><img src="../gifs/2105208251956830625.gif" alt="Paper Planes Motion Design Showreel Comparison" width="256" height="144" /></a><br>
 <strong>Paper Planes Motion Design Showreel Comparison</strong><br>
@@ -280,14 +294,14 @@
 <sub>Use: Interactive 3D WebGPU Gummy Squid Simulation<br>Inputs: User inputs not specified by the author<br>Tools: WebGPU / WGSL</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2105190658701201725">Original post ↗</a> · <a href="../../prompts/2105190658701201725.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2105177028911837538.md"><img src="../gifs/2105177028911837538.gif" alt="VibeCodingList 15-Second Motion Graphics Showreel" width="256" height="144" /></a><br>
 <strong>VibeCodingList 15-Second Motion Graphics Showreel</strong><br>
 <sub>Use: Motion Graphics Showreel<br>Inputs: Base code repository and animation framework used to generate the video programmatically<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/josefandre_/status/2105177028911837538">Original post ↗</a> · <a href="../../prompts/2105177028911837538.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2105152588991868936.md"><img src="../gifs/2105152588991868936.gif" alt="Opus 5.5 Agentic Meme-Style Video Production Comparison" width="256" height="144" /></a><br>
 <strong>Opus 5.5 Agentic Meme-Style Video Production Comparison</strong><br>
@@ -300,14 +314,14 @@
 <sub>Use: Studio Motion-Design Reel<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/threeaus/status/2105152377057886343">Original post ↗</a> · <a href="../../prompts/2105152377057886343.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2105145374541484257.md"><img src="../gifs/2105145374541484257.gif" alt="Beat-Synced Action Video Editing with Claude Opus 5.5" width="256" height="144" /></a><br>
 <strong>Beat-Synced Action Video Editing</strong><br>
 <sub>Use: Beat-Synced Action Video Editing<br>Inputs: User inputs not specified by the author<br>Tools: Claude Opus 5.5</sub><br>
 <sub><a href="https://x.com/kray_ai/status/2105145374541484257">Original post ↗</a> · <a href="../../prompts/2105145374541484257.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2105064666904813711.md"><img src="../gifs/2105064666904813711.gif" alt="Carvuk 30-Second Motion Graphics Explainer" width="256" height="144" /></a><br>
 <strong>Carvuk 30-Second Motion Graphics Explainer</strong><br>
@@ -320,14 +334,14 @@
 <sub>Use: Atomic Blast Meme Motion Graphic Video<br>Inputs: User inputs not specified by the author<br>Tools: Code-based Video Renderer</sub><br>
 <sub><a href="https://x.com/wangyaominde/status/2104992103428141286">Original post ↗</a> · <a href="../../prompts/2104992103428141286.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104981908241486064.md"><img src="../gifs/2104981908241486064.gif" alt="Claude Opus 5.5 Self-Visualization Motion Design" width="256" height="144" /></a><br>
 <strong>Claude Opus 5.5 Self-Visualization Motion Design</strong><br>
 <sub>Use: AI Self-Representation Motion Design<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/motion_so/status/2104981908241486064">Original post ↗</a> · <a href="../../prompts/2104981908241486064.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104939693355995311.md"><img src="../gifs/2104939693355995311.gif" alt="中国烟草发展史纪录风格短片" width="256" height="144" /></a><br>
 <strong>中国烟草发展史纪录风格短片</strong><br>
@@ -340,14 +354,14 @@
 <sub>Use: Computer History Motion Explainer<br>Inputs: User inputs not specified by the author<br>Tools: Claude Opus 5.5 / Jimeng (即梦)</sub><br>
 <sub><a href="https://x.com/TheHappyWang/status/2104931748014702918">Original post ↗</a> · <a href="../../prompts/2104931748014702918.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104923224614326394.md"><img src="../gifs/2104923224614326394.gif" alt="Automated Corporate Explainer Video Generated from Lark Meeting Data via Claude Code and Opus 5.5" width="256" height="144" /></a><br>
 <strong>Automated Corporate Explainer Video Generated from Lark Meeting…</strong><br>
 <sub>Use: Corporate Philosophy Explainer Video<br>Inputs: Lark database containing messages, documents, meeting recordings, transcripts, and emails.<br>Tools: Claude Code / Lark</sub><br>
 <sub><a href="https://x.com/NishizawaShimon/status/2104923224614326394">Original post ↗</a> · <a href="../../prompts/2104923224614326394.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104912803786375645.md"><img src="../gifs/2104912803786375645.gif" alt="Opus 5.5 Motion Designer Showreel" width="256" height="144" /></a><br>
 <strong>Opus 5.5 Motion Designer Showreel</strong><br>
@@ -360,14 +374,14 @@
 <sub>Use: Continuous Macro Zoom Explainer<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/Dino_Spike_web3/status/2104909723443302770">Original post ↗</a> · <a href="../../prompts/2104909723443302770.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104903820639633895.md"><img src="../gifs/2104903820639633895.gif" alt="Opus 5.5 30-Second Motion Designer Portfolio Reel" width="256" height="144" /></a><br>
 <strong>Opus 5.5 30-Second Motion Designer Portfolio Reel</strong><br>
 <sub>Use: Motion Graphics Showreel<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/MirrortekUK/status/2104903820639633895">Original post ↗</a> · <a href="../../prompts/2104903820639633895.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104884772518478061.md"><img src="../gifs/2104884772518478061.gif" alt="Claude Opus 5.5 Motion Graphics Showreel" width="256" height="144" /></a><br>
 <strong>Claude Opus 5.5 Motion Graphics Showreel</strong><br>
@@ -380,14 +394,14 @@
 <sub>Use: Interactive 3D Particle Morphing System<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 Canvas API / Three.js</sub><br>
 <sub><a href="https://x.com/DaisyDiao2/status/2104827632538022154">Original post ↗</a> · <a href="../../prompts/2104827632538022154.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104827314400026936.md"><img src="../gifs/2104827314400026936.gif" alt="fal API Showreel Motion Graphics Video" width="256" height="144" /></a><br>
 <strong>fal API Showreel Motion Graphics Video</strong><br>
 <sub>Use: fal Motion Design Showreel<br>Inputs: User inputs not specified by the author<br>Tools: fal API</sub><br>
 <sub><a href="https://x.com/influencer_seo/status/2104827314400026936">Original post ↗</a> · <a href="../../prompts/2104827314400026936.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104827072283849181.md"><img src="../gifs/2104827072283849181.gif" alt="30-Second Motion Designer Resume Showreel Comparison" width="256" height="144" /></a><br>
 <strong>30-Second Motion Designer Resume Showreel Comparison</strong><br>
@@ -400,14 +414,14 @@
 <sub>Use: Service Promotional Motion Graphics<br>Inputs: Local workspace and project context for the YEIKEN platform<br>Tools: Claude Code / ffmpeg / Headless Browser</sub><br>
 <sub><a href="https://x.com/yeiken_app/status/2104820349838000492">Original post ↗</a> · <a href="../../prompts/2104820349838000492.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104809910152425483.md"><img src="../gifs/2104809910152425483.gif" alt="Perler Bead Pixel Music Video" width="256" height="144" /></a><br>
 <strong>Perler Bead Pixel Music Video</strong><br>
 <sub>Use: Perler Bead Pixel Art Music Video<br>Inputs: User inputs not specified by the author<br>Tools: Suno</sub><br>
 <sub><a href="https://x.com/hahazwei/status/2104809910152425483">Original post ↗</a> · <a href="../../prompts/2104809910152425483.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104788406656184436.md"><img src="../gifs/2104788406656184436.gif" alt="The Beauty of Three.js Showcase Video" width="256" height="144" /></a><br>
 <strong>The Beauty of Three.js Showcase Video</strong><br>
@@ -420,14 +434,14 @@
 <sub>Use: Futuristic Animated Fairy Tale<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/stagerbn/status/2104564078954107374">Original post ↗</a> · <a href="../../prompts/2104564078954107374.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104560073217597459.md"><img src="../gifs/2104560073217597459.gif" alt="Fictional Fashion Commercial Direction with Claude Opus 5.5 and MiniMax H3" width="256" height="144" /></a><br>
 <strong>Fictional Fashion Commercial Direction and MiniMax H3</strong><br>
 <sub>Use: Multi-shot fashion commercial structured with Claude Opus 5.5 and rendered via MiniMax H3 using model and product reference images.<br>Inputs: Picture 1: Reference image of the fashion model.; Picture 2: Reference image of the handbag product.<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ito1217yo/status/2104560073217597459">Original post ↗</a> · <a href="../../prompts/2104560073217597459.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104558345118236704.md"><img src="../gifs/2104558345118236704.gif" alt="Tidewave 15-second Dynamic Motion Graphics Promo" width="256" height="144" /></a><br>
 <strong>Tidewave 15-second Dynamic Motion Graphics Promo</strong><br>
@@ -440,14 +454,14 @@
 <sub>Use: Educational motion graphics / AI agents<br>Inputs: User inputs not specified by the author<br>Tools: GPT Image 2.5 on Fal AI</sub><br>
 <sub><a href="https://x.com/M_Adrian2/status/2104542961081983435">Original post ↗</a> · <a href="../../prompts/2104542961081983435.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104541641226977654.md"><img src="../gifs/2104541641226977654.gif" alt="Dynamic 15-Second Motion Graphics Showreel by Opus 5.5" width="256" height="144" /></a><br>
 <strong>Dynamic 15-Second Motion Graphics Showreel by Opus 5.5</strong><br>
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/RaphaelAubryy/status/2104541641226977654">Original post ↗</a> · <a href="../../prompts/2104541641226977654.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104541344945627171.md"><img src="../gifs/2104541344945627171.gif" alt="Claude Opus 5.5 Motion Designer Showreel" width="256" height="144" /></a><br>
 <strong>Claude Opus 5.5 Motion Designer Showreel</strong><br>
@@ -460,14 +474,14 @@
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/sudhanshusoni__/status/2104525366224412962">Original post ↗</a> · <a href="../../prompts/2104525366224412962.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104524606841217044.md"><img src="../gifs/2104524606841217044.gif" alt="Industrial Hub 30-Second Motion Graphics Video by Claude Opus 5.5" width="256" height="144" /></a><br>
 <strong>Industrial Hub 30-Second Motion Graphics Video</strong><br>
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/s7trimm/status/2104524606841217044">Original post ↗</a> · <a href="../../prompts/2104524606841217044.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104514806443303238.md"><img src="../gifs/2104514806443303238.gif" alt="Interactive WebGPU Strawberry Cake Soft-Body Physics" width="256" height="144" /></a><br>
 <strong>Interactive WebGPU Strawberry Cake Soft-Body Physics</strong><br>
@@ -480,14 +494,14 @@
 <sub>Use: A 15-second animated Japanese anime-style music video of a maid dancing and fighting a Shoggoth, produced via Opus 5.5 in approximately 20 minutes.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/itnavi2022/status/2104509397535961220">Original post ↗</a> · <a href="../../prompts/2104509397535961220.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104504957173153951.md"><img src="../gifs/2104504957173153951.gif" alt="Interactive WebGPU Melon Jelly Simulation" width="256" height="144" /></a><br>
 <strong>Interactive WebGPU Melon Jelly Simulation</strong><br>
 <sub>Use: Claude Opus 5.5 generated a self-contained WebGPU/XPBD soft-body 3D watermelon jelly simulation shown in a side-by-side screen recording.<br>Inputs: User inputs not specified by the author<br>Tools: JavaScript / WebGPU / WGSL</sub><br>
 <sub><a href="https://x.com/esrhengwu/status/2104504957173153951">Original post ↗</a> · <a href="../../prompts/2104504957173153951.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104489806713553012.md"><img src="../gifs/2104489806713553012.gif" alt="Firetower Motion Graphics Promo Generated by Claude Opus 5.5" width="256" height="144" /></a><br>
 <strong>Firetower Motion Graphics Promo Generated</strong><br>
@@ -500,14 +514,14 @@
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Math_files/status/2104486181853610052">Original post ↗</a> · <a href="../../prompts/2104486181853610052.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104471436039803295.md"><img src="../gifs/2104471436039803295.gif" alt="Three.js 15s 3D Motion Graphics" width="256" height="144" /></a><br>
 <strong>Three.js 15s 3D Motion Graphics</strong><br>
 <sub>Use: 3D motion graphics / website hero<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/hiro19_k/status/2104471436039803295">Original post ↗</a> · <a href="../../prompts/2104471436039803295.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104468704490909880.md"><img src="../gifs/2104468704490909880.gif" alt="Opus 5.5 Hand-Drawn P(Doom) Educational Video" width="256" height="144" /></a><br>
 <strong>Opus 5.5 Hand-Drawn P(Doom) Educational Video</strong><br>
@@ -520,14 +534,14 @@
 <sub>Use: Educational / explainer video<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/imxishi/status/2104459910247235966">Original post ↗</a> · <a href="../../prompts/2104459910247235966.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104401208958230764.md"><img src="../gifs/2104401208958230764.gif" alt="Brand Rebuild Product Sting with HTML Canvas and Playwright" width="256" height="144" /></a><br>
 <strong>Brand Rebuild Product Sting with HTML Canvas and Playwright</strong><br>
 <sub>Use: Educational / explainer video<br>Inputs: Ask me for: my product name, a logo (or let you draw a simple mark), my brand colours (or pull them from my logo), the one-line thing a user types into the prompt box, the page that answers it (title + 2–3 sentences with one key phrase), two feature names for the stacked cards, and a music track. If I skip any, use the defaults: product &quot;Frame by Frame&quot; living inside its Whop hub, a viewfinder mark (four corner brackets around a bold &quot;FF&quot;), prompt &quot;Make a launch video for my app&quot;, a lesson page titled &quot;2.1 Choose a reference&quot;, cards &quot;Launch&quot; and &quot;Sound&quot;, and Mixkit's free house track &quot;Rising Forest&quot; slowed to 124 BPM.<br>Tools: Playwright</sub><br>
 <sub><a href="https://x.com/notdwd/status/2104401208958230764">Original post ↗</a> · <a href="../../prompts/2104401208958230764.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104219468079526187.md"><img src="../gifs/2104219468079526187.gif" alt="EDteam Promotional Motion Graphics Video with Claude Opus 5.5" width="256" height="144" /></a><br>
 <strong>EDteam Promotional Motion Graphics Video</strong><br>
@@ -540,14 +554,14 @@
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/tariqkhanfmd/status/2104219444130234430">Original post ↗</a> · <a href="../../prompts/2104219444130234430.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104200939095904322.md"><img src="../gifs/2104200939095904322.gif" alt="Beauty of Physics One-Shot Animation via Claude Code and Opus 5.5" width="256" height="144" /></a><br>
 <strong>Beauty of Physics One-Shot Animation via Claude Code and Opus 5.5</strong><br>
 <sub>Use: Author prompts Claude Code using Opus 5.5 to independently generate and render an end-to-end scientific animation video titled 'The Beauty of Physics', spanning from quantum scales to black holes with a continuous timeline and cinematic layout.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/akokoi1/status/2104200939095904322">Original post ↗</a> · <a href="../../prompts/2104200939095904322.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103901720539476209.md"><img src="../gifs/2103901720539476209.gif" alt="A Máquina Transformer Mini-Documentary" width="256" height="144" /></a><br>
 <strong>A Máquina Transformer Mini-Documentary</strong><br>
@@ -560,14 +574,14 @@
 <sub>Use: Product Promo Motion Graphics<br>Inputs: Website URL for product context; Brand logo asset; Brand color palette<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ian_duhamel/status/2103896499738272041">Original post ↗</a> · <a href="../../prompts/2103896499738272041.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103824976713306214.md"><img src="../gifs/2103824976713306214.gif" alt="Ultracode Animation Movie Shoot with Opus 5.5 Dynamic Workflows" width="256" height="144" /></a><br>
 <strong>Ultracode Animation Movie Shoot with Opus 5.5 Dynamic Workflows</strong><br>
 <sub>Use: Dan McAteer prompts Claude Opus 5.5 via Claude Code Dynamic Workflows and Ultracode to orchestrate an animated movie shoot about developer usage efficiency, complete with Python-generated audio and 2D character animation.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/daniel_mac8/status/2103824976713306214">Original post ↗</a> · <a href="../../prompts/2103824976713306214.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103631509773025717.md"><img src="../gifs/2103631509773025717.gif" alt="Dynamic 15-Second Pokeidle Motion Graphics Showreel" width="256" height="144" /></a><br>
 <strong>Dynamic 15-Second Pokeidle Motion Graphics Showreel</strong><br>
@@ -580,14 +594,14 @@
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/leonabboud/status/2103576084499358051">Original post ↗</a> · <a href="../../prompts/2103576084499358051.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103495232637882858.md"><img src="../gifs/2103495232637882858.gif" alt="Opus 5.5 Motion Designer Showreel" width="256" height="144" /></a><br>
 <strong>Opus 5.5 Motion Designer Showreel</strong><br>
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/himanshutwtxs/status/2103495232637882858">Original post ↗</a> · <a href="../../prompts/2103495232637882858.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103400046922543147.md"><img src="../gifs/2103400046922543147.gif" alt="Pixel Art Chuseok Greeting Animation" width="256" height="144" /></a><br>
 <strong>Pixel Art Chuseok Greeting Animation</strong><br>
@@ -600,14 +614,14 @@
 <sub>Use: Product Launch Motion Graphics<br>Inputs: User inputs not specified by the author<br>Tools: FFmpeg / JavaScript / Playwright</sub><br>
 <sub><a href="https://x.com/pablovinicius1_/status/2103307592999305668">Original post ↗</a> · <a href="../../prompts/2103307592999305668.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103292636945846347.md"><img src="../gifs/2103292636945846347.gif" alt="Flora App Promo Video via Playwright and FFmpeg" width="256" height="144" /></a><br>
 <strong>Flora App Promo Video via Playwright and FFmpeg</strong><br>
 <sub>Use: App Promotional Video<br>Inputs: Folder containing videos and screenshots of the Flora app.; App Store link for the Flora app.<br>Tools: FFmpeg / JavaScript / Playwright</sub><br>
 <sub><a href="https://x.com/andre_lucaxxs/status/2103292636945846347">Original post ↗</a> · <a href="../../prompts/2103292636945846347.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103273003555402193.md"><img src="../gifs/2103273003555402193.gif" alt="Code-Driven Looping UI Motion Graphics with Claude Opus 5.5" width="256" height="144" /></a><br>
 <strong>Code-Driven Looping UI Motion Graphics</strong><br>
@@ -620,14 +634,14 @@
 <sub>Use: Moritz Kremb prompts Claude Opus 5.5 to select a known SaaS product and produce a complete motion graphics launch video.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/moritzkremb/status/2103066071838466494">Original post ↗</a> · <a href="../../prompts/2103066071838466494.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102973867656614053.md"><img src="../gifs/2102973867656614053.gif" alt="Torradeira Turbo 3000 Animated Short" width="256" height="144" /></a><br>
 <strong>Torradeira Turbo 3000 Animated Short</strong><br>
 <sub>Use: Comedic animated short story<br>Inputs: User inputs not specified by the author<br>Tools: Claude Artifacts</sub><br>
 <sub><a href="https://x.com/NemTudo_/status/2102973867656614053">Original post ↗</a> · <a href="../../prompts/2102973867656614053.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102853258582880547.md"><img src="../gifs/2102853258582880547.gif" alt="Negroni Cocktail Explainer Motion Graphic in HTML" width="256" height="144" /></a><br>
 <strong>Negroni Cocktail Explainer Motion Graphic in HTML</strong><br>
@@ -640,14 +654,14 @@
 <sub>Use: Context Window Explainer<br>Inputs: User inputs not specified by the author<br>Tools: JavaScript / MP4 Converter</sub><br>
 <sub><a href="https://x.com/joaoli13/status/2102805376466891137">Original post ↗</a> · <a href="../../prompts/2102805376466891137.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102787937482252537.md"><img src="../gifs/2102787937482252537.gif" alt="Inference Startup Launch Video with Claude Opus 5.5" width="256" height="144" /></a><br>
 <strong>Inference Startup Launch Video</strong><br>
 <sub>Use: Deedy demonstrates using Claude Opus 5.5 via Claude Code to generate a sleek startup launch video by coding a JavaScript animation and recording it with Playwright and ffmpeg.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/deedydas/status/2102787937482252537">Original post ↗</a> · <a href="../../prompts/2102787937482252537.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102773737129156730.md"><img src="../gifs/2102773737129156730.gif" alt="Stop-Motion Animation Test with Claude Opus 5.5" width="256" height="144" /></a><br>
 <strong>Stop-Motion Animation Test</strong><br>
@@ -659,6 +673,12 @@
 <strong>Animated Seaside Amusement Park with Ferris Wheel and Carousel</strong><br>
 <sub>Use: Seaside Amusement Park Animation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/lucian__03/status/2102501547062239317">Original post ↗</a> · <a href="../../prompts/2102501547062239317.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="../../prompts/2109243587724755158.md"><img src="../gifs/2109243587724755158.gif" alt="Quadruped Robot Perception &amp; Locomotion Simulation in Three.js" width="256" height="144" /></a><br>
+<strong>Quadruped Robot Perception &amp; Locomotion Simulation in Three.js</strong><br>
+<sub>Use: Robot Perception and Locomotion Simulation<br>Inputs: User inputs not specified by the author<br>Tools: build123d / MuJoCo / three.js</sub><br>
+<sub><a href="https://x.com/konstantinsaifo/status/2109243587724755158">Original post ↗</a> · <a href="../../prompts/2109243587724755158.md">Prompt ↗</a></sub>
 </td>
 </tr>
 <tr>
