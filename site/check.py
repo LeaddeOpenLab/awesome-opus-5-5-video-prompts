@@ -23,6 +23,10 @@ class Page(HTMLParser):
 
 pages={}
 for file in OUT.rglob('*.html'):
+    verification = ROOT / 'site/public' / file.name
+    if file.parent == OUT and file.name.startswith('google') and verification.is_file():
+        assert file.read_bytes() == verification.read_bytes(), 'Verification file was changed'
+        continue
     page=Page();page.feed(file.read_text());pages[file.resolve()]=page
 errors=[]
 for file,page in pages.items():

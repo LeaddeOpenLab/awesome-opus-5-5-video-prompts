@@ -85,6 +85,7 @@ OUT.mkdir(exist_ok=True)
 for folder in ['assets', 'prompts', 'collections']:
     if (OUT / folder).exists(): shutil.rmtree(OUT / folder)
 shutil.copytree(SITE / 'assets', OUT / 'assets')
+shutil.copytree(SITE / 'public', OUT, dirs_exist_ok=True)
 
 locale = json.loads((SITE / 'zh-CN.json').read_text())
 translations = dict(locale['ui'])
@@ -135,4 +136,4 @@ error=document('Page not found','Return to the Leadde Open Lab prompt collection
 write('404.html',error.replace('href="./','href="'+E(BASE)).replace('src="./','src="'+E(BASE)))
 print(f'Built {len(pages)} indexable pages in {OUT}')
 print(f'Site URL: {BASE}')
-print('Google verification: '+('configured' if VERIFY else 'not configured; add your token to site/site.json or GOOGLE_SITE_VERIFICATION'))
+print('Google verification: '+('HTML tag configured' if VERIFY else 'HTML verification file included' if list((SITE / 'public').glob('google*.html')) else 'not configured'))
