@@ -1,6 +1,6 @@
 # Awesome Opus 5.5 Video Prompts
 
-[![2000+ prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner.svg)](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)
+[![2000+ prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner-20261012-092235-collection.svg)](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)
 
 ## 2000+ Prompts · Actively Updated
 
