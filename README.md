@@ -1,6 +1,6 @@
 # Awesome Opus 5.5 Video Prompts
 
-[![2000+ prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner-20261013-173719-collection.svg)](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)
+[![2000+ prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner.svg)](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)
 
 **Creator-shared prompts, visual previews, and practical setup notes — curated by Leadde Open Lab.** Find the original prompt and source, watch selected results, and check the tools and inputs before you try them. Return for fresh picks for your next video, animation or 3D project.
 
@@ -95,23 +95,35 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="prompts/2110046079983001783.md"><img src="data/gifs/2110046079983001783.gif" alt="Architectural Elevation Drawing Animation Comparison with Claude Opus 5.5" width="100%" /></a><br>
-<strong>Architectural Elevation Drawing Animation Comparison</strong><br>
+<a href="prompts/2110057151171338656.md"><img src="data/gifs/2110057151171338656.gif" alt="Interactive 3D Snow Globe Comparison" width="100%" /></a><br>
+<strong>Interactive 3D Snow Globe Comparison</strong><br>
 
-<sub><a href="https://x.com/cristianvega/status/2110046079983001783">Original post ↗</a> · <a href="prompts/2110046079983001783.md">Prompt ↗</a></sub>
-</td><td></td><td></td>
+<sub><a href="https://x.com/shmopixbzn/status/2110057151171338656">Original post ↗</a> · <a href="prompts/2110057151171338656.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2110038361062723704.md"><img src="data/gifs/2110038361062723704.gif" alt="Paper Rapids: Sunlit Creek Run and Canvas Promo Trailer" width="100%" /></a><br>
+<strong>Paper Rapids: Sunlit Creek Run and Canvas Promo Trailer</strong><br>
+
+<sub><a href="https://x.com/jeffbruchado/status/2110038361062723704">Original post ↗</a> · <a href="prompts/2110038361062723704.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
+<a href="prompts/2110036224320884998.md"><img src="data/gifs/2110036224320884998.gif" alt="Floor Plan to Interactive 3D Walkthrough via Three.js" width="100%" /></a><br>
+<strong>Floor Plan to Interactive 3D Walkthrough via Three.js</strong><br>
+
+<sub><a href="https://x.com/everestchris6/status/2110036224320884998">Original post ↗</a> · <a href="prompts/2110036224320884998.md">Prompt ↗</a></sub>
+</td>
 </tr>
 </table>
 
 ## Browse the full library
 
-- [Product & Brand Videos](data/categories/product-brand.md) (83)
+- [Product & Brand Videos](data/categories/product-brand.md) (84)
 - [Motion Graphics & Typography](data/categories/motion-graphics.md) (226)
 - [UI & Web Animation](data/categories/ui-web.md) (17)
 - [Explainers & Education](data/categories/explainers.md) (83)
 - [Music & Storytelling](data/categories/music-storytelling.md) (31)
-- [3D Worlds & Simulations](data/categories/3d-scenes.md) (89)
-- [Games & Interactive Experiences](data/categories/games-interactive.md) (83)
+- [3D Worlds & Simulations](data/categories/3d-scenes.md) (93)
+- [Games & Interactive Experiences](data/categories/games-interactive.md) (84)
 
 30 homepage picks · Original creator links on every card.
 
@@ -154,7 +166,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 83 product & brand videos →](data/categories/product-brand.md)
+[Browse all 84 product & brand videos →](data/categories/product-brand.md)
 
 ## Motion Graphics & Typography — homepage picks
 
@@ -285,7 +297,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 89 3d worlds & simulations →](data/categories/3d-scenes.md)
+[Browse all 93 3d worlds & simulations →](data/categories/3d-scenes.md)
 
 ## Games & Interactive Experiences — homepage picks
 
@@ -326,17 +338,17 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 83 games & interactive experiences →](data/categories/games-interactive.md)
+[Browse all 84 games & interactive experiences →](data/categories/games-interactive.md)
 
 <details>
 <summary>Browse by tool</summary>
 
-- [canvas-interactive](data/categories/canvas-interactive.md) — 83
+- [canvas-interactive](data/categories/canvas-interactive.md) — 84
 - [manim](data/categories/manim.md) — 2
 - [remotion](data/categories/remotion.md) — 14
 - [blender](data/categories/blender.md) — 8
 - [external-video-model](data/categories/external-video-model.md) — 11
-- [other-animation](data/categories/other-animation.md) — 496
+- [other-animation](data/categories/other-animation.md) — 501
 
 </details>
 
