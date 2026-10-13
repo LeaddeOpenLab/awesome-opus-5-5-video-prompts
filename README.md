@@ -1,6 +1,6 @@
 # Awesome Opus 5.5 Video Prompts
 
-[![2000+ prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner-20261012-170658-collection.svg)](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)
+[![2000+ prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner.svg)](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)
 
 **Creator-shared prompts, visual previews, and practical setup notes — curated by Leadde Open Lab.** Find the original prompt and source, watch selected results, and check the tools and inputs before you try them. Return for fresh picks for your next video, animation or 3D project.
 
@@ -39,8 +39,8 @@ Read the prompt here on GitHub, or watch the preview and check setup notes on th
 <sub><a href="prompts/2103273003555402193.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/looping-ui-motion-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/twoclipping/status/2103273003555402193">Original post ↗</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/manim-derivatives-explainer/"><img src="data/gifs/2103128559174971663.gif" alt="Manim Derivative Concept Educational Video Prompt" width="100%" /></a><br>
-<strong>Manim Derivative Concept Educational Video</strong><br>
+<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/manim-derivatives-explainer/"><img src="https://pbs.twimg.com/amplify_video_thumb/2103128124305309696/img/xFafXqUq1tPUkuVE.jpg" alt="Opus 5.5 and Manim Educational Video Explaining Derivatives" width="100%" /></a><br>
+<strong>Opus 5.5 and Manim Educational Video Explaining Derivatives</strong><br>
 
 <sub><a href="prompts/2103128559174971663.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/manim-derivatives-explainer/">Watch preview · Website ↗</a> · <a href="https://x.com/LinearUncle/status/2103128559174971663">Original post ↗</a></sub>
 </td>
@@ -81,7 +81,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/business-explainer-html-prompt/">Copy prompt &amp; setup →</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/manim-derivatives-explainer/"><img src="data/gifs/2103128559174971663.gif" alt="Teach a concept: derivatives with Manim" width="100%" /></a><br>
+<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/manim-derivatives-explainer/"><img src="https://pbs.twimg.com/amplify_video_thumb/2103128124305309696/img/xFafXqUq1tPUkuVE.jpg" alt="Teach a concept: derivatives with Manim" width="100%" /></a><br>
 <strong>Teach a concept: derivatives with Manim</strong><br>
 <sub>Generate a narrated lesson with Manim and edge-tts. Python setup required.</sub><br>
 <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/manim-derivatives-explainer/">Copy prompt &amp; setup →</a>
@@ -95,35 +95,35 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="prompts/2109620598704087055.md"><img src="data/gifs/2109620598704087055.gif" alt="Interactive 3D Plasma Lamp in Three.js" width="100%" /></a><br>
-<strong>Interactive 3D Plasma Lamp in Three.js</strong><br>
+<a href="prompts/2102592355165782312.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2102592220888965120/img/wUEZT8hOqEwK1d1r.jpg" alt="250 Years of U.S. History Sand Animation" width="100%" /></a><br>
+<strong>250 Years of U.S. History Sand Animation</strong><br>
 
-<sub><a href="https://x.com/aeoniumsky/status/2109620598704087055">Original post ↗</a> · <a href="prompts/2109620598704087055.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/Michaelzsguo/status/2102592355165782312">Original post ↗</a> · <a href="prompts/2102592355165782312.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2102486204419817954.md"><img src="data/gifs/2102486204419817954.gif" alt="Being a Claude: Interactive Self-Portrait in Seven Scenes" width="100%" /></a><br>
-<strong>Being a Claude: Interactive Self-Portrait in Seven Scenes</strong><br>
+<a href="prompts/2102743212922384673.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2102741054378360832/img/ItsKEXtZ75UNOn3v.jpg" alt="Human Civilization to Opus 5.5 Doodle Story Animation" width="100%" /></a><br>
+<strong>Human Civilization to Opus 5.5 Doodle Story Animation</strong><br>
 
-<sub><a href="https://x.com/digi_dot_exe/status/2102486204419817954">Original post ↗</a> · <a href="prompts/2102486204419817954.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/songkeys/status/2102743212922384673">Original post ↗</a> · <a href="prompts/2102743212922384673.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="prompts/2109388484569924030.md"><img src="data/gifs/2109388484569924030.gif" alt="Interactive 3D Hand Gestures with Framer and MediaPipe" width="100%" /></a><br>
-<strong>Interactive 3D Hand Gestures with Framer and MediaPipe</strong><br>
+<a href="prompts/2102832558602072560.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2102832436371767296/img/rY7t9IqAKGKalyKt.jpg" alt="Pythagorean Theorem Explainer Video in JavaScript" width="100%" /></a><br>
+<strong>Pythagorean Theorem Explainer Video in JavaScript</strong><br>
 
-<sub><a href="https://x.com/emili_iv/status/2109388484569924030">Original post ↗</a> · <a href="prompts/2109388484569924030.md">Prompt ↗</a></sub>
+<sub><a href="https://x.com/hyuki/status/2102832558602072560">Original post ↗</a> · <a href="prompts/2102832558602072560.md">Prompt ↗</a></sub>
 </td>
 </tr>
 </table>
 
 ## Browse the full library
 
-- [Product & Brand Videos](data/categories/product-brand.md) (82)
-- [Motion Graphics & Typography](data/categories/motion-graphics.md) (227)
-- [UI & Web Animation](data/categories/ui-web.md) (15)
-- [Explainers & Education](data/categories/explainers.md) (79)
-- [Music & Storytelling](data/categories/music-storytelling.md) (29)
-- [3D Worlds & Simulations](data/categories/3d-scenes.md) (88)
-- [Games & Interactive Experiences](data/categories/games-interactive.md) (81)
+- [Product & Brand Videos](data/categories/product-brand.md) (83)
+- [Motion Graphics & Typography](data/categories/motion-graphics.md) (226)
+- [UI & Web Animation](data/categories/ui-web.md) (16)
+- [Explainers & Education](data/categories/explainers.md) (83)
+- [Music & Storytelling](data/categories/music-storytelling.md) (31)
+- [3D Worlds & Simulations](data/categories/3d-scenes.md) (89)
+- [Games & Interactive Experiences](data/categories/games-interactive.md) (83)
 
 30 homepage picks · Original creator links on every card.
 
@@ -166,7 +166,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 82 product & brand videos →](data/categories/product-brand.md)
+[Browse all 83 product & brand videos →](data/categories/product-brand.md)
 
 ## Motion Graphics & Typography — homepage picks
 
@@ -193,7 +193,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 227 motion graphics & typography →](data/categories/motion-graphics.md)
+[Browse all 226 motion graphics & typography →](data/categories/motion-graphics.md)
 
 ## UI & Web Animation — homepage picks
 
@@ -214,7 +214,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 15 ui & web animation →](data/categories/ui-web.md)
+[Browse all 16 ui & web animation →](data/categories/ui-web.md)
 
 ## Explainers & Education — homepage picks
 
@@ -255,7 +255,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 79 explainers & education →](data/categories/explainers.md)
+[Browse all 83 explainers & education →](data/categories/explainers.md)
 
 ## Music & Storytelling — homepage picks
 
@@ -270,7 +270,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 29 music & storytelling →](data/categories/music-storytelling.md)
+[Browse all 31 music & storytelling →](data/categories/music-storytelling.md)
 
 ## 3D Worlds & Simulations — homepage picks
 
@@ -297,7 +297,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 88 3d worlds & simulations →](data/categories/3d-scenes.md)
+[Browse all 89 3d worlds & simulations →](data/categories/3d-scenes.md)
 
 ## Games & Interactive Experiences — homepage picks
 
@@ -338,17 +338,17 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 81 games & interactive experiences →](data/categories/games-interactive.md)
+[Browse all 83 games & interactive experiences →](data/categories/games-interactive.md)
 
 <details>
 <summary>Browse by tool</summary>
 
-- [canvas-interactive](data/categories/canvas-interactive.md) — 81
+- [canvas-interactive](data/categories/canvas-interactive.md) — 83
 - [manim](data/categories/manim.md) — 2
-- [remotion](data/categories/remotion.md) — 13
-- [blender](data/categories/blender.md) — 7
-- [external-video-model](data/categories/external-video-model.md) — 10
-- [other-animation](data/categories/other-animation.md) — 489
+- [remotion](data/categories/remotion.md) — 14
+- [blender](data/categories/blender.md) — 8
+- [external-video-model](data/categories/external-video-model.md) — 11
+- [other-animation](data/categories/other-animation.md) — 495
 
 </details>
 

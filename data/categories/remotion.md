@@ -49,19 +49,25 @@
 <sub><a href="https://x.com/apoorvjain25/status/2104818940467945542">Original post ↗</a> · <a href="../../prompts/2104818940467945542.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2104807505297871023.md"><img src="../../https:/pbs.twimg.com/amplify_video_thumb/2104807006163120128/img/1I4bKg3nZj6xcvII.jpg" alt="Remotion Promo Short via Claude Opus 5.5" width="256" height="144" /></a><br>
+<strong>Remotion Promo Short</strong><br>
+<sub>Use: Remotion Animated Short<br>Inputs: Original source explainer video referenced for the promo summary.<br>Tools: ElevenLabs / Midjourney / Remotion</sub><br>
+<sub><a href="https://x.com/ayumi_t820/status/2104807505297871023">Original post ↗</a> · <a href="../../prompts/2104807505297871023.md">Prompt ↗</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="../../prompts/2104467016719774112.md"><img src="../gifs/2104467016719774112.gif" alt="Remotion Product Launch Film with Claude Opus 5.5" width="256" height="144" /></a><br>
 <strong>Remotion Product Launch Film</strong><br>
 <sub>Use: Product / brand film<br>Inputs: User inputs not specified by the author<br>Tools: React / Remotion</sub><br>
 <sub><a href="https://x.com/punit_io/status/2104467016719774112">Original post ↗</a> · <a href="../../prompts/2104467016719774112.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103840883812733090.md"><img src="../gifs/2103840883812733090.gif" alt="TanStack AI Launch Motion Graphics Video Prompt" width="256" height="144" /></a><br>
 <strong>TanStack AI Launch Motion Graphics Video</strong><br>
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Remotion</sub><br>
 <sub><a href="https://x.com/HowDevelop/status/2103840883812733090">Original post ↗</a> · <a href="../../prompts/2103840883812733090.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103793820815245507.md"><img src="../gifs/2103793820815245507.gif" alt="Code-Animated Short Film: Xi the Mechanical Hermit Crab" width="256" height="144" /></a><br>
 <strong>Code-Animated Short Film: Xi the Mechanical Hermit Crab</strong><br>
@@ -74,20 +80,20 @@
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Remotion</sub><br>
 <sub><a href="https://x.com/theattnlayer/status/2103776779064471834">Original post ↗</a> · <a href="../../prompts/2103776779064471834.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103769906638459278.md"><img src="../gifs/2103769906638459278.gif" alt="Remotion Portfolio Showreel Video Prompt" width="256" height="144" /></a><br>
 <strong>Remotion Portfolio Showreel Video</strong><br>
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Remotion</sub><br>
 <sub><a href="https://x.com/wani_shola/status/2103769906638459278">Original post ↗</a> · <a href="../../prompts/2103769906638459278.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103733819568480587.md"><img src="../gifs/2103733819568480587.gif" alt="Remotion Product Showcase Video" width="256" height="144" /></a><br>
 <strong>Remotion Product Showcase Video</strong><br>
 <sub>Use: A prompt instructing the model to study a specified website and generate a product showcase video using Remotion.<br>Inputs: User inputs not specified by the author<br>Tools: Remotion</sub><br>
 <sub><a href="https://x.com/lester_tyy/status/2103733819568480587">Original post ↗</a> · <a href="../../prompts/2103733819568480587.md">Prompt ↗</a></sub>
-</td><td></td><td></td>
+</td><td></td>
 </tr>
 </table>
 

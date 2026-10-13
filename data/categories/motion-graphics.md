@@ -1503,17 +1503,11 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="../../prompts/2102743212922384673.md"><img src="../gifs/2102743212922384673.gif" alt="Human History and AI Evolution Animation Prompt" width="256" height="144" /></a><br>
-<strong>Human History and AI Evolution Animation</strong><br>
-<sub>Use: A prompt given to Opus 5.5 to generate a code-based origami and doodle-style animation portraying the rise of human civilization and the birth and advancement of AI.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
-<sub><a href="https://x.com/songkeys/status/2102743212922384673">Original post ↗</a> · <a href="../../prompts/2102743212922384673.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
 <a href="../../prompts/2102476258948927543.md"><img src="../gifs/2102476258948927543.gif" alt="Animated Pixel Art Wizard in Canvas 2D" width="256" height="144" /></a><br>
 <strong>Animated Pixel Art Wizard in Canvas 2D</strong><br>
 <sub>Use: Procedural pixel-art animation<br>Inputs: No external assets required by the prompt<br>Tools: Canvas 2D / Vanilla JavaScript</sub><br>
 <sub><a href="https://x.com/majidmanzarpour/status/2102476258948927543">Original post ↗</a> · <a href="../../prompts/2102476258948927543.md">Prompt ↗</a></sub>
-</td><td></td>
+</td><td></td><td></td>
 </tr>
 </table>
 

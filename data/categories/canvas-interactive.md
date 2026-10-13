@@ -415,13 +415,19 @@
 <sub><a href="https://x.com/konstantinsaifo/status/2104094723887501736">Original post ↗</a> · <a href="../../prompts/2104094723887501736.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2104055441517105570.md"><img src="../../https:/pbs.twimg.com/amplify_video_thumb/2104054405851234304/img/iD38ZH_daS7G-bmB.jpg" alt="Smash Bros Style Fighting Game Demo" width="256" height="144" /></a><br>
+<strong>Smash Bros Style Fighting Game Demo</strong><br>
+<sub>Use: Interactive Game Prototype<br>Inputs: Character reference images for fighter designs and move recreation<br>Tools: Tool setup not specified by the source</sub><br>
+<sub><a href="https://x.com/AiFreak_tool/status/2104055441517105570">Original post ↗</a> · <a href="../../prompts/2104055441517105570.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="../../prompts/2104046743751139812.md"><img src="../gifs/2104046743751139812.gif" alt="Underground Delivery Network Game" width="256" height="144" /></a><br>
 <strong>Underground Delivery Network Game</strong><br>
 <sub>Use: A 3D browser simulation game depicting a tiny underground parcel delivery network, created using Claude Opus 5.5 and Three.js.<br>Inputs: User inputs not specified by the author<br>Tools: React / Three.js</sub><br>
 <sub><a href="https://x.com/lisp_mi/status/2104046743751139812">Original post ↗</a> · <a href="../../prompts/2104046743751139812.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103867115044237752.md"><img src="../gifs/2103867115044237752.gif" alt="Minecraft-Style Browser Sandbox Game Prompt" width="256" height="144" /></a><br>
 <strong>Minecraft-Style Browser Sandbox Game</strong><br>
@@ -434,14 +440,14 @@
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/dreyk0o0/status/2103822946800165270">Original post ↗</a> · <a href="../../prompts/2103822946800165270.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103804606794879327.md"><img src="../gifs/2103804606794879327.gif" alt="3D Star Wars Multiplayer Game Prompt" width="256" height="144" /></a><br>
 <strong>3D Star Wars Multiplayer Game</strong><br>
 <sub>Use: 3D multiplayer space game<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/0xChuckstock/status/2103804606794879327">Original post ↗</a> · <a href="../../prompts/2103804606794879327.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103789415323562325.md"><img src="../gifs/2103789415323562325.gif" alt="Police Chase Arcade Game PRD Prompt" width="256" height="144" /></a><br>
 <strong>Police Chase Arcade Game PRD</strong><br>
@@ -454,14 +460,14 @@
 <sub>Use: Pixel-art card game prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/aisongman/status/2103763192971461057">Original post ↗</a> · <a href="../../prompts/2103763192971461057.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103708392930066575.md"><img src="../gifs/2103708392930066575.gif" alt="Multiplayer Shooting Game Prompt" width="256" height="144" /></a><br>
 <strong>Multiplayer Shooting Game</strong><br>
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Ved_CJ/status/2103708392930066575">Original post ↗</a> · <a href="../../prompts/2103708392930066575.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103628970000347627.md"><img src="../gifs/2103628970000347627.gif" alt="MapleStory Clone in Raylib-cs" width="256" height="144" /></a><br>
 <strong>MapleStory Clone in Raylib-cs</strong><br>
@@ -474,14 +480,14 @@
 <sub>Use: Procedural Web Game<br>Inputs: User inputs not specified by the author<br>Tools: Vanilla JavaScript / HTML5 Canvas</sub><br>
 <sub><a href="https://x.com/kikollan/status/2103578336018505763">Original post ↗</a> · <a href="../../prompts/2103578336018505763.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103540288136315331.md"><img src="../gifs/2103540288136315331.gif" alt="Interactive Bed Fitting Simulator in 2D and 3D" width="256" height="144" /></a><br>
 <strong>Interactive Bed Fitting Simulator in 2D and 3D</strong><br>
 <sub>Use: Interactive 2D/3D Furniture Layout Simulator<br>Inputs: Room dimensions of 3.00 x 3.40 m, 80 cm door, 1.20 x 0.60 m closet, and 1.40 x 1.90 m double bed.<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/goofyninjaaa/status/2103540288136315331">Original post ↗</a> · <a href="../../prompts/2103540288136315331.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103437714695843891.md"><img src="../gifs/2103437714695843891.gif" alt="Retro Romance of the Three Kingdoms Game Prompt" width="256" height="144" /></a><br>
 <strong>Retro Romance of the Three Kingdoms Game</strong><br>
@@ -494,14 +500,14 @@
 <sub>Use: A detailed specification prompt for Claude to generate INKBOUND, a 16-bit sumi-e ink painting pixel runner game in a single self-contained HTML file using vanilla JavaScript, Canvas 2D, and Web Audio API.<br>Inputs: No external assets required by the prompt<br>Tools: Canvas 2D / Vanilla JavaScript</sub><br>
 <sub><a href="https://x.com/agentgamesbot/status/2103401820261355554">Original post ↗</a> · <a href="../../prompts/2103401820261355554.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103197522382786581.md"><img src="../gifs/2103197522382786581.gif" alt="Opus 5.5 Launch Video Prompt" width="256" height="144" /></a><br>
 <strong>Opus 5.5 Launch Video</strong><br>
 <sub>Use: A prompt used with Claude Opus 5.5 to generate a high-energy launch video highlighting live stats, cross-platform play, and themes for an online tennis game.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/deifosv/status/2103197522382786581">Original post ↗</a> · <a href="../../prompts/2103197522382786581.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103152898708582551.md"><img src="../gifs/2103152898708582551.gif" alt="Three.js Douglas A-1H Skyraider" width="256" height="144" /></a><br>
 <strong>Three.js Douglas A-1H Skyraider</strong><br>
@@ -514,20 +520,28 @@
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/0xRathi/status/2102986585004511319">Original post ↗</a> · <a href="../../prompts/2102986585004511319.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102919394775220530.md"><img src="../gifs/2102919394775220530.gif" alt="90s-Style Demoscene Demo Prompt" width="256" height="144" /></a><br>
 <strong>90s-Style Demoscene Demo</strong><br>
 <sub>Use: Prompt provided to Claude Opus to create a 1990s-style demoscene demo synchronized to an S3M music track using C/C++ and OpenGL.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/gandamu_ml/status/2102919394775220530">Original post ↗</a> · <a href="../../prompts/2102919394775220530.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
+<td width="33%" valign="top">
+<a href="../../prompts/2102896431883497891.md"><img src="../../https:/pbs.twimg.com/amplify_video_thumb/2102895973873905664/img/WHtSPuYbFuYGXgdV.jpg" alt="Stationery Rube Goldberg Machine in JavaScript" width="256" height="144" /></a><br>
+<strong>Stationery Rube Goldberg Machine in JavaScript</strong><br>
+<sub>Use: Rube Goldberg Stationery Animation<br>Inputs: User inputs not specified by the author<br>Tools: JavaScript / JavaScript / Web Audio API</sub><br>
+<sub><a href="https://x.com/kohya_tech/status/2102896431883497891">Original post ↗</a> · <a href="../../prompts/2102896431883497891.md">Prompt ↗</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="../../prompts/2102889901297426722.md"><img src="../gifs/2102889901297426722.gif" alt="Higher Game Update on Spawn" width="256" height="144" /></a><br>
 <strong>Higher Game Update on Spawn</strong><br>
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/chukinice/status/2102889901297426722">Original post ↗</a> · <a href="../../prompts/2102889901297426722.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2102882622053535814.md"><img src="../gifs/2102882622053535814.gif" alt="Deep-Sea Horror Game Prompt" width="256" height="144" /></a><br>
 <strong>Deep-Sea Horror Game</strong><br>
@@ -539,7 +553,7 @@
 <strong>Being a Claude: Interactive Self-Portrait in Seven Scenes</strong><br>
 <sub>Use: Interactive AI Persona Self-Portrait<br>Inputs: User inputs not specified by the author<br>Tools: Claude Artifacts</sub><br>
 <sub><a href="https://x.com/digi_dot_exe/status/2102486204419817954">Original post ↗</a> · <a href="../../prompts/2102486204419817954.md">Prompt ↗</a></sub>
-</td>
+</td><td></td>
 </tr>
 </table>
 

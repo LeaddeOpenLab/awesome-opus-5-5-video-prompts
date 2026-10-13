@@ -55,13 +55,19 @@
 <sub><a href="https://x.com/fedemas/status/2108400811411996801">Original post ↗</a> · <a href="../../prompts/2108400811411996801.md">Prompt ↗</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="../../prompts/2106042539744862690.md"><img src="../../https:/pbs.twimg.com/amplify_video_thumb/2106041754663436288/img/jJpEc39XwKM1kQfT.jpg" alt="Claude Opus 5.5 Chinese Calligraphy Dynamic Scroll Animation" width="256" height="144" /></a><br>
+<strong>Claude Opus 5.5 Chinese Calligraphy Dynamic Scroll Animation</strong><br>
+<sub>Use: Chinese Calligraphy Digital Scroll Animation<br>Inputs: User inputs not specified by the author<br>Tools: Web Browser / Canvas</sub><br>
+<sub><a href="https://x.com/feigaobox/status/2106042539744862690">Original post ↗</a> · <a href="../../prompts/2106042539744862690.md">Prompt ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="../../prompts/2104463774862446760.md"><img src="../gifs/2104463774862446760.gif" alt="Interactive Bubble Genre Selection UI in App Development" width="256" height="144" /></a><br>
 <strong>Interactive Bubble Genre Selection UI in App Development</strong><br>
 <sub>Use: Demonstration of an interactive mobile app genre selection screen generated using Claude Opus 5.5, featuring animated soap bubbles that expand and filter subcategories upon interaction.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/asakarifa/status/2104463774862446760">Original post ↗</a> · <a href="../../prompts/2104463774862446760.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2104212398303543512.md"><img src="../gifs/2104212398303543512.gif" alt="Claude Opus 5.5による動画編集プレビュー・カット承認UIの構築" width="256" height="144" /></a><br>
 <strong>Claude Opus 5.5による動画編集プレビュー・カット承認UIの構築</strong><br>
@@ -74,14 +80,14 @@
 <sub>Use: Scroll-driven website hero<br>Inputs: Background video; Two feature-card images<br>Tools: Framer Motion / GSAP ScrollTrigger / React</sub><br>
 <sub><a href="https://x.com/iamtanzil_/status/2103820321673675031">Original post ↗</a> · <a href="../../prompts/2103820321673675031.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103526713208525162.md"><img src="../gifs/2103526713208525162.gif" alt="Code-Based UI Motion Design Prompt" width="256" height="144" /></a><br>
 <strong>Code-Based UI Motion Design</strong><br>
 <sub>Use: A comprehensive prompt template to instruct an LLM (such as Claude Opus) to generate pure-code, seamless looping UI motion design synced to a musical beat grid.<br>Inputs: Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader, player, slider, toggle, tabs, chart, command palette, toast), pure black and white or one accent color, and a royalty-free song around 120 BPM (e.g. Mixkit, free for commercial use).<br>Tools: FFmpeg / NumPy / Playwright</sub><br>
 <sub><a href="https://x.com/demonugc/status/2103526713208525162">Original post ↗</a> · <a href="../../prompts/2103526713208525162.md">Prompt ↗</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103456358125457691.md"><img src="../gifs/2103456358125457691.gif" alt="Continuous UI Motion Animation Prompt" width="256" height="144" /></a><br>
 <strong>Continuous UI Motion Animation</strong><br>
@@ -94,12 +100,14 @@
 <sub>Use: Code Coach demonstrates generating a complete Roblox battle royale UI in seconds using a custom plugin and Claude Opus with a one-shot prompt.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/MyCodeCoach/status/2103181065976459574">Original post ↗</a> · <a href="../../prompts/2103181065976459574.md">Prompt ↗</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="../../prompts/2103053680945868989.md"><img src="../gifs/2103053680945868989.gif" alt="Mobile App Animated Splash Screen Prompt" width="256" height="144" /></a><br>
 <strong>Mobile App Animated Splash Screen</strong><br>
 <sub>Use: A prompt fragment used with Opus 5.5 to generate an animated splash screen for a mobile app.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/modaalbuilder/status/2103053680945868989">Original post ↗</a> · <a href="../../prompts/2103053680945868989.md">Prompt ↗</a></sub>
-</td>
+</td><td></td><td></td>
 </tr>
 </table>
 
