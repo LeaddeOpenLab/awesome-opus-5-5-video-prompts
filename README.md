@@ -1,6 +1,6 @@
 # Awesome Opus 5.5 Video Prompts
 
-[![2000+ prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner-20261013-164546-collection.svg)](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)
+[![2000+ prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner.svg)](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)
 
 **Creator-shared prompts, visual previews, and practical setup notes — curated by Leadde Open Lab.** Find the original prompt and source, watch selected results, and check the tools and inputs before you try them. Return for fresh picks for your next video, animation or 3D project.
 
@@ -95,23 +95,11 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="prompts/2102592355165782312.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2102592220888965120/img/wUEZT8hOqEwK1d1r.jpg" alt="250 Years of U.S. History Sand Animation" width="100%" /></a><br>
-<strong>250 Years of U.S. History Sand Animation</strong><br>
+<a href="prompts/2110046079983001783.md"><img src="data/gifs/2110046079983001783.gif" alt="Architectural Elevation Drawing Animation Comparison with Claude Opus 5.5" width="100%" /></a><br>
+<strong>Architectural Elevation Drawing Animation Comparison</strong><br>
 
-<sub><a href="https://x.com/Michaelzsguo/status/2102592355165782312">Original post ↗</a> · <a href="prompts/2102592355165782312.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2102743212922384673.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2102741054378360832/img/ItsKEXtZ75UNOn3v.jpg" alt="Human Civilization to Opus 5.5 Doodle Story Animation" width="100%" /></a><br>
-<strong>Human Civilization to Opus 5.5 Doodle Story Animation</strong><br>
-
-<sub><a href="https://x.com/songkeys/status/2102743212922384673">Original post ↗</a> · <a href="prompts/2102743212922384673.md">Prompt ↗</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2102832558602072560.md"><img src="https://pbs.twimg.com/amplify_video_thumb/2102832436371767296/img/rY7t9IqAKGKalyKt.jpg" alt="Pythagorean Theorem Explainer Video in JavaScript" width="100%" /></a><br>
-<strong>Pythagorean Theorem Explainer Video in JavaScript</strong><br>
-
-<sub><a href="https://x.com/hyuki/status/2102832558602072560">Original post ↗</a> · <a href="prompts/2102832558602072560.md">Prompt ↗</a></sub>
-</td>
+<sub><a href="https://x.com/cristianvega/status/2110046079983001783">Original post ↗</a> · <a href="prompts/2110046079983001783.md">Prompt ↗</a></sub>
+</td><td></td><td></td>
 </tr>
 </table>
 
@@ -119,7 +107,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 - [Product & Brand Videos](data/categories/product-brand.md) (83)
 - [Motion Graphics & Typography](data/categories/motion-graphics.md) (226)
-- [UI & Web Animation](data/categories/ui-web.md) (16)
+- [UI & Web Animation](data/categories/ui-web.md) (17)
 - [Explainers & Education](data/categories/explainers.md) (83)
 - [Music & Storytelling](data/categories/music-storytelling.md) (31)
 - [3D Worlds & Simulations](data/categories/3d-scenes.md) (89)
@@ -214,7 +202,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
-[Browse all 16 ui & web animation →](data/categories/ui-web.md)
+[Browse all 17 ui & web animation →](data/categories/ui-web.md)
 
 ## Explainers & Education — homepage picks
 
@@ -348,7 +336,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 - [remotion](data/categories/remotion.md) — 14
 - [blender](data/categories/blender.md) — 8
 - [external-video-model](data/categories/external-video-model.md) — 11
-- [other-animation](data/categories/other-animation.md) — 495
+- [other-animation](data/categories/other-animation.md) — 496
 
 </details>
 
