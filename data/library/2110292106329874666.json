@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T17:02:56.350Z",
+  "model": "opus5.5",
+  "prompt": "Use three.js to make a single-file 3D Chinese Mahjong game, with human vs AI battle, and pong, kong, and win actions",
+  "promptTranslations": {
+    "en": "Use three.js to make a single-file 3D Chinese Mahjong game, with human vs AI battle, and pong, kong, and win actions"
+  },
+  "summary": "Author prompted Claude Opus 5.5 with a single instruction to generate a complete single-file 3D Chinese Mahjong game in Three.js featuring human vs. AI battle, scoring patterns, and automated play.",
+  "summaryEn": "Single-File 3D Chinese Mahjong Game with Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110292106329874666",
+    "canonicalUrl": "https://x.com/0xshimei/status/2110292106329874666",
+    "author": {
+      "username": "0xshimei",
+      "displayName": "0x小师妹",
+      "profileUrl": "https://x.com/0xshimei"
+    },
+    "publishedAt": "2026-10-14T08:50:20.000Z",
+    "collectedAt": "2026-10-14T16:11:43.799Z",
+    "language": "zh",
+    "originalText": "我用了同一句提示词让Claude Opus 5.5 和 Codex分别做出了一款3D 麻将游戏\n\n两边需求一致：用 three.js 做单文件 3D 中国麻将，含人机对战和碰杠胡，中途没有追加任何需求，代理可自行实现和检查直至完成\n\nClaude Opus 5.5 连带自检共用时 14.3 分钟写出 47 KB 代码，游戏支持平胡、清一色、杠上开花等十几种番型，还有托管，实测我点炮四万结算时扣了30 分。\n\nCodex 生成了约 31 KB 代码（31316 字节，未记录精确生成耗时），右侧有牌局实况侧栏但写明不计番，实测北风胡了南风打出的四万。\n\n两边都没做「吃」牌，但都一次跑通，各自完整打完了一整局。\n\n意外发现：翻了 Claude 的胡牌判断代码，写了标准的 4 组面子加 1 对将或七对，逻辑完全没毛病\n\n我的建议：\n想要有计番和托管功能的，可以试 Claude 版。\n\n喜欢界面详细，带有详细说明的可以考虑用codex\n\n一句话能做到这个程度，两个都超出我预期了。你们也可以试试去做一款小游戏",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HUk9T5haMAAeKa7.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HUk9T5haMAAeKa7.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HUk9T5VaAAAFhk3.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HUk9T5VaAAAFhk3.jpg"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/0xshimei/status/2110292106329874666",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110285533838757888/img/m9_7BcrztM1KAGF6.jpg",
+        "analysisUrl": "https://x.com/0xshimei/status/2110292106329874666"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/0xshimei/status/2110292106329874666",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110285534258208769/img/x3hW484GPVm_yL_5.jpg",
+        "analysisUrl": "https://x.com/0xshimei/status/2110292106329874666"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 255
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/0xshimei/status/2110295054485201119",
+        "text": "@aspinojony1 看图片上的对比",
+        "author": "0xshimei"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/0xshimei/status/2110294847131427208",
+        "text": "@ImAThampi 太有东西了",
+        "author": "0xshimei"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/0xshimei/status/2110292106329874666",
+  "coverUrl": "https://pbs.twimg.com/media/HUk9T5haMAAeKa7.jpg",
+  "coverPath": "data/covers/2110292106329874666-wide.jpg",
+  "gifPath": "data/gifs/2110292106329874666.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-image:/media/HUk9T5haMAAeKa7",
+    "x-image:/media/HUk9T5VaAAAFhk3",
+    "x-video:2110285533838757888",
+    "x-video:2110285534258208769",
+    "x-post:2110292106329874666"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Single-File 3D Chinese Mahjong Game with Three.js",
+      "summary": "Author prompted Claude Opus 5.5 with a single instruction to generate a complete single-file 3D Chinese Mahjong game in Three.js featuring human vs. AI battle, scoring patterns, and automated play.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "我用了同一句提示词让Claude Opus 5.5 和 Codex分别做出了一款3D 麻将游戏\n\n两边需求一致：用 three.js 做单文件 3D 中国麻将，含人机对战和碰杠胡，中途没有追加任何需求，代理可自行实现和检查直至完成"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "用 three.js 做单文件 3D 中国麻将，含人机对战和碰杠胡",
+        "englishText": "Use three.js to make a single-file 3D Chinese Mahjong game, with human vs AI battle, and pong, kong, and win actions",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact full verbatim prompt text used across both model runs"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The attached screen recording shows a functioning 3D Mahjong table rendered with Three.js, executing tile shuffling, dealing, turn play, and game resolution with score calculations matching the author's description.",
+        "textualResultQuote": "Claude Opus 5.5 连带自检共用时 14.3 分钟写出 47 KB 代码，游戏支持平胡、清一色、杠上开花等十几种番型，还有托管，实测我点炮四万结算时扣了30 分。"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "用 three.js 做单文件 3D 中国麻将，含人机对战和碰杠胡",
+          "sourceUrl": "https://x.com/0xshimei/status/2110292106329874666",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "3D Mahjong Game with Three.js",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "mahjong",
+          "3d-scenes",
+          "interactive",
+          "game-dev"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 acted as an autonomous coding agent that planned, authored 47 KB of self-contained HTML/JavaScript/Three.js game code, and verified logic within 14.3 minutes.",
+      "outputSource": "Web browser rendering the Three.js 3D Mahjong game code authored by Claude Opus 5.5",
+      "divisionEvidence": "Claude Opus 5.5 连带自检共用时 14.3 分钟写出 47 KB 代码，游戏支持平胡、清一色、杠上开花等十几种番型，还有托管",
+      "video": {
+        "shots": "Single continuous screen recording of game execution",
+        "duration": "00:19",
+        "aspectRatio": "16:10",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Clear demonstration of Claude Opus 5.5 creating an interactive 3D WebGL game via Three.js with full screen recording proof.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/0xshimei/status/2110292106329874666",
+        "start": 56,
+        "end": 89
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/0xshimei/status/2110292106329874666",
+        "author": "0xshimei",
+        "postId": "2110292106329874666",
+        "publishedAt": "2026-10-14T08:50:20.000Z"
+      },
+      "checkedAt": "2026-10-14T16:27:05.195Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/0xshimei/status/2110292106329874666",
+        "evidence": ""
+      }
+    },
+    "summary": "Author prompted Claude Opus 5.5 with a single instruction to generate a complete single-file 3D Chinese Mahjong game in Three.js featuring human vs. AI battle, scoring patterns, and automated play.",
+    "summaryEn": "Single-File 3D Chinese Mahjong Game with Three.js",
+    "originalPrompt": "用 three.js 做单文件 3D 中国麻将，含人机对战和碰杠胡",
+    "sourceRange": {
+      "start": 56,
+      "end": 89
+    },
+    "translations": {
+      "zh": "用 three.js 做单文件 3D 中国麻将，含人机对战和碰杠胡",
+      "en": "Use three.js to make a single-file 3D Chinese Mahjong game, with human vs AI battle, and pong, kong, and win actions"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "3D Mahjong Game with Three.js",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact full verbatim prompt text used across both model runs"
+      ],
+      "evidence": "The attached screen recording shows a functioning 3D Mahjong table rendered with Three.js, executing tile shuffling, dealing, turn play, and game resolution with score calculations matching the author's description."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

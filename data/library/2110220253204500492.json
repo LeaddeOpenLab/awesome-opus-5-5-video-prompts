@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T17:02:56.740Z",
+  "model": "opus5.5",
+  "prompt": "Build \"Gummy Bears\" - a single self-contained HTML file (relying only on three.js from CDN): a small handful of translucent gummy bears on a white table that you can grab, stretch, squish, throw, and dump. Gummy Bears - classic gummy bear silhouette: round head with two ears, short muzzle, chubby body, stubby arms and legs, small molded eyes and nose - each part smoothly melting into the next - build body as implicit surfaces (metaballs / marching cubes), not separate spheres - Material: realistic gummy candy. Translucent with transmission and refraction, color light absorption deeper in thick parts, glossy lacquer with sharp highlights - Colors: cherry red, orange, lemon yellow, apple green, clear pineapple - soft colored shadow under each bear, tinted by the bear's own color. Physics (this is the whole point - must feel like jelly, not plastic) - each bear is a soft body: mass points for head, ears, muzzle, body, belly, hands, and feet connected via volume-preserving shape matching - limbs and neck rendered as stretchable chains between points that thin when pulled - grab any part and pull: it stretches like rubber, the rest of the bear tilts along, snaps back with damped wobble on release - pull head upward: neck stretches, body follows, releases into squash and jump - press head downward: bear squashes like a pancake, bulges laterally, springs back up - throw a bear: it flies, squashes on landing, bounces, and shoves other bears - bears collide with each other, never pass through - idle bears do small random hops with squash and stretch - \"Pour more bears\" drops a handful from above into a wobbly, jiggling pile. UI - editorial product page style, white background. Large italic serif header \"Gummy / Bears.\", a short subhead, a minimalist card on the right with flavor swatches, a wobble slider, live \"Stretch\" and \"Bounce\" readouts, and a \"Pour more bears\" button - a subtle circular cursor that expands on grab - ACES tone mapping, environment reflections, soft key and rim lighting. Smooth 60fps.",
+  "promptTranslations": {
+    "en": "Build \"Gummy Bears\" - a single self-contained HTML file (relying only on three.js from CDN): a small handful of translucent gummy bears on a white table that you can grab, stretch, squish, throw, and dump. Gummy Bears - classic gummy bear silhouette: round head with two ears, short muzzle, chubby body, stubby arms and legs, small molded eyes and nose - each part smoothly melting into the next - build body as implicit surfaces (metaballs / marching cubes), not separate spheres - Material: realistic gummy candy. Translucent with transmission and refraction, color light absorption deeper in thick parts, glossy lacquer with sharp highlights - Colors: cherry red, orange, lemon yellow, apple green, clear pineapple - soft colored shadow under each bear, tinted by the bear's own color. Physics (this is the whole point - must feel like jelly, not plastic) - each bear is a soft body: mass points for head, ears, muzzle, body, belly, hands, and feet connected via volume-preserving shape matching - limbs and neck rendered as stretchable chains between points that thin when pulled - grab any part and pull: it stretches like rubber, the rest of the bear tilts along, snaps back with damped wobble on release - pull head upward: neck stretches, body follows, releases into squash and jump - press head downward: bear squashes like a pancake, bulges laterally, springs back up - throw a bear: it flies, squashes on landing, bounces, and shoves other bears - bears collide with each other, never pass through - idle bears do small random hops with squash and stretch - \"Pour more bears\" drops a handful from above into a wobbly, jiggling pile. UI - editorial product page style, white background. Large italic serif header \"Gummy / Bears.\", a short subhead, a minimalist card on the right with flavor swatches, a wobble slider, live \"Stretch\" and \"Bounce\" readouts, and a \"Pour more bears\" button - a subtle circular cursor that expands on grab - ACES tone mapping, environment reflections, soft key and rim lighting. Smooth 60fps."
+  },
+  "summary": "Claude Opus 5.5 was prompted to generate a self-contained HTML/Three.js application featuring interactive, squishy, translucent 3D gummy bears with soft-body physics, pull/stretch mechanics, and collision responses.",
+  "summaryEn": "Interactive 3D Soft-Body Gummy Bears Simulation with Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110220253204500492",
+    "canonicalUrl": "https://x.com/bdall_1/status/2110220253204500492",
+    "author": {
+      "username": "bdall_1",
+      "displayName": "牛仔AI",
+      "profileUrl": "https://x.com/bdall_1"
+    },
+    "publishedAt": "2026-10-14T04:04:49.000Z",
+    "collectedAt": "2026-10-14T16:11:43.799Z",
+    "language": "zh",
+    "originalText": "同一套提示词，让 Opus 5.5 和 Gemini 4 Argon 分别做了一组可以拉扯、挤压和投掷的 3D 软糖熊。\n\n视频上面是 Opus，下面是 Gemini。\n\n测试动作完全一样：拉手、拽头、压扁、扔出去，最后再倒一整袋软糖熊进去。\n\n结果差距很明显。\n\nOpus 做出来的熊更像真正的软糖：\n\n• 拉住手臂会越扯越细，松开后还能回弹晃动  \n• 压扁后会摊成一块，然后重新弹起来  \n• 扔出去会撞到其他软糖熊，并把它们推开  \n• 材质透明、有光泽，光线能穿过去  \n\nGemini 做出来的更像塑料模型：\n\n• 手臂被拉成了一根硬棍  \n• 熊会直接穿过旁边的物体  \n• 多个模型堆在一起时出现明显穿模  \n\n更意外的是价格：\n\nOpus：$7.2  \nGemini：$22\n\n这次比的已经不是画面好不好看，而是模型能不能理解软体材质、碰撞和物理反馈。\n\n这一轮，Opus 赢得很明显。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/bdall_1/status/2110220253204500492",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110220152034004992/img/sGtyZXYK1YKD1rje.jpg",
+        "analysisUrl": "https://x.com/bdall_1/status/2110220253204500492"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 130
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/bdall_1/status/2110221206700114405",
+        "text": "牛仔AI on X: \"这是网友用 argon-high 得到了这个结果🤪\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\n牛仔AI on X: \"这是网友用 argon-high 得到了这个结果🤪\"\n\n\n\n牛仔AI\n\n@bdall_1\n\n\n\n\nShow translation\n这是网友用 argon-high 得到了这个结果🤪\n\n\n00:00\n\n\n\n\n\n\n\n\n4:08 AM · Oct 14, 2026·8\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\n牛仔AI@bdall_1Follow\n追踪 AI 模型、Agent 与开源工具。\n拆解它们能做什么、适合谁，以及如何接入实际工作。\n记录实践、成本与局限。\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n牛仔AI\n\n@bdall_1\n12h\n\n\n同一套提示词，让 Opus 5.5 和 Gemini 4 Argon 分别做了一组可以拉扯、挤压和投掷的 3D 软糖熊。\n\n视频上面是 Opus，下面是 Gemini。\n\n测试动作完全一样：拉手、拽头、压扁、扔出去，最后再倒一整袋软糖熊进去。\n\n结果差距很明显。\n\nOpus 做出来的熊更像真正的软糖：\n\n• Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n\n130\n\n\n\n\n\n\n\n\n\n\n牛仔AI\n\n@bdall_1\n12h\n\n\n提示词：\n  构建“Gummy Bears” - 一个单一的自包含HTML文件（仅依赖CDN上的three.js）：在白色桌子上的一小把半透明的软糖熊，你可以抓住、拉伸、挤压、扔和倾倒。  软糖熊 - 经典软糖熊轮廓：圆形头部带两个耳朵，短吻，丰满的身体，粗短的手臂和腿部，小型模压眼睛和鼻子 - Show more\n\n\n1\n\n\n107\n\n\n\n\n\n\n\n\n\n\n牛仔AI\n\n@bdall_1\n\n\n\n\nShow translation\n这是网友用 argon-high 得到了这个结果🤪\n\n\n00:00\n\n\n\n\n\n\n\n\n4:08 AM · Oct 14, 2026·8\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "bdall_1"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/bdall_1/status/2110220532973273394",
+        "text": "提示词：\n  构建“Gummy Bears” - 一个单一的自包含HTML文件（仅依赖CDN上的three.js）：在白色桌子上的一小把半透明的软糖熊，你可以抓住、拉伸、挤压、扔和倾倒。  软糖熊 - 经典软糖熊轮廓：圆形头部带两个耳朵，短吻，丰满的身体，粗短的手臂和腿部，小型模压眼睛和鼻子 - 每个部分平滑融化到下一个部分 - 将身体构建为隐式表面（元球 / 行进立方体），而不是单独的球体 - 材质：真实的软糖果。半透明，具有透射和折射，颜色光吸收在厚实部分更深，光泽清漆带有锐利的亮点 - 颜色：樱桃红、橙色、柠檬黄、苹果绿、透明菠萝 - 每个熊下方柔和的有色阴影，由熊自身的颜色着色  物理效果（这是整个重点 - 必须感觉像果冻，而不是塑料） - 每只熊是一个软体：头部、耳朵、吻、身体、腹部、手和脚的质量点，通过体积保持的形状匹配连接在一起 - 四肢和脖子渲染为点之间的可拉伸链条，拉伸时变细 - 抓住任何部分并拉动：它像橡胶一样拉伸，熊的其余部分随之倾斜，松开时它会弹回并伴随阻尼摆动 - 向上拉头部：脖子拉伸，身体跟随，松开时熊会挤压并跳跃 - 向下按压头部：熊会像煎饼一样压扁，向侧面膨胀，然后弹回向上 - 扔一只熊：它飞翔，落地时挤压，弹跳并推开其他熊 - 熊之间会碰撞，绝不会穿过彼此 - 闲置的熊会进行小型随机跳跃，伴随挤压和拉伸 - “倾倒更多熊”从上方掉下一把，落入摇晃、抖动的堆中  用户界面 - 编辑风格的产品页面风格，白色背景。大型斜体衬线标题“Gummy / Bears.”，一个简短的副标题，右侧一个最小化卡片带有口味样本，一个摇摆滑块，实时“拉伸”和“弹跳”读数，以及一个“倾倒更多熊”按钮 - 一个微妙的圆形光标，在抓取时会增大 - ACES色调映射，环境反射，柔和主光和背光。平滑60fps",
+        "author": "bdall_1"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/bdall_1/status/2110220253204500492",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110220152034004992/img/sGtyZXYK1YKD1rje.jpg",
+  "coverPath": "data/covers/2110220253204500492-wide.jpg",
+  "gifPath": "data/gifs/2110220253204500492.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110220152034004992",
+    "x-post:2110220253204500492"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Soft-Body Gummy Bears Simulation with Three.js",
+      "summary": "Claude Opus 5.5 was prompted to generate a self-contained HTML/Three.js application featuring interactive, squishy, translucent 3D gummy bears with soft-body physics, pull/stretch mechanics, and collision responses.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "同一套提示词，让 Opus 5.5 和 Gemini 4 Argon 分别做了一组可以拉扯、挤压和投掷的 3D 软糖熊。"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "构建“Gummy Bears” - 一个单一的自包含HTML文件（仅依赖CDN上的three.js）：在白色桌子上的一小把半透明的软糖熊，你可以抓住、拉伸、挤压、扔和倾倒。  软糖熊 - 经典软糖熊轮廓：圆形头部带两个耳朵，短吻，丰满的身体，粗短的手臂和腿部，小型模压眼睛和鼻子 - 每个部分平滑融化到下一个部分 - 将身体构建为隐式表面（元球 / 行进立方体），而不是单独的球体 - 材质：真实的软糖果。半透明，具有透射和折射，颜色光吸收在厚实部分更深，光泽清漆带有锐利的亮点 - 颜色：樱桃红、橙色、柠檬黄、苹果绿、透明菠萝 - 每个熊下方柔和的有色阴影，由熊自身的颜色着色  物理效果（这是整个重点 - 必须感觉像果冻，而不是塑料） - 每只熊是一个软体：头部、耳朵、吻、身体、腹部、手和脚的质量点，通过体积保持的形状匹配连接在一起 - 四肢和脖子渲染为点之间的可拉伸链条，拉伸时变细 - 抓住任何部分并拉动：它像橡胶一样拉伸，熊的其余部分随之倾斜，松开时它会弹回并伴随阻尼摆动 - 向上拉头部：脖子拉伸，身体跟随，松开时熊会挤压并跳跃 - 向下按压头部：熊会像煎饼一样压扁，向侧面膨胀，然后弹回向上 - 扔一只熊：它飞翔，落地时挤压，弹跳并推开其他熊 - 熊之间会碰撞，绝不会穿过彼此 - 闲置的熊会进行小型随机跳跃，伴随挤压和拉伸 - “倾倒更多熊”从上方掉下一把，落入摇晃、抖动的堆中  用户界面 - 编辑风格的产品页面风格，白色背景。大型斜体衬线标题“Gummy / Bears.”，一个简短的副标题，右侧一个最小化卡片带有口味样本，一个摇摆滑块，实时“拉伸”和“弹跳”读数，以及一个“倾倒更多熊”按钮 - 一个微妙的圆形光标，在抓取时会增大 - ACES色调映射，环境反射，柔和主光和背光。平滑60fps",
+        "englishText": "Build \"Gummy Bears\" - a single self-contained HTML file (relying only on three.js from CDN): a small handful of translucent gummy bears on a white table that you can grab, stretch, squish, throw, and dump. Gummy Bears - classic gummy bear silhouette: round head with two ears, short muzzle, chubby body, stubby arms and legs, small molded eyes and nose - each part smoothly melting into the next - build body as implicit surfaces (metaballs / marching cubes), not separate spheres - Material: realistic gummy candy. Translucent with transmission and refraction, color light absorption deeper in thick parts, glossy lacquer with sharp highlights - Colors: cherry red, orange, lemon yellow, apple green, clear pineapple - soft colored shadow under each bear, tinted by the bear's own color. Physics (this is the whole point - must feel like jelly, not plastic) - each bear is a soft body: mass points for head, ears, muzzle, body, belly, hands, and feet connected via volume-preserving shape matching - limbs and neck rendered as stretchable chains between points that thin when pulled - grab any part and pull: it stretches like rubber, the rest of the bear tilts along, snaps back with damped wobble on release - pull head upward: neck stretches, body follows, releases into squash and jump - press head downward: bear squashes like a pancake, bulges laterally, springs back up - throw a bear: it flies, squashes on landing, bounces, and shoves other bears - bears collide with each other, never pass through - idle bears do small random hops with squash and stretch - \"Pour more bears\" drops a handful from above into a wobbly, jiggling pile. UI - editorial product page style, white background. Large italic serif header \"Gummy / Bears.\", a short subhead, a minimalist card on the right with flavor swatches, a wobble slider, live \"Stretch\" and \"Bounce\" readouts, and a \"Pour more bears\" button - a subtle circular cursor that expands on grab - ACES tone mapping, environment reflections, soft key and rim lighting. Smooth 60fps.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video recording shows the Opus 5.5 implementation running in a browser with the exact UI specified ('Gummy / Bears.' headline, flavor swatches, sliders, 'Pour more bears' button), demonstrating interactive soft-body stretching of arms, squishing the head, throwing, and pouring additional bears into a pile with translucent gelatinous materials and tinted shadows.",
+        "textualResultQuote": "Opus 做出来的熊更像真正的软糖：\n\n• 拉住手臂会越扯越细，松开后还能回弹晃动\n• 压扁后会摊成一块，然后重新弹起来\n• 扔出去会撞到其他软糖熊，并把它们推开\n• 材质透明、有光泽，光线能穿过去"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "构建“Gummy Bears” - 一个单一的自包含HTML文件（仅依赖CDN上的three.js）：在白色桌子上的一小把半透明的软糖熊，你可以抓住、拉伸、挤压、扔和倾倒。  软糖熊 - 经典软糖熊轮廓：圆形头部带两个耳朵，短吻，丰满的身体，粗短的手臂和腿部，小型模压眼睛和鼻子 - 每个部分平滑融化到下一个部分 - 将身体构建为隐式表面（元球 / 行进立方体），而不是单独的球体 - 材质：真实的软糖果。半透明，具有透射和折射，颜色光吸收在厚实部分更深，光泽清漆带有锐利的亮点 - 颜色：樱桃红、橙色、柠檬黄、苹果绿、透明菠萝 - 每个熊下方柔和的有色阴影，由熊自身的颜色着色  物理效果（这是整个重点 - 必须感觉像果冻，而不是塑料） - 每只熊是一个软体：头部、耳朵、吻、身体、腹部、手和脚的质量点，通过体积保持的形状匹配连接在一起 - 四肢和脖子渲染为点之间的可拉伸链条，拉伸时变细 - 抓住任何部分并拉动：它像橡胶一样拉伸，熊的其余部分随之倾斜，松开时它会弹回并伴随阻尼摆动 - 向上拉头部：脖子拉伸，身体跟随，松开时熊会挤压并跳跃 - 向下按压头部：熊会像煎饼一样压扁，向侧面膨胀，然后弹回向上 - 扔一只熊：它飞翔，落地时挤压，弹跳并推开其他熊 - 熊之间会碰撞，绝不会穿过彼此 - 闲置的熊会进行小型随机跳跃，伴随挤压和拉伸 - “倾倒更多熊”从上方掉下一把，落入摇晃、抖动的堆中  用户界面 - 编辑风格的产品页面风格，白色背景。大型斜体衬线标题“Gummy / Bears.”，一个简短的副标题，右侧一个最小化卡片带有口味样本，一个摇摆滑块，实时“拉伸”和“弹跳”读数，以及一个“倾倒更多熊”按钮 - 一个微妙的圆形光标，在抓取时会增大 - ACES色调映射，环境反射，柔和主光和背光。平滑60fps",
+          "sourceUrl": "https://x.com/bdall_1/status/2110220532973273394",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Soft-Body Gummy Bear Simulation",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "soft-body-physics",
+          "webgl",
+          "interactive-demo",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 generated the complete, self-contained HTML/JavaScript code implementing the procedural metaball meshes, soft-body physics, user interactions, and Three.js scene setup.",
+      "outputSource": "Web browser executing the Claude-generated Three.js HTML file",
+      "divisionEvidence": "构建“Gummy Bears” - 一个单一的自包含HTML文件（仅依赖CDN上的three.js）",
+      "video": {
+        "shots": "Single-shot interactive screen recording demo",
+        "duration": "12s",
+        "aspectRatio": "320:404",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 video production showcase featuring the full original prompt, verified model version, tool specifications, and screen recording of the resulting interactive 3D WebGL soft-body simulation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/bdall_1/status/2110220532973273394",
+        "start": 7,
+        "end": 767
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/bdall_1/status/2110220253204500492",
+        "author": "bdall_1",
+        "postId": "2110220253204500492",
+        "publishedAt": "2026-10-14T04:04:49.000Z"
+      },
+      "checkedAt": "2026-10-14T16:26:20.854Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "verified",
+        "status": "publishable",
+        "reasons": []
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/bdall_1/status/2110220532973273394",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 was prompted to generate a self-contained HTML/Three.js application featuring interactive, squishy, translucent 3D gummy bears with soft-body physics, pull/stretch mechanics, and collision responses.",
+    "summaryEn": "Interactive 3D Soft-Body Gummy Bears Simulation with Three.js",
+    "originalPrompt": "构建“Gummy Bears” - 一个单一的自包含HTML文件（仅依赖CDN上的three.js）：在白色桌子上的一小把半透明的软糖熊，你可以抓住、拉伸、挤压、扔和倾倒。  软糖熊 - 经典软糖熊轮廓：圆形头部带两个耳朵，短吻，丰满的身体，粗短的手臂和腿部，小型模压眼睛和鼻子 - 每个部分平滑融化到下一个部分 - 将身体构建为隐式表面（元球 / 行进立方体），而不是单独的球体 - 材质：真实的软糖果。半透明，具有透射和折射，颜色光吸收在厚实部分更深，光泽清漆带有锐利的亮点 - 颜色：樱桃红、橙色、柠檬黄、苹果绿、透明菠萝 - 每个熊下方柔和的有色阴影，由熊自身的颜色着色  物理效果（这是整个重点 - 必须感觉像果冻，而不是塑料） - 每只熊是一个软体：头部、耳朵、吻、身体、腹部、手和脚的质量点，通过体积保持的形状匹配连接在一起 - 四肢和脖子渲染为点之间的可拉伸链条，拉伸时变细 - 抓住任何部分并拉动：它像橡胶一样拉伸，熊的其余部分随之倾斜，松开时它会弹回并伴随阻尼摆动 - 向上拉头部：脖子拉伸，身体跟随，松开时熊会挤压并跳跃 - 向下按压头部：熊会像煎饼一样压扁，向侧面膨胀，然后弹回向上 - 扔一只熊：它飞翔，落地时挤压，弹跳并推开其他熊 - 熊之间会碰撞，绝不会穿过彼此 - 闲置的熊会进行小型随机跳跃，伴随挤压和拉伸 - “倾倒更多熊”从上方掉下一把，落入摇晃、抖动的堆中  用户界面 - 编辑风格的产品页面风格，白色背景。大型斜体衬线标题“Gummy / Bears.”，一个简短的副标题，右侧一个最小化卡片带有口味样本，一个摇摆滑块，实时“拉伸”和“弹跳”读数，以及一个“倾倒更多熊”按钮 - 一个微妙的圆形光标，在抓取时会增大 - ACES色调映射，环境反射，柔和主光和背光。平滑60fps",
+    "sourceRange": {
+      "start": 7,
+      "end": 767
+    },
+    "translations": {
+      "zh": "构建“Gummy Bears” - 一个单一的自包含HTML文件（仅依赖CDN上的three.js）：在白色桌子上的一小把半透明的软糖熊，你可以抓住、拉伸、挤压、扔和倾倒。  软糖熊 - 经典软糖熊轮廓：圆形头部带两个耳朵，短吻，丰满的身体，粗短的手臂和腿部，小型模压眼睛和鼻子 - 每个部分平滑融化到下一个部分 - 将身体构建为隐式表面（元球 / 行进立方体），而不是单独的球体 - 材质：真实的软糖果。半透明，具有透射和折射，颜色光吸收在厚实部分更深，光泽清漆带有锐利的亮点 - 颜色：樱桃红、橙色、柠檬黄、苹果绿、透明菠萝 - 每个熊下方柔和的有色阴影，由熊自身的颜色着色  物理效果（这是整个重点 - 必须感觉像果冻，而不是塑料） - 每只熊是一个软体：头部、耳朵、吻、身体、腹部、手和脚的质量点，通过体积保持的形状匹配连接在一起 - 四肢和脖子渲染为点之间的可拉伸链条，拉伸时变细 - 抓住任何部分并拉动：它像橡胶一样拉伸，熊的其余部分随之倾斜，松开时它会弹回并伴随阻尼摆动 - 向上拉头部：脖子拉伸，身体跟随，松开时熊会挤压并跳跃 - 向下按压头部：熊会像煎饼一样压扁，向侧面膨胀，然后弹回向上 - 扔一只熊：它飞翔，落地时挤压，弹跳并推开其他熊 - 熊之间会碰撞，绝不会穿过彼此 - 闲置的熊会进行小型随机跳跃，伴随挤压和拉伸 - “倾倒更多熊”从上方掉下一把，落入摇晃、抖动的堆中  用户界面 - 编辑风格的产品页面风格，白色背景。大型斜体衬线标题“Gummy / Bears.”，一个简短的副标题，右侧一个最小化卡片带有口味样本，一个摇摆滑块，实时“拉伸”和“弹跳”读数，以及一个“倾倒更多熊”按钮 - 一个微妙的圆形光标，在抓取时会增大 - ACES色调映射，环境反射，柔和主光和背光。平滑60fps",
+      "en": "Build \"Gummy Bears\" - a single self-contained HTML file (relying only on three.js from CDN): a small handful of translucent gummy bears on a white table that you can grab, stretch, squish, throw, and dump. Gummy Bears - classic gummy bear silhouette: round head with two ears, short muzzle, chubby body, stubby arms and legs, small molded eyes and nose - each part smoothly melting into the next - build body as implicit surfaces (metaballs / marching cubes), not separate spheres - Material: realistic gummy candy. Translucent with transmission and refraction, color light absorption deeper in thick parts, glossy lacquer with sharp highlights - Colors: cherry red, orange, lemon yellow, apple green, clear pineapple - soft colored shadow under each bear, tinted by the bear's own color. Physics (this is the whole point - must feel like jelly, not plastic) - each bear is a soft body: mass points for head, ears, muzzle, body, belly, hands, and feet connected via volume-preserving shape matching - limbs and neck rendered as stretchable chains between points that thin when pulled - grab any part and pull: it stretches like rubber, the rest of the bear tilts along, snaps back with damped wobble on release - pull head upward: neck stretches, body follows, releases into squash and jump - press head downward: bear squashes like a pancake, bulges laterally, springs back up - throw a bear: it flies, squashes on landing, bounces, and shoves other bears - bears collide with each other, never pass through - idle bears do small random hops with squash and stretch - \"Pour more bears\" drops a handful from above into a wobbly, jiggling pile. UI - editorial product page style, white background. Large italic serif header \"Gummy / Bears.\", a short subhead, a minimalist card on the right with flavor swatches, a wobble slider, live \"Stretch\" and \"Bounce\" readouts, and a \"Pour more bears\" button - a subtle circular cursor that expands on grab - ACES tone mapping, environment reflections, soft key and rim lighting. Smooth 60fps."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Soft-Body Gummy Bear Simulation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video recording shows the Opus 5.5 implementation running in a browser with the exact UI specified ('Gummy / Bears.' headline, flavor swatches, sliders, 'Pour more bears' button), demonstrating interactive soft-body stretching of arms, squishing the head, throwing, and pouring additional bears into a pile with translucent gelatinous materials and tinted shadows."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
