@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T16:59:18.311Z",
+  "model": "opus5.5",
+  "prompt": "I want you to create a game for me:\n\nIt’s a golf game but it’s called LONG DRIVE INSANITY\n\nAnd basically it’s ONLY a long drive contest that gets harder in various rounds. The idea should feel semi-cartoony and goofy and we can do it voxel style (maybe in 3js but you decide) My initial thought is you get three chances to hit the long drive and maybe on each successive ‘level’ there are harder challenges and things that get in your way. Be creative with that part and do some research.\n\nBut the basic game play is long drives… probably some version of the classic golf ‘three-tap’ control scheme for distance and control and some way to apply power-ups, maybe an aiming mechanism (which means there needs to be a way to GET these as well). Check out classic golf games for inspiration.\n\nAsk me any questions before you start.",
+  "promptTranslations": {
+    "en": "I want you to create a game for me:\n\nIt’s a golf game but it’s called LONG DRIVE INSANITY\n\nAnd basically it’s ONLY a long drive contest that gets harder in various rounds. The idea should feel semi-cartoony and goofy and we can do it voxel style (maybe in 3js but you decide) My initial thought is you get three chances to hit the long drive and maybe on each successive ‘level’ there are harder challenges and things that get in your way. Be creative with that part and do some research.\n\nBut the basic game play is long drives… probably some version of the classic golf ‘three-tap’ control scheme for distance and control and some way to apply power-ups, maybe an aiming mechanism (which means there needs to be a way to GET these as well). Check out classic golf games for inspiration.\n\nAsk me any questions before you start."
+  },
+  "summary": "Gavin Purcell tests Claude Opus 5.5 against Gemini 4 Argon with a single-shot prompt to build a playable voxel-style 3D golf game ('Long Drive Insanity'), comparing game design decisions and gameplay mechanics via a split-screen recording.",
+  "summaryEn": "Interactive Voxel Golf Game 'Long Drive Insanity' Comparison: Claude Opus 5.5 vs Gemini 4 Argon",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110130255835156967",
+    "canonicalUrl": "https://x.com/gavinpurcell/status/2110130255835156967",
+    "author": {
+      "username": "gavinpurcell",
+      "displayName": "Gavin Purcell",
+      "profileUrl": "https://x.com/gavinpurcell"
+    },
+    "publishedAt": "2026-10-13T22:07:11.000Z",
+    "collectedAt": "2026-10-14T16:11:43.799Z",
+    "language": "en",
+    "originalText": "gemini agron 4 is decent... \n\nbut imo still not as good at opus 5.5 (for doing dumb games... which is not the best benchmark)\n\nHOWEVER, it did make some better game design choices in this 'long drive insanity' prompt i tried it on\n\n(prompt below) https://t.co/AwBQbi3BX0",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/gavinpurcell/status/2110130255835156967",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110129864275804161/img/4n15-fqeK1xY1hZ0.jpg",
+        "analysisUrl": "https://x.com/gavinpurcell/status/2110130255835156967"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 710
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/gavinpurcell/status/2110413152622149932",
+        "text": "@jasonhanley i can tell you i had this exact problem yesterday trying to use it so... i don't have a great answer. i do think you can load the model through cc somehow.",
+        "author": "gavinpurcell"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/gavinpurcell/status/2110360131229945901",
+        "text": "@Zeneca haha nice work",
+        "author": "gavinpurcell"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/gavinpurcell/status/2110130367743275453",
+        "text": "prompt (single shot for both):\n\nI want you to create a game for me:\n\nIt’s a golf game but it’s called LONG DRIVE INSANITY\n\nAnd basically it’s ONLY a long drive contest that gets harder in various rounds. The idea should feel semi-cartoony and goofy and we can do it voxel style (maybe in 3js but you decide) My initial thought is you get three chances to hit the long drive and maybe on each successive ‘level’ there are harder challenges and things that get in your way. Be creative with that part and do some research.\n\nBut the basic game play is long drives… probably some version of the classic golf ‘three-tap’ control scheme for distance and control and some way to apply power-ups, maybe an aiming mechanism (which means there needs to be a way to GET these as well). Check out classic golf games for inspiration.\n\nAsk me any questions before you start.",
+        "author": "gavinpurcell"
+      },
+      {
+        "url": "https://x.com/gavinpurcell/status/2110130255835156967",
+        "text": "Gavin Purcell on X: \"gemini agron 4 is decent... \n\nbut imo still not as good at opus 5.5 (for doing dumb games... which is not the best benchmark)\n\nHOWEVER, it did make some better game design choices in this &#x27;long drive insanity&#x27; prompt i tried it on\n\n(prompt below)\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nGavin Purcell on X: \"gemini agron 4 is decent... \n\nbut imo still not as good at opus 5.5 (for doing dumb games... which is not the best benchmark)\n\nHOWEVER, it did make some better game design choices in this &#x27;long drive insanity&#x27; prompt i tried it on\n\n(prompt below)\"\n\n\n\nGavin Purcell\n\n@gavinpurcell\n\n\n\n\ngemini agron 4 is decent... \n\nbut imo still not as good at opus 5.5 (for doing dumb games... which is not the best benchmark)\n\nHOWEVER, it did make some better game design choices in this &#x27;long drive insanity&#x27; prompt i tried it on\n\n(prompt below)\n\n\n00:00\n\n\n\n\n\n\n\n\n10:07 PM · Oct 13, 2026·710\nViews\n\n\n\n2\n\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nGavin Purcell@gavinpurcellFollow\nEmmy-Winning Showrunner, co-creator @aiforhumansshow made a career of hurtling emergent media into established spaces\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGavin Purcell\n\n@gavinpurcell\n\n\n\n\ngemini agron 4 is decent... \n\nbut imo still not as good at opus 5.5 (for doing dumb games... which is not the best benchmark)\n\nHOWEVER, it did make some better game design choices in this &#x27;long drive insanity&#x27; prompt i tried it on\n\n(prompt below)\n\n\n00:00\n\n\n\n\n\n\n\n\n10:07 PM · Oct 13, 2026·710\nViews\n\n\n\n2\n\n4\n\n\n\n\n\n\n\n\n\n\nGavin Purcell\n\n@gavinpurcell\n18h\n\n\nprompt (single shot for both):\n\nI want you to create a game for me:\n\nIt’s a golf game but it’s called LONG DRIVE INSANITY\n\nAnd basically it’s ONLY a long drive contest that gets harder in various rounds. The idea should feel semi-cartoony and goofy and we can do it voxel style Show more\n\n\n1\n\n1\n186\n\n\n\n\n\n\n\n\n\n\n\nJason Hanley\n\n@jasonhanley\n8m\n\n\nHow do you even use Gemini in an agentic harness these days? I gave up on them after they changed it like 5 times and took away the ability to use external harnesses or view how much quota you had left. It feels like they just don&#x27;t want people to use it.\n\n\n1\n\n1\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "gavinpurcell"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/gavinpurcell/status/2110130255835156967",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110129864275804161/img/4n15-fqeK1xY1hZ0.jpg",
+  "coverPath": "data/covers/2110130255835156967-wide.jpg",
+  "gifPath": "data/gifs/2110130255835156967.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110129864275804161",
+    "x-post:2110130255835156967"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive Voxel Golf Game 'Long Drive Insanity' Comparison: Claude Opus 5.5 vs Gemini 4 Argon",
+      "summary": "Gavin Purcell tests Claude Opus 5.5 against Gemini 4 Argon with a single-shot prompt to build a playable voxel-style 3D golf game ('Long Drive Insanity'), comparing game design decisions and gameplay mechanics via a split-screen recording.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "gemini agron 4 is decent... \n\nbut imo still not as good at opus 5.5 (for doing dumb games... which is not the best benchmark)"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "I want you to create a game for me:\n\nIt’s a golf game but it’s called LONG DRIVE INSANITY\n\nAnd basically it’s ONLY a long drive contest that gets harder in various rounds. The idea should feel semi-cartoony and goofy and we can do it voxel style (maybe in 3js but you decide) My initial thought is you get three chances to hit the long drive and maybe on each successive ‘level’ there are harder challenges and things that get in your way. Be creative with that part and do some research.\n\nBut the basic game play is long drives… probably some version of the classic golf ‘three-tap’ control scheme for distance and control and some way to apply power-ups, maybe an aiming mechanism (which means there needs to be a way to GET these as well). Check out classic golf games for inspiration.\n\nAsk me any questions before you start.",
+        "englishText": "I want you to create a game for me:\n\nIt’s a golf game but it’s called LONG DRIVE INSANITY\n\nAnd basically it’s ONLY a long drive contest that gets harder in various rounds. The idea should feel semi-cartoony and goofy and we can do it voxel style (maybe in 3js but you decide) My initial thought is you get three chances to hit the long drive and maybe on each successive ‘level’ there are harder challenges and things that get in your way. Be creative with that part and do some research.\n\nBut the basic game play is long drives… probably some version of the classic golf ‘three-tap’ control scheme for distance and control and some way to apply power-ups, maybe an aiming mechanism (which means there needs to be a way to GET these as well). Check out classic golf games for inspiration.\n\nAsk me any questions before you start.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The split-screen recording showcases the playable WebGL voxel golf games generated by Claude Opus 5.5 (top) and Gemini 4 Argon (bottom), featuring title screens, 3-tap swing timing bars, voxel character/environment assets, obstacles like windmills and trees, power-up systems, and yardage tracking directly implementing the prompt specifications.",
+        "textualResultQuote": "gemini agron 4 is decent... \n\nbut imo still not as good at opus 5.5 (for doing dumb games... which is not the best benchmark)\n\nHOWEVER, it did make some better game design choices in this 'long drive insanity' prompt i tried it on"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "WebGL 3D rendering library used to construct and display the voxel golf scene and animations in browser canvas",
+          "evidence": "(maybe in 3js but you decide)",
+          "status": "inferred",
+          "sourceUrl": "https://x.com/gavinpurcell/status/2110130367743275453"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Voxel Golf Game Generation",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "voxel",
+          "golf-game",
+          "webgl",
+          "interactive-demo"
+        ]
+      },
+      "targetModelRole": "Code generation agent writing full interactive WebGL/Three.js browser game logic and rendering instructions",
+      "outputSource": "Web browser rendering the generated JavaScript/WebGL canvas game code",
+      "divisionEvidence": "Claude Opus 5.5 generated the game implementation code; the author screen-recorded the execution and gameplay inside the browser runtime.",
+      "video": {
+        "shots": "1 continuous split-screen capture comparing the two model outputs",
+        "duration": "1:51",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Complete original author instructions with verified Claude Opus 5.5 use, accompanied by a side-by-side screen recording demonstrating the resulting interactive 3D WebGL game.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/gavinpurcell/status/2110130367743275453",
+        "start": 32,
+        "end": 860
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/gavinpurcell/status/2110130255835156967",
+        "author": "gavinpurcell",
+        "postId": "2110130255835156967",
+        "publishedAt": "2026-10-13T22:07:11.000Z"
+      },
+      "checkedAt": "2026-10-14T16:55:43.049Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/gavinpurcell/status/2110130367743275453",
+        "evidence": ""
+      }
+    },
+    "summary": "Gavin Purcell tests Claude Opus 5.5 against Gemini 4 Argon with a single-shot prompt to build a playable voxel-style 3D golf game ('Long Drive Insanity'), comparing game design decisions and gameplay mechanics via a split-screen recording.",
+    "summaryEn": "Interactive Voxel Golf Game 'Long Drive Insanity' Comparison: Claude Opus 5.5 vs Gemini 4 Argon",
+    "originalPrompt": "I want you to create a game for me:\n\nIt’s a golf game but it’s called LONG DRIVE INSANITY\n\nAnd basically it’s ONLY a long drive contest that gets harder in various rounds. The idea should feel semi-cartoony and goofy and we can do it voxel style (maybe in 3js but you decide) My initial thought is you get three chances to hit the long drive and maybe on each successive ‘level’ there are harder challenges and things that get in your way. Be creative with that part and do some research.\n\nBut the basic game play is long drives… probably some version of the classic golf ‘three-tap’ control scheme for distance and control and some way to apply power-ups, maybe an aiming mechanism (which means there needs to be a way to GET these as well). Check out classic golf games for inspiration.\n\nAsk me any questions before you start.",
+    "sourceRange": {
+      "start": 32,
+      "end": 860
+    },
+    "translations": {
+      "zh": "I want you to create a game for me:\n\nIt’s a golf game but it’s called LONG DRIVE INSANITY\n\nAnd basically it’s ONLY a long drive contest that gets harder in various rounds. The idea should feel semi-cartoony and goofy and we can do it voxel style (maybe in 3js but you decide) My initial thought is you get three chances to hit the long drive and maybe on each successive ‘level’ there are harder challenges and things that get in your way. Be creative with that part and do some research.\n\nBut the basic game play is long drives… probably some version of the classic golf ‘three-tap’ control scheme for distance and control and some way to apply power-ups, maybe an aiming mechanism (which means there needs to be a way to GET these as well). Check out classic golf games for inspiration.\n\nAsk me any questions before you start.",
+      "en": "I want you to create a game for me:\n\nIt’s a golf game but it’s called LONG DRIVE INSANITY\n\nAnd basically it’s ONLY a long drive contest that gets harder in various rounds. The idea should feel semi-cartoony and goofy and we can do it voxel style (maybe in 3js but you decide) My initial thought is you get three chances to hit the long drive and maybe on each successive ‘level’ there are harder challenges and things that get in your way. Be creative with that part and do some research.\n\nBut the basic game play is long drives… probably some version of the classic golf ‘three-tap’ control scheme for distance and control and some way to apply power-ups, maybe an aiming mechanism (which means there needs to be a way to GET these as well). Check out classic golf games for inspiration.\n\nAsk me any questions before you start."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Voxel Golf Game Generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The split-screen recording showcases the playable WebGL voxel golf games generated by Claude Opus 5.5 (top) and Gemini 4 Argon (bottom), featuring title screens, 3-tap swing timing bars, voxel character/environment assets, obstacles like windmills and trees, power-up systems, and yardage tracking directly implementing the prompt specifications."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

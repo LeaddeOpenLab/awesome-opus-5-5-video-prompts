@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T16:59:16.061Z",
+  "model": "opus5.5",
+  "prompt": "build a game that is close to real driving as much as possible",
+  "promptTranslations": {
+    "en": "build a game that is close to real driving as much as possible"
+  },
+  "summary": "Rocky Ganji prompts Claude Opus 5.5 to develop 'L-Board Driving School', a browser-based manual driving simulation featuring realistic clutch biting points, engine stall telemetry graphs, step-by-step driving lessons, and a free-drive mode in Hyderabad.",
+  "summaryEn": "Interactive Manual Driving School Simulator",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110340955677376851",
+    "canonicalUrl": "https://x.com/rocky_ganji/status/2110340955677376851",
+    "author": {
+      "username": "rocky_ganji",
+      "displayName": "Rocky Ganji",
+      "profileUrl": "https://x.com/rocky_ganji"
+    },
+    "publishedAt": "2026-10-14T12:04:26.000Z",
+    "collectedAt": "2026-10-14T16:11:43.799Z",
+    "language": "en",
+    "originalText": "I CAN’T DRIVE. SO I BUILT AN ENTIRE DRIVING SCHOOL. 🤯🚗\n\n I asked claude opus 5.5  to build a game that is close to real driving as much as possible. \n\nIt’s a manual car you drive in your browser: clutch, race, brake, gear stick and handbrake. It acts like a real car:\n\nLift the clutch too fast → the engine stalls\nChange gear without pressing the clutch → the gearbox grinds\nGive a little race, lift the clutch slowly to the bite point → the car moves\n\nA tutor called Captain Clutch sits next to you and tells you every step. When you stall, he shows a small graph of what your feet did, so you can see exactly what went wrong.\n\n6 lessons:\n\nMove off without stalling\nShift up from 1st to 3rd\nStop at a red light\nHill start without rolling back\nTurn left at a junction\nReverse into a parking bay (with a parking camera)\n\nThen a free drive in Abids, Hyderabad:\n\nSpeed camera → ₹1,000 challan\nGo too fast → Captain Clutch’s soul leaves the car \nStill too fast → he presses his own brake\nPolice stop you and ask for your documents (don’t hand them a biryani bill)\nSpeed breakers, potholes and a buffalo crossing\nDrive smooth long enough → Captain Clutch falls asleep 😴\n\nHow to play on a laptop:\nZ = clutch down, A = lift the clutch slowly\n↑ = race, ↓ = brake\n1–5, R, N = gears, Space = handbrake\nOn a phone, use the pedals and gear stick on the screen. \n\nplay for free. Link in the first reply ! \n\n@claudeai @karpathy @elonmusk  @waiting4_asi",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/rocky_ganji/status/2110340955677376851",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110337186336043009/img/1PP8rgpSLzulClN8.jpg",
+        "analysisUrl": "https://x.com/rocky_ganji/status/2110340955677376851"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 130
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rocky_ganji/status/2110343448670982508",
+        "text": "@Joshua_WD 😂😂",
+        "author": "rocky_ganji"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rocky_ganji/status/2110341030965063812",
+        "text": "https://t.co/6K3uXlg7lZ",
+        "author": "rocky_ganji"
+      },
+      {
+        "url": "https://claude.ai/artifact/KfnoGy7RtgqapDmQ28fJWw",
+        "text": "Claude Artifact\n\n\n Content is user-generated and unverified.\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "rocky_ganji"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/rocky_ganji/status/2110340955677376851",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110337186336043009/img/1PP8rgpSLzulClN8.jpg",
+  "coverPath": "data/covers/2110340955677376851-wide.jpg",
+  "gifPath": "data/gifs/2110340955677376851.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110337186336043009",
+    "x-post:2110340955677376851"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive Manual Driving School Simulator",
+      "summary": "Rocky Ganji prompts Claude Opus 5.5 to develop 'L-Board Driving School', a browser-based manual driving simulation featuring realistic clutch biting points, engine stall telemetry graphs, step-by-step driving lessons, and a free-drive mode in Hyderabad.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Artifacts",
+        "authorUseConfirmed": true,
+        "evidence": "I asked claude opus 5.5  to build a game that is close to real driving as much as possible."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build a game that is close to real driving as much as possible",
+        "englishText": "build a game that is close to real driving as much as possible",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact initial prompt detailing clutch physics and pedal controls",
+          "Follow-up refinement prompts for lessons, telemetry graph, and traffic rules",
+          "Asset and UI layout specifications"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording showcases the playable web game with functioning clutch, throttle, gears, stall telemetry visualizer, virtual tutor Captain Clutch, and multi-mode driving scenarios matching the post.",
+        "textualResultQuote": "L-BOARD DRIVING SCHOOL\nREAL CLUTCH PHYSICS | 6 LESSONS | STEP-BY-STEP TUTOR | STALL REPLAYS"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Claude Artifacts",
+          "role": "Interactive web app hosting and execution environment",
+          "evidence": "https://claude.ai/artifact/KfnoGy7RtgqapDmQ28fJWw",
+          "sourceUrl": "https://claude.ai/artifact/KfnoGy7RtgqapDmQ28fJWw",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "HTML5 Canvas / WebGL",
+          "role": "Rendering 3D car cockpit, road environment, and UI overlays in the browser",
+          "evidence": "It’s a manual car you drive in your browser: clutch, race, brake, gear stick and handbrake.",
+          "sourceUrl": "https://x.com/rocky_ganji/status/2110340955677376851",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Manual Driving School Game",
+        "topic": "games-interactive",
+        "tags": [
+          "driving-simulator",
+          "interactive-game",
+          "webgl",
+          "claude-artifacts",
+          "game-physics"
+        ]
+      },
+      "targetModelRole": "Code generation agent orchestrating the full game logic, vehicle physics simulation, and front-end render loops",
+      "outputSource": "Browser WebGL/Canvas runtime generated from Claude code output",
+      "divisionEvidence": "I asked claude opus 5.5 to build a game that is close to real driving as much as possible. It’s a manual car you drive in your browser",
+      "video": {
+        "shots": "Screen recording showing practice ground lessons, stall analytics popup, city driving challenges, traffic stop modal, and reverse parking camera view.",
+        "duration": "01:08",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Direct demonstration of Claude Opus 5.5 generating an interactive 3D browser game simulation, verified with video gameplay footage and an official Claude Artifact link.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/rocky_ganji/status/2110340955677376851",
+        "start": 87,
+        "end": 149
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/rocky_ganji/status/2110340955677376851",
+        "author": "rocky_ganji",
+        "postId": "2110340955677376851",
+        "publishedAt": "2026-10-14T12:04:26.000Z"
+      },
+      "checkedAt": "2026-10-14T16:30:55.646Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/rocky_ganji/status/2110340955677376851",
+        "evidence": ""
+      }
+    },
+    "summary": "Rocky Ganji prompts Claude Opus 5.5 to develop 'L-Board Driving School', a browser-based manual driving simulation featuring realistic clutch biting points, engine stall telemetry graphs, step-by-step driving lessons, and a free-drive mode in Hyderabad.",
+    "summaryEn": "Interactive Manual Driving School Simulator",
+    "originalPrompt": "build a game that is close to real driving as much as possible",
+    "sourceRange": {
+      "start": 87,
+      "end": 149
+    },
+    "translations": {
+      "zh": "build a game that is close to real driving as much as possible",
+      "en": "build a game that is close to real driving as much as possible"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Manual Driving School Game",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact initial prompt detailing clutch physics and pedal controls",
+        "Follow-up refinement prompts for lessons, telemetry graph, and traffic rules",
+        "Asset and UI layout specifications"
+      ],
+      "evidence": "Screen recording showcases the playable web game with functioning clutch, throttle, gears, stall telemetry visualizer, virtual tutor Captain Clutch, and multi-mode driving scenarios matching the post."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

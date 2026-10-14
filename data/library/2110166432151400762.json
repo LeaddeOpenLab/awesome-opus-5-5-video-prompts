@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T16:59:18.113Z",
+  "model": "opus5.5",
+  "prompt": "A lighthouse on a cliff in a thunderstorm at night",
+  "promptTranslations": {
+    "en": "A lighthouse on a cliff in a thunderstorm at night"
+  },
+  "summary": "Claude Opus 5.5 generated a standalone HTML file animating a lighthouse during a nocturnal thunderstorm without external libraries.",
+  "summaryEn": "Lighthouse Thunderstorm HTML Canvas Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110166432151400762",
+    "canonicalUrl": "https://x.com/onmanjrekar/status/2110166432151400762",
+    "author": {
+      "username": "onmanjrekar",
+      "displayName": "Onkar Manjrekar",
+      "profileUrl": "https://x.com/onmanjrekar"
+    },
+    "publishedAt": "2026-10-14T00:30:57.000Z",
+    "collectedAt": "2026-10-14T16:11:43.799Z",
+    "language": "en",
+    "originalText": "Same prompt, same effort, 5 AI models: \"A lighthouse on a cliff in a thunderstorm at night\", one HTML file.\n\nClaude Opus 5.5 (~2.0M tokens)\nGemini Argon 4 (~0.57M)\nClaude Sonnet 5.5 (~0.75M)\nFable 5.1 / Muse Spark 1.3\n\nWhich would you ship?\n\n#AIEngineering https://t.co/o5sIQpqeJ9",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HUjRJ2GWAAEKO-D.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HUjRJ2GWAAEKO-D.jpg"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/onmanjrekar/status/2110166432151400762",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110166392532033536/img/lWFn7zEH8XxkMftk.jpg",
+        "analysisUrl": "https://x.com/onmanjrekar/status/2110166432151400762"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/onmanjrekar/status/2110166432151400762",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110166392531980288/img/Nkv2c0ahzERR0R7i.jpg",
+        "analysisUrl": "https://x.com/onmanjrekar/status/2110166432151400762"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/onmanjrekar/status/2110166432151400762",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110166392536264705/img/Z69t6jGN6SvQM9DO.jpg",
+        "analysisUrl": "https://x.com/onmanjrekar/status/2110166432151400762"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 246
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/onmanjrekar/status/2110166640352543134",
+        "text": "Few other tests are on their way!",
+        "author": "onmanjrekar"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/onmanjrekar/status/2110166568629944821",
+        "text": "Rules: every model got the same spec and effort level (high), with no libraries and no hand edits. Every run counts, including one that timed out (Argon needed a retry). Lesson: more tokens didn't mean a better scene. The most expensive build here came 4th.",
+        "author": "onmanjrekar"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/onmanjrekar/status/2110166515509273083",
+        "text": "Opus: most cohesive scene. Beam sweeps, waves crash with spray, lightning lights the whole sky. Sonnet: almost as good on about a third of the tokens. Argon: brightest beam and most lightning, but foam is drawn as flat white ovals.",
+        "author": "onmanjrekar"
+      },
+      {
+        "url": "https://x.com/onmanjrekar/status/2110166432151400762",
+        "text": "Onkar Manjrekar on X: \"Same prompt, same effort, 5 AI models: \"A lighthouse on a cliff in a thunderstorm at night\", one HTML file.\n\nClaude Opus 5.5 (~2.0M tokens)\nGemini Argon 4 (~0.57M)\nClaude Sonnet 5.5 (~0.75M)\nFable 5.1 / Muse Spark 1.3\n\nWhich would you ship?\n\n#AIEngineering\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nOnkar Manjrekar on X: \"Same prompt, same effort, 5 AI models: \"A lighthouse on a cliff in a thunderstorm at night\", one HTML file.\n\nClaude Opus 5.5 (~2.0M tokens)\nGemini Argon 4 (~0.57M)\nClaude Sonnet 5.5 (~0.75M)\nFable 5.1 / Muse Spark 1.3\n\nWhich would you ship?\n\n#AIEngineering\"\n\n\n\nOnkar Manjrekar\n\n@onmanjrekar\n\n\n\n\nSame prompt, same effort, 5 AI models: \"A lighthouse on a cliff in a thunderstorm at night\", one HTML file.\n\nClaude Opus 5.5 (~2.0M tokens)\nGemini Argon 4 (~0.57M)\nClaude Sonnet 5.5 (~0.75M)\nFable 5.1 / Muse Spark 1.3\n\nWhich would you ship?\n\n#AIEngineering\n\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n12:30 AM · Oct 14, 2026·247\nViews\n\n\n\n4\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nOnkar Manjrekar@onmanjrekarFollow\nSolo app builder 🍸 By the Glass Stories + Palate Atlas. Honest takes on Grok, ChatGPT, Claude & Cursor from daily use. PhD ChemE, always learning.\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOnkar Manjrekar\n\n@onmanjrekar\n\n\n\n\nSame prompt, same effort, 5 AI models: \"A lighthouse on a cliff in a thunderstorm at night\", one HTML file.\n\nClaude Opus 5.5 (~2.0M tokens)\nGemini Argon 4 (~0.57M)\nClaude Sonnet 5.5 (~0.75M)\nFable 5.1 / Muse Spark 1.3\n\nWhich would you ship?\n\n#AIEngineering\n\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n12:30 AM · Oct 14, 2026·247\nViews\n\n\n\n4\n\n2\n\n\n\n\n\n\n\n\n\n\nOnkar Manjrekar\n\n@onmanjrekar\n16h\n\n\nOpus: most cohesive scene. Beam sweeps, waves crash with spray, lightning lights the whole sky. Sonnet: almost as good on about a third of the tokens. Argon: brightest beam and most lightning, but foam is drawn as flat white ovals.\n\n\n\n\n\n44\n\n\n\n\n\n\n\n\n\n\n\nOnkar Manjrekar\n\n@onmanjrekar\n16h\n\n\nRules: every model got the same spec and effort level (high), with no libraries and no hand edits. Every run counts, including one that timed out (Argon needed a retry). Lesson: more tokens didn&#x27;t mean a better scene. The most expensive build here came 4th.\n\n\n\n\n\n11\n\n\n\n\n\n\n\n\n\n\n\nOnkar Manjrekar\n\n@onmanjrekar\n16h\n\n\nFew other tests are on their way!\n\n\n\n\n\n8\n\n\n\n\n\n\n\n\n\n\n\nElio科技迷(互)\n\n@Eliopyr\n15h\n\n\n2M tokens for one lighthouse is a lot of lighthouse\n\n\n\n\n\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "onmanjrekar"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/onmanjrekar/status/2110166432151400762",
+  "coverUrl": "https://pbs.twimg.com/media/HUjRJ2GWAAEKO-D.jpg",
+  "coverPath": "data/covers/2110166432151400762-wide.jpg",
+  "gifPath": "data/gifs/2110166432151400762.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-image:/media/HUjRJ2GWAAEKO-D",
+    "x-video:2110166392532033536",
+    "x-video:2110166392531980288",
+    "x-video:2110166392536264705",
+    "x-post:2110166432151400762"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Lighthouse Thunderstorm HTML Canvas Animation",
+      "summary": "Claude Opus 5.5 generated a standalone HTML file animating a lighthouse during a nocturnal thunderstorm without external libraries.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 (~2.0M tokens)"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "A lighthouse on a cliff in a thunderstorm at night",
+        "englishText": "A lighthouse on a cliff in a thunderstorm at night",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full prompt specification",
+          "exact technical constraints",
+          "harness/scaffolding instructions"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Video shows sweeping lighthouse beam, rain, sea foam with wave spray, and occasional lightning flashes matching the author's description.",
+        "textualResultQuote": "Opus: most cohesive scene. Beam sweeps, waves crash with spray, lightning lights the whole sky."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML5 Canvas / Vanilla JS",
+          "role": "Execution runtime for rendering the animated scene without libraries",
+          "evidence": "one HTML file... with no libraries and no hand edits",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Lighthouse storm scene",
+        "topic": "motion-graphics",
+        "tags": [
+          "html5-canvas",
+          "weather-effects",
+          "benchmark",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Generated standalone HTML and JavaScript animation code across iterative tool calls.",
+      "outputSource": "Web browser executing generated HTML5 canvas code.",
+      "divisionEvidence": "Rules: every model got the same spec and effort level (high), with no libraries and no hand edits. Every run counts... one HTML file.",
+      "video": {
+        "shots": "Single shot",
+        "duration": "11s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Provides direct screen recording of animation code authored by Claude Opus 5.5 under explicit benchmark conditions.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/onmanjrekar/status/2110166432151400762",
+        "start": 40,
+        "end": 90
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/onmanjrekar/status/2110166432151400762",
+        "author": "onmanjrekar",
+        "postId": "2110166432151400762",
+        "publishedAt": "2026-10-14T00:30:57.000Z"
+      },
+      "checkedAt": "2026-10-14T16:57:44.141Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/onmanjrekar/status/2110166432151400762",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated a standalone HTML file animating a lighthouse during a nocturnal thunderstorm without external libraries.",
+    "summaryEn": "Lighthouse Thunderstorm HTML Canvas Animation",
+    "originalPrompt": "A lighthouse on a cliff in a thunderstorm at night",
+    "sourceRange": {
+      "start": 40,
+      "end": 90
+    },
+    "translations": {
+      "zh": "A lighthouse on a cliff in a thunderstorm at night",
+      "en": "A lighthouse on a cliff in a thunderstorm at night"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Lighthouse storm scene",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full prompt specification",
+        "exact technical constraints",
+        "harness/scaffolding instructions"
+      ],
+      "evidence": "Video shows sweeping lighthouse beam, rain, sea foam with wave spray, and occasional lightning flashes matching the author's description."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

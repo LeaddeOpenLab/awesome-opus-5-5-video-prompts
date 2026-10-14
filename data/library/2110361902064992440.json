@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T16:59:15.880Z",
+  "model": "opus5.5",
+  "prompt": "Build a single-file HTML page (Three.js via CDN) that opens into a live, interactive galaxy: bright galactic core in the center; spiral arms made of star points, nebulae, and dust lanes; a dozen+ planets of different sizes and colors along the arms. Drag to orbit the camera, scroll to zoom in/out. Zoomed out you see the full arms; zoom into a planet and it snaps to a close-up — surface, clouds, craters or atmosphere glow — with the planet’s name in the corner. Click a planet for a light camera shake and a highlighted orbit. No image or model uploads — scene, materials, particles, and interaction all live in this one HTML file.",
+  "promptTranslations": {
+    "en": "Build a single-file HTML page (Three.js via CDN) that opens into a live, interactive galaxy: bright galactic core in the center; spiral arms made of star points, nebulae, and dust lanes; a dozen+ planets of different sizes and colors along the arms. Drag to orbit the camera, scroll to zoom in/out. Zoomed out you see the full arms; zoom into a planet and it snaps to a close-up — surface, clouds, craters or atmosphere glow — with the planet’s name in the corner. Click a planet for a light camera shake and a highlighted orbit. No image or model uploads — scene, materials, particles, and interaction all live in this one HTML file."
+  },
+  "summary": "Comparison test prompting Claude Opus 5.5 and Gemini 4 Argon to generate a single-file Three.js interactive 3D galaxy with orbit controls, planetary zoom, and atmospheric effects.",
+  "summaryEn": "Interactive 3D Galaxy Visualization with Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110361902064992440",
+    "canonicalUrl": "https://x.com/Smlay_ero/status/2110361902064992440",
+    "author": {
+      "username": "Smlay_ero",
+      "displayName": "smlay",
+      "profileUrl": "https://x.com/Smlay_ero"
+    },
+    "publishedAt": "2026-10-14T13:27:40.000Z",
+    "collectedAt": "2026-10-14T16:11:43.799Z",
+    "language": "en",
+    "originalText": "Been seeing a lot of Gemini 4 Argon vs Opus 5.5 comps the last couple days. Ran a quick test myself. Gemini 4 Argon was wild — one prompt the whole way.Looks like Google’s back on the model throne.Prompt below:\n\nBuild a single-file HTML page (Three.js via CDN) that opens into a live, interactive galaxy: bright galactic core in the center; spiral arms made of star points, nebulae, and dust lanes; a dozen+ planets of different sizes and colors along the arms. Drag to orbit the camera, scroll to zoom in/out. Zoomed out you see the full arms; zoom into a planet and it snaps to a close-up — surface, clouds, craters or atmosphere glow — with the planet’s name in the corner. Click a planet for a light camera shake and a highlighted orbit. No image or model uploads — scene, materials, particles, and interaction all live in this one HTML file.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Smlay_ero/status/2110361902064992440",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110361245513842688/img/EfB_osfvJpIP1cI6.jpg",
+        "analysisUrl": "https://x.com/Smlay_ero/status/2110361902064992440"
+      }
+    ],
+    "metrics": {
+      "likeCount": 13,
+      "repostCount": 1,
+      "replyCount": 8,
+      "quoteCount": 1,
+      "viewCount": 514
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Smlay_ero/status/2110391645187579978",
+        "text": "@JMkernt 效果很惊艳",
+        "author": "Smlay_ero"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Smlay_ero/status/2110391510978150913",
+        "text": "@jurlycat Yeah, this is just a quick test. The sample size isn’t enough for a proper evaluation.",
+        "author": "Smlay_ero"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Smlay_ero/status/2110369717777318369",
+        "text": "@0xkyliekim Gemini 4 Agron really packs a punch.",
+        "author": "Smlay_ero"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Smlay_ero/status/2110366398480552419",
+        "text": "@yevloop Google’s back competing with the top-tier frontier models.",
+        "author": "Smlay_ero"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Smlay_ero/status/2110362943531729079",
+        "text": "@reid_vale I ran a quick test, and it blew me away.",
+        "author": "Smlay_ero"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Smlay_ero/status/2110362835134173431",
+        "text": "@oye_samia Gemini 4 really surprised me.",
+        "author": "Smlay_ero"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Smlay_ero/status/2110361902064992440",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110361245513842688/img/EfB_osfvJpIP1cI6.jpg",
+  "coverPath": "data/covers/2110361902064992440-wide.jpg",
+  "gifPath": "data/gifs/2110361902064992440.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110361245513842688",
+    "x-post:2110361902064992440"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Galaxy Visualization with Three.js",
+      "summary": "Comparison test prompting Claude Opus 5.5 and Gemini 4 Argon to generate a single-file Three.js interactive 3D galaxy with orbit controls, planetary zoom, and atmospheric effects.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Author states: \"Been seeing a lot of Gemini 4 Argon vs Opus 5.5 comps the last couple days. Ran a quick test myself.\" and displays 'opus5.5' in the side-by-side comparison screen recording."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build a single-file HTML page (Three.js via CDN) that opens into a live, interactive galaxy: bright galactic core in the center; spiral arms made of star points, nebulae, and dust lanes; a dozen+ planets of different sizes and colors along the arms. Drag to orbit the camera, scroll to zoom in/out. Zoomed out you see the full arms; zoom into a planet and it snaps to a close-up — surface, clouds, craters or atmosphere glow — with the planet’s name in the corner. Click a planet for a light camera shake and a highlighted orbit. No image or model uploads — scene, materials, particles, and interaction all live in this one HTML file.",
+        "englishText": "Build a single-file HTML page (Three.js via CDN) that opens into a live, interactive galaxy: bright galactic core in the center; spiral arms made of star points, nebulae, and dust lanes; a dozen+ planets of different sizes and colors along the arms. Drag to orbit the camera, scroll to zoom in/out. Zoomed out you see the full arms; zoom into a planet and it snaps to a close-up — surface, clouds, craters or atmosphere glow — with the planet’s name in the corner. Click a planet for a light camera shake and a highlighted orbit. No image or model uploads — scene, materials, particles, and interaction all live in this one HTML file.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows the interactive screen recording of the generated Three.js HTML file labelled 'opus5.5' displaying the spiral galaxy 'Veil of Asteria', interactive planet lists, zoom inspections, and particle renderings matching the prompt instructions.",
+        "textualResultQuote": "Veil of Asteria\nDrag to orbit • Scroll/select a world to land on it • Click to reach to orbit\nGAS GIANT • PERICO 89M\nZephyrine"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "WebGL 3D rendering library loaded via CDN to construct the galaxy scene, particle systems, planet meshes, materials, and orbit controls.",
+          "evidence": "Build a single-file HTML page (Three.js via CDN) that opens into a live, interactive galaxy",
+          "sourceUrl": "https://x.com/Smlay_ero/status/2110361902064992440",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "Build a single-file HTML page (Three.js via CDN) that opens into a live, interactive galaxy: bright galactic core in the center; spiral arms made of star points, nebulae, and dust lanes; a dozen+ planets of different sizes and colors along the arms.",
+          "sourceUrl": "https://x.com/Smlay_ero/status/2110361902064992440",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Galaxy Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "interactive",
+          "space",
+          "procedural-generation",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 generates the entire standalone HTML and JavaScript code implementing the procedural 3D scene, particle shaders, planet textures/surfaces, and UI interactions.",
+      "outputSource": "Web browser executing the Claude Opus 5.5 generated HTML and Three.js script.",
+      "divisionEvidence": "Claude Opus 5.5 writes the code (\"one prompt the whole way\", \"No image or model uploads — scene, materials, particles, and interaction all live in this one HTML file\"), while Three.js and the browser render the interactive visual scene.",
+      "video": {
+        "shots": "Single interactive viewport screen recording with side-by-side viewports comparing Opus 5.5 and Gemini 4 Argon.",
+        "duration": "0:36",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates an original, fully disclosed prompt evaluated on Claude Opus 5.5 generating an interactive 3D WebGL scene with verified screen recording output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Smlay_ero/status/2110361902064992440",
+        "start": 212,
+        "end": 846
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Smlay_ero/status/2110361902064992440",
+        "author": "Smlay_ero",
+        "postId": "2110361902064992440",
+        "publishedAt": "2026-10-14T13:27:40.000Z"
+      },
+      "checkedAt": "2026-10-14T16:32:23.018Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Smlay_ero/status/2110361902064992440",
+        "evidence": ""
+      }
+    },
+    "summary": "Comparison test prompting Claude Opus 5.5 and Gemini 4 Argon to generate a single-file Three.js interactive 3D galaxy with orbit controls, planetary zoom, and atmospheric effects.",
+    "summaryEn": "Interactive 3D Galaxy Visualization with Three.js",
+    "originalPrompt": "Build a single-file HTML page (Three.js via CDN) that opens into a live, interactive galaxy: bright galactic core in the center; spiral arms made of star points, nebulae, and dust lanes; a dozen+ planets of different sizes and colors along the arms. Drag to orbit the camera, scroll to zoom in/out. Zoomed out you see the full arms; zoom into a planet and it snaps to a close-up — surface, clouds, craters or atmosphere glow — with the planet’s name in the corner. Click a planet for a light camera shake and a highlighted orbit. No image or model uploads — scene, materials, particles, and interaction all live in this one HTML file.",
+    "sourceRange": {
+      "start": 212,
+      "end": 846
+    },
+    "translations": {
+      "zh": "Build a single-file HTML page (Three.js via CDN) that opens into a live, interactive galaxy: bright galactic core in the center; spiral arms made of star points, nebulae, and dust lanes; a dozen+ planets of different sizes and colors along the arms. Drag to orbit the camera, scroll to zoom in/out. Zoomed out you see the full arms; zoom into a planet and it snaps to a close-up — surface, clouds, craters or atmosphere glow — with the planet’s name in the corner. Click a planet for a light camera shake and a highlighted orbit. No image or model uploads — scene, materials, particles, and interaction all live in this one HTML file.",
+      "en": "Build a single-file HTML page (Three.js via CDN) that opens into a live, interactive galaxy: bright galactic core in the center; spiral arms made of star points, nebulae, and dust lanes; a dozen+ planets of different sizes and colors along the arms. Drag to orbit the camera, scroll to zoom in/out. Zoomed out you see the full arms; zoom into a planet and it snaps to a close-up — surface, clouds, craters or atmosphere glow — with the planet’s name in the corner. Click a planet for a light camera shake and a highlighted orbit. No image or model uploads — scene, materials, particles, and interaction all live in this one HTML file."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Galaxy Simulation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows the interactive screen recording of the generated Three.js HTML file labelled 'opus5.5' displaying the spiral galaxy 'Veil of Asteria', interactive planet lists, zoom inspections, and particle renderings matching the prompt instructions."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T16:59:17.545Z",
+  "model": "opus5.5",
+  "prompt": "LEGO instructions, but in 3D.",
+  "promptTranslations": {
+    "en": "LEGO instructions, but in 3D."
+  },
+  "summary": "An interactive 3D web application built with Claude Opus 5.5 that allows users to view and build official LEGO sets step by step with 3D rotation, zooming, and piece breakdowns.",
+  "summaryEn": "Interactive 3D LEGO Instructions Viewer (BrickForge)",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110317136086470729",
+    "canonicalUrl": "https://x.com/HeyMrOdo/status/2110317136086470729",
+    "author": {
+      "username": "HeyMrOdo",
+      "displayName": "Mr Odo",
+      "profileUrl": "https://x.com/HeyMrOdo"
+    },
+    "publishedAt": "2026-10-14T10:29:47.000Z",
+    "collectedAt": "2026-10-14T16:11:43.799Z",
+    "language": "en",
+    "originalText": "I gave Opus 5.5 one idea: “LEGO instructions, but in 3D.”\n\nIt built this 👇 959 official sets you can build step by step, rotate, zoom and see every part.\n\nhttps://t.co/0oUvRbZluR https://t.co/OP8Gogs9jD",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/HeyMrOdo/status/2110317136086470729",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110315152143011841/img/wcO7LiPPty9BldSO.jpg",
+        "analysisUrl": "https://x.com/HeyMrOdo/status/2110317136086470729"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 11
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part2"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://brick-forge-sigma.vercel.app/",
+        "text": "\n\n  \n    \n    \n    BrickForge — build official sets in 3D\n    \n    \n    \n    \n    \n    \n    \n  \n  \n    \n  \n\n",
+        "kind": "linked_public_material",
+        "author": "HeyMrOdo"
+      },
+      {
+        "url": "https://x.com/HeyMrOdo/status/2110317136086470729",
+        "text": "Mr Odo on X: \"I gave Opus 5.5 one idea: “LEGO instructions, but in 3D.”\n\nIt built this 👇 959 official sets you can build step by step, rotate, zoom and see every part.\n\nhttps://t.co/0oUvRbZluR\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nMr Odo on X: \"I gave Opus 5.5 one idea: “LEGO instructions, but in 3D.”\n\nIt built this 👇 959 official sets you can build step by step, rotate, zoom and see every part.\n\nhttps://t.co/0oUvRbZluR\"\n\n\n\nMr Odo\n\n@HeyMrOdo\n\n\n\n\nI gave Opus 5.5 one idea: “LEGO instructions, but in 3D.”\n\nIt built this 👇 959 official sets you can build step by step, rotate, zoom and see every part.\n\nbrick-forge-sigma.vercel.app\n\n\n00:00\n\n\n\n\n\n\n\nClaude\n\n10:29 AM · Oct 14, 2026·11\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nMr Odo@HeyMrOdoFollow\nI push t̶h̶i̶n̶g̶s̶ ̶o̶f̶f̶ ̶t̶a̶b̶l̶e̶s̶ code\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClaude@claudeaiFollow\nClaude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.\n\n\n\n\n\n\n\n\nMr Odo\n\n@HeyMrOdo\n\n\n\n\nI gave Opus 5.5 one idea: “LEGO instructions, but in 3D.”\n\nIt built this 👇 959 official sets you can build step by step, rotate, zoom and see every part.\n\nbrick-forge-sigma.vercel.app\n\n\n00:00\n\n\n\n\n\n\n\nClaude\n\n10:29 AM · Oct 14, 2026·11\nViews\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "HeyMrOdo"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/HeyMrOdo/status/2110317136086470729",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110315152143011841/img/wcO7LiPPty9BldSO.jpg",
+  "coverPath": "data/covers/2110317136086470729-wide.jpg",
+  "gifPath": "data/gifs/2110317136086470729.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110315152143011841",
+    "x-post:2110317136086470729"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D LEGO Instructions Viewer (BrickForge)",
+      "summary": "An interactive 3D web application built with Claude Opus 5.5 that allows users to view and build official LEGO sets step by step with 3D rotation, zooming, and piece breakdowns.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude",
+        "authorUseConfirmed": true,
+        "evidence": "I gave Opus 5.5 one idea: “LEGO instructions, but in 3D.”"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "LEGO instructions, but in 3D.",
+        "englishText": "LEGO instructions, but in 3D.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full conversation history",
+          "data pipeline and set model sourcing prompts",
+          "3D viewer implementation details"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a desktop web app (BrickForge) rendering the Boba Fett Star Wars set 75277 step-by-step in 3D, allowing step scrubbing and 3D camera rotation.",
+        "textualResultQuote": "959 official sets you can build step by step, rotate, zoom and see every part."
+      },
+      "inputs": [
+        {
+          "kind": "dataset",
+          "description": "3D LEGO parts and official instruction step definitions for 959 sets",
+          "available": false,
+          "evidence": "959 official sets you can build step by step, rotate, zoom and see every part.",
+          "origin": "unknown",
+          "sourceUrl": "https://x.com/HeyMrOdo/status/2110317136086470729"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "WebGL / Three.js 3D Canvas",
+          "role": "Client-side interactive 3D rendering and assembly visualization engine",
+          "evidence": "DRAG TO ROTATE - SCROLL TO ZOOM AT THE CURSOR - SHIFT+DRAG OR RIGHT-DRAG TO PAN",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D LEGO Assembly Guide",
+        "topic": "3d-scenes",
+        "tags": [
+          "lego",
+          "interactive",
+          "3d-viewer",
+          "webgl",
+          "canvas"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 acted as the software engineer agent that created the full-stack 3D interactive viewer web application.",
+      "outputSource": "Web browser canvas / Vercel web deployment",
+      "divisionEvidence": "Author states: 'I gave Opus 5.5 one idea: “LEGO instructions, but in 3D.” It built this 👇'",
+      "video": {
+        "shots": "1",
+        "duration": "0:21",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic demonstration of an interactive 3D web application generated using Claude Opus 5.5 with accompanying screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/HeyMrOdo/status/2110317136086470729",
+        "start": 27,
+        "end": 56
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/HeyMrOdo/status/2110317136086470729",
+        "author": "HeyMrOdo",
+        "postId": "2110317136086470729",
+        "publishedAt": "2026-10-14T10:29:47.000Z"
+      },
+      "checkedAt": "2026-10-14T16:47:46.905Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/HeyMrOdo/status/2110317136086470729",
+        "evidence": ""
+      }
+    },
+    "summary": "An interactive 3D web application built with Claude Opus 5.5 that allows users to view and build official LEGO sets step by step with 3D rotation, zooming, and piece breakdowns.",
+    "summaryEn": "Interactive 3D LEGO Instructions Viewer (BrickForge)",
+    "originalPrompt": "LEGO instructions, but in 3D.",
+    "sourceRange": {
+      "start": 27,
+      "end": 56
+    },
+    "translations": {
+      "zh": "LEGO instructions, but in 3D.",
+      "en": "LEGO instructions, but in 3D."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D LEGO Assembly Guide",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full conversation history",
+        "data pipeline and set model sourcing prompts",
+        "3D viewer implementation details"
+      ],
+      "evidence": "The video shows a desktop web app (BrickForge) rendering the Boba Fett Star Wars set 75277 step-by-step in 3D, allowing step scrubbing and 3D camera rotation."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

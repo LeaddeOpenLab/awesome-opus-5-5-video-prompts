@@ -1,0 +1,319 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T16:59:16.976Z",
+  "model": "opus5.5",
+  "prompt": "The story and the prompt:\nAliens stop for burgers… but they LOVE the food on Earth too much 😂\n\nA 15-second Three.js short. Both HIGH.",
+  "promptTranslations": {
+    "en": "The story and the prompt:\nAliens stop for burgers… but they LOVE the food on Earth too much 😂\n\nA 15-second Three.js short. Both HIGH."
+  },
+  "summary": "Claude Opus 5.5 is benchmarked using Claude CLI and tooling to generate a complete 15-second Three.js 3D animated short about aliens visiting a burger diner and abducting it.",
+  "summaryEn": "Aliens Stop for Burgers Three.js Short Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110274182046953661",
+    "canonicalUrl": "https://x.com/shownotover/status/2110274182046953661",
+    "author": {
+      "username": "shownotover",
+      "displayName": "shownotover",
+      "profileUrl": "https://x.com/shownotover"
+    },
+    "publishedAt": "2026-10-14T07:39:06.000Z",
+    "collectedAt": "2026-10-14T16:11:43.799Z",
+    "language": "en",
+    "originalText": "🚨 CLAUDE AND GEMINI USERS!! 👽🍔\n\nThe story and the prompt:\nAliens stop for burgers… but they LOVE the food on Earth too much 😂\n\nA 15-second Three.js short. Both HIGH.\n\nGEMINI ARGON (browser chat) \nvs CLAUDE OPUS 5.5 (claude cli + toolings)\n\n→ TIME: ~8–10 min vs 31m54s\n→ TOKENS: Argon ~27.6K vs Opus 5.35M\n→ API COST: Argon ~$0.92 vs Opus ~$6.63\n→ SPEED: Argon ~46–57 TPS vs Opus ~97.2 TPS\n\nWEEKLY: Argon was around ~1% \nvs Opus close to 0%!!!\n\nArgon finished around 3× FASTER, but I still like OPUS’s visual quality WAY more…\n\nWe need a rematch in Antigravity when we poor Gemini Pro users get access to the CLI version 😂\n\nWhich one tells the story better? 👀\nHow do you like the new Gemini model?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/shownotover/status/2110274182046953661",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110273781751042048/img/ktpxgQqjyQXs6kNH.jpg",
+        "analysisUrl": "https://x.com/shownotover/status/2110274182046953661"
+      }
+    ],
+    "metrics": {
+      "likeCount": 30,
+      "repostCount": 1,
+      "replyCount": 19,
+      "quoteCount": 3,
+      "viewCount": 4440
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shownotover/status/2110395405804388745",
+        "text": "@eth_ansh yapppl",
+        "author": "shownotover"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shownotover/status/2110395379703570720",
+        "text": "@yevloop yes, we need a rematch :D not cli is just really bad, tested today more, sucking tokens like crazy without results",
+        "author": "shownotover"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shownotover/status/2110395238778859898",
+        "text": "@Arnold20064 100%",
+        "author": "shownotover"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shownotover/status/2110395214418292888",
+        "text": "@nivlek_smada haha, true!",
+        "author": "shownotover"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shownotover/status/2110395162442498477",
+        "text": "@bologabriele yes true!",
+        "author": "shownotover"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shownotover/status/2110345627833966742",
+        "text": "@cuongzdn yes, also I need to do more tests.",
+        "author": "shownotover"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shownotover/status/2110333676999385228",
+        "text": "@ztsure Yes, indeed, it's hard to compare as it uses different path/scripts/harness now.",
+        "author": "shownotover"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shownotover/status/2110324209490760163",
+        "text": "@rubenssoto_ai Agree, thanks Rubens!",
+        "author": "shownotover"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shownotover/status/2110312124090057200",
+        "text": "@Nathaiv1 Thank you, and of course it was your idea! Thank you for it! Will share more if we go viral together Bstr! ;)",
+        "author": "shownotover"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shownotover/status/2110302207090315635",
+        "text": "@MichaelWaitze nice! thanks for the extra insights!",
+        "author": "shownotover"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shownotover/status/2110299404792156170",
+        "text": "@hassan_ships pretty much or opus 5.6-6",
+        "author": "shownotover"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shownotover/status/2110299213443768622",
+        "text": "@_Ad1_KaM_ yes, should mention that more if not obvious! but to be fair gemini only has like 3 subs and ultra is crazy expensive",
+        "author": "shownotover"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shownotover/status/2110291059997872271",
+        "text": "@LordMarket22 Agree!",
+        "author": "shownotover"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shownotover/status/2110291023587061925",
+        "text": "@SeHozaifa Yes, it seems like visually with not overprompting but just one shoot: Opus seems better (and cheaper)",
+        "author": "shownotover"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shownotover/status/2110290850282672499",
+        "text": "@pawelk411 @GrowthPact good thoughts guys, to be fair Claude had advantage here as it was CLI version, harness, tooling etc…\n\nNeed to test again when I got Argon in Antigravity",
+        "author": "shownotover"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shownotover/status/2110278857593172285",
+        "text": "@ShovyST Agree! But lets be fair this was the gemini argon high chat/browser version",
+        "author": "shownotover"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shownotover/status/2110278730434359750",
+        "text": "@SahilPanhotra Opus art is crazy good really! And the characters, motion etc",
+        "author": "shownotover"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shownotover/status/2110278629792051401",
+        "text": "@GrowthPact Yap, to be fair this was not antigravity so need to try with Antigravity too soon",
+        "author": "shownotover"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/shownotover/status/2110278074206155097",
+        "text": "@GrowthPact top one is argon Brian, wdyt? which one is better?",
+        "author": "shownotover"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/shownotover/status/2110274182046953661",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110273781751042048/img/ktpxgQqjyQXs6kNH.jpg",
+  "coverPath": "data/covers/2110274182046953661-wide.jpg",
+  "gifPath": "data/gifs/2110274182046953661.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110273781751042048",
+    "x-post:2110274182046953661"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Aliens Stop for Burgers Three.js Short Animation",
+      "summary": "Claude Opus 5.5 is benchmarked using Claude CLI and tooling to generate a complete 15-second Three.js 3D animated short about aliens visiting a burger diner and abducting it.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "claude cli",
+        "authorUseConfirmed": true,
+        "evidence": "CLAUDE OPUS 5.5 (claude cli + toolings)"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "The story and the prompt:\nAliens stop for burgers… but they LOVE the food on Earth too much 😂\n\nA 15-second Three.js short. Both HIGH.",
+        "englishText": "The story and the prompt:\nAliens stop for burgers… but they LOVE the food on Earth too much 😂\n\nA 15-second Three.js short. Both HIGH.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact system prompts or developer scaffolding",
+          "Full verbatim harness instructions or iterative prompt sequence"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a 15-second Three.js 3D animation where a flying saucer descends upon an Earth diner ('Bun Voyage'), two alien characters exit and eat burgers enthusiastically, return to the ship, and abduct the entire restaurant building with a tractor beam.",
+        "textualResultQuote": "Argon finished around 3× FASTER, but I still like OPUS’s visual quality WAY more…"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Claude CLI",
+          "role": "Agent execution interface and tooling harness",
+          "evidence": "CLAUDE OPUS 5.5 (claude cli + toolings)",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/shownotover/status/2110274182046953661"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D scene graph, procedural asset creation, and WebGL animation rendering",
+          "evidence": "A 15-second Three.js short.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/shownotover/status/2110274182046953661"
+        }
+      ],
+      "purpose": {
+        "label": "Aliens Love Earth Burgers 3D Animation",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "animation",
+          "creative-coding",
+          "claude-code"
+        ]
+      },
+      "targetModelRole": "Code generation agent orchestrating scene geometry, materials, animation sequencing, and camera cuts in Three.js",
+      "outputSource": "Three.js WebGL canvas rendering",
+      "divisionEvidence": "CLAUDE OPUS 5.5 (claude cli + toolings) ... A 15-second Three.js short.",
+      "video": {
+        "shots": "Multiple dynamic camera angles: space approach, diner exterior landing, alien ladder descent, close-up eating burgers, and wide pull-back for building abduction",
+        "duration": "15s",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates Claude Opus 5.5 acting as an autonomous coding agent via Claude CLI to build and direct a complete 15-second Three.js 3D animated film with full video verification.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/shownotover/status/2110274182046953661",
+        "start": 35,
+        "end": 169
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/shownotover/status/2110274182046953661",
+        "author": "shownotover",
+        "postId": "2110274182046953661",
+        "publishedAt": "2026-10-14T07:39:06.000Z"
+      },
+      "checkedAt": "2026-10-14T16:44:44.612Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/shownotover/status/2110274182046953661",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 is benchmarked using Claude CLI and tooling to generate a complete 15-second Three.js 3D animated short about aliens visiting a burger diner and abducting it.",
+    "summaryEn": "Aliens Stop for Burgers Three.js Short Animation",
+    "originalPrompt": "The story and the prompt:\nAliens stop for burgers… but they LOVE the food on Earth too much 😂\n\nA 15-second Three.js short. Both HIGH.",
+    "sourceRange": {
+      "start": 35,
+      "end": 169
+    },
+    "translations": {
+      "zh": "The story and the prompt:\nAliens stop for burgers… but they LOVE the food on Earth too much 😂\n\nA 15-second Three.js short. Both HIGH.",
+      "en": "The story and the prompt:\nAliens stop for burgers… but they LOVE the food on Earth too much 😂\n\nA 15-second Three.js short. Both HIGH."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Aliens Love Earth Burgers 3D Animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact system prompts or developer scaffolding",
+        "Full verbatim harness instructions or iterative prompt sequence"
+      ],
+      "evidence": "The video shows a 15-second Three.js 3D animation where a flying saucer descends upon an Earth diner ('Bun Voyage'), two alien characters exit and eat burgers enthusiastically, return to the ship, and abduct the entire restaurant building with a tractor beam."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T16:59:18.498Z",
+  "model": "opus5.5",
+  "prompt": "Build a point-and-click escape room as one self-contained HTML file (canvas 2D or WebGL, no external assets, no network) set in a lighthouse keeper's round stone study at night, rendered in a fixed 16:9 landscape view with a 2.5D one-point perspective: curved stone wall, plank floor, desk, rug, sea chest, a stained glass porthole, three empty brass wall mounts and a heavy door with a crystal lock, all drawn procedurally with layered gradients and noise textures.",
+  "promptTranslations": {
+    "en": "Build a point-and-click escape room as one self-contained HTML file (canvas 2D or WebGL, no external assets, no network) set in a lighthouse keeper's round stone study at night, rendered in a fixed 16:9 landscape view with a 2.5D one-point perspective: curved stone wall, plank floor, desk, rug, sea chest, a stained glass porthole, three empty brass wall mounts and a heavy door with a crystal lock, all drawn procedurally with layered gradients and noise textures."
+  },
+  "summary": "Jeff Bruchado benchmarks Claude Opus 5.5 against Sonnet 5.5 generating a self-contained HTML point-and-click escape room and trailer set in a lighthouse study without external assets.",
+  "summaryEn": "Keeper's Lamp Escape Room and Animated Trailer in a Single HTML File",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110128885513990156",
+    "canonicalUrl": "https://x.com/jeffbruchado/status/2110128885513990156",
+    "author": {
+      "username": "jeffbruchado",
+      "displayName": "Jeff Bruchado",
+      "profileUrl": "https://x.com/jeffbruchado"
+    },
+    "publishedAt": "2026-10-13T22:01:45.000Z",
+    "collectedAt": "2026-10-14T16:11:43.799Z",
+    "language": "en",
+    "originalText": "Opus 5.5 vs Sonnet 5.5, same prompt: Keeper's Lamp: a lighthouse study escape and its own trailer\n\none HTML file, no assets\n\nOpus 5.5: 58m 55s, 863 lines, $8.04\nSonnet 5.5: 59m 29s, 1,433 lines, $5.31\n\nleft is Opus 5.5, right is Sonnet 5.5. costs are estimated API prices https://t.co/CXqyCGFiEh",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/jeffbruchado/status/2110128885513990156",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110128847551180800/img/2UVoGdENJuoU0WCq.jpg",
+        "analysisUrl": "https://x.com/jeffbruchado/status/2110128885513990156"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 38
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/jeffbruchado/status/2110128906288443628",
+        "text": "Prompt (excerpt): \"Build a point-and-click escape room as one self-contained HTML file (canvas 2D or WebGL, no external assets, no network) set in a lighthouse keeper's round stone study at night, rendered in a fixed 16:9 landscape view with a 2.5D one-point perspective: curved stone wall, plank floor, desk, rug, sea chest, a stained glass porthole, three empty brass wall mounts and a heavy door with a crystal lock, all drawn procedurally with layered gradients and noise textures.\"",
+        "author": "jeffbruchado"
+      },
+      {
+        "url": "https://x.com/jeffbruchado/status/2110128885513990156",
+        "text": "Jeff Bruchado on X: \"Opus 5.5 vs Sonnet 5.5, same prompt: Keeper&#x27;s Lamp: a lighthouse study escape and its own trailer\n\none HTML file, no assets\n\nOpus 5.5: 58m 55s, 863 lines, $8.04\nSonnet 5.5: 59m 29s, 1,433 lines, $5.31\n\nleft is Opus 5.5, right is Sonnet 5.5. costs are estimated API prices\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nJeff Bruchado on X: \"Opus 5.5 vs Sonnet 5.5, same prompt: Keeper&#x27;s Lamp: a lighthouse study escape and its own trailer\n\none HTML file, no assets\n\nOpus 5.5: 58m 55s, 863 lines, $8.04\nSonnet 5.5: 59m 29s, 1,433 lines, $5.31\n\nleft is Opus 5.5, right is Sonnet 5.5. costs are estimated API prices\"\n\n\n\nJeff Bruchado\n\n@jeffbruchado\n\n\n\n\nOpus 5.5 vs Sonnet 5.5, same prompt: Keeper&#x27;s Lamp: a lighthouse study escape and its own trailer\n\none HTML file, no assets\n\nOpus 5.5: 58m 55s, 863 lines, $8.04\nSonnet 5.5: 59m 29s, 1,433 lines, $5.31\n\nleft is Opus 5.5, right is Sonnet 5.5. costs are estimated API prices\n\n\n00:00\n\n\n\n\n\n\n\n\n10:01 PM · Oct 13, 2026·38\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nJeff Bruchado@jeffbruchadoFollow\nSoftware engineer building products with AI. Sharing code, decisions, and real lessons from shipping products.\n🕹️ https://t.co/l6xhHo7zJi\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJeff Bruchado\n\n@jeffbruchado\n\n\n\n\nOpus 5.5 vs Sonnet 5.5, same prompt: Keeper&#x27;s Lamp: a lighthouse study escape and its own trailer\n\none HTML file, no assets\n\nOpus 5.5: 58m 55s, 863 lines, $8.04\nSonnet 5.5: 59m 29s, 1,433 lines, $5.31\n\nleft is Opus 5.5, right is Sonnet 5.5. costs are estimated API prices\n\n\n00:00\n\n\n\n\n\n\n\n\n10:01 PM · Oct 13, 2026·38\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\nJeff Bruchado\n\n@jeffbruchado\n18h\n\n\nPrompt (excerpt): \"Build a point-and-click escape room as one self-contained HTML file (canvas 2D or WebGL, no external assets, no network) set in a lighthouse keeper&#x27;s round stone study at night, rendered in a fixed 16:9 landscape view with a 2.5D one-point perspective: curved Show more\n\n\n\n\n\n216\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "jeffbruchado"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/jeffbruchado/status/2110128885513990156",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110128847551180800/img/2UVoGdENJuoU0WCq.jpg",
+  "coverPath": "data/covers/2110128885513990156-wide.jpg",
+  "gifPath": "data/gifs/2110128885513990156.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110128847551180800",
+    "x-post:2110128885513990156"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Keeper's Lamp Escape Room and Animated Trailer in a Single HTML File",
+      "summary": "Jeff Bruchado benchmarks Claude Opus 5.5 against Sonnet 5.5 generating a self-contained HTML point-and-click escape room and trailer set in a lighthouse study without external assets.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic API",
+        "authorUseConfirmed": true,
+        "evidence": "\"Opus 5.5 vs Sonnet 5.5, same prompt: Keeper's Lamp: a lighthouse study escape and its own trailer... Opus 5.5: 58m 55s, 863 lines, $8.04... left is Opus 5.5\""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Build a point-and-click escape room as one self-contained HTML file (canvas 2D or WebGL, no external assets, no network) set in a lighthouse keeper's round stone study at night, rendered in a fixed 16:9 landscape view with a 2.5D one-point perspective: curved stone wall, plank floor, desk, rug, sea chest, a stained glass porthole, three empty brass wall mounts and a heavy door with a crystal lock, all drawn procedurally with layered gradients and noise textures.",
+        "englishText": "Build a point-and-click escape room as one self-contained HTML file (canvas 2D or WebGL, no external assets, no network) set in a lighthouse keeper's round stone study at night, rendered in a fixed 16:9 landscape view with a 2.5D one-point perspective: curved stone wall, plank floor, desk, rug, sea chest, a stained glass porthole, three empty brass wall mounts and a heavy door with a crystal lock, all drawn procedurally with layered gradients and noise textures.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "The full prompt beyond the author-labeled excerpt, including trailer sequencing and puzzle interaction rules."
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The split-screen video showcases Opus 5.5 on the left rendering the lighthouse keeper's room, dynamic lighting, text cards ('KEEPER'S LAMP', 'LIFT WHAT'S HIDDEN', 'READ THE LIGHT', 'BEND THE MOON'), and procedural graphics as prompted.",
+        "textualResultQuote": "Opus 5.5: 58m 55s, 863 lines, $8.04\nSonnet 5.5: 59m 29s, 1,433 lines, $5.31\n\nleft is Opus 5.5, right is Sonnet 5.5. costs are estimated API prices"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Canvas 2D",
+          "role": "2D browser renderer",
+          "evidence": "Build a point-and-click escape room as one self-contained HTML file (canvas 2D or WebGL, no external assets, no network) set in a lighthouse keeper's round stone study at night, rendered in a fixed 16:9 landscape view with a 2.5D one-point perspective: curved stone wall, plank floor, desk, rug, sea chest, a stained glass porthole, three empty brass wall mounts and a heavy door with a crystal lock, all drawn procedurally with layered gradients and noise textures.",
+          "sourceUrl": "https://x.com/jeffbruchado/status/2110128906288443628",
+          "status": "required"
+        },
+        {
+          "name": "HTML5 Canvas 2D / WebGL",
+          "role": "Client runtime execution and procedural graphic rendering for the interactive escape room and trailer.",
+          "evidence": "(canvas 2D or WebGL, no external assets, no network)",
+          "sourceUrl": "https://x.com/jeffbruchado/status/2110128906288443628",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Lighthouse Study Escape Room and Animated Trailer",
+        "topic": "games-interactive",
+        "tags": [
+          "interactive",
+          "escape-room",
+          "procedural-graphics",
+          "canvas-2d",
+          "trailer"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 generated the complete 863-line standalone HTML code implementing the interactive escape room and procedural motion trailer.",
+      "outputSource": "Web browser executing the Claude-generated single HTML file.",
+      "divisionEvidence": "\"Build a point-and-click escape room as one self-contained HTML file (canvas 2D or WebGL, no external assets, no network)... Opus 5.5: 58m 55s, 863 lines, $8.04\"",
+      "video": {
+        "shots": "Multiple sequenced cinematic trailer cards and interactive room transitions.",
+        "duration": "0:14",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Explicit comparison benchmark using Claude Opus 5.5 to write self-contained procedural animation and interactive video gameplay with clear side-by-side video evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/jeffbruchado/status/2110128906288443628",
+        "start": 19,
+        "end": 485
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/jeffbruchado/status/2110128885513990156",
+        "author": "jeffbruchado",
+        "postId": "2110128885513990156",
+        "publishedAt": "2026-10-13T22:01:45.000Z"
+      },
+      "checkedAt": "2026-10-14T16:55:07.022Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/jeffbruchado/status/2110128906288443628",
+        "evidence": "Build a point-and-click escape room as one self-contained HTML file (canvas 2D or WebGL, no external assets, no network) set in a lighthouse keeper's round stone study at night, rendered in a fixed 16:9 landscape view with a 2.5D one-point perspective: curved stone wall, plank floor, desk, rug, sea chest, a stained glass porthole, three empty brass wall mounts and a heavy door with a crystal lock, all drawn procedurally with layered gradients and noise textures.",
+        "noSuppliedAssets": true,
+        "inputSummary": "No external assets required by the prompt"
+      }
+    },
+    "summary": "Jeff Bruchado benchmarks Claude Opus 5.5 against Sonnet 5.5 generating a self-contained HTML point-and-click escape room and trailer set in a lighthouse study without external assets.",
+    "summaryEn": "Keeper's Lamp Escape Room and Animated Trailer in a Single HTML File",
+    "originalPrompt": "Build a point-and-click escape room as one self-contained HTML file (canvas 2D or WebGL, no external assets, no network) set in a lighthouse keeper's round stone study at night, rendered in a fixed 16:9 landscape view with a 2.5D one-point perspective: curved stone wall, plank floor, desk, rug, sea chest, a stained glass porthole, three empty brass wall mounts and a heavy door with a crystal lock, all drawn procedurally with layered gradients and noise textures.",
+    "sourceRange": {
+      "start": 19,
+      "end": 485
+    },
+    "translations": {
+      "zh": "Build a point-and-click escape room as one self-contained HTML file (canvas 2D or WebGL, no external assets, no network) set in a lighthouse keeper's round stone study at night, rendered in a fixed 16:9 landscape view with a 2.5D one-point perspective: curved stone wall, plank floor, desk, rug, sea chest, a stained glass porthole, three empty brass wall mounts and a heavy door with a crystal lock, all drawn procedurally with layered gradients and noise textures.",
+      "en": "Build a point-and-click escape room as one self-contained HTML file (canvas 2D or WebGL, no external assets, no network) set in a lighthouse keeper's round stone study at night, rendered in a fixed 16:9 landscape view with a 2.5D one-point perspective: curved stone wall, plank floor, desk, rug, sea chest, a stained glass porthole, three empty brass wall mounts and a heavy door with a crystal lock, all drawn procedurally with layered gradients and noise textures."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Lighthouse Study Escape Room and Animated Trailer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "The full prompt beyond the author-labeled excerpt, including trailer sequencing and puzzle interaction rules."
+      ],
+      "evidence": "The split-screen video showcases Opus 5.5 on the left rendering the lighthouse keeper's room, dynamic lighting, text cards ('KEEPER'S LAMP', 'LIFT WHAT'S HIDDEN', 'READ THE LIGHT', 'BEND THE MOON'), and procedural graphics as prompted."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

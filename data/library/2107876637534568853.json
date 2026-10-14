@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T16:59:16.612Z",
+  "model": "opus5.5",
+  "prompt": "make a bull that runs",
+  "promptTranslations": {
+    "en": "make a bull that runs"
+  },
+  "summary": "Claude Opus 5.5 creates a 3D animated scene of a legless bull running and bouncing on a dual-sphere suspension drivetrain across hurdles at sunset.",
+  "summaryEn": "Bullistic Ball Drive 3D Running Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2107876637534568853",
+    "canonicalUrl": "https://x.com/SpikeCalls/status/2107876637534568853",
+    "author": {
+      "username": "SpikeCalls",
+      "displayName": "Spike 1%",
+      "profileUrl": "https://x.com/SpikeCalls"
+    },
+    "publishedAt": "2026-10-07T16:52:07.000Z",
+    "collectedAt": "2026-10-14T16:11:43.799Z",
+    "language": "en",
+    "originalText": "OPUS 5.5 JUST REPLACED LEGS WITH BALL DRIVE.\n\nI told it to make a bull that runs.\n\nIt removed the legs.\n\nIt installed two balls and called it a drivetrain.\n\nZero legs, two balls, full suspension.\n\nMeet Bullistic, the first bull running on Ball Drive.\n\nHe pogo-sticks across a field at sunset, clears a fence in slow motion and lands like a pancake.\n\nThen he bounces away like nothing happened.\n\nRobotics labs spent 30 years teaching machines to walk.\n\nThis bull skipped legs entirely.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/SpikeCalls/status/2107876637534568853",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2107876557536555008/img/-930YhkXBv4AChPy.jpg",
+        "analysisUrl": "https://x.com/SpikeCalls/status/2107876637534568853"
+      }
+    ],
+    "metrics": {
+      "likeCount": 24,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 1747
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/SpikeCalls/status/2107876637534568853",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2107876557536555008/img/-930YhkXBv4AChPy.jpg",
+  "coverPath": "data/covers/2107876637534568853-wide.jpg",
+  "gifPath": "data/gifs/2107876637534568853.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2107876557536555008",
+    "x-post:2107876637534568853"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Bullistic Ball Drive 3D Running Animation",
+      "summary": "Claude Opus 5.5 creates a 3D animated scene of a legless bull running and bouncing on a dual-sphere suspension drivetrain across hurdles at sunset.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "\"OPUS 5.5 JUST REPLACED LEGS WITH BALL DRIVE.\" and video title header \"Claude Opus 5.5\""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a bull that runs",
+        "englishText": "make a bull that runs",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full verbatim user instructions",
+          "3D framework/canvas setup code",
+          "Physics and bounce animation parameters"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a stylized 3D bull propelled by two pink bouncing spheres along a track against a sunset background, leaping over a red fence and compressing upon impact.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js / WebGL",
+          "role": "Real-time 3D rendering engine displaying the bull geometry, textures, lighting, and animation",
+          "evidence": "3D geometric meshes, directional sunset lighting, and particle effects rendered in a real-time web canvas format",
+          "sourceUrl": "",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Procedural 3D Character Animation",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "creative-coding",
+          "procedural-animation",
+          "character-design"
+        ]
+      },
+      "targetModelRole": "Code generation for 3D procedural modeling, materials, physics suspension, and jumping animation",
+      "outputSource": "WebGL canvas runtime environment",
+      "divisionEvidence": "Claude Opus 5.5 authored the script/code which runs in a browser-based 3D graphics pipeline to produce the animation.",
+      "video": {
+        "shots": "Single continuous tracking shot",
+        "duration": "00:16",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 creative coding video case showing an interactive procedural 3D animation demo.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/SpikeCalls/status/2107876637534568853",
+        "start": 59,
+        "end": 80
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/SpikeCalls/status/2107876637534568853",
+        "author": "SpikeCalls",
+        "postId": "2107876637534568853",
+        "publishedAt": "2026-10-07T16:52:07.000Z"
+      },
+      "checkedAt": "2026-10-14T16:34:05.463Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/SpikeCalls/status/2107876637534568853",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 creates a 3D animated scene of a legless bull running and bouncing on a dual-sphere suspension drivetrain across hurdles at sunset.",
+    "summaryEn": "Bullistic Ball Drive 3D Running Animation",
+    "originalPrompt": "make a bull that runs",
+    "sourceRange": {
+      "start": 59,
+      "end": 80
+    },
+    "translations": {
+      "zh": "make a bull that runs",
+      "en": "make a bull that runs"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Procedural 3D Character Animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full verbatim user instructions",
+        "3D framework/canvas setup code",
+        "Physics and bounce animation parameters"
+      ],
+      "evidence": "The video shows a stylized 3D bull propelled by two pink bouncing spheres along a track against a sunset background, leaping over a red fence and compressing upon impact."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

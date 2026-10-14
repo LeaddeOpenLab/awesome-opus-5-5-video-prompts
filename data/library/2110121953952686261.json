@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T16:59:18.686Z",
+  "model": "opus5.5",
+  "prompt": "build a cinematic 3D animation explaining how a Tesla-style electric motor works",
+  "promptTranslations": {
+    "en": "build a cinematic 3D animation explaining how a Tesla-style electric motor works"
+  },
+  "summary": "Author compares Claude Opus 5.5 and Gemini 4 Argon creating a cinematic 3D technical explainer animation showing the internal workings, exploded sub-assemblies, magnetic fields, and liquid thermal cooling of a Tesla-style electric motor.",
+  "summaryEn": "Opus 5.5 vs Gemini 4 Argon Tesla Electric Motor Explainer Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110121953952686261",
+    "canonicalUrl": "https://x.com/Edenwoodfilm/status/2110121953952686261",
+    "author": {
+      "username": "Edenwoodfilm",
+      "displayName": "Adil",
+      "profileUrl": "https://x.com/Edenwoodfilm"
+    },
+    "publishedAt": "2026-10-13T21:34:12.000Z",
+    "collectedAt": "2026-10-14T16:11:43.799Z",
+    "language": "en",
+    "originalText": "Opus 5.5 vs Gemini 4 Argon\n\nSame prompt.\nSame task: build a cinematic 3D animation explaining how a Tesla-style electric motor works.\n\nWhich one do you think did better? https://t.co/qjv4vzdy5x",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Edenwoodfilm/status/2110121953952686261",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110121879369318400/img/WRWbfu7plzaPMu_L.jpg",
+        "analysisUrl": "https://x.com/Edenwoodfilm/status/2110121953952686261"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 230
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/Edenwoodfilm/status/2110121953952686261",
+        "text": "Adil on X: \"Opus 5.5 vs Gemini 4 Argon\n\nSame prompt.\nSame task: build a cinematic 3D animation explaining how a Tesla-style electric motor works.\n\nWhich one do you think did better?\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nAdil on X: \"Opus 5.5 vs Gemini 4 Argon\n\nSame prompt.\nSame task: build a cinematic 3D animation explaining how a Tesla-style electric motor works.\n\nWhich one do you think did better?\"\n\n\n\nAdil\n\n@Edenwoodfilm\n\n\n\n\nOpus 5.5 vs Gemini 4 Argon\n\nSame prompt.\nSame task: build a cinematic 3D animation explaining how a Tesla-style electric motor works.\n\nWhich one do you think did better?\n\n\n00:00\n\n\n\n\n\n\n\n\n9:34 PM · Oct 13, 2026·230\nViews\n\n\n\n\n1\n1\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nAdil@EdenwoodfilmFollow\n🎬 AI Movie Director & Filmmaker\nBudget is no longer the barrier. Imagination is the only limit.\n#AIFilmmaking #AIMovies #Filmmaker\nEmail: [email&#160;protected]\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdil\n\n@Edenwoodfilm\n\n\n\n\nOpus 5.5 vs Gemini 4 Argon\n\nSame prompt.\nSame task: build a cinematic 3D animation explaining how a Tesla-style electric motor works.\n\nWhich one do you think did better?\n\n\n00:00\n\n\n\n\n\n\n\n\n9:34 PM · Oct 13, 2026·230\nViews\n\n\n\n\n1\n1\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Edenwoodfilm"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Edenwoodfilm/status/2110121953952686261",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110121879369318400/img/WRWbfu7plzaPMu_L.jpg",
+  "coverPath": "data/covers/2110121953952686261-wide.jpg",
+  "gifPath": "data/gifs/2110121953952686261.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110121879369318400",
+    "x-post:2110121953952686261"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Opus 5.5 vs Gemini 4 Argon Tesla Electric Motor Explainer Animation",
+      "summary": "Author compares Claude Opus 5.5 and Gemini 4 Argon creating a cinematic 3D technical explainer animation showing the internal workings, exploded sub-assemblies, magnetic fields, and liquid thermal cooling of a Tesla-style electric motor.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 vs Gemini 4 Argon"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build a cinematic 3D animation explaining how a Tesla-style electric motor works",
+        "englishText": "build a cinematic 3D animation explaining how a Tesla-style electric motor works",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "complete verbatim prompt",
+          "exact styling and camera instructions",
+          "animation engine or code implementation details"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a side-by-side comparison between Gemini 4 Argon and Claude Opus 5.5 depicting a 3D animated explainer of a permanent-magnet synchronous motor with exploded views, rotating magnetic field simulations, and cooling flow.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "Tesla Electric Motor 3D Explainer Animation",
+        "topic": "explainers",
+        "tags": [
+          "electric-motor",
+          "3d-scenes",
+          "technical-explainer",
+          "comparison"
+        ]
+      },
+      "targetModelRole": "Code generation or orchestration of the 3D cinematic explainer animation",
+      "outputSource": "Undisclosed 3D rendering engine or animation environment executing generated code",
+      "divisionEvidence": "Post text states: 'Same task: build a cinematic 3D animation explaining how a Tesla-style electric motor works' but does not specify the runtime engine.",
+      "video": {
+        "shots": "Exploded mechanical assembly, rotating rotor, 3-phase electromagnetic field visualization, cross-section thermal cooling view",
+        "duration": "40s",
+        "aspectRatio": "8:9",
+        "referenceMaterials": []
+      },
+      "task": "explainers",
+      "suitable": true,
+      "reason": "Valid reference case showing Claude Opus 5.5 3D technical animation and video production capabilities with accompanying video verification.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Edenwoodfilm/status/2110121953952686261",
+        "start": 52,
+        "end": 132
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Edenwoodfilm/status/2110121953952686261",
+        "author": "Edenwoodfilm",
+        "postId": "2110121953952686261",
+        "publishedAt": "2026-10-13T21:34:12.000Z"
+      },
+      "checkedAt": "2026-10-14T16:54:24.980Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Edenwoodfilm/status/2110121953952686261",
+        "evidence": ""
+      }
+    },
+    "summary": "Author compares Claude Opus 5.5 and Gemini 4 Argon creating a cinematic 3D technical explainer animation showing the internal workings, exploded sub-assemblies, magnetic fields, and liquid thermal cooling of a Tesla-style electric motor.",
+    "summaryEn": "Opus 5.5 vs Gemini 4 Argon Tesla Electric Motor Explainer Animation",
+    "originalPrompt": "build a cinematic 3D animation explaining how a Tesla-style electric motor works",
+    "sourceRange": {
+      "start": 52,
+      "end": 132
+    },
+    "translations": {
+      "zh": "build a cinematic 3D animation explaining how a Tesla-style electric motor works",
+      "en": "build a cinematic 3D animation explaining how a Tesla-style electric motor works"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "explainers",
+    "useCase": "Tesla Electric Motor 3D Explainer Animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "complete verbatim prompt",
+        "exact styling and camera instructions",
+        "animation engine or code implementation details"
+      ],
+      "evidence": "The video shows a side-by-side comparison between Gemini 4 Argon and Claude Opus 5.5 depicting a 3D animated explainer of a permanent-magnet synchronous motor with exploded views, rotating magnetic field simulations, and cooling flow."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

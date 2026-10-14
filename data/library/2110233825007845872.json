@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T16:59:17.161Z",
+  "model": "opus5.5",
+  "prompt": "Build a polished mobile game I can play in my phone's browser.\n\nConcept: a one-tap flying game in the spirit of Flappy Bird, with its own original\ncharacter, art and name. Tap to flap, gravity pulls you down, fly through the gaps\nbetween obstacles. Every gap you pass is +1 point. Hit anything and it's game over.\n\nRequirements:\n- One file: index.html with all HTML, CSS and JavaScript inline. No external\n  libraries, images, fonts or audio files. Draw everything in code and make\n  sounds with the Web Audio API.\n- Built for phones in portrait. Fill the screen, respect safe areas, stay crisp on\n  high-DPI screens. Tap anywhere to flap; also support mouse click and the space bar\n  for desktop testing. No scrolling, zooming or text selection while playing.\n- Screens: a start screen with the game's name and a \"tap to start\" hint, the game,\n  and a game over screen with the score, the best score (saved in localStorage) and\n  a restart button.\n- Game feel: smooth motion that doesn't depend on frame rate, a character that tilts\n  with its speed, a flap animation, parallax background layers, particles on flap\n  and crash, a small screen shake on crash, and a short vibration on crash where the\n  browser supports it.\n- Difficulty: start forgiving, then slowly narrow the gaps and speed up as the score\n  grows.\n- Sound: flap, point and crash sounds, plus a mute toggle. Start audio only after the\n  first tap.\n- Polish: one consistent art style and color palette, a readable score at the top,\n  nothing under the notch or the home bar.\n\nWhen you're done, check that the game actually works and fix anything that's broken.\nThen tell me in a few lines what you built and how to run it.",
+  "promptTranslations": {
+    "en": "Build a polished mobile game I can play in my phone's browser.\n\nConcept: a one-tap flying game in the spirit of Flappy Bird, with its own original\ncharacter, art and name. Tap to flap, gravity pulls you down, fly through the gaps\nbetween obstacles. Every gap you pass is +1 point. Hit anything and it's game over.\n\nRequirements:\n- One file: index.html with all HTML, CSS and JavaScript inline. No external\n  libraries, images, fonts or audio files. Draw everything in code and make\n  sounds with the Web Audio API.\n- Built for phones in portrait. Fill the screen, respect safe areas, stay crisp on\n  high-DPI screens. Tap anywhere to flap; also support mouse click and the space bar\n  for desktop testing. No scrolling, zooming or text selection while playing.\n- Screens: a start screen with the game's name and a \"tap to start\" hint, the game,\n  and a game over screen with the score, the best score (saved in localStorage) and\n  a restart button.\n- Game feel: smooth motion that doesn't depend on frame rate, a character that tilts\n  with its speed, a flap animation, parallax background layers, particles on flap\n  and crash, a small screen shake on crash, and a short vibration on crash where the\n  browser supports it.\n- Difficulty: start forgiving, then slowly narrow the gaps and speed up as the score\n  grows.\n- Sound: flap, point and crash sounds, plus a mute toggle. Start audio only after the\n  first tap.\n- Polish: one consistent art style and color palette, a readable score at the top,\n  nothing under the notch or the home bar.\n\nWhen you're done, check that the game actually works and fix anything that's broken.\nThen tell me in a few lines what you built and how to run it."
+  },
+  "summary": "Claude Opus 5.5 generates a complete single-file mobile web game in the style of Flappy Bird featuring procedural canvas graphics, parallax background scrolling, Web Audio API sound effects, and collision handling.",
+  "summaryEn": "One-Tap Flying Mobile Game in HTML5 Canvas",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110233825007845872",
+    "canonicalUrl": "https://x.com/bytwize/status/2110233825007845872",
+    "author": {
+      "username": "bytwize",
+      "displayName": "bytewise",
+      "profileUrl": "https://x.com/bytwize"
+    },
+    "publishedAt": "2026-10-14T04:58:44.000Z",
+    "collectedAt": "2026-10-14T16:11:43.799Z",
+    "language": "en",
+    "originalText": "Gemini 4 vs Claude Opus 5.5.\nOne prompt, one shot: build me a mobile game.\nWhich one would you play? https://t.co/ZmtYOaecM5",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/bytwize/status/2110233825007845872",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110233316104224768/img/PI9UqORSrMbysWov.jpg",
+        "analysisUrl": "https://x.com/bytwize/status/2110233825007845872"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 59
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/bytwize/status/2110293095430410472",
+        "text": "@imananddesigner the ear flap sold it for me too 😂",
+        "author": "bytwize"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/bytwize/status/2110233834167865478",
+        "text": "Bonus: the same Claude inside Google's Antigravity took 14:28. In Claude Code, 8:59.",
+        "author": "bytwize"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/bytwize/status/2110233832280723945",
+        "text": "Play all 3 games in your browser: https://t.co/b51blCG6Wy",
+        "author": "bytwize"
+      },
+      {
+        "url": "https://x.com/bytwize/status/2110233828358832222",
+        "text": "bytewise on X: \"The full prompt:\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nbytewise on X: \"The full prompt:\"\n\n\n\nbytewise\n\n@bytwize\n\n\n\n\nThe full prompt:\n\n\n\n\n\n4:58 AM · Oct 14, 2026·11\nViews\n\n\n\n1\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nbytewise@bytwizeFollow\nIndie iOS developer. I write about App Store search, ASO mechanics, and what actually moves downloads. Evidence over growth hacks.\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbytewise\n\n@bytwize\n11h\n\n\nGemini 4 vs Claude Opus 5.5.\nOne prompt, one shot: build me a mobile game.\nWhich one would you play?\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n2\n\n1\n59\n\n\n\n\n\n\n\n\n\n\nbytewise\n\n@bytwize\n\n\n\n\nThe full prompt:\n\n\n\n\n\n4:58 AM · Oct 14, 2026·11\nViews\n\n\n\n1\n\n2\n\n\n\n\n\n\n\n\n\n\nbytewise\n\n@bytwize\n11h\n\n\nPlay all 3 games in your browser: \n\n\nGemini 4 vs Claude Opus 5.5: I Gave Both the Same Mobile Game Prompt\n\n\nFrom bytswise.com\n\n\n\n1\n\n\n27\n\n\n\n\n\n\n\n\n\nbytewise\n\n@bytwize\n11h\n\n\nBonus: the same Claude inside Google&#x27;s Antigravity took 14:28. In Claude Code, 8:59.\n\n\n\n\n\n8\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "bytwize"
+      },
+      {
+        "url": "https://x.com/bytwize/status/2110233825007845872",
+        "text": "bytewise on X: \"Gemini 4 vs Claude Opus 5.5.\nOne prompt, one shot: build me a mobile game.\nWhich one would you play?\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nbytewise on X: \"Gemini 4 vs Claude Opus 5.5.\nOne prompt, one shot: build me a mobile game.\nWhich one would you play?\"\n\n\n\nbytewise\n\n@bytwize\n\n\n\n\nGemini 4 vs Claude Opus 5.5.\nOne prompt, one shot: build me a mobile game.\nWhich one would you play?\n\n\n00:00\n\n\n\n\n\n\n\n\n4:58 AM · Oct 14, 2026·59\nViews\n\n\n\n2\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nbytewise@bytwizeFollow\nIndie iOS developer. I write about App Store search, ASO mechanics, and what actually moves downloads. Evidence over growth hacks.\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbytewise\n\n@bytwize\n\n\n\n\nGemini 4 vs Claude Opus 5.5.\nOne prompt, one shot: build me a mobile game.\nWhich one would you play?\n\n\n00:00\n\n\n\n\n\n\n\n\n4:58 AM · Oct 14, 2026·59\nViews\n\n\n\n2\n\n1\n\n\n\n\n\n\n\n\n\n\nbytewise\n\n@bytwize\n11h\n\n\nThe full prompt:\n\n\n\n\n\n\n\n1\n\n2\n11\n\n\n\n\n\n\n\n\n\nbytewise\n\n@bytwize\n11h\n\n\nPlay all 3 games in your browser: \n\n\nGemini 4 vs Claude Opus 5.5: I Gave Both the Same Mobile Game Prompt\n\n\nFrom bytswise.com\n\n\n\n1\n\n\n27\n\n\n\n\n\n\n\n\n\nbytewise\n\n@bytwize\n11h\n\n\nBonus: the same Claude inside Google&#x27;s Antigravity took 14:28. In Claude Code, 8:59.\n\n\n\n\n\n8\n\n\n\n\n\n\n\n\n\n\n\nAnand Patel\n\n@imananddesigner\n9h\n\n\nClaude&#x27;s version has way more personality visually\n\n\n1\n\n1\n8\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "bytwize"
+      },
+      {
+        "url": "https://bytswise.com/blog/gemini-4-vs-claude-opus-5-5-mobile-game/",
+        "text": "Gemini 4 vs Claude Opus 5.5: One Game Prompt — bytewiseSkip to contentbytewiseWork with me, so it opens without JS; SiteScripts adds Escape and outside-click close. -->AppsServicesHow I workWritingWork with me\n\n\n\nAI Tools · Guide\nGemini 4 vs Claude Opus 5.5: I Gave Both the Same Mobile Game Prompt\nGemini 4 vs Claude Opus 5.5, one detailed prompt, one shot: build a polished mobile web game. Claude finished first (8:59 vs 9:16). Gemini was less than half the price. Both games worked first try. The surprise was the tool: the same Claude model inside Google's Antigravity took 14:28.\nOnur UğurOctober 14, 20267 min read\nMarkdown ↗Open as MarkdownDownload MarkdownCopy link for AICopy this link manually\n\nKey takeawaysSpeed: Claude Opus 5.5 in Claude Code finished in 8:59. Gemini 4 Argon in Antigravity took 9:16.\nPrice: about $0.73 for Gemini at its intro API price, $1.67 for Claude. After December 1 Gemini's estimate doubles to about $1.45.\nQuality: all three games worked on the first try, and every model play-tested its own game before handing it over.\nThe tool matters: the same Opus 5.5 inside Antigravity took 14:28 and cost about $2.6. Pick the model and the harness together.\nOn this pageGemini 4 Argon became broadly available on October 13. A day later I gave it and Claude Opus 5.5 the same detailed prompt: build a polished one-tap flying game I can play in my phone’s browser. One message, no follow-ups, no fixes.\n\nShort answer: Claude was faster, Gemini was cheaper, and both games worked. The bigger lesson came from a third run. I gave the same prompt to Opus 5.5 inside Google’s Antigravity, and it took more than five minutes longer than in Claude Code.\n\nPlay the games\n\nAll three games are live. Tap one on your phone and judge for yourself.\n\n\nSOLWINGGemini 4 · Antigravity▶ Play\nSkybunClaude Opus 5.5 · Claude Code▶ Play\nPufflingClaude Opus 5.5 · Antigravity▶ Play\n\n\nEach one is exactly the file the model wrote, plus one line in the page head that points search engines to this post.\n\nThe results\n\n\n\n\n\nGemini 4 Argon\nClaude Opus 5.5\nClaude Opus 5.5\n\n\n\n\nTool\nAntigravity CLI\nClaude Code\nAntigravity CLI\n\n\nGame\nSOLWING\nSkybun\nPuffling\n\n\nBuild time\n9:16\n8:59\n14:28\n\n\nCost\n≈ $0.73 (≈ $1.45 from Dec 1)\n$1.67\n≈ $2.6\n\n\nFile\n64.5 KB, 1,938 lines\n39.8 KB, 1,167 lines\n46.1 KB, 1,255 lines\n\n\nTested its own game\nHeadless Chrome check, 3 screenshots\nHeadless Chrome, autopilot scored 12, fixed 2 visual bugs\n23 automated checks, autopilot scored 15, fixed 3 bugs\n\n\nWorked first try\nYes\nYes\nYes\n\n\nExtra, not asked for\nRank titles on game over\nPauses when you switch apps; a “tap to flap” ready screen\nPause key, pauses on app switch, a landing sound\n\n\n\n\nThe Claude Code cost is what Claude Code reported. The other two are my estimates from token counts at published API prices, because Antigravity runs on my subscription and produced no bill.\n\nRound 1: speed\n\nClaude Opus 5.5 in Claude Code finished in 8:59. Gemini 4 Argon in Antigravity finished in 9:16. That’s a 17-second gap on a nine-minute job, close enough to call it a tie in practice.\n\nRound 2: price\n\nGemini used 86k input tokens, 38.8k output tokens and 9.3k thinking tokens. At the intro price ($2 in, $10 out per million) that’s about $0.73, less than half of Claude’s $1.67.\n\nThe intro price ends on November 30. From December 1 Argon costs $4 in and $20 out, the same list price as Opus 5.5, and the same run would cost about $1.45. So the gap is real today and mostly gone in about seven weeks.\n\nRound 3: does it play?\n\nAll three games worked on the first try. Every requirement in the prompt was in all three files: one file, Web Audio sounds, a saved best score, vibration, screen shake, particles, parallax, safe areas, sharp rendering on high-DPI screens, and no zooming.\n\nThe part I liked most: each model play-tested its own game before handing it over. Gemini wrote a headless Chrome check and took three screenshots. Claude in Claude Code ran an autopilot that scored 12 and then fixed two visual bugs it found. Nobody asked for an autopilot. The prompt only said “check that the game actually works and fix anything that’s broken.”\n\nEach one also added something I didn’t ask for. Gemini gives you a rank title on the game over screen, from “Ember Glider” up to “Astral Sovereign.” Claude pauses the game when you switch apps and adds a “tap to flap” ready screen before the run starts.\n\nThe twist: same model, different tool\n\nAntigravity can also run Claude. So I ran the same prompt with Opus 5.5 inside Antigravity, started at the same moment as Gemini on the same Mac.\n\nIt took 14:28. It also did more: 23 automated checks, an autopilot that scored 15, and three bug fixes. It used 80.9k output tokens and 2.33M cached reads, about $2.6 at API prices.\n\nSame model, same effort level, same prompt. Over five minutes slower and roughly $1 more. The tool around the model decides how it plans, what it checks and how much context it drags along. Antigravity’s docs also say background Gemini models handle context management even when you pick Claude, so “Claude in Antigravity” isn’t “Claude in Claude Code.”\n\nThe prompt\n\nThis is the full prompt, word for word. Copy it and try your own model.\n\nBuild a polished mobile game I can play in my phone's browser.\n\nConcept: a one-tap flying game in the spirit of Flappy Bird, with its own original\ncharacter, art and name. Tap to flap, gravity pulls you down, fly through the gaps\nbetween obstacles. Every gap you pass is +1 point. Hit anything and it's game over.\n\nRequirements:\n- One file: index.html with all HTML, CSS and JavaScript inline. No external\n  libraries, images, fonts or audio files. Draw everything in code and make\n  sounds with the Web Audio API.\n- Built for phones in portrait. Fill the screen, respect safe areas, stay crisp on\n  high-DPI screens. Tap anywhere to flap; also support mouse click and the space bar\n  for desktop testing. No scrolling, zooming or text selection while playing.\n- Screens: a start screen with the game's name and a \"tap to start\" hint, the game,\n  and a game over screen with the score, the best score (saved in localStorage) and\n  a restart button.\n- Game feel: smooth motion that doesn't depend on frame rate, a character that tilts\n  with its speed, a flap animation, parallax background layers, particles on flap\n  and crash, a small screen shake on crash, and a short vibration on crash where the\n  browser supports it.\n- Difficulty: start forgiving, then slowly narrow the gaps and speed up as the score\n  grows.\n- Sound: flap, point and crash sounds, plus a mute toggle. Start audio only after the\n  first tap.\n- Polish: one consistent art style and color palette, a readable score at the top,\n  nothing under the notch or the home bar.\n\nWhen you're done, check that the game actually works and fix anything that's broken.\nThen tell me in a few lines what you built and how to run it.\n\nHow I ran the test\n\n\nSame prompt, one shot. Each model got the text above once, in a fresh empty folder. No follow-up messages, no fixes.\n\nModels and tools. Gemini 4 Argon (gemini-4-argon-high) in the Antigravity CLI 1.3.4. Claude Opus 5.5 at high effort in Claude Code 2.1.285. Claude Opus 5.5 (claude-opus-5-5-high) in the Antigravity CLI.\n\nTiming. Gemini and Opus in Antigravity started at the same moment on the same Mac. Opus in Claude Code started seven minutes later.\n\nCost. Claude Code reported its own cost. For the Antigravity runs I multiplied token counts by published API prices: Argon $2 in, $10 out, $0.10 cached per million tokens (from December 1: $4, $20, $0.20), and Opus 5.5 $4 in, $20 out, $0.20 cache read.\n\nGameplay footage. For the video, an autopilot script played every game the same way in the iOS Simulator (iPhone 17 Pro, Safari). It read game state through a read-only hook in a separate copy of each file. The games you can play above don’t have that hook.\n\nBackground models. According to Antigravity’s docs, it uses Gemini models for background context management even when a Claude model is selected.\n\n\nOne run per model, one prompt. This is a fun test, not a benchmark. The benchmarks themselves are split: Opus 5.5 leads Terminal-Bench 4.0 on every board, Gemini 4 Argon is #1 on the Vals Index, and on Artificial Analysis at High effort it’s 54 vs 53.\n\nWhat app builders should take from this\n\n\nTest the model inside the tool you’ll actually ship with. The same Opus 5.5 took 8:59 in Claude Code and 14:28 in Antigravity. If you compare models in a playground and then build in a different agent, your numbers won’t hold.\n\nWrite the prompt like a spec, and end it with “check that it works.” Every requirement I listed showed up in all three games, because each one was concrete: safe areas, localStorage, frame-rate-independent motion. The last line made every model test its own work, and two of them found and fixed bugs before I saw anything.\n\nBudget on the price after the promo, per job, not per token. Gemini’s run was about $0.73 today and about $1.45 from December 1, close to Claude’s $1.67. Opus in Antigravity used far more tokens and landed near $2.6. Check what a real task costs in your setup before you commit.\n\n\nWatch the 58-second version\n\nThe Short below shows both games side by side, round by round, with the scoreboard.\n\n\nWatch the Short · 0:58YouTube · loads when you press play\nFrequently asked questions\nIs Gemini 4 better than Claude Opus 5.5 for coding?Not clearly. In my test both built a working game on the first try. Independent boards are split: Opus 5.5 leads Terminal-Bench 4.0 on every board, while Gemini 4 Argon is #1 on the Vals Index. At High effort on Artificial Analysis it's 54 for Opus vs 53 for Argon.\nIs Gemini 4 cheaper than Claude Opus 5.5?Until November 30, yes: Gemini 4 Argon costs $2 in and $10 out per million tokens, Opus 5.5 costs $4 and $20. From December 1 Argon moves to $4 and $20, the same list price. Token use matters too: in my run Gemini's job came to about $0.73 vs $1.67 for Claude.\nCan I use Claude Opus 5.5 inside Google Antigravity?Yes. Antigravity offers Opus 5.5 and Sonnet 5.5 next to Gemini. Its docs say Gemini models still handle background context management when you pick Claude. In my run Opus 5.5 took 14:28 there, vs 8:59 in Claude Code.\nCan I play the games?Yes. SOLWING, Skybun and Puffling are linked in the post. They are the files each model wrote, with one line added to the page head that points search engines to this post.\nSources\nGoogle — Gemini 4 Argon, built to solve your hardest problems\nVentureBeat — Argon broadly available at $2/$10\nAnthropic — Introducing Claude Opus 5.5\nClaude docs — Models overview\nGoogle Antigravity docs — model table and background models\nArtificial Analysis — Gemini 4 Argon (High) vs Claude Opus 5.5 (High)\nVals AI — Gemini 4 Argon\nOrcaRouter — Argon vs Opus 5.5, two boards, two verdicts\nAbout the author\nOnur UğurI build and grow mobile apps with AI, and write up the tools and tactics that actually hold up.\nBuilding an app with AI agents?\nI build mobile apps with AI from idea to App Store, and I help teams pick the model, the tool and the workflow. Tell me about your app.\nWork with me →Related writing\nHow ChatGPT's Intelligent UI Works, and What App Builders Should Copy\n← All writing\n\nbytewiseI build and grow mobile apps with AI.\n&copy; 2026 Onur Uğur · Istanbul\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "bytwize"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/bytwize/status/2110233825007845872",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110233316104224768/img/PI9UqORSrMbysWov.jpg",
+  "coverPath": "data/covers/2110233825007845872-wide.jpg",
+  "gifPath": "data/gifs/2110233825007845872.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110233316104224768",
+    "x-post:2110233825007845872"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "One-Tap Flying Mobile Game in HTML5 Canvas",
+      "summary": "Claude Opus 5.5 generates a complete single-file mobile web game in the style of Flappy Bird featuring procedural canvas graphics, parallax background scrolling, Web Audio API sound effects, and collision handling.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic Claude Code / Google Antigravity CLI",
+        "authorUseConfirmed": true,
+        "evidence": "\"Gemini 4 vs Claude Opus 5.5... Claude Opus 5.5 at high effort in Claude Code 2.1.285. Claude Opus 5.5 (claude-opus-5-5-high) in the Antigravity CLI.\""
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build a polished mobile game I can play in my phone's browser.\n\nConcept: a one-tap flying game in the spirit of Flappy Bird, with its own original\ncharacter, art and name. Tap to flap, gravity pulls you down, fly through the gaps\nbetween obstacles. Every gap you pass is +1 point. Hit anything and it's game over.\n\nRequirements:\n- One file: index.html with all HTML, CSS and JavaScript inline. No external\n  libraries, images, fonts or audio files. Draw everything in code and make\n  sounds with the Web Audio API.\n- Built for phones in portrait. Fill the screen, respect safe areas, stay crisp on\n  high-DPI screens. Tap anywhere to flap; also support mouse click and the space bar\n  for desktop testing. No scrolling, zooming or text selection while playing.\n- Screens: a start screen with the game's name and a \"tap to start\" hint, the game,\n  and a game over screen with the score, the best score (saved in localStorage) and\n  a restart button.\n- Game feel: smooth motion that doesn't depend on frame rate, a character that tilts\n  with its speed, a flap animation, parallax background layers, particles on flap\n  and crash, a small screen shake on crash, and a short vibration on crash where the\n  browser supports it.\n- Difficulty: start forgiving, then slowly narrow the gaps and speed up as the score\n  grows.\n- Sound: flap, point and crash sounds, plus a mute toggle. Start audio only after the\n  first tap.\n- Polish: one consistent art style and color palette, a readable score at the top,\n  nothing under the notch or the home bar.\n\nWhen you're done, check that the game actually works and fix anything that's broken.\nThen tell me in a few lines what you built and how to run it.",
+        "englishText": "Build a polished mobile game I can play in my phone's browser.\n\nConcept: a one-tap flying game in the spirit of Flappy Bird, with its own original\ncharacter, art and name. Tap to flap, gravity pulls you down, fly through the gaps\nbetween obstacles. Every gap you pass is +1 point. Hit anything and it's game over.\n\nRequirements:\n- One file: index.html with all HTML, CSS and JavaScript inline. No external\n  libraries, images, fonts or audio files. Draw everything in code and make\n  sounds with the Web Audio API.\n- Built for phones in portrait. Fill the screen, respect safe areas, stay crisp on\n  high-DPI screens. Tap anywhere to flap; also support mouse click and the space bar\n  for desktop testing. No scrolling, zooming or text selection while playing.\n- Screens: a start screen with the game's name and a \"tap to start\" hint, the game,\n  and a game over screen with the score, the best score (saved in localStorage) and\n  a restart button.\n- Game feel: smooth motion that doesn't depend on frame rate, a character that tilts\n  with its speed, a flap animation, parallax background layers, particles on flap\n  and crash, a small screen shake on crash, and a short vibration on crash where the\n  browser supports it.\n- Difficulty: start forgiving, then slowly narrow the gaps and speed up as the score\n  grows.\n- Sound: flap, point and crash sounds, plus a mute toggle. Start audio only after the\n  first tap.\n- Polish: one consistent art style and color palette, a readable score at the top,\n  nothing under the notch or the home bar.\n\nWhen you're done, check that the game actually works and fix anything that's broken.\nThen tell me in a few lines what you built and how to run it.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows the Claude Opus 5.5 game ('Skybun') running smoothly in portrait orientation with an animated rabbit character flapping through pipes, parallax background scenery, particle effects on flap, and a polished game-over screen with score and restart mechanics matching the prompt requirements.",
+        "textualResultQuote": "Skybun: Claude Opus 5.5 · Claude Code. 39.8 KB, 1,167 lines. Headless Chrome, autopilot scored 12, fixed 2 visual bugs. Worked first try."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Claude Code",
+          "role": "Agent orchestration tool and execution harness running Claude Opus 5.5 at high effort",
+          "evidence": "Claude Opus 5.5 at high effort in Claude Code 2.1.285.",
+          "sourceUrl": "https://bytswise.com/blog/gemini-4-vs-claude-opus-5-5-mobile-game/",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "HTML5 Canvas / Web Audio API",
+          "role": "Execution runtime and graphics/audio rendering system inside the browser",
+          "evidence": "\"One file: index.html with all HTML, CSS and JavaScript inline. No external libraries, images, fonts or audio files. Draw everything in code and make sounds with the Web Audio API.\"",
+          "sourceUrl": "https://bytswise.com/blog/gemini-4-vs-claude-opus-5-5-mobile-game/",
+          "status": "required"
+        },
+        {
+          "name": "JavaScript",
+          "role": "Programming language",
+          "evidence": "- One file: index.html with all HTML, CSS and JavaScript inline.",
+          "sourceUrl": "https://bytswise.com/blog/gemini-4-vs-claude-opus-5-5-mobile-game/",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "One-Tap Flying Mobile Canvas Game",
+        "topic": "games-interactive",
+        "tags": [
+          "html5-canvas",
+          "mobile-game",
+          "game-development",
+          "web-audio-api",
+          "single-file"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 acts as the developer writing complete zero-dependency HTML, CSS, JavaScript, procedural Canvas drawing routines, physics, Web Audio synthesizer effects, and automated game checks.",
+      "outputSource": "In-browser JavaScript Canvas and Web Audio API execution.",
+      "divisionEvidence": "Claude Opus 5.5 produces the code logic and asset synthesis routines; the client web browser executes the code and renders the visuals and audio.",
+      "video": {
+        "shots": "Single continuous split-screen gameplay capture in mobile portrait ratio",
+        "duration": "0:19",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 interactive canvas demo with verified model version, full verbatim author instructions, and supporting screen recording gameplay.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://bytswise.com/blog/gemini-4-vs-claude-opus-5-5-mobile-game/",
+        "start": 5192,
+        "end": 6882
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/bytwize/status/2110233825007845872",
+        "author": "bytwize",
+        "postId": "2110233825007845872",
+        "publishedAt": "2026-10-14T04:58:44.000Z"
+      },
+      "checkedAt": "2026-10-14T16:42:25.605Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://bytswise.com/blog/gemini-4-vs-claude-opus-5-5-mobile-game/",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generates a complete single-file mobile web game in the style of Flappy Bird featuring procedural canvas graphics, parallax background scrolling, Web Audio API sound effects, and collision handling.",
+    "summaryEn": "One-Tap Flying Mobile Game in HTML5 Canvas",
+    "originalPrompt": "Build a polished mobile game I can play in my phone's browser.\n\nConcept: a one-tap flying game in the spirit of Flappy Bird, with its own original\ncharacter, art and name. Tap to flap, gravity pulls you down, fly through the gaps\nbetween obstacles. Every gap you pass is +1 point. Hit anything and it's game over.\n\nRequirements:\n- One file: index.html with all HTML, CSS and JavaScript inline. No external\n  libraries, images, fonts or audio files. Draw everything in code and make\n  sounds with the Web Audio API.\n- Built for phones in portrait. Fill the screen, respect safe areas, stay crisp on\n  high-DPI screens. Tap anywhere to flap; also support mouse click and the space bar\n  for desktop testing. No scrolling, zooming or text selection while playing.\n- Screens: a start screen with the game's name and a \"tap to start\" hint, the game,\n  and a game over screen with the score, the best score (saved in localStorage) and\n  a restart button.\n- Game feel: smooth motion that doesn't depend on frame rate, a character that tilts\n  with its speed, a flap animation, parallax background layers, particles on flap\n  and crash, a small screen shake on crash, and a short vibration on crash where the\n  browser supports it.\n- Difficulty: start forgiving, then slowly narrow the gaps and speed up as the score\n  grows.\n- Sound: flap, point and crash sounds, plus a mute toggle. Start audio only after the\n  first tap.\n- Polish: one consistent art style and color palette, a readable score at the top,\n  nothing under the notch or the home bar.\n\nWhen you're done, check that the game actually works and fix anything that's broken.\nThen tell me in a few lines what you built and how to run it.",
+    "sourceRange": {
+      "start": 5192,
+      "end": 6882
+    },
+    "translations": {
+      "zh": "Build a polished mobile game I can play in my phone's browser.\n\nConcept: a one-tap flying game in the spirit of Flappy Bird, with its own original\ncharacter, art and name. Tap to flap, gravity pulls you down, fly through the gaps\nbetween obstacles. Every gap you pass is +1 point. Hit anything and it's game over.\n\nRequirements:\n- One file: index.html with all HTML, CSS and JavaScript inline. No external\n  libraries, images, fonts or audio files. Draw everything in code and make\n  sounds with the Web Audio API.\n- Built for phones in portrait. Fill the screen, respect safe areas, stay crisp on\n  high-DPI screens. Tap anywhere to flap; also support mouse click and the space bar\n  for desktop testing. No scrolling, zooming or text selection while playing.\n- Screens: a start screen with the game's name and a \"tap to start\" hint, the game,\n  and a game over screen with the score, the best score (saved in localStorage) and\n  a restart button.\n- Game feel: smooth motion that doesn't depend on frame rate, a character that tilts\n  with its speed, a flap animation, parallax background layers, particles on flap\n  and crash, a small screen shake on crash, and a short vibration on crash where the\n  browser supports it.\n- Difficulty: start forgiving, then slowly narrow the gaps and speed up as the score\n  grows.\n- Sound: flap, point and crash sounds, plus a mute toggle. Start audio only after the\n  first tap.\n- Polish: one consistent art style and color palette, a readable score at the top,\n  nothing under the notch or the home bar.\n\nWhen you're done, check that the game actually works and fix anything that's broken.\nThen tell me in a few lines what you built and how to run it.",
+      "en": "Build a polished mobile game I can play in my phone's browser.\n\nConcept: a one-tap flying game in the spirit of Flappy Bird, with its own original\ncharacter, art and name. Tap to flap, gravity pulls you down, fly through the gaps\nbetween obstacles. Every gap you pass is +1 point. Hit anything and it's game over.\n\nRequirements:\n- One file: index.html with all HTML, CSS and JavaScript inline. No external\n  libraries, images, fonts or audio files. Draw everything in code and make\n  sounds with the Web Audio API.\n- Built for phones in portrait. Fill the screen, respect safe areas, stay crisp on\n  high-DPI screens. Tap anywhere to flap; also support mouse click and the space bar\n  for desktop testing. No scrolling, zooming or text selection while playing.\n- Screens: a start screen with the game's name and a \"tap to start\" hint, the game,\n  and a game over screen with the score, the best score (saved in localStorage) and\n  a restart button.\n- Game feel: smooth motion that doesn't depend on frame rate, a character that tilts\n  with its speed, a flap animation, parallax background layers, particles on flap\n  and crash, a small screen shake on crash, and a short vibration on crash where the\n  browser supports it.\n- Difficulty: start forgiving, then slowly narrow the gaps and speed up as the score\n  grows.\n- Sound: flap, point and crash sounds, plus a mute toggle. Start audio only after the\n  first tap.\n- Polish: one consistent art style and color palette, a readable score at the top,\n  nothing under the notch or the home bar.\n\nWhen you're done, check that the game actually works and fix anything that's broken.\nThen tell me in a few lines what you built and how to run it."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "One-Tap Flying Mobile Canvas Game",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows the Claude Opus 5.5 game ('Skybun') running smoothly in portrait orientation with an animated rabbit character flapping through pipes, parallax background scenery, particle effects on flap, and a polished game-over screen with score and restart mechanics matching the prompt requirements."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

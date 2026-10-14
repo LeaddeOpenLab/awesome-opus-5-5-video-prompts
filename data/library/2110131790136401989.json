@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T16:59:17.913Z",
+  "model": "opus5.5",
+  "prompt": "Build \"Gummy Bears\" - a single self-contained HTML file (three.js from a CDN is the only dependency): a handful of translucent gummy bears on a white table that you can grab, stretch, squash, throw and pour.\n\nThe bears\n- Classic gummy bear silhouette: round head with two ears, short snout, plump body, stubby arms and legs, tiny molded eyes and nose\n- Every part melts smoothly into the next - build the body as an implicit surface (metaballs / marching cubes), not separate spheres\n- Material: real gummy candy. Translucent with transmission and refraction, colored light absorption that gets deeper in thick parts, glossy clearcoat with sharp highlights\n- Colors: cherry red, orange, lemon yellow, apple green, clear pineapple\n- Soft colored shadow under each bear, tinted by the bear's own color\n\nPhysics (this is the whole point - it must feel like jelly, not plastic)\n- Each bear is a soft body: mass points for head, ears, snout, body, belly, hands and feet, held together by volume-preserving shape matching\n- Limbs and neck are rendered as stretchy strands between points, getting thinner as they stretch\n- Grab any part and pull: it stretches like rubber, the rest of the bear leans after it, on release it snaps back with a damped wobble\n- Pull the head up: the neck stretches, the body follows, on release the bear squashes and hops\n- Press down on the head: the bear pancakes, bulges sideways, then launches itself back up\n- Throw a bear: it flies, squashes on landing, bounces and pushes other bears out of the way\n- Bears collide with each other and never pass through one another\n- Idle bears do small random hops with squash and stretch\n- \"Pour more bears\" drops a handful from above into a wobbling, jiggling pile\n\nUI\n- Editorial product-page style on a white background. Large italic serif title \"Gummy / Bears.\", a short subtitle, a minimal card on the right with flavor swatches, a wobble slider, live \"Stretch\" and \"Bounces\" readouts and a \"Pour more bears\" button\n- A subtle circular cursor that grows while grabbing\n- ACES tone mapping, environment reflections, soft key and back light. Smooth 60fps",
+  "promptTranslations": {
+    "en": "Build \"Gummy Bears\" - a single self-contained HTML file (three.js from a CDN is the only dependency): a handful of translucent gummy bears on a white table that you can grab, stretch, squash, throw and pour.\n\nThe bears\n- Classic gummy bear silhouette: round head with two ears, short snout, plump body, stubby arms and legs, tiny molded eyes and nose\n- Every part melts smoothly into the next - build the body as an implicit surface (metaballs / marching cubes), not separate spheres\n- Material: real gummy candy. Translucent with transmission and refraction, colored light absorption that gets deeper in thick parts, glossy clearcoat with sharp highlights\n- Colors: cherry red, orange, lemon yellow, apple green, clear pineapple\n- Soft colored shadow under each bear, tinted by the bear's own color\n\nPhysics (this is the whole point - it must feel like jelly, not plastic)\n- Each bear is a soft body: mass points for head, ears, snout, body, belly, hands and feet, held together by volume-preserving shape matching\n- Limbs and neck are rendered as stretchy strands between points, getting thinner as they stretch\n- Grab any part and pull: it stretches like rubber, the rest of the bear leans after it, on release it snaps back with a damped wobble\n- Pull the head up: the neck stretches, the body follows, on release the bear squashes and hops\n- Press down on the head: the bear pancakes, bulges sideways, then launches itself back up\n- Throw a bear: it flies, squashes on landing, bounces and pushes other bears out of the way\n- Bears collide with each other and never pass through one another\n- Idle bears do small random hops with squash and stretch\n- \"Pour more bears\" drops a handful from above into a wobbling, jiggling pile\n\nUI\n- Editorial product-page style on a white background. Large italic serif title \"Gummy / Bears.\", a short subtitle, a minimal card on the right with flavor swatches, a wobble slider, live \"Stretch\" and \"Bounces\" readouts and a \"Pour more bears\" button\n- A subtle circular cursor that grows while grabbing\n- ACES tone mapping, environment reflections, soft key and back light. Smooth 60fps"
+  },
+  "summary": "Claude Opus 5.5 generates a self-contained HTML and Three.js application featuring interactive, squishy, translucent gummy bears with custom soft-body physics, grabbing, stretching, collision, and pouring behaviors.",
+  "summaryEn": "Interactive 3D Soft-Body Gummy Bears Simulation in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110131790136401989",
+    "canonicalUrl": "https://x.com/semichenkko/status/2110131790136401989",
+    "author": {
+      "username": "semichenkko",
+      "displayName": "Semichenko",
+      "profileUrl": "https://x.com/semichenkko"
+    },
+    "publishedAt": "2026-10-13T22:13:17.000Z",
+    "collectedAt": "2026-10-14T16:11:43.799Z",
+    "language": "en",
+    "originalText": "Opus 5.5 made gummy bears. Gemini 4 Argon made gummy statues\n\nSame prompt. Opus on top, Gemini below\n\nI put both through the same moves - pull a paw, yank the head, squish it flat, throw it, then pour a whole bag on top\n\nOpus bears are actual jelly. Pull a paw and it stretches into a thin rubbery strand, then snaps back and wobbles. Squash one and it pancakes, then launches itself back up. Throw it and it bounces off the floor and shoves its friends out of the way\n\nGemini bears are solid plastic. The arm turns into a stick, the bear flies straight through its neighbor, and the pile at the end just clips into itself\n\nAnd Opus nailed the look too - translucent, glossy, light passing right through them\n\nOpus: $7.2\nGemini: $22",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/semichenkko/status/2110131790136401989",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110131742086500352/img/g1OYPRpR370-gIrm.jpg",
+        "analysisUrl": "https://x.com/semichenkko/status/2110131790136401989"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3940,
+      "repostCount": 238,
+      "replyCount": 196,
+      "quoteCount": 135,
+      "viewCount": 547043
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/semichenkko/status/2110390120465531306",
+        "text": "@MrBrjan two things. opus bears are see-through and glossy, gemini's are solid and matte-ish. and opus bears are one smooth shape, gemini's are separate balls stuck together, you can see the seams",
+        "author": "semichenkko"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/semichenkko/status/2110375383686135996",
+        "text": "@LiuweijiaVip Hmm, maybe my Gemini failed, I need to test more",
+        "author": "semichenkko"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/semichenkko/status/2110313139224907801",
+        "text": "@Joni_AI_ Lets goo",
+        "author": "semichenkko"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/semichenkko/status/2110313077480800601",
+        "text": "@zandra26625446 Not bad astra",
+        "author": "semichenkko"
+      },
+      {
+        "url": "https://x.com/semichenkko/status/2110289704986055000",
+        "text": "Semichenko on X: \"@dttsnow\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nSemichenko on X: \"@dttsnow\"\n\n\n\nSemichenko\n\n@semichenkko\n\n\n\n\n\n\n\n\nGIF\n\n\n\n\n\n\n\n8:40 AM · Oct 14, 2026·830\nViews\n\n\n\n\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nSemichenko@semichenkkoFollow\nI learning and test how AI works\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDttSnow@dttsnowFollow\nSolo dev shipping premium apps and games. Fairly priced.\nBarLock: https://t.co/m0CWXxwbGK\nSix Hollows: https://t.co/pbB4wXWF9a\n\n\n\n\n\n\n\n\nDttSnow\n\n@dttsnow\n8h\n\n\nHaribo vs FNAF\n\n\n1\n\n\n876\n\n\n\n\n\n\n\n\n\n\nSemichenko\n\n@semichenkko\n\n\n\n\n\n\n\n\nGIF\n\n\n\n\n\n\n\n8:40 AM · Oct 14, 2026·830\nViews\n\n\n\n\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "semichenkko"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/semichenkko/status/2110282000246472931",
+        "text": "@shpotes appreciate you testing it. gonna do a best-of-3 for both models next time so it's fair",
+        "author": "semichenkko"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/semichenkko/status/2110280604420120606",
+        "text": "@AinaAiTech right? and it was cheaper too. still can't believe that",
+        "author": "semichenkko"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/semichenkko/status/2110280433305080081",
+        "text": "@daniel_haida \"opus felt like it had a director\" is exactly it. argon gives you more stuff on screen, opus gives you a shot",
+        "author": "semichenkko"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/semichenkko/status/2110278558413451305",
+        "text": "@paradite_ @gen_z_mind Haha name like a joke",
+        "author": "semichenkko"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/semichenkko/status/2110278432752046109",
+        "text": "@whyarethis Opus 5.5 - Claude app, agent mode\nGemini 4 Argon - app",
+        "author": "semichenkko"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/semichenkko/status/2110151838167073130",
+        "text": "@pkakukai yeah that surprised me too. it burned more tokens and still gave me plastic",
+        "author": "semichenkko"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/semichenkko/status/2110147520802492763",
+        "text": "@MeDusa7768 Aegon look so bad🤮🤮🤮",
+        "author": "semichenkko"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/semichenkko/status/2110132313182851407",
+        "text": "PROMPT\n\nBuild \"Gummy Bears\" - a single self-contained HTML file (three.js from a CDN is the only dependency): a handful of translucent gummy bears on a white table that you can grab, stretch, squash, throw and pour.\n\nThe bears\n- Classic gummy bear silhouette: round head with two ears, short snout, plump body, stubby arms and legs, tiny molded eyes and nose\n- Every part melts smoothly into the next - build the body as an implicit surface (metaballs / marching cubes), not separate spheres\n- Material: real gummy candy. Translucent with transmission and refraction, colored light absorption that gets deeper in thick parts, glossy clearcoat with sharp highlights\n- Colors: cherry red, orange, lemon yellow, apple green, clear pineapple\n- Soft colored shadow under each bear, tinted by the bear's own color\n\nPhysics (this is the whole point - it must feel like jelly, not plastic)\n- Each bear is a soft body: mass points for head, ears, snout, body, belly, hands and feet, held together by volume-preserving shape matching\n- Limbs and neck are rendered as stretchy strands between points, getting thinner as they stretch\n- Grab any part and pull: it stretches like rubber, the rest of the bear leans after it, on release it snaps back with a damped wobble\n- Pull the head up: the neck stretches, the body follows, on release the bear squashes and hops\n- Press down on the head: the bear pancakes, bulges sideways, then launches itself back up\n- Throw a bear: it flies, squashes on landing, bounces and pushes other bears out of the way\n- Bears collide with each other and never pass through one another\n- Idle bears do small random hops with squash and stretch\n- \"Pour more bears\" drops a handful from above into a wobbling, jiggling pile\n\nUI\n- Editorial product-page style on a white background. Large italic serif title \"Gummy / Bears.\", a short subtitle, a minimal card on the right with flavor swatches, a wobble slider, live \"Stretch\" and \"Bounces\" readouts and a \"Pour more bears\" button\n- A subtle circular cursor that grows while grabbing\n- ACES tone mapping, environment reflections, soft key and back light. Smooth 60fps",
+        "author": "semichenkko"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/semichenkko/status/2110131790136401989",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110131742086500352/img/g1OYPRpR370-gIrm.jpg",
+  "coverPath": "data/covers/2110131790136401989-wide.jpg",
+  "gifPath": "data/gifs/2110131790136401989.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110131742086500352",
+    "x-post:2110131790136401989"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Soft-Body Gummy Bears Simulation in Three.js",
+      "summary": "Claude Opus 5.5 generates a self-contained HTML and Three.js application featuring interactive, squishy, translucent gummy bears with custom soft-body physics, grabbing, stretching, collision, and pouring behaviors.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude app, agent mode",
+        "authorUseConfirmed": true,
+        "evidence": "\"Opus 5.5 made gummy bears. Gemini 4 Argon made gummy statues\" and \"@whyarethis Opus 5.5 - Claude app, agent mode\""
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build \"Gummy Bears\" - a single self-contained HTML file (three.js from a CDN is the only dependency): a handful of translucent gummy bears on a white table that you can grab, stretch, squash, throw and pour.\n\nThe bears\n- Classic gummy bear silhouette: round head with two ears, short snout, plump body, stubby arms and legs, tiny molded eyes and nose\n- Every part melts smoothly into the next - build the body as an implicit surface (metaballs / marching cubes), not separate spheres\n- Material: real gummy candy. Translucent with transmission and refraction, colored light absorption that gets deeper in thick parts, glossy clearcoat with sharp highlights\n- Colors: cherry red, orange, lemon yellow, apple green, clear pineapple\n- Soft colored shadow under each bear, tinted by the bear's own color\n\nPhysics (this is the whole point - it must feel like jelly, not plastic)\n- Each bear is a soft body: mass points for head, ears, snout, body, belly, hands and feet, held together by volume-preserving shape matching\n- Limbs and neck are rendered as stretchy strands between points, getting thinner as they stretch\n- Grab any part and pull: it stretches like rubber, the rest of the bear leans after it, on release it snaps back with a damped wobble\n- Pull the head up: the neck stretches, the body follows, on release the bear squashes and hops\n- Press down on the head: the bear pancakes, bulges sideways, then launches itself back up\n- Throw a bear: it flies, squashes on landing, bounces and pushes other bears out of the way\n- Bears collide with each other and never pass through one another\n- Idle bears do small random hops with squash and stretch\n- \"Pour more bears\" drops a handful from above into a wobbling, jiggling pile\n\nUI\n- Editorial product-page style on a white background. Large italic serif title \"Gummy / Bears.\", a short subtitle, a minimal card on the right with flavor swatches, a wobble slider, live \"Stretch\" and \"Bounces\" readouts and a \"Pour more bears\" button\n- A subtle circular cursor that grows while grabbing\n- ACES tone mapping, environment reflections, soft key and back light. Smooth 60fps",
+        "englishText": "Build \"Gummy Bears\" - a single self-contained HTML file (three.js from a CDN is the only dependency): a handful of translucent gummy bears on a white table that you can grab, stretch, squash, throw and pour.\n\nThe bears\n- Classic gummy bear silhouette: round head with two ears, short snout, plump body, stubby arms and legs, tiny molded eyes and nose\n- Every part melts smoothly into the next - build the body as an implicit surface (metaballs / marching cubes), not separate spheres\n- Material: real gummy candy. Translucent with transmission and refraction, colored light absorption that gets deeper in thick parts, glossy clearcoat with sharp highlights\n- Colors: cherry red, orange, lemon yellow, apple green, clear pineapple\n- Soft colored shadow under each bear, tinted by the bear's own color\n\nPhysics (this is the whole point - it must feel like jelly, not plastic)\n- Each bear is a soft body: mass points for head, ears, snout, body, belly, hands and feet, held together by volume-preserving shape matching\n- Limbs and neck are rendered as stretchy strands between points, getting thinner as they stretch\n- Grab any part and pull: it stretches like rubber, the rest of the bear leans after it, on release it snaps back with a damped wobble\n- Pull the head up: the neck stretches, the body follows, on release the bear squashes and hops\n- Press down on the head: the bear pancakes, bulges sideways, then launches itself back up\n- Throw a bear: it flies, squashes on landing, bounces and pushes other bears out of the way\n- Bears collide with each other and never pass through one another\n- Idle bears do small random hops with squash and stretch\n- \"Pour more bears\" drops a handful from above into a wobbling, jiggling pile\n\nUI\n- Editorial product-page style on a white background. Large italic serif title \"Gummy / Bears.\", a short subtitle, a minimal card on the right with flavor swatches, a wobble slider, live \"Stretch\" and \"Bounces\" readouts and a \"Pour more bears\" button\n- A subtle circular cursor that grows while grabbing\n- ACES tone mapping, environment reflections, soft key and back light. Smooth 60fps",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video recording displays the Opus 5.5 version showing translucent, glossy gummy bears that stretch, snap back, squash, throw, bounce off surfaces, and pile realistically when more are poured, precisely adhering to the prompt specifications.",
+        "textualResultQuote": "Opus bears are actual jelly. Pull a paw and it stretches into a thin rubbery strand, then snaps back and wobbles. Squash one and it pancakes, then launches itself back up. Throw it and it bounces off the floor and shoves its friends out of the way... And Opus nailed the look too - translucent, glossy, light passing right through them"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "Build \"Gummy Bears\" - a single self-contained HTML file (three.js from a CDN is the only dependency): a handful of translucent gummy bears on a white table that you can grab, stretch, squash, throw and pour.",
+          "sourceUrl": "https://x.com/semichenkko/status/2110132313182851407",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Soft-Body Simulation",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "soft-body-physics",
+          "webgl",
+          "interactive",
+          "gummy-candy",
+          "simulation"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 operates in agent mode to generate the complete standalone single-file HTML, CSS, JavaScript, and Three.js 3D/physics simulation logic.",
+      "outputSource": "In-browser execution of the generated HTML/WebGL code.",
+      "divisionEvidence": "Prompt asks Claude Opus to \"Build 'Gummy Bears' - a single self-contained HTML file (three.js from a CDN is the only dependency)\", which is executed in the browser.",
+      "video": {
+        "shots": null,
+        "duration": "0:12",
+        "aspectRatio": "320:404",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 case with author confirmation, complete original generation instructions, documented Three.js tool requirement, and a matching video/screen recording demonstrating the interactive physics scene.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/semichenkko/status/2110132313182851407",
+        "start": 8,
+        "end": 2131
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/semichenkko/status/2110131790136401989",
+        "author": "semichenkko",
+        "postId": "2110131790136401989",
+        "publishedAt": "2026-10-13T22:13:17.000Z"
+      },
+      "checkedAt": "2026-10-14T16:50:30.448Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/semichenkko/status/2110132313182851407",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generates a self-contained HTML and Three.js application featuring interactive, squishy, translucent gummy bears with custom soft-body physics, grabbing, stretching, collision, and pouring behaviors.",
+    "summaryEn": "Interactive 3D Soft-Body Gummy Bears Simulation in Three.js",
+    "originalPrompt": "Build \"Gummy Bears\" - a single self-contained HTML file (three.js from a CDN is the only dependency): a handful of translucent gummy bears on a white table that you can grab, stretch, squash, throw and pour.\n\nThe bears\n- Classic gummy bear silhouette: round head with two ears, short snout, plump body, stubby arms and legs, tiny molded eyes and nose\n- Every part melts smoothly into the next - build the body as an implicit surface (metaballs / marching cubes), not separate spheres\n- Material: real gummy candy. Translucent with transmission and refraction, colored light absorption that gets deeper in thick parts, glossy clearcoat with sharp highlights\n- Colors: cherry red, orange, lemon yellow, apple green, clear pineapple\n- Soft colored shadow under each bear, tinted by the bear's own color\n\nPhysics (this is the whole point - it must feel like jelly, not plastic)\n- Each bear is a soft body: mass points for head, ears, snout, body, belly, hands and feet, held together by volume-preserving shape matching\n- Limbs and neck are rendered as stretchy strands between points, getting thinner as they stretch\n- Grab any part and pull: it stretches like rubber, the rest of the bear leans after it, on release it snaps back with a damped wobble\n- Pull the head up: the neck stretches, the body follows, on release the bear squashes and hops\n- Press down on the head: the bear pancakes, bulges sideways, then launches itself back up\n- Throw a bear: it flies, squashes on landing, bounces and pushes other bears out of the way\n- Bears collide with each other and never pass through one another\n- Idle bears do small random hops with squash and stretch\n- \"Pour more bears\" drops a handful from above into a wobbling, jiggling pile\n\nUI\n- Editorial product-page style on a white background. Large italic serif title \"Gummy / Bears.\", a short subtitle, a minimal card on the right with flavor swatches, a wobble slider, live \"Stretch\" and \"Bounces\" readouts and a \"Pour more bears\" button\n- A subtle circular cursor that grows while grabbing\n- ACES tone mapping, environment reflections, soft key and back light. Smooth 60fps",
+    "sourceRange": {
+      "start": 8,
+      "end": 2131
+    },
+    "translations": {
+      "zh": "Build \"Gummy Bears\" - a single self-contained HTML file (three.js from a CDN is the only dependency): a handful of translucent gummy bears on a white table that you can grab, stretch, squash, throw and pour.\n\nThe bears\n- Classic gummy bear silhouette: round head with two ears, short snout, plump body, stubby arms and legs, tiny molded eyes and nose\n- Every part melts smoothly into the next - build the body as an implicit surface (metaballs / marching cubes), not separate spheres\n- Material: real gummy candy. Translucent with transmission and refraction, colored light absorption that gets deeper in thick parts, glossy clearcoat with sharp highlights\n- Colors: cherry red, orange, lemon yellow, apple green, clear pineapple\n- Soft colored shadow under each bear, tinted by the bear's own color\n\nPhysics (this is the whole point - it must feel like jelly, not plastic)\n- Each bear is a soft body: mass points for head, ears, snout, body, belly, hands and feet, held together by volume-preserving shape matching\n- Limbs and neck are rendered as stretchy strands between points, getting thinner as they stretch\n- Grab any part and pull: it stretches like rubber, the rest of the bear leans after it, on release it snaps back with a damped wobble\n- Pull the head up: the neck stretches, the body follows, on release the bear squashes and hops\n- Press down on the head: the bear pancakes, bulges sideways, then launches itself back up\n- Throw a bear: it flies, squashes on landing, bounces and pushes other bears out of the way\n- Bears collide with each other and never pass through one another\n- Idle bears do small random hops with squash and stretch\n- \"Pour more bears\" drops a handful from above into a wobbling, jiggling pile\n\nUI\n- Editorial product-page style on a white background. Large italic serif title \"Gummy / Bears.\", a short subtitle, a minimal card on the right with flavor swatches, a wobble slider, live \"Stretch\" and \"Bounces\" readouts and a \"Pour more bears\" button\n- A subtle circular cursor that grows while grabbing\n- ACES tone mapping, environment reflections, soft key and back light. Smooth 60fps",
+      "en": "Build \"Gummy Bears\" - a single self-contained HTML file (three.js from a CDN is the only dependency): a handful of translucent gummy bears on a white table that you can grab, stretch, squash, throw and pour.\n\nThe bears\n- Classic gummy bear silhouette: round head with two ears, short snout, plump body, stubby arms and legs, tiny molded eyes and nose\n- Every part melts smoothly into the next - build the body as an implicit surface (metaballs / marching cubes), not separate spheres\n- Material: real gummy candy. Translucent with transmission and refraction, colored light absorption that gets deeper in thick parts, glossy clearcoat with sharp highlights\n- Colors: cherry red, orange, lemon yellow, apple green, clear pineapple\n- Soft colored shadow under each bear, tinted by the bear's own color\n\nPhysics (this is the whole point - it must feel like jelly, not plastic)\n- Each bear is a soft body: mass points for head, ears, snout, body, belly, hands and feet, held together by volume-preserving shape matching\n- Limbs and neck are rendered as stretchy strands between points, getting thinner as they stretch\n- Grab any part and pull: it stretches like rubber, the rest of the bear leans after it, on release it snaps back with a damped wobble\n- Pull the head up: the neck stretches, the body follows, on release the bear squashes and hops\n- Press down on the head: the bear pancakes, bulges sideways, then launches itself back up\n- Throw a bear: it flies, squashes on landing, bounces and pushes other bears out of the way\n- Bears collide with each other and never pass through one another\n- Idle bears do small random hops with squash and stretch\n- \"Pour more bears\" drops a handful from above into a wobbling, jiggling pile\n\nUI\n- Editorial product-page style on a white background. Large italic serif title \"Gummy / Bears.\", a short subtitle, a minimal card on the right with flavor swatches, a wobble slider, live \"Stretch\" and \"Bounces\" readouts and a \"Pour more bears\" button\n- A subtle circular cursor that grows while grabbing\n- ACES tone mapping, environment reflections, soft key and back light. Smooth 60fps"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Soft-Body Simulation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video recording displays the Opus 5.5 version showing translucent, glossy gummy bears that stretch, snap back, squash, throw, bounce off surfaces, and pile realistically when more are poured, precisely adhering to the prompt specifications."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T16:59:16.235Z",
+  "model": "opus5.5",
+  "prompt": "generate a mechanical wasp for me",
+  "promptTranslations": {
+    "en": "generate a mechanical wasp for me"
+  },
+  "summary": "Claude Opus 5.5 is prompted to generate a 3D mechanical wasp with moving wings, a spinning gearbox, and an animated exploded-view rotation.",
+  "summaryEn": "Mechanical Wasp 3D Build and Exploded Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110331654522736697",
+    "canonicalUrl": "https://x.com/liamxbtt/status/2110331654522736697",
+    "author": {
+      "username": "liamxbtt",
+      "displayName": "liam†",
+      "profileUrl": "https://x.com/liamxbtt"
+    },
+    "publishedAt": "2026-10-14T11:27:29.000Z",
+    "collectedAt": "2026-10-14T16:11:43.799Z",
+    "language": "en",
+    "originalText": "tested claude Opus 5.5 on a 3D build\n\nthe prompt: \"generate a mechanical wasp for me\"\n\nWhat it built:\n\n> 6 jointed legs\n> 4 veined wings with motion blur\n> spinning gearbox in the thorax\n> retractable stinger\n> a full exploded view\n\nthen it rendered the video for me\n\nthe render was slow, had to hit \"continue\" a couple times\n\nStill… Opus is cooking",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/liamxbtt/status/2110331654522736697",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110331408421900288/img/YllpQ6ZfRDyup-S2.jpg",
+        "analysisUrl": "https://x.com/liamxbtt/status/2110331654522736697"
+      }
+    ],
+    "metrics": {
+      "likeCount": 13,
+      "repostCount": 3,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 378
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/liamxbtt/status/2110331654522736697",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110331408421900288/img/YllpQ6ZfRDyup-S2.jpg",
+  "coverPath": "data/covers/2110331654522736697-wide.jpg",
+  "gifPath": "data/gifs/2110331654522736697.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110331408421900288",
+    "x-post:2110331654522736697"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Mechanical Wasp 3D Build and Exploded Animation",
+      "summary": "Claude Opus 5.5 is prompted to generate a 3D mechanical wasp with moving wings, a spinning gearbox, and an animated exploded-view rotation.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "tested claude Opus 5.5 on a 3D build"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "generate a mechanical wasp for me",
+        "englishText": "generate a mechanical wasp for me",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video displays a fully modeled 3D mechanical wasp with jointed legs, gear mechanisms, translucent wings, and an animated rotating exploded view.",
+        "textualResultQuote": "What it built:\n\n> 6 jointed legs\n> 4 veined wings with motion blur\n> spinning gearbox in the thorax\n> retractable stinger\n> a full exploded view"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "Mechanical Wasp 3D Exploded Animation",
+        "topic": "3d-scenes",
+        "tags": [
+          "3d-scenes",
+          "mechanical",
+          "animation",
+          "exploded-view"
+        ]
+      },
+      "targetModelRole": "Generated the 3D model, animation code, and rendered the animation sequence across conversation turns.",
+      "outputSource": "Rendered video output directly produced via Claude Opus 5.5 execution.",
+      "divisionEvidence": "then it rendered the video for me\n\nthe render was slow, had to hit \"continue\" a couple times",
+      "video": {
+        "shots": "Single camera orbit around 3D wasp with dynamic exploded view separation",
+        "duration": "11s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "Authentic creator showcase with explicit Claude Opus 5.5 attribution, exact verbatim prompt, and corresponding video of a 3D scene animation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/liamxbtt/status/2110331654522736697",
+        "start": 51,
+        "end": 84
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/liamxbtt/status/2110331654522736697",
+        "author": "liamxbtt",
+        "postId": "2110331654522736697",
+        "publishedAt": "2026-10-14T11:27:29.000Z"
+      },
+      "checkedAt": "2026-10-14T16:30:35.481Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/liamxbtt/status/2110331654522736697",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 is prompted to generate a 3D mechanical wasp with moving wings, a spinning gearbox, and an animated exploded-view rotation.",
+    "summaryEn": "Mechanical Wasp 3D Build and Exploded Animation",
+    "originalPrompt": "generate a mechanical wasp for me",
+    "sourceRange": {
+      "start": 51,
+      "end": 84
+    },
+    "translations": {
+      "zh": "generate a mechanical wasp for me",
+      "en": "generate a mechanical wasp for me"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "3d-scenes",
+    "useCase": "Mechanical Wasp 3D Exploded Animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video displays a fully modeled 3D mechanical wasp with jointed legs, gear mechanisms, translucent wings, and an animated rotating exploded view."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

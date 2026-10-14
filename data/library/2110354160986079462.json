@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-14T16:59:15.689Z",
+  "model": "opus5.5",
+  "prompt": "Log cabin, snowy pines, a frozen pond, smoking chimney, falling snow, and a panel to change time of day, ice color and snowfall.",
+  "promptTranslations": {
+    "en": "Log cabin, snowy pines, a frozen pond, smoking chimney, falling snow, and a panel to change time of day, ice color and snowfall."
+  },
+  "summary": "Claude Opus 5.5 and ChatGPT were prompted to build an interactive 3D winter cabin with snowy pines, a frozen pond, smoking chimney, falling snow, and environmental control panels.",
+  "summaryEn": "3D Interactive Winter Cabin Web Scene",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110354160986079462",
+    "canonicalUrl": "https://x.com/genuenci/status/2110354160986079462",
+    "author": {
+      "username": "genuenci",
+      "displayName": "genuenci",
+      "profileUrl": "https://x.com/genuenci"
+    },
+    "publishedAt": "2026-10-14T12:56:55.000Z",
+    "collectedAt": "2026-10-14T16:11:43.799Z",
+    "language": "en",
+    "originalText": "I asked Claude and ChatGPT to build the same thing: a tiny 3D winter cabin you can play with in the browser.\n\nSame prompt, word for word. Log cabin, snowy pines, a frozen pond, smoking chimney, falling snow, and a panel to change time of day, ice color and snowfall.\n\nEach got two tries. Here's round two, side by side, rotating in sync.\n\nClaude Opus 5.5 — $6.50\n ChatGPT — $5.80\n\nWhat I noticed:\n\n•ChatGPT's page wouldn't open at all. It sat on \"Gathering the snowfall…\" forever. One missing line of code. I added it so we could compare. Both of its versions had the same bug.\n\n•Claude went way beyond the prompt: icicles, string lights, a wreath on the door, a sled, footprints to the pond, and an aurora at night.\n\n•ChatGPT's typography and panel are genuinely nice. Clean, calm, very \"design studio\".\n\n•At night is where it splits. Claude flips the whole page to dark with stars and an aurora. ChatGPT just dims the scene.\n\n70 cents more for a page that actually loads and has an aurora.\n\nWhich one would you ship? 👇",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/genuenci/status/2110354160986079462",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110354131558760448/img/Bub2SKEZv4i0d83Q.jpg",
+        "analysisUrl": "https://x.com/genuenci/status/2110354160986079462"
+      }
+    ],
+    "metrics": {
+      "likeCount": 27,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 328
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/genuenci/status/2110354160986079462",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110354131558760448/img/Bub2SKEZv4i0d83Q.jpg",
+  "coverPath": "data/covers/2110354160986079462-wide.jpg",
+  "gifPath": "data/gifs/2110354160986079462.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110354131558760448",
+    "x-post:2110354160986079462"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "3D Interactive Winter Cabin Web Scene",
+      "summary": "Claude Opus 5.5 and ChatGPT were prompted to build an interactive 3D winter cabin with snowy pines, a frozen pond, smoking chimney, falling snow, and environmental control panels.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "\"Claude Opus 5.5 — $6.50\" and \"I asked Claude and ChatGPT to build the same thing: a tiny 3D winter cabin you can play with in the browser.\""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Log cabin, snowy pines, a frozen pond, smoking chimney, falling snow, and a panel to change time of day, ice color and snowfall.",
+        "englishText": "Log cabin, snowy pines, a frozen pond, smoking chimney, falling snow, and a panel to change time of day, ice color and snowfall.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full verbatim user prompt text",
+          "framework and 3D library setup specifications",
+          "interaction and camera orbit controls configuration"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording demonstrates the interactive 3D winter cabin scene rendered in the browser with rotating orbit camera, falling snow particles, smoke rising from the chimney, and interactive panels controlling time of day, snowfall, and ice color, switching to a dark night mode with stars and aurora.",
+        "textualResultQuote": "Claude went way beyond the prompt: icicles, string lights, a wreath on the door, a sled, footprints to the pond, and an aurora at night."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "WebGL / Three.js in Browser",
+          "role": "Client-side 3D graphics rendering engine running the code generated by the agent.",
+          "evidence": "a tiny 3D winter cabin you can play with in the browser.",
+          "status": "inferred",
+          "sourceUrl": "https://x.com/genuenci/status/2110354160986079462"
+        }
+      ],
+      "purpose": {
+        "label": "Tiny 3D Winter Cabin Interactive Web Scene",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "interactive-3d",
+          "creative-coding",
+          "winter-cabin"
+        ]
+      },
+      "targetModelRole": "Generates complete client-side WebGL/3D web code including scene geometry, lighting, particle simulation, and interactive UI controls.",
+      "outputSource": "Web browser executing agent-generated 3D WebGL code.",
+      "divisionEvidence": "\"I asked Claude and ChatGPT to build the same thing: a tiny 3D winter cabin you can play with in the browser.\" and \"Claude went way beyond the prompt: icicles, string lights, a wreath on the door, a sled, footprints to the pond, and an aurora at night.\"",
+      "video": {
+        "shots": "Single split-screen view comparing side-by-side rotating 3D dioramas.",
+        "duration": "16s",
+        "aspectRatio": "3:4",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Provides screen recording evidence of Claude Opus 5.5 orchestrating and generating code for an interactive 3D WebGL scene with animated environmental effects, meeting reference-case policy requirements despite the prompt being an author summary fragment.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/genuenci/status/2110354160986079462",
+        "start": 138,
+        "end": 266
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/genuenci/status/2110354160986079462",
+        "author": "genuenci",
+        "postId": "2110354160986079462",
+        "publishedAt": "2026-10-14T12:56:55.000Z"
+      },
+      "checkedAt": "2026-10-14T16:31:57.420Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/genuenci/status/2110354160986079462",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 and ChatGPT were prompted to build an interactive 3D winter cabin with snowy pines, a frozen pond, smoking chimney, falling snow, and environmental control panels.",
+    "summaryEn": "3D Interactive Winter Cabin Web Scene",
+    "originalPrompt": "Log cabin, snowy pines, a frozen pond, smoking chimney, falling snow, and a panel to change time of day, ice color and snowfall.",
+    "sourceRange": {
+      "start": 138,
+      "end": 266
+    },
+    "translations": {
+      "zh": "Log cabin, snowy pines, a frozen pond, smoking chimney, falling snow, and a panel to change time of day, ice color and snowfall.",
+      "en": "Log cabin, snowy pines, a frozen pond, smoking chimney, falling snow, and a panel to change time of day, ice color and snowfall."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Tiny 3D Winter Cabin Interactive Web Scene",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full verbatim user prompt text",
+        "framework and 3D library setup specifications",
+        "interaction and camera orbit controls configuration"
+      ],
+      "evidence": "The screen recording demonstrates the interactive 3D winter cabin scene rendered in the browser with rotating orbit camera, falling snow particles, smoke rising from the chimney, and interactive panels controlling time of day, snowfall, and ice color, switching to a dark night mode with stars and aurora."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
