@@ -1,0 +1,282 @@
+{
+  "2103449416325890146": {
+    "quote": "dynamic 15-second motion graphics video",
+    "insight": "把时长和动效形式一起写明，将“做得惊艳”收敛成一个 15 秒作品集片段。"
+  },
+  "2103802923465768972": {
+    "quote": "walk around and spot cats inside of a van gogh painting",
+    "insight": "将画作风格与“漫游找猫”的具体玩法绑定，给场景设计和交互一个共同目标。"
+  },
+  "2103273003555402193": {
+    "quote": "One shape, never cut",
+    "insight": "用同一个形状连续变形连接 UI 状态，限制转场方式，避免做成互不相关的幻灯片。"
+  },
+  "2103128559174971663": {
+    "quote": "Use edge-tts for dubbing",
+    "insight": "把配音明确交给 edge-tts，与前文 Manim 动画分工；复用时还要检查音画时长是否对齐。"
+  },
+  "2102466523164274839": {
+    "quote": "Before modeling anything, build a source file",
+    "insight": "先建史料档案再建模，将建筑细节绑定到可核对的来源，而不是凭风格想象历史。"
+  },
+  "2102476258948927543": {
+    "quote": "imageSmoothingEnabled = false",
+    "insight": "关闭画布插值，再配合原文的整数倍缩放与像素网格，避免像素画被缩放成模糊边缘。"
+  },
+  "2110057151171338656": {
+    "quote": "every shake leaves a lasting, softly accumulating snowfall",
+    "insight": "要求每次摇晃都留下积雪，让互动改变场景状态，而不只是重复播放雪花特效。"
+  },
+  "2110038361062723704": {
+    "quote": "then hands control to the player",
+    "insight": "把自动预告片与玩家接管写成同一条流程，明确“演示结束后可玩”的交付要求。"
+  },
+  "2110036224320884998": {
+    "quote": "the critic compares a screenshot of our room with the matching photo",
+    "insight": "用房间截图逐项对照参考照片，把“像不像”变成具体差异反馈；复用时给迭代设置停止条件。"
+  },
+  "2103846311149936736": {
+    "quote": "Use only: JavaScript, Playwright, and FFmpeg",
+    "insight": "锁定制作与导出工具链，减少模型临时换工具；产品素材和竖屏比例仍需按原文准备。"
+  },
+  "2102554209166000267": {
+    "quote": "One idea per shot",
+    "insight": "每个镜头只承载一个信息点，配合原文的节拍结构，减少产品信息和动效相互抢占注意力。"
+  },
+  "2103835273813496100": {
+    "quote": "Every scene is made out of the previous one",
+    "insight": "要求后一场景由前一场景变形而来，让连续性成为转场规则，而不是只要求“苹果风”。"
+  },
+  "2103746736980378066": {
+    "quote": "avoid the border text or frames",
+    "insight": "在风格参考之外明确排除边框和边缘文字，减少模型把参考广告的装饰一并照搬。"
+  },
+  "2103845264649761062": {
+    "quote": "break them down into components/icons so we can animate those too",
+    "insight": "把产品截图拆成可独立运动的组件，避免整张截图平移缩放造成静态幻灯片感。"
+  },
+  "2103129343253778767": {
+    "quote": "misty lake → hand mirror → back to start",
+    "insight": "把结尾回到起点写进场景路径，使无限缩放有明确闭环，而不是镜头一直向前推进。"
+  },
+  "2103801834930606193": {
+    "quote": "Do not stop at a storyboard, still images, or an implementation plan",
+    "insight": "明确排除分镜、静帧和计划作为最终交付，要求完成渲染与检查，而不止给出创意。"
+  },
+  "2103124033365762215": {
+    "quote": "4 seasons passing outside a train window",
+    "insight": "用车窗这个稳定观察框串联四季变化，给短提示词提供清楚的场景和时间主线。"
+  },
+  "2104471436039803295": {
+    "quote": "No interactivity",
+    "insight": "明确这是用于首页的播放型动效，减少模型把 3D 展示扩展成无关的交互应用。"
+  },
+  "2103820321673675031": {
+    "quote": "maps scroll progress to video.currentTime",
+    "insight": "把滚动进度直接映射到视频时间，让视觉推进由滚动位置驱动，而不是另起一个播放计时器。"
+  },
+  "2103688362960019567": {
+    "quote": "make this self-referential",
+    "insight": "让解释递归的视频本身也具备自指结构，把抽象概念落实到叙事形式。"
+  },
+  "2103678647777230877": {
+    "quote": "Pull some online data to see why it was hot and how it compares to other years",
+    "insight": "先要求真实数据与跨年比较，再做可视化；复用时核对数据来源和年份，避免只有好看的曲线。"
+  },
+  "2103629247751618782": {
+    "quote": "Give the photon a personality",
+    "insight": "将光子拟人化，为抽象物理过程建立可跟随的主角；科普表述仍需单独核对。"
+  },
+  "2102853258582880547": {
+    "quote": "empty glass to completed cocktail",
+    "insight": "用空杯到成品的完整流程限定镜头顺序，让配方讲解有可检查的起点和终点。"
+  },
+  "2104542961081983435": {
+    "quote": "Before animating, study articles from the last three months",
+    "insight": "先研究近期材料再写动画故事，明确知识内容的时效要求；引用与结论仍要人工核对。"
+  },
+  "2103697580421181894": {
+    "quote": "Don't feel the need to represent everything in the lyrics literally",
+    "insight": "明确允许隐喻和文化梗，让画面围绕歌词含义展开，而不是逐词机械配图。"
+  },
+  "2103194052850241739": {
+    "quote": "This is not a game and not combat-focused",
+    "insight": "先排除战斗和游戏任务，把制作重点留给漫游、建筑、气氛与视觉发现。"
+  },
+  "2103119648271290566": {
+    "quote": "pelican riding a bicycle",
+    "insight": "用同一个明确主体和动作作为比较对象；这段未规定动作机制，复用时补充蹬踏与车轮联动。"
+  },
+  "2104514806443303238": {
+    "quote": "No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation",
+    "insight": "明确排除用预渲染视频或 CSS 形变冒充物理效果；复用时检查真实网格和仿真是否实现。"
+  },
+  "2103804606794879327": {
+    "quote": "take out key components of the star destroyer",
+    "insight": "把攻击目标细化为敌舰的关键部件，让场景尺度与战斗目标关联，而不是泛泛生成太空射击。"
+  },
+  "2103789415323562325": {
+    "quote": "The player cannot directly attack",
+    "insight": "先限制玩家攻击能力，让驾驶、躲避和诱导碰撞成为核心玩法，减少系统方向发散。"
+  },
+  "2103763192971461057": {
+    "quote": "1-on-1 card game like Hearthstone",
+    "insight": "用一对一卡牌对战限定玩法类型；公开片段没有卡牌规则，复用时补齐回合、费用和胜负条件。"
+  },
+  "2104520072014508316": {
+    "quote": "according to the dimension markings (mm) in the image",
+    "insight": "把平面图尺寸和毫米单位设为建模依据，避免房间与家具只在视觉上相似、比例却不一致。"
+  },
+  "2104189915693269112": {
+    "quote": "while listening to the sound of rain",
+    "insight": "把观看与互动放在雨声陪伴的使用场景中；复用时补充音源和操作方式，避免只得到静态背景。"
+  },
+  "2102899866762440893": {
+    "quote": "every note comes from a visible collision",
+    "insight": "把每个音符绑定到可见碰撞，建立音画因果关系，让机械动作和配乐可以逐项核对。"
+  },
+  "2103206747846701462": {
+    "quote": "every frame a pure function of time",
+    "insight": "让每帧仅由时间决定，便于截图式渲染重复取样同一时刻，减少状态累积造成的帧间差异。"
+  },
+  "2103540288136315331": {
+    "quote": "room of 3.00 x 3.40 m",
+    "insight": "直接给出房间尺寸，再配合门、床和衣柜的尺寸，给空间布局明确的比例依据。"
+  },
+  "2103833991879053577": {
+    "quote": "start at my desk and don't stop zooming until we hit a single atom inside the CPU",
+    "insight": "指定从书桌到 CPU 原子的缩放两端，让镜头跨尺度变化有清楚的路径与终点。"
+  },
+  "2104525558050886066": {
+    "quote": "First give 3 style frames, 10s sample, 30s music preview, wait for my pick",
+    "insight": "先用风格帧、短样片和配乐预览确认方向，再投入完整制作，减少后期整体返工。"
+  },
+  "2104939145252749710": {
+    "quote": "Feed image to Claude and ask it to build 1:1",
+    "insight": "以输入图像作为一比一参考；复用时必须提供该图，并逐项检查比例、位置与颜色。"
+  },
+  "2104953406708175097": {
+    "quote": "inspect the scene after each major step",
+    "insight": "每完成一大步就检查场景，把几何错误尽早暴露，避免直到最终渲染才发现结构问题。"
+  },
+  "2105049523139850561": {
+    "quote": "2m above ground and 550 km/h",
+    "insight": "用离地高度和速度两个数值定义飞行感；复用时检查场景单位和镜头运动是否与参数一致。"
+  },
+  "2105077598934241383": {
+    "quote": "landscape orientation and 90 seconds",
+    "insight": "同时规定横屏和时长，给信息密度与镜头构图边界；原文章链接仍是必要输入。"
+  },
+  "2105090561023901698": {
+    "quote": "pull to shoot, and mobile first",
+    "insight": "直接指定拖拽蓄力击球与手机优先，让操作设计服务于具体手势而非桌面鼠标假设。"
+  },
+  "2105100907952353560": {
+    "quote": "thin borders, translucent tones, detailed veins and beveled edges",
+    "insight": "把外观拆成边框、透光、纹理和倒角，给材质表现可执行的细节，而不是只说“更真实”。"
+  },
+  "2105145374541484257": {
+    "quote": "edit them to the beat",
+    "insight": "让动作镜头的剪辑跟随节拍；复用时先标记音轨拍点，再选择动作落点。"
+  },
+  "2105152588991868936": {
+    "quote": "Search recent AI-related news, select a topic",
+    "insight": "先搜近期新闻再选题，让素材范围先于成片风格；发布时间与新闻事实仍需核对。"
+  },
+  "2106843639879987460": {
+    "quote": "hook in the first 3 seconds",
+    "insight": "给开头吸引注意力设定明确时间窗口，避免铺垫占满短视频前段。"
+  },
+  "2107128920407502910": {
+    "quote": "not a slideshow",
+    "insight": "直接排除幻灯片式交付；复用时进一步说明每个镜头中应发生什么动作。"
+  },
+  "2108167809997877659": {
+    "quote": "scale in from 30% to 100% scale",
+    "insight": "用明确起止比例定义卡片入场，再按原文顺序展开细节，避免所有元素同时出现。"
+  },
+  "2108241523200676048": {
+    "quote": "around 6 scenes",
+    "insight": "限制场景数量，让叙事和制作资源集中；复用时为每场分配清楚的信息点与时长。"
+  },
+  "2108478302625071205": {
+    "quote": "fetch the brand detailing including logo",
+    "insight": "先提取真实品牌细节和 Logo，再制作功能预告，减少品牌元素凭空生成。"
+  },
+  "2108729269681520726": {
+    "quote": "everything told through hands",
+    "insight": "用“只通过手讲述”统一视觉语言，让跨度很大的历史主题仍有共同叙事载体。"
+  },
+  "2108883842061013088": {
+    "quote": "Add color when combat starts",
+    "insight": "把颜色变化绑定到战斗开始的状态，利用视觉变化提示叙事或交互阶段。"
+  },
+  "2108914859492483132": {
+    "quote": "6-joint robot arm i can build for $122",
+    "insight": "同时限定关节数、可制造性和成本；复用时核对零件报价、尺寸与实际机械可行性。"
+  },
+  "2109243092142571577": {
+    "quote": "Desert bones -> tiger -> cliff leap -> eagle skimming sea -> underwater sharks.",
+    "insight": "用连续箭头列出镜头路径，明确场景顺序；复用时再补充形态转换和衔接方式。"
+  },
+  "2109620598704087055": {
+    "quote": "the lava and colours all need to be the same",
+    "insight": "把熔岩运动与配色都绑定到参考 GIF，减少只复刻题材却偏离参考观感的情况。"
+  },
+  "2108588869255827570": {
+    "quote": "One rule: no assets",
+    "insight": "明确不使用素材的制作边界，要求场景依赖代码生成；仍需检查输出是否加载了外部资源。"
+  },
+  "2102882622053535814": {
+    "quote": "within the confines and abilities of my engine",
+    "insight": "把现有引擎能力作为实现边界；复用时提供接口、示例和限制，避免生成无法接入的代码。"
+  },
+  "2102924409124389221": {
+    "quote": "1 landscape, and another portrait",
+    "insight": "同时要求横竖两个版本；复用时分别检查构图和字幕安全区，不能只机械裁切。"
+  },
+  "2103499771206156628": {
+    "quote": "reflection, refraction and water caustics",
+    "insight": "将真实感拆成反射、折射和焦散三个可检查的光学效果，避免只得到透明材质。"
+  },
+  "2103641070299218145": {
+    "quote": "repaint it stroke by stroke",
+    "insight": "要求展示逐笔重绘过程，使绘画成为可观看的时间序列，而不只是输出完成图。"
+  },
+  "2104391577091407965": {
+    "quote": "life of a query through the codebase",
+    "insight": "沿一次查询的执行路径解释代码，把模块介绍组织成可跟随的过程。"
+  },
+  "2104418374218600719": {
+    "quote": "actions/labels/camera shots/lip-sync",
+    "insight": "把动作、标签、镜头和口型都纳入程序编排，明确多个时间轨需要一起考虑。"
+  },
+  "2104532802486345950": {
+    "quote": "show how many layers a sticker has",
+    "insight": "将展示目标从平面外观转为分层结构；复用时给出层数、材质和展开顺序。"
+  },
+  "2104895018683044262": {
+    "quote": "one you can take apart in your browser",
+    "insight": "把知识讲解变成可拆解的浏览器模型，让系统组成与交互动作对应。"
+  },
+  "2105105890936233985": {
+    "quote": "Not a fact montage",
+    "insight": "明确排除事实堆砌，要求纪录片具备叙事；复用时补充主线，并核实人物资料与素材来源。"
+  },
+  "2107683152865173619": {
+    "quote": "my live visitor count",
+    "insight": "以实时访客数作为视觉输入；复用时提供数据接口和刷新频率，避免展示的是假数据。"
+  },
+  "2108484778747920389": {
+    "quote": "record videos for both",
+    "insight": "要求两个平台都提供录屏，便于检查离线功能的实际表现，而不只看代码改动。"
+  },
+  "2108758475606229025": {
+    "quote": "using the exact same prompt",
+    "insight": "固定同一提示词作为比较输入；评估差异时还需记录模型版本、工具和运行条件。"
+  },
+  "2108584669859955083": {
+    "quote": "every single second had to contain something attention-grabbing",
+    "insight": "把注意力要求落实到逐秒节奏；复用时安排具体变化点，同时保留必要阅读时间。"
+  }
+}

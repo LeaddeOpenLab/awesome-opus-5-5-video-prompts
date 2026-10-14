@@ -7,12 +7,18 @@
 <strong>Opus 5.5 and Manim Educational Video Explaining Derivatives</strong><br>
 <sub>Use: Derivative concept lesson<br>Inputs: User inputs not specified by the author<br>Tools: edge-tts / Manim</sub><br>
 <sub><a href="https://x.com/LinearUncle/status/2103128559174971663">Original post ↗</a> · <a href="../../prompts/2103128559174971663.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Use edge-tts for dubbing</code>：把配音明确交给 edge-tts，与前文 Manim 动画分工；复用时还要检查音画时长是否对齐。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2104957026199900220.md"><img src="../gifs/2104957026199900220.gif" alt="Agentic Neocloud Business Explainer Video via Claude Code and Opus 5.5" width="256" height="144" /></a><br>
 <strong>Agentic Neocloud Business Explainer Video via Claude Code and Op…</strong><br>
 <sub>Use: Neocloud business explainer<br>Inputs: CoreWeave Form 10-K fiscal year 2025 report data, model.py, and assumptions.yaml referenced in video footers<br>Tools: Claude Code / ElevenLabs / ffmpeg / Gemini 3.8 TTS / Manim / Hyperframes / Motion Canvas / OpenRouter API / OpenTimelineIO</sub><br>
 <sub><a href="https://x.com/deedydas/status/2104957026199900220">Original post ↗</a> · <a href="../../prompts/2104957026199900220.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Narrate like a university professor.</code>：明确口播或旁白需求；复用时补充文稿、语速和音画对齐方式。</blockquote>
+<!-- pro-tip:end -->
 </td><td></td>
 </tr>
 </table>

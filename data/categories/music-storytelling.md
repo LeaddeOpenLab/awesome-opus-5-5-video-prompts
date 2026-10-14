@@ -7,18 +7,27 @@
 <strong>Music Video for Song Built in Code</strong><br>
 <sub>Use: Procedural Audio-Reactive Music Video<br>Inputs: Original audio file of the song 'I'm In Heaven Now'<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ImmuneHack/status/2109230205365858694">Original post ↗</a> · <a href="../../prompts/2109230205365858694.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make a music video for my song</code>：以歌曲或音乐作为创作依据；复用时提供可用音轨，并明确节拍、歌词与画面的对应关系。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2107848117584543896.md"><img src="../../https:/pbs.twimg.com/amplify_video_thumb/2107847267323654144/img/-JOReq4-fsa1TJvf.jpg" alt="Pre-Computer Civilization Music Video via Multi-Tool Agent Orchestration" width="256" height="144" /></a><br>
 <strong>Pre-Computer Civilization Music Video via Multi-Tool Agent Orche…</strong><br>
 <sub>Use: AI Music Video Orchestration<br>Inputs: User inputs not specified by the author<br>Tools: Blender / ComfyUI / LTX-2.5 / Miniax H3 / YuE2</sub><br>
 <sub><a href="https://x.com/mikumiku_aloha/status/2107848117584543896">Original post ↗</a> · <a href="../../prompts/2107848117584543896.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Blender</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2104809910152425483.md"><img src="../gifs/2104809910152425483.gif" alt="Perler Bead Pixel Music Video" width="256" height="144" /></a><br>
 <strong>Perler Bead Pixel Music Video</strong><br>
 <sub>Use: Perler Bead Pixel Art Music Video<br>Inputs: User inputs not specified by the author<br>Tools: Suno</sub><br>
 <sub><a href="https://x.com/hahazwei/status/2104809910152425483">Original post ↗</a> · <a href="../../prompts/2104809910152425483.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>synced to the beat</code>：把动效节奏与音频拍点联系起来；复用时先确定音轨和时间轴，再安排关键动作。</blockquote>
+<!-- pro-tip:end -->
 </td>
 </tr>
 <tr>
@@ -27,18 +36,27 @@
 <strong>Anime Maid vs Shoggoth 15-Second Animated MV</strong><br>
 <sub>Use: A 15-second animated Japanese anime-style music video of a maid dancing and fighting a Shoggoth, produced via Opus 5.5 in approximately 20 minutes.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/itnavi2022/status/2104509397535961220">Original post ↗</a> · <a href="../../prompts/2104509397535961220.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Create a 15-second music video in Japanese anime style where a maid fights a Shoggoth while dancing.</code>：以歌曲或音乐作为创作依据；复用时提供可用音轨，并明确节拍、歌词与画面的对应关系。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2102973867656614053.md"><img src="../gifs/2102973867656614053.gif" alt="Torradeira Turbo 3000 Animated Short" width="256" height="144" /></a><br>
 <strong>Torradeira Turbo 3000 Animated Short</strong><br>
 <sub>Use: Comedic animated short story<br>Inputs: User inputs not specified by the author<br>Tools: Claude Artifacts</sub><br>
 <sub><a href="https://x.com/NemTudo_/status/2102973867656614053">Original post ↗</a> · <a href="../../prompts/2102973867656614053.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make a funny video. it can be about anything. size: 10 to 30s</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2109646277592175006.md"><img src="../../https:/pbs.twimg.com/amplify_video_thumb/2109645280606052352/img/R0YljEHjN8AUSmI6.jpg" alt="Programmatic Breakbeat Audio and Music Video Generation with Opus 5.5" width="256" height="144" /></a><br>
 <strong>Programmatic Breakbeat Audio and Music Video Generation with Opu…</strong><br>
 <sub>Use: Programmatic Breakbeat Audio &amp; Music Video<br>Inputs: User inputs not specified by the author<br>Tools: Claude Opus 5.5 / Sol 6.1</sub><br>
 <sub><a href="https://x.com/_3912657840/status/2109646277592175006">Original post ↗</a> · <a href="../../prompts/2109646277592175006.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Make a really cool breakbeat track. And make an MV too while you&#x27;re at it.</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<!-- pro-tip:end -->
 </td>
 </tr>
 <tr>
@@ -47,18 +65,27 @@
 <strong>Claude Opus 5.5 Narrative Motion Graphics Animation</strong><br>
 <sub>Use: Narrative Motion Graphics Video<br>Inputs: User inputs not specified by the author<br>Tools: Claude Opus 5.5</sub><br>
 <sub><a href="https://x.com/Cryptoxorz/status/2109173464116666574">Original post ↗</a> · <a href="../../prompts/2109173464116666574.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>16:9</code>：先规定画幅或分辨率，帮助构图适配目标发布场景，减少导出后再裁切。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2108498649269567492.md"><img src="../gifs/2108498649269567492.gif" alt="On My Side of the Chat Animation" width="256" height="144" /></a><br>
 <strong>On My Side of the Chat Animation</strong><br>
 <sub>Use: AI Sentiment Animated Narrative<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/RisingSunInt_/status/2108498649269567492">Original post ↗</a> · <a href="../../prompts/2108498649269567492.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make a video about how it feels when users abuse it</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2108484647713984755.md"><img src="../gifs/2108484647713984755.gif" alt="Higgsfield Katana Preset Orchestration with Opus 5.5" width="256" height="144" /></a><br>
 <strong>Higgsfield Katana Preset Orchestration with Opus 5.5</strong><br>
 <sub>Use: AI Music Video Orchestration<br>Inputs: Five uploaded character sheets used as reference.<br>Tools: Higgsfield Katana / Seedance 2.5</sub><br>
 <sub><a href="https://x.com/AI__TSUBAKI/status/2108484647713984755">Original post ↗</a> · <a href="../../prompts/2108484647713984755.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Recreate in Claude</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<!-- pro-tip:end -->
 </td>
 </tr>
 <tr>
@@ -67,18 +94,27 @@
 <strong>Opus 5.5 JS Animation to Lyria Song</strong><br>
 <sub>Use: Music Video Animation<br>Inputs: User inputs not specified by the author<br>Tools: JavaScript / Canvas / Lyria</sub><br>
 <sub><a href="https://x.com/nicekate8888/status/2108241523200676048">Original post ↗</a> · <a href="../../prompts/2108241523200676048.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>around 6 scenes</code>：限制场景数量，让叙事和制作资源集中；复用时为每场分配清楚的信息点与时长。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2108223014471106723.md"><img src="../gifs/2108223014471106723.gif" alt="Proof of Human Interactive Short Film" width="256" height="144" /></a><br>
 <strong>Proof of Human Interactive Short Film</strong><br>
 <sub>Use: Proof of Human Concept Film<br>Inputs: User inputs not specified by the author<br>Tools: Image Generator / Open Text-to-Speech Model / Web Browser (HTML/JS Runtime)</sub><br>
 <sub><a href="https://x.com/AstroTheWizard/status/2108223014471106723">Original post ↗</a> · <a href="../../prompts/2108223014471106723.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>pick a topic, make a film about it</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2107128920407502910.md"><img src="../gifs/2107128920407502910.gif" alt="Verify Loop Agentic Music Video by Opus 5.5" width="256" height="144" /></a><br>
 <strong>Verify Loop Agentic Music Video by Opus 5.5</strong><br>
 <sub>Use: Agentic Lyric Motion Graphics Video<br>Inputs: User inputs not specified by the author<br>Tools: Treblo</sub><br>
 <sub><a href="https://x.com/IvySparkleAI/status/2107128920407502910">Original post ↗</a> · <a href="../../prompts/2107128920407502910.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>not a slideshow</code>：直接排除幻灯片式交付；复用时进一步说明每个镜头中应发生什么动作。</blockquote>
+<!-- pro-tip:end -->
 </td>
 </tr>
 <tr>
@@ -87,18 +123,27 @@
 <strong>Dracula Chapter 1 3D Scene Recreation with Three.js</strong><br>
 <sub>Use: Literary 3D Narrative Animation<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/original_ngv/status/2105193450467389763">Original post ↗</a> · <a href="../../prompts/2105193450467389763.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>I gave it the first few paragraphs of Dracula, and asked it to recreate the entire thing using @threejs</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2105091868149354753.md"><img src="../gifs/2105091868149354753.gif" alt="3D Animated Music Video Produced with Claude Opus 5.5 and Blender" width="256" height="144" /></a><br>
 <strong>3D Animated Music Video Produced and Blender</strong><br>
 <sub>Use: 3D Animation / Music Video<br>Inputs: Original musical composition created by the author; Storyboards and directorial instructions created by the author<br>Tools: Blender / three.js</sub><br>
 <sub><a href="https://x.com/LugiAXETomXV/status/2105091868149354753">Original post ↗</a> · <a href="../../prompts/2105091868149354753.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>&quot;Camera work here should be like this&quot; &quot;This light isn&#x27;t needed&quot; &quot;Depth of field should be</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2105086526619091374.md"><img src="../gifs/2105086526619091374.gif" alt="《月光小星》- Claude Opus 5.5 动画短片" width="256" height="144" /></a><br>
 <strong>《月光小星》- Claude Opus 5.5 动画短片</strong><br>
 <sub>Use: Animated Story Short<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Lonely8patients/status/2105086526619091374">Original post ↗</a> · <a href="../../prompts/2105086526619091374.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>soundtrack</code>：以歌曲或音乐作为创作依据；复用时提供可用音轨，并明确节拍、歌词与画面的对应关系。</blockquote>
+<!-- pro-tip:end -->
 </td>
 </tr>
 <tr>
@@ -107,18 +152,27 @@
 <strong>Claude Opus 5.5 Self-Reflective Music Video via Procedural Text…</strong><br>
 <sub>Use: Claude Opus 5.5 was prompted to write a song and generate every visual frame as procedural code composed entirely of text, paired with audio generated via Suno v6.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/buskerrrrrr/status/2104518643723764131">Original post ↗</a> · <a href="../../prompts/2104518643723764131.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>write a song about who it actually is. skip what people tell you about yourself, work it out on your own then make the video.</code>：以歌曲或音乐作为创作依据；复用时提供可用音轨，并明确节拍、歌词与画面的对应关系。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2104467879911686448.md"><img src="../gifs/2104467879911686448.gif" alt="Crew in the Dark Motion Design Music Video" width="256" height="144" /></a><br>
 <strong>Crew in the Dark Motion Design Music Video</strong><br>
 <sub>Use: Satirical kinetic typography and motion graphics music video poking fun at single-prompt AI claims, crediting Claude Opus 5.5 for the visual generation and code orchestration.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Sadegh1068/status/2104467879911686448">Original post ↗</a> · <a href="../../prompts/2104467879911686448.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make it dynamic</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2104458849524863062.md"><img src="../gifs/2104458849524863062.gif" alt="DeepSeek 灰测版魔性 MV 动画制作" width="256" height="144" /></a><br>
 <strong>DeepSeek 灰测版魔性 MV 动画制作</strong><br>
 <sub>Use: 作者使用 Opus 5.5（xhigh 档位）制作了一支关于 DeepSeek 灰度测试主题的 2D 动效音乐 MV，包含丰富的角色动画、动态排版及分镜。<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/esrhengwu/status/2104458849524863062">Original post ↗</a> · <a href="../../prompts/2104458849524863062.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Made a DeepSeek MV with Opus 5.5</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<!-- pro-tip:end -->
 </td>
 </tr>
 <tr>
@@ -127,18 +181,27 @@
 <strong>K-pop Style AI Security Music Video Orchestrated by Opus 5.5</strong><br>
 <sub>Use: Jiquan Ngiam uses Claude Opus 5.5 to analyze reference video pacing, synthesize company documentation into song lyrics, generate a soundtrack via Suno, and orchestrate RunwayML to generate a complete K-pop music video for their product Mint.<br>Inputs: Reference video referred to as 'the pdoom video' used for reverse-engineering pacing/structure<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/JiquanNgiam/status/2104446990008611251">Original post ↗</a> · <a href="../../prompts/2104446990008611251.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>product</code>：明确商业展示用途；复用时提供产品素材、一个核心卖点和结束行动，减少空泛宣传镜头。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2104429604815675791.md"><img src="../gifs/2104429604815675791.gif" alt="Sneakers O'Toole Music Video" width="256" height="144" /></a><br>
 <strong>Sneakers O'Toole Music Video</strong><br>
 <sub>Use: Music video<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/coffemoth/status/2104429604815675791">Original post ↗</a> · <a href="../../prompts/2104429604815675791.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make a Sneakers O&#x27;Toole music video</code>：以歌曲或音乐作为创作依据；复用时提供可用音轨，并明确节拍、歌词与画面的对应关系。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2104420680142082118.md"><img src="../gifs/2104420680142082118.gif" alt="Code-Rendered Generative Music Video for I'm Upping My P(doom)" width="256" height="144" /></a><br>
 <strong>Code-Rendered Generative Music Video for I'm Upping My P(doom)</strong><br>
 <sub>Use: Author used Claude Opus 5.5 via Claude Code to cooperatively design and program an entire generative music video, including lyric alignment, audio analysis, TypeScript/Three.js rendering engine, and dynamic 3D/typography scenes.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/weiwei2018831/status/2104420680142082118">Original post ↗</a> · <a href="../../prompts/2104420680142082118.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>music video</code>：以歌曲或音乐作为创作依据；复用时提供可用音轨，并明确节拍、歌词与画面的对应关系。</blockquote>
+<!-- pro-tip:end -->
 </td>
 </tr>
 <tr>
@@ -147,18 +210,27 @@
 <strong>Code-Animated Short Film: Xi the Mechanical Hermit Crab</strong><br>
 <sub>Use: A detailed, multi-stage director prompt instructing Claude to procedurally code, rig, score, and render a 45–50 second animated short film about a mechanical hermit crab chasing a light through deep-sea realms using Remotion, WebGL, SVG, and Python audio synthesis.<br>Inputs: User inputs not specified by the author<br>Tools: FFmpeg / NumPy / React / Remotion</sub><br>
 <sub><a href="https://x.com/gmgmgm1545/status/2103793820815245507">Original post ↗</a> · <a href="../../prompts/2103793820815245507.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>no subtitles</code>：用明确的排除项限定输出范围，减少模型自行增加不需要的文字、界面或交互。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2103722556918464968.md"><img src="../gifs/2103722556918464968.gif" alt="Psychedelic Glitch Anime Music Video Prompt" width="256" height="144" /></a><br>
 <strong>Psychedelic Glitch Anime Music Video</strong><br>
 <sub>Use: A detailed prompt for Opus 5.5 instructing it to create a psychedelic, glitch-style anime music video from still images and audio using programmatic HTML Canvas animation, Playwright capture, and FFmpeg encoding.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/pound75423/status/2103722556918464968">Original post ↗</a> · <a href="../../prompts/2103722556918464968.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Large text</code>：把可读性明确列为约束；复用时在实际播放尺寸下检查字号、对比度和停留时长。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2103697580421181894.md"><img src="../gifs/2103697580421181894.gif" alt="Animated Music Video Prompt for Claude Opus" width="256" height="144" /></a><br>
 <strong>Animated Music Video Prompt for Claude Opus</strong><br>
 <sub>Use: Motion graphics / music videos<br>Inputs: Reference MV; Song<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/doubleunplussed/status/2103697580421181894">Original post ↗</a> · <a href="../../prompts/2103697580421181894.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Don&#x27;t feel the need to represent everything in the lyrics literally</code>：明确允许隐喻和文化梗，让画面围绕歌词含义展开，而不是逐词机械配图。</blockquote>
+<!-- pro-tip:end -->
 </td>
 </tr>
 <tr>
@@ -167,18 +239,27 @@
 <strong>Deep Dish Music Video</strong><br>
 <sub>Use: Music video<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ParanoidAmerica/status/2103570879619686717">Original post ↗</a> · <a href="../../prompts/2103570879619686717.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>music video</code>：以歌曲或音乐作为创作依据；复用时提供可用音轨，并明确节拍、歌词与画面的对应关系。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2103510974796124569.md"><img src="../gifs/2103510974796124569.gif" alt="Dynamic Lyrics Motion Graphics Video" width="256" height="144" /></a><br>
 <strong>Dynamic Lyrics Motion Graphics Video</strong><br>
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/samaote/status/2103510974796124569">Original post ↗</a> · <a href="../../prompts/2103510974796124569.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>lyrics</code>：以歌曲或音乐作为创作依据；复用时提供可用音轨，并明确节拍、歌词与画面的对应关系。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2103336310089842921.md"><img src="../gifs/2103336310089842921.gif" alt="Peter Gabriel Style Music Video Prompt" width="256" height="144" /></a><br>
 <strong>Peter Gabriel Style Music Video</strong><br>
 <sub>Use: Music video<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/DavidShulmanFL/status/2103336310089842921">Original post ↗</a> · <a href="../../prompts/2103336310089842921.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>music video</code>：以歌曲或音乐作为创作依据；复用时提供可用音轨，并明确节拍、歌词与画面的对应关系。</blockquote>
+<!-- pro-tip:end -->
 </td>
 </tr>
 <tr>
@@ -187,18 +268,27 @@
 <strong>Short Story Animation</strong><br>
 <sub>Use: A prompt asking Claude to generate a 9:16 short story animation with sound effects using specific app assets and teaser elements.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/jackfriks/status/2103132260589338762">Original post ↗</a> · <a href="../../prompts/2103132260589338762.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>9:16</code>：先规定画幅或分辨率，帮助构图适配目标发布场景，减少导出后再裁切。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2103019799614034026.md"><img src="../gifs/2103019799614034026.gif" alt="Paper Cut-Out Shadow Theatre Animation" width="256" height="144" /></a><br>
 <strong>Paper Cut-Out Shadow Theatre Animation</strong><br>
 <sub>Use: A prompt requesting a vertical JavaScript animation in a paper cut-out shadow theatre style with synthesized audio on the theme of home.<br>Inputs: User inputs not specified by the author<br>Tools: JavaScript</sub><br>
 <sub><a href="https://x.com/x4b47x/status/2103019799614034026">Original post ↗</a> · <a href="../../prompts/2103019799614034026.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>9:16</code>：先规定画幅或分辨率，帮助构图适配目标发布场景，减少导出后再裁切。</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2102989395359887481.md"><img src="../gifs/2102989395359887481.gif" alt="Three.js Animated Story Prompt" width="256" height="144" /></a><br>
 <strong>Three.js Animated Story</strong><br>
 <sub>Use: A prompt asking the model to imagine a story and render a full animation using Three.js in the style of an 80s Star Wars or 90s cartoon.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Ryzoft/status/2102989395359887481">Original post ↗</a> · <a href="../../prompts/2102989395359887481.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>threejs</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<!-- pro-tip:end -->
 </td>
 </tr>
 <tr>
@@ -207,6 +297,9 @@
 <strong>Silent Short Film</strong><br>
 <sub>Use: A prompt instructing Opus 5.5 to create an original 45-second silent short film without dialogue, utilizing sound to tell half the narrative.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/KamStudioLabs/status/2102908742518100086">Original post ↗</a> · <a href="../../prompts/2102908742518100086.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Make a 45-second silent short film with no dialogue, where sound tells half the story. Invent the story.</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<!-- pro-tip:end -->
 </td><td></td><td></td>
 </tr>
 </table>
