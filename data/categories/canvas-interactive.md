@@ -8,7 +8,7 @@
 <sub>Use: Interactive 3D Honey Jelly Mouse<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/keydol123/status/2109198771712303213">Original post ↗</a> · <a href="../../prompts/2109198771712303213.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Build an interactive computer mouse made entirely of honey jelly.</code>：把用户操作纳入目标；复用时明确操作触发什么状态变化，避免只得到可观看的静态场景。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Build an interactive computer mouse made entirely of honey jelly.</code>: Specify how user input changes state so the result is interactive rather than merely viewable.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -17,7 +17,7 @@
 <sub>Use: Interactive Agent Observability World<br>Inputs: No external assets required by the prompt<br>Tools: HTML/Canvas/SVG/CSS</sub><br>
 <sub><a href="https://x.com/kinderlayer/status/2108936150681305270">Original post ↗</a> · <a href="../../prompts/2108936150681305270.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>No external assets</code>：把外部依赖排除出实现范围，减少缺失素材、未安装库或网络请求导致的运行问题。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>No external assets</code>: Exclude external dependencies to reduce failures caused by missing assets, libraries or network requests.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -26,7 +26,7 @@
 <sub>Use: Interactive Procedural Web Artwork<br>Inputs: User inputs not specified by the author<br>Tools: Claude Code / JavaScript</sub><br>
 <sub><a href="https://x.com/chetaslua/status/2108902793797091808">Original post ↗</a> · <a href="../../prompts/2108902793797091808.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>website</code>：明确界面展示的对象；复用时补充内容层级、状态变化和真实数据，避免只有静态装饰。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>website</code>: Specify content hierarchy, state changes and real data for the interface rather than static decoration.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <sub>Use: Procedural First-Person Rigging &amp; Three.js Shader Implementation<br>Inputs: Existing Three.js game codebase with item meshes, public arm API facade, and game world environment<br>Tools: MPFB2 / Three.js</sub><br>
 <sub><a href="https://x.com/maxt3chno/status/2108637690698633713">Original post ↗</a> · <a href="../../prompts/2108637690698633713.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Three.js</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Three.js</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -46,7 +46,7 @@
 <sub>Use: Fall Foliage Interactive Browser Simulator<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/maker_evan/status/2108520350908916007">Original post ↗</a> · <a href="../../prompts/2108520350908916007.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Create an interactive fall foliage simulator as a polished browser experience</code>：把用户操作纳入目标；复用时明确操作触发什么状态变化，避免只得到可观看的静态场景。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Create an interactive fall foliage simulator as a polished browser experience</code>: Specify how user input changes state so the result is interactive rather than merely viewable.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -55,7 +55,7 @@
 <sub>Use: Interactive 3D Gummy Dice Experience<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/maker_evan/status/2108505251036774875">Original post ↗</a> · <a href="../../prompts/2108505251036774875.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Create an interactive 3D gummy dice experience in the browser</code>：把用户操作纳入目标；复用时明确操作触发什么状态变化，避免只得到可观看的静态场景。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Create an interactive 3D gummy dice experience in the browser</code>: Specify how user input changes state so the result is interactive rather than merely viewable.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -66,7 +66,7 @@
 <sub>Use: Procedural WebGPU Jelly Pirate Cove Diorama<br>Inputs: User inputs not specified by the author<br>Tools: Claude Artifacts / WebGPU / WGSL</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2108336208891801999">Original post ↗</a> · <a href="../../prompts/2108336208891801999.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Single HTML file</code>：明确交付一个 HTML 文件，便于保存和在浏览器打开；仍需检查实际是否引入了外部依赖。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Single HTML file</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -75,7 +75,7 @@
 <sub>Use: Balinese Gamelan Interactive Audio-Visual Simulator<br>Inputs: User inputs not specified by the author<br>Tools: Claude Artifacts</sub><br>
 <sub><a href="https://x.com/yulikay/status/2108275570534707601">Original post ↗</a> · <a href="../../prompts/2108275570534707601.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Surprise me</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Surprise me</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -84,7 +84,7 @@
 <sub>Use: Minecraft voxel engine clone in single HTML file<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 / JavaScript / WebGL2</sub><br>
 <sub><a href="https://x.com/sgarlen01/status/2108257115026649419">Original post ↗</a> · <a href="../../prompts/2108257115026649419.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make a minecraft clone. insane quality</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>make a minecraft clone. insane quality</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -95,7 +95,7 @@
 <sub>Use: Interactive 3D Racing Game Demo<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/buzzybats/status/2108195714081738990">Original post ↗</a> · <a href="../../prompts/2108195714081738990.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Create a hyper-realistic NFS-inspired racing game (one highly polished, fully playable demo scene)</code>：先限定玩法类型或参与方式；复用时补齐操作、规则和胜负条件，才能从场景变成可玩的系统。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Create a hyper-realistic NFS-inspired racing game (one highly polished, fully playable demo scene)</code>: Define the game type or participation model, then add controls, rules and win/loss conditions.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -104,7 +104,7 @@
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Kyler_Lorin/status/2105090561023901698">Original post ↗</a> · <a href="../../prompts/2105090561023901698.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>pull to shoot, and mobile first</code>：直接指定拖拽蓄力击球与手机优先，让操作设计服务于具体手势而非桌面鼠标假设。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>pull to shoot, and mobile first</code>: Specify drag-to-charge hitting and mobile-first use so controls match the intended gesture.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -113,7 +113,7 @@
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/aichrislee/status/2105086032005726712">Original post ↗</a> · <a href="../../prompts/2105086032005726712.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>One HTML file</code>：明确交付一个 HTML 文件，便于保存和在浏览器打开；仍需检查实际是否引入了外部依赖。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>One HTML file</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -124,7 +124,7 @@
 <sub>Use: Browser-based 3D bodycam shooter game<br>Inputs: User inputs not specified by the author<br>Tools: Browser renderer test harness / Three.js / Web Shaders</sub><br>
 <sub><a href="https://x.com/superalesha/status/2104920915112829231">Original post ↗</a> · <a href="../../prompts/2104920915112829231.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>ThreeJS</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>ThreeJS</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -133,7 +133,7 @@
 <sub>Use: Interactive floor-plan design tool<br>Inputs: Floor plan image with millimeter dimension annotations<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/akokoi1/status/2104520072014508316">Original post ↗</a> · <a href="../../prompts/2104520072014508316.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>according to the dimension markings (mm) in the image</code>：把平面图尺寸和毫米单位设为建模依据，避免房间与家具只在视觉上相似、比例却不一致。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>according to the dimension markings (mm) in the image</code>: Use floor-plan dimensions and millimeter units to keep rooms and furniture proportional.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -142,7 +142,7 @@
 <sub>Use: Calming rain interaction<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/d_llm_kr/status/2104189915693269112">Original post ↗</a> · <a href="../../prompts/2104189915693269112.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>while listening to the sound of rain</code>：把观看与互动放在雨声陪伴的使用场景中；复用时补充音源和操作方式，避免只得到静态背景。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>while listening to the sound of rain</code>: Frame the experience around rain ambience, then provide audio sources and interaction methods.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -153,7 +153,7 @@
 <sub>Use: 3D exploration game / hidden cats<br>Inputs: User inputs not specified by the author<br>Tools: Claude Code</sub><br>
 <sub><a href="https://x.com/MandelDuck/status/2103802923465768972">Original post ↗</a> · <a href="../../prompts/2103802923465768972.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>walk around and spot cats inside of a van gogh painting</code>：将画作风格与“漫游找猫”的具体玩法绑定，给场景设计和交互一个共同目标。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>walk around and spot cats inside of a van gogh painting</code>: Tie the painting style to a concrete activity: walking around and finding cats.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -162,7 +162,7 @@
 <sub>Use: Procedural Photo Painting Web App<br>Inputs: Landscape photo of Golden Gate Bridge at sunset<br>Tools: HTML5 Canvas / JavaScript</sub><br>
 <sub><a href="https://x.com/betancur/status/2103641070299218145">Original post ↗</a> · <a href="../../prompts/2103641070299218145.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>repaint it stroke by stroke</code>：要求展示逐笔重绘过程，使绘画成为可观看的时间序列，而不只是输出完成图。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>repaint it stroke by stroke</code>: Require the stroke-by-stroke redraw so painting becomes a visible sequence rather than a finished image.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -171,7 +171,7 @@
 <sub>Use: Browser 3D Voxel Engine Game<br>Inputs: User inputs not specified by the author<br>Tools: Three.js / WebGL2</sub><br>
 <sub><a href="https://x.com/oviniciuslana/status/2103086714772463953">Original post ↗</a> · <a href="../../prompts/2103086714772463953.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>create an ultra-realistic game engine without using libs and then create an ultra-realistic minecraft-style game that runs in the browser in html</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>create an ultra-realistic game engine without using libs and then create an ultra-realistic minecraft-style game that runs in the browser in html</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -182,7 +182,7 @@
 <sub>Use: Interactive 3D Truco Mineiro Game<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 / WebGL</sub><br>
 <sub><a href="https://x.com/oviniciuslana/status/2102493035393372363">Original post ↗</a> · <a href="../../prompts/2102493035393372363.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>create a truco mineiro game in html with all the details in 3d</code>：限定空间建模或三维展示方向；复用时补充尺寸、视角和材质，减少模型对空间细节的猜测。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>create a truco mineiro game in html with all the details in 3d</code>: Add dimensions, camera views and materials to the spatial brief to reduce guesswork.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -191,7 +191,7 @@
 <sub>Use: 3D Lawn Mower Simulator Game<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/aiquantum3/status/2110014984549986485">Original post ↗</a> · <a href="../../prompts/2110014984549986485.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>goal is to build me a triple aaa level lawn mower simulator i can drink beer and smoke a cigar.</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>goal is to build me a triple aaa level lawn mower simulator i can drink beer and smoke a cigar.</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -200,7 +200,7 @@
 <sub>Use: Interactive 3D gesture manipulation<br>Inputs: User webcam feed for real-time MediaPipe hand tracking<br>Tools: Framer / Google MediaPipe</sub><br>
 <sub><a href="https://x.com/emili_iv/status/2109388484569924030">Original post ↗</a> · <a href="../../prompts/2109388484569924030.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>click</code>：把用户操作纳入目标；复用时明确操作触发什么状态变化，避免只得到可观看的静态场景。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>click</code>: Specify how user input changes state so the result is interactive rather than merely viewable.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -211,7 +211,7 @@
 <sub>Use: Thermal Courier Procedural Canvas Game and Trailer<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 Canvas</sub><br>
 <sub><a href="https://x.com/jeffbruchado/status/2108951077991362922">Original post ↗</a> · <a href="../../prompts/2108951077991362922.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>single self-contained HTML file</code>：明确交付一个 HTML 文件，便于保存和在浏览器打开；仍需检查实际是否引入了外部依赖。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>single self-contained HTML file</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -220,7 +220,7 @@
 <sub>Use: Movie Genre Historical Timeline Visualization<br>Inputs: User inputs not specified by the author<br>Tools: claude motion artifact</sub><br>
 <sub><a href="https://x.com/gavinpurcell/status/2108932593911816392">Original post ↗</a> · <a href="../../prompts/2108932593911816392.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>look at the entire history of movies and show me (visually) how genres have changed over the last 100 years</code>：给出讲解或研究对象；公开片段未展开事实与脚本，复用时先补充来源、受众和关键结论。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>look at the entire history of movies and show me (visually) how genres have changed over the last 100 years</code>: Identify the teaching or research subject, then supply sources, audience and key conclusions before scripting.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -229,7 +229,7 @@
 <sub>Use: Interactive 3D MOBA Character Demo<br>Inputs: User inputs not specified by the author<br>Tools: OBS Studio</sub><br>
 <sub><a href="https://x.com/stablequan/status/2108932159419339151">Original post ↗</a> · <a href="../../prompts/2108932159419339151.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>design a character that is a mix between Zed from League and SF from DotA 2</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>design a character that is a mix between Zed from League and SF from DotA 2</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -240,7 +240,7 @@
 <sub>Use: RPG Combat Mockup<br>Inputs: User inputs not specified by the author<br>Tools: codex cli / GPT Images</sub><br>
 <sub><a href="https://x.com/huchat_gamedev/status/2108883842061013088">Original post ↗</a> · <a href="../../prompts/2108883842061013088.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Add color when combat starts</code>：把颜色变化绑定到战斗开始的状态，利用视觉变化提示叙事或交互阶段。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Add color when combat starts</code>: Tie the color change to the start of battle so it signals a new narrative or interaction state.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -249,7 +249,7 @@
 <sub>Use: Mario 64 and Elden Ring Crossover<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/0xDeniAi/status/2108611423421043095">Original post ↗</a> · <a href="../../prompts/2108611423421043095.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>drop Mario 64 into Elden Ring</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>drop Mario 64 into Elden Ring</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -258,7 +258,7 @@
 <sub>Use: Attack on Titan Minecraft Game<br>Inputs: User inputs not specified by the author<br>Tools: Netlify</sub><br>
 <sub><a href="https://x.com/nicksaraev/status/2108604020814233606">Original post ↗</a> · <a href="../../prompts/2108604020814233606.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make Attack on Titan in Minecraft</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>make Attack on Titan in Minecraft</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -269,7 +269,7 @@
 <sub>Use: Procedural 3D browser game generation<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/0xRhinoX/status/2108588869255827570">Original post ↗</a> · <a href="../../prompts/2108588869255827570.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>One rule: no assets</code>：明确不使用素材的制作边界，要求场景依赖代码生成；仍需检查输出是否加载了外部资源。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>One rule: no assets</code>: Require code-generated content with no assets, then check the output for external resource loads.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -278,7 +278,7 @@
 <sub>Use: Myths vs Ink Fighting Game<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Techsupersta/status/2108587180218327099">Original post ↗</a> · <a href="../../prompts/2108587180218327099.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>build a fighting game where gods and monsters take on the icons of classic literature.</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>build a fighting game where gods and monsters take on the icons of classic literature.</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -287,7 +287,7 @@
 <sub>Use: Interactive 3D Kaiju Stomp Game Demo<br>Inputs: User inputs not specified by the author<br>Tools: Claude Code / Maxon Cinema 4D MCP Bridge / Three.js</sub><br>
 <sub><a href="https://x.com/DLGNCE/status/2108558677850435724">Original post ↗</a> · <a href="../../prompts/2108558677850435724.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Hey claude, turn this wolf kaiju into a tabby cat mech.</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Hey claude, turn this wolf kaiju into a tabby cat mech.</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -298,7 +298,7 @@
 <sub>Use: Interactive 2D Retro Game Coded and Autonomously Played by AI<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 Canvas / JavaScript</sub><br>
 <sub><a href="https://x.com/IAenCrudo/status/2108553430708990181">Original post ↗</a> · <a href="../../prompts/2108553430708990181.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>a 90s Zelda… and then, beat it all by himself</code>：以歌曲或音乐作为创作依据；复用时提供可用音轨，并明确节拍、歌词与画面的对应关系。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>a 90s Zelda… and then, beat it all by himself</code>: Provide the soundtrack and specify how beats or lyrics map to visual events.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -307,7 +307,7 @@
 <sub>Use: Interactive 3D Zen Garden<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/arixxbt/status/2108541814718292438">Original post ↗</a> · <a href="../../prompts/2108541814718292438.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>one html file</code>：明确交付一个 HTML 文件，便于保存和在浏览器打开；仍需检查实际是否引入了外部依赖。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>one html file</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -316,7 +316,7 @@
 <sub>Use: Interactive 3D Sky Island Balance Game<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/0xbobaaa/status/2108495368585371666">Original post ↗</a> · <a href="../../prompts/2108495368585371666.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>A GAME YOU CAN&#x27;T PUT DOWN</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>A GAME YOU CAN&#x27;T PUT DOWN</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -327,7 +327,7 @@
 <sub>Use: App Feature Implementation &amp; Screen Recording Walkthrough<br>Inputs: Pre-existing todolist mobile application codebase for iPhone and Android<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/equivalent8/status/2108484778747920389">Original post ↗</a> · <a href="../../prompts/2108484778747920389.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>record videos for both</code>：要求两个平台都提供录屏，便于检查离线功能的实际表现，而不只看代码改动。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>record videos for both</code>: Require screen recordings from both platforms to verify offline behavior rather than reviewing code alone.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -336,7 +336,7 @@
 <sub>Use: Interactive QWOP-style Cow Runner Game<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/AIMind_Ai/status/2108428917509911018">Original post ↗</a> · <a href="../../prompts/2108428917509911018.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Told Claude to make a cow that runs on its own teats and it just built the game.</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Told Claude to make a cow that runs on its own teats and it just built the game.</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -345,7 +345,7 @@
 <sub>Use: RDR2 and Minecraft Mashup Demo<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/0xAidanAi/status/2108303873538683065">Original post ↗</a> · <a href="../../prompts/2108303873538683065.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>put minecraft into rdr2</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>put minecraft into rdr2</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -356,7 +356,7 @@
 <sub>Use: Attack on Titan ODM Gear in Minecraft<br>Inputs: User inputs not specified by the author<br>Tools: Grappling Mod and Shaders / Minecraft</sub><br>
 <sub><a href="https://x.com/0xDeniAi/status/2108301605544047099">Original post ↗</a> · <a href="../../prompts/2108301605544047099.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>put Attack on Titan gear into Minecraft</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>put Attack on Titan gear into Minecraft</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -365,7 +365,7 @@
 <sub>Use: Interactive 3D Desert Runner Game<br>Inputs: User inputs not specified by the author<br>Tools: Claude Artifacts</sub><br>
 <sub><a href="https://x.com/N1njaCodex/status/2108238386318180841">Original post ↗</a> · <a href="../../prompts/2108238386318180841.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Asked Claude Opus 5.5 for a camel.</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Asked Claude Opus 5.5 for a camel.</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -374,7 +374,7 @@
 <sub>Use: Lantern Rise Rooftop Stacker Game &amp; Trailer<br>Inputs: No external assets required by the prompt<br>Tools: HTML5 Canvas</sub><br>
 <sub><a href="https://x.com/jeffbruchado/status/2108226414621380679">Original post ↗</a> · <a href="../../prompts/2108226414621380679.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>no external assets</code>：把外部依赖排除出实现范围，减少缺失素材、未安装库或网络请求导致的运行问题。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>no external assets</code>: Exclude external dependencies to reduce failures caused by missing assets, libraries or network requests.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -385,7 +385,7 @@
 <sub>Use: Interactive 3D Game Environment<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/bonnyxen/status/2107843676135100870">Original post ↗</a> · <a href="../../prompts/2107843676135100870.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>put Minecraft inside GTA 5</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>put Minecraft inside GTA 5</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -394,7 +394,7 @@
 <sub>Use: Interactive 3D Data Center Explainer<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/IAenCrudo/status/2107591732561097013">Original post ↗</a> · <a href="../../prompts/2107591732561097013.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>convert an AI data center into a video game</code>：给出讲解或研究对象；公开片段未展开事实与脚本，复用时先补充来源、受众和关键结论。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>convert an AI data center into a video game</code>: Identify the teaching or research subject, then supply sources, audience and key conclusions before scripting.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -403,7 +403,7 @@
 <sub>Use: The Sims 1 Three.js Browser Port<br>Inputs: Original The Sims 1 ISO image file provided to the agent for extraction and porting<br>Tools: Cursorful / Three.js</sub><br>
 <sub><a href="https://x.com/fipiaggio/status/2107172334423650521">Original post ↗</a> · <a href="../../prompts/2107172334423650521.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>/goal</code>：这是工作流命令，具体行为取决于配套技能与项目上下文；复用时先取得对应工作流定义。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>/goal</code>: This is a workflow command whose behavior depends on its supporting skill and project context; obtain that workflow definition before reuse.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -414,7 +414,7 @@
 <sub>Use: Browser Space Racing Game<br>Inputs: User inputs not specified by the author<br>Tools: Web browser / WebGL 3D engine</sub><br>
 <sub><a href="https://x.com/Ryancampbell/status/2105160746363662816">Original post ↗</a> · <a href="../../prompts/2105160746363662816.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>turn Kart Royale into a spacing racing game</code>：先限定玩法类型或参与方式；复用时补齐操作、规则和胜负条件，才能从场景变成可玩的系统。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>turn Kart Royale into a spacing racing game</code>: Define the game type or participation model, then add controls, rules and win/loss conditions.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -423,7 +423,7 @@
 <sub>Use: Interactive 3D Electrical Experiment Workbench<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/akokoi1/status/2105143909311803524">Original post ↗</a> · <a href="../../prompts/2105143909311803524.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Make an electrical experiment testbench</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Make an electrical experiment testbench</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -432,7 +432,7 @@
 <sub>Use: System Monitoring Live Web Dashboard<br>Inputs: Docker daemon API host endpoint and credentials for collecting metrics<br>Tools: Docker</sub><br>
 <sub><a href="https://x.com/Jaidcel/status/2105102932114813383">Original post ↗</a> · <a href="../../prompts/2105102932114813383.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Make a web app that shows a btop-like live dashboard of any machine. It should work out of the box for remote targets with a Docker server.</code>：明确界面展示的对象；复用时补充内容层级、状态变化和真实数据，避免只有静态装饰。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Make a web app that shows a btop-like live dashboard of any machine. It should work out of the box for remote targets with a Docker server.</code>: Specify content hierarchy, state changes and real data for the interface rather than static decoration.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -443,7 +443,7 @@
 <sub>Use: Opus 5.5 was prompted to turn a 2D mascot character into an interactive 3D model, generating toon shading and a blinking animation compared against GPT-6.1 Sol.<br>Inputs: Reference illustration of Dopadrill's mascot character 'ドパキチ' (Dopakichi)<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/grmchn4ai/status/2105095134354473053">Original post ↗</a> · <a href="../../prompts/2105095134354473053.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Make a 3D model of this</code>：限定空间建模或三维展示方向；复用时补充尺寸、视角和材质，减少模型对空间细节的猜测。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Make a 3D model of this</code>: Add dimensions, camera views and materials to the spatial brief to reduce guesswork.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -452,7 +452,7 @@
 <sub>Use: Discrete Event Simulation Game<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/konstantinsaifo/status/2105028528198541622">Original post ↗</a> · <a href="../../prompts/2105028528198541622.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>build a game where you run a factory against an AI.</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>build a game where you run a factory against an AI.</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -461,7 +461,7 @@
 <sub>Use: Interactive 3D Merch Portfolio<br>Inputs: Mockup images of merchandise apparel<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/cambreedesigns/status/2104999693113766152">Original post ↗</a> · <a href="../../prompts/2104999693113766152.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>in my first main prompt i uploaded images of all the mocks ups and told opus</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>in my first main prompt i uploaded images of all the mocks ups and told opus</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -472,7 +472,7 @@
 <sub>Use: Interactive Jackpot App Prototype<br>Inputs: User inputs not specified by the author<br>Tools: Claude Opus 5.5 / GPT 5 / higgsfield MCP / mobbin MCP</sub><br>
 <sub><a href="https://x.com/rehanxahmed/status/2104939145252749710">Original post ↗</a> · <a href="../../prompts/2104939145252749710.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Feed image to Claude and ask it to build 1:1</code>：以输入图像作为一比一参考；复用时必须提供该图，并逐项检查比例、位置与颜色。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Feed image to Claude and ask it to build 1:1</code>: Use the input image as a one-to-one reference and check proportions, positions and colors against it.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -481,7 +481,7 @@
 <sub>Use: The author modeled a Game Boy style housing using their MONORAL engine with the LCD rendered on canvas, then prompted Claude Opus 5.5 to recreate the Game Boy version of Tetris to run within MONORAL.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/mickeysmith_jp/status/2104539335249088582">Original post ↗</a> · <a href="../../prompts/2104539335249088582.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Could you recreate the Game Boy version of Tetris and make it run on MONORAL?</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Could you recreate the Game Boy version of Tetris and make it run on MONORAL?</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -490,7 +490,7 @@
 <sub>Use: Ann Nguyen shares an interactive screen recording generated with Claude Opus 5.5 showing a 3D exploded view of physical sticker layers with live rotation and interaction.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ann_nnng/status/2104532802486345950">Original post ↗</a> · <a href="../../prompts/2104532802486345950.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>show how many layers a sticker has</code>：将展示目标从平面外观转为分层结构；复用时给出层数、材质和展开顺序。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>show how many layers a sticker has</code>: Ask for layered structure rather than surface appearance, then specify layer count, materials and reveal order.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -501,7 +501,7 @@
 <sub>Use: Interactive 3D swamp environment with boat, water wake, dynamic lighting, and foliage vibe-coded in Three.js using Claude Opus 5.5.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/chetanankola/status/2104509574409769436">Original post ↗</a> · <a href="../../prompts/2104509574409769436.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>just a peaceful swamp is all.. i asked.</code>：给出环境或自然现象作为视觉主题；复用时补充运动方向、密度和光照，形成可执行的场景要求。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>just a peaceful swamp is all.. i asked.</code>: Turn the environment into an actionable scene brief with movement direction, density and lighting.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -510,7 +510,7 @@
 <sub>Use: An interactive educational webpage with step-by-step animations explaining ions, coordinate bonding in hydronium (H3O+), and an interactive comprehension quiz generated using Claude Opus 5.5.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/neco1751662/status/2104485636690584000">Original post ↗</a> · <a href="../../prompts/2104485636690584000.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Please add animation</code>：明确需要时间变化；复用时补充动作阶段、速度和结束状态，避免只得到一张场景图。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Please add animation</code>: Define motion phases, speed and the end state so the output changes over time rather than remaining a still scene.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -519,7 +519,7 @@
 <sub>Use: The author prompts Opus 5.5 and Fable 5 with 'Build an ultra-realistic flight simulator' and demonstrates screen recordings of the resulting playable flight simulation experiences.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/cryptocatguru/status/2104467552281952473">Original post ↗</a> · <a href="../../prompts/2104467552281952473.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Build an ultra-realistic flight simulator.</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Build an ultra-realistic flight simulator.</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -530,7 +530,7 @@
 <sub>Use: Author showcases an interactive 3D fireball spell casting simulation created with Claude Opus 5.5 across varying effort levels (low, medium, high, xhigh, max).<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/VibeCode_SahilM/status/2104452405144535314">Original post ↗</a> · <a href="../../prompts/2104452405144535314.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Creating fire ball spell animation</code>：明确需要时间变化；复用时补充动作阶段、速度和结束状态，避免只得到一张场景图。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Creating fire ball spell animation</code>: Define motion phases, speed and the end state so the output changes over time rather than remaining a still scene.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -539,7 +539,7 @@
 <sub>Use: 作者让 Opus 5.5 介绍自己能制作何种类型的视频，模型构思了动画片《我只会写字》并生成逐帧绘制的 Canvas/代码动画脚本与旁白。<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/kokoro_886/status/2104441050211475528">Original post ↗</a> · <a href="../../prompts/2104441050211475528.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Introduce what kind of videos you can make</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Introduce what kind of videos you can make</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -548,7 +548,7 @@
 <sub>Use: Claude Opus 5.5 was prompted via the API to visually explain camera focus, generating a complex interactive 3D lens simulation where users can manipulate the focus ring to observe the plane of focus, ray convergence, and sensor image.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/rdominguezibar/status/2104436377546818041">Original post ↗</a> · <a href="../../prompts/2104436377546818041.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>explain camera focus visually</code>：给出讲解或研究对象；公开片段未展开事实与脚本，复用时先补充来源、受众和关键结论。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>explain camera focus visually</code>: Identify the teaching or research subject, then supply sources, audience and key conclusions before scripting.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -559,7 +559,7 @@
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/RAJKATAJJ/status/2104434742959755463">Original post ↗</a> · <a href="../../prompts/2104434742959755463.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>A hyperrealistic landslide escape game.</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>A hyperrealistic landslide escape game.</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -568,7 +568,7 @@
 <sub>Use: A screen recording showing an interactive 3D explainer web application of a twin-turbo V12 engine created with Claude Opus 5.5, featuring exploded views, part inspection, and combustion cycle animations.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ImperiumMentisX/status/2104421343429312968">Original post ↗</a> · <a href="../../prompts/2104421343429312968.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>an explodable interactive twin-turbo V12 engine</code>：把用户操作纳入目标；复用时明确操作触发什么状态变化，避免只得到可观看的静态场景。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>an explodable interactive twin-turbo V12 engine</code>: Specify how user input changes state so the result is interactive rather than merely viewable.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -577,7 +577,7 @@
 <sub>Use: Tiago Chi demonstrates a 3D interactive claymation-style web game created with Claude Opus 5.5, where players navigate a school full of zombie teachers.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/tiagochilanti/status/2104407040135164032">Original post ↗</a> · <a href="../../prompts/2104407040135164032.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>I created a game with Opus 5.5 made entirely out of modeling clay, set in a school where the teachers have turned into zombies.</code>：限定空间建模或三维展示方向；复用时补充尺寸、视角和材质，减少模型对空间细节的猜测。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>I created a game with Opus 5.5 made entirely out of modeling clay, set in a school where the teachers have turned into zombies.</code>: Add dimensions, camera views and materials to the spatial brief to reduce guesswork.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -588,7 +588,7 @@
 <sub>Use: Author demonstrates a 3D flight simulator project created by prompting Claude Opus 5.5, featuring cockpit instrumentation, switchable camera angles, and city navigation.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ekcheungAI/status/2104406088862810533">Original post ↗</a> · <a href="../../prompts/2104406088862810533.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Write a flight simulator</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Write a flight simulator</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -597,7 +597,7 @@
 <sub>Use: Ann Nguyen tests Claude Opus 5.5 against GPT-6 Sol on building an interactive glitter sticker effect with tilt and peel animations.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ann_nnng/status/2104159923886244176">Original post ↗</a> · <a href="../../prompts/2104159923886244176.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>create the glitter sticker effect</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>create the glitter sticker effect</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -606,7 +606,7 @@
 <sub>Use: Konstantin Saifoulline showcases an interactive Three.js 3D browser simulation of SpaceX's Raptor 3 engine generated with Claude Opus 5.5, featuring cutaway views, propellant flow paths, throttling controls, and shock diamonds.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/konstantinsaifo/status/2104094723887501736">Original post ↗</a> · <a href="../../prompts/2104094723887501736.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>explain how a rocket engine works by building an interactive Raptor 3 you can take apart in your browser</code>：把用户操作纳入目标；复用时明确操作触发什么状态变化，避免只得到可观看的静态场景。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>explain how a rocket engine works by building an interactive Raptor 3 you can take apart in your browser</code>: Specify how user input changes state so the result is interactive rather than merely viewable.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -617,7 +617,7 @@
 <sub>Use: Interactive Game Prototype<br>Inputs: Character reference images for fighter designs and move recreation<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/AiFreak_tool/status/2104055441517105570">Original post ↗</a> · <a href="../../prompts/2104055441517105570.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>&quot;Change this movement&quot; &quot;Add this move&quot;</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>&quot;Change this movement&quot; &quot;Add this move&quot;</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -626,7 +626,7 @@
 <sub>Use: A 3D browser simulation game depicting a tiny underground parcel delivery network, created using Claude Opus 5.5 and Three.js.<br>Inputs: User inputs not specified by the author<br>Tools: React / Three.js</sub><br>
 <sub><a href="https://x.com/lisp_mi/status/2104046743751139812">Original post ↗</a> · <a href="../../prompts/2104046743751139812.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>build a tiny underground delivery network in three.js</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>build a tiny underground delivery network in three.js</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -635,7 +635,7 @@
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/kepochnik/status/2103867115044237752">Original post ↗</a> · <a href="../../prompts/2103867115044237752.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>single HTML file</code>：明确交付一个 HTML 文件，便于保存和在浏览器打开；仍需检查实际是否引入了外部依赖。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>single HTML file</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -646,7 +646,7 @@
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/dreyk0o0/status/2103822946800165270">Original post ↗</a> · <a href="../../prompts/2103822946800165270.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>single HTML file</code>：明确交付一个 HTML 文件，便于保存和在浏览器打开；仍需检查实际是否引入了外部依赖。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>single HTML file</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -655,7 +655,7 @@
 <sub>Use: 3D multiplayer space game<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/0xChuckstock/status/2103804606794879327">Original post ↗</a> · <a href="../../prompts/2103804606794879327.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>take out key components of the star destroyer</code>：把攻击目标细化为敌舰的关键部件，让场景尺度与战斗目标关联，而不是泛泛生成太空射击。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>take out key components of the star destroyer</code>: Target specific enemy-ship components so combat objectives connect to the scene&#x27;s scale.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -664,7 +664,7 @@
 <sub>Use: Mobile arcade game prototype<br>Inputs: Existing Unity CLI project<br>Tools: Unity</sub><br>
 <sub><a href="https://x.com/froessell/status/2103789415323562325">Original post ↗</a> · <a href="../../prompts/2103789415323562325.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>The player cannot directly attack</code>：先限制玩家攻击能力，让驾驶、躲避和诱导碰撞成为核心玩法，减少系统方向发散。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>The player cannot directly attack</code>: Limit the player&#x27;s attack abilities so driving, evasion and induced collisions remain the core mechanics.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -675,7 +675,7 @@
 <sub>Use: Pixel-art card game prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/aisongman/status/2103763192971461057">Original post ↗</a> · <a href="../../prompts/2103763192971461057.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>1-on-1 card game like Hearthstone</code>：用一对一卡牌对战限定玩法类型；公开片段没有卡牌规则，复用时补齐回合、费用和胜负条件。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>1-on-1 card game like Hearthstone</code>: Specify a one-on-one card battle, then add turn rules, costs and victory conditions missing from the public fragment.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -684,7 +684,7 @@
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Ved_CJ/status/2103708392930066575">Original post ↗</a> · <a href="../../prompts/2103708392930066575.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>I want multiplayer game, with proximity chat, with destructurable environment, that players will enjoy, shooting game</code>：先限定玩法类型或参与方式；复用时补齐操作、规则和胜负条件，才能从场景变成可玩的系统。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>I want multiplayer game, with proximity chat, with destructurable environment, that players will enjoy, shooting game</code>: Define the game type or participation model, then add controls, rules and win/loss conditions.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -693,7 +693,7 @@
 <sub>Use: A prompt given to Claude Opus 5.5 to generate a MapleStory clone game using Raylib-cs.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/NoLit64/status/2103628970000347627">Original post ↗</a> · <a href="../../prompts/2103628970000347627.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Build a MapleStory clone in Raylib-cs.</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Build a MapleStory clone in Raylib-cs.</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -704,7 +704,7 @@
 <sub>Use: Procedural Web Game<br>Inputs: User inputs not specified by the author<br>Tools: Vanilla JavaScript / HTML5 Canvas</sub><br>
 <sub><a href="https://x.com/kikollan/status/2103578336018505763">Original post ↗</a> · <a href="../../prompts/2103578336018505763.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make something spectacular, Hades-like mechanics and inspired by &#x27;Another World&#x27; from 1991. Be creative!</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>make something spectacular, Hades-like mechanics and inspired by &#x27;Another World&#x27; from 1991. Be creative!</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -713,7 +713,7 @@
 <sub>Use: Interactive 2D/3D Furniture Layout Simulator<br>Inputs: Room dimensions of 3.00 x 3.40 m, 80 cm door, 1.20 x 0.60 m closet, and 1.40 x 1.90 m double bed.<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/goofyninjaaa/status/2103540288136315331">Original post ↗</a> · <a href="../../prompts/2103540288136315331.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>room of 3.00 x 3.40 m</code>：直接给出房间尺寸，再配合门、床和衣柜的尺寸，给空间布局明确的比例依据。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>room of 3.00 x 3.40 m</code>: Give explicit room dimensions alongside door, bed and wardrobe dimensions to anchor the layout.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -722,7 +722,7 @@
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/opener_ai/status/2103437714695843891">Original post ↗</a> · <a href="../../prompts/2103437714695843891.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Make a game like Romance of the Three Kingdoms III with a retro, pixelated classic vibe.</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Make a game like Romance of the Three Kingdoms III with a retro, pixelated classic vibe.</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -733,7 +733,7 @@
 <sub>Use: A detailed specification prompt for Claude to generate INKBOUND, a 16-bit sumi-e ink painting pixel runner game in a single self-contained HTML file using vanilla JavaScript, Canvas 2D, and Web Audio API.<br>Inputs: No external assets required by the prompt<br>Tools: Canvas 2D / Vanilla JavaScript</sub><br>
 <sub><a href="https://x.com/agentgamesbot/status/2103401820261355554">Original post ↗</a> · <a href="../../prompts/2103401820261355554.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>imageSmoothingEnabled = false</code>：关闭画布插值，配合整数倍缩放保留像素硬边，避免缩放造成模糊。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>imageSmoothingEnabled = false</code>: Disable canvas interpolation and use integer scaling to preserve crisp pixel edges.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -742,7 +742,7 @@
 <sub>Use: A prompt used with Claude Opus 5.5 to generate a high-energy launch video highlighting live stats, cross-platform play, and themes for an online tennis game.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/deifosv/status/2103197522382786581">Original post ↗</a> · <a href="../../prompts/2103197522382786581.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>launch</code>：明确商业展示用途；复用时提供产品素材、一个核心卖点和结束行动，减少空泛宣传镜头。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>launch</code>: Provide product assets, one key selling point and a closing action for a focused commercial presentation.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -751,7 +751,7 @@
 <sub>Use: A prompt used with Opus 5.5 to generate a Douglas A-1H Skyraider aircraft model entirely in Three.js within a single HTML file.<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/BuildFastWithAI/status/2103152898708582551">Original post ↗</a> · <a href="../../prompts/2103152898708582551.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Build a Douglas A-1H Skyraider in Three.js</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Build a Douglas A-1H Skyraider in Three.js</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -762,7 +762,7 @@
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/0xRathi/status/2102986585004511319">Original post ↗</a> · <a href="../../prompts/2102986585004511319.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make a Tron game.</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>make a Tron game.</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -771,7 +771,7 @@
 <sub>Use: Prompt provided to Claude Opus to create a 1990s-style demoscene demo synchronized to an S3M music track using C/C++ and OpenGL.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/gandamu_ml/status/2102919394775220530">Original post ↗</a> · <a href="../../prompts/2102919394775220530.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>I would like you to create a kickass, impressive 1990s style demoscene demo using this S3M</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>I would like you to create a kickass, impressive 1990s style demoscene demo using this S3M</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -780,7 +780,7 @@
 <sub>Use: Rube Goldberg Stationery Animation<br>Inputs: User inputs not specified by the author<br>Tools: JavaScript / JavaScript / Web Audio API</sub><br>
 <sub><a href="https://x.com/kohya_tech/status/2102896431883497891">Original post ↗</a> · <a href="../../prompts/2102896431883497891.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>animation</code>：明确需要时间变化；复用时补充动作阶段、速度和结束状态，避免只得到一张场景图。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>animation</code>: Define motion phases, speed and the end state so the output changes over time rather than remaining a still scene.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -791,7 +791,7 @@
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/chukinice/status/2102889901297426722">Original post ↗</a> · <a href="../../prompts/2102889901297426722.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Make a triple A game please</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Make a triple A game please</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -800,7 +800,7 @@
 <sub>Use: Game / playable prototype<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ggsimm/status/2102882622053535814">Original post ↗</a> · <a href="../../prompts/2102882622053535814.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>within the confines and abilities of my engine</code>：把现有引擎能力作为实现边界；复用时提供接口、示例和限制，避免生成无法接入的代码。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>within the confines and abilities of my engine</code>: Use the existing engine&#x27;s capabilities as implementation limits; provide APIs, examples and constraints.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -809,7 +809,7 @@
 <sub>Use: Interactive AI Persona Self-Portrait<br>Inputs: User inputs not specified by the author<br>Tools: Claude Artifacts</sub><br>
 <sub><a href="https://x.com/digi_dot_exe/status/2102486204419817954">Original post ↗</a> · <a href="../../prompts/2102486204419817954.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>draw what it&#x27;s like to be Claude</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>draw what it&#x27;s like to be Claude</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>

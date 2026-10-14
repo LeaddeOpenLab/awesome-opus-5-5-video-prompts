@@ -8,7 +8,7 @@
 <sub>Use: Interactive 3D Snow Globe<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/shmopixbzn/status/2110057151171338656">Original post ↗</a> · <a href="../../prompts/2110057151171338656.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>every shake leaves a lasting, softly accumulating snowfall</code>：要求每次摇晃都留下积雪，让互动改变场景状态，而不只是重复播放雪花特效。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>every shake leaves a lasting, softly accumulating snowfall</code>: Require snow to accumulate after each shake so interaction changes scene state instead of replaying an effect.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -17,7 +17,7 @@
 <sub>Use: Interactive Architectural Visualization<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/everestchris6/status/2110036224320884998">Original post ↗</a> · <a href="../../prompts/2110036224320884998.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>the critic compares a screenshot of our room with the matching photo</code>：用房间截图逐项对照参考照片，把“像不像”变成具体差异反馈；复用时给迭代设置停止条件。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>the critic compares a screenshot of our room with the matching photo</code>: Compare room screenshots with reference photos and turn differences into revision requests; set a stopping condition.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -26,7 +26,7 @@
 <sub>Use: Interactive 3D Bread Foam Physics Demo<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/semichenkko/status/2110015093190570491">Original post ↗</a> · <a href="../../prompts/2110015093190570491.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>single self-contained HTML file</code>：明确交付一个 HTML 文件，便于保存和在浏览器打开；仍需检查实际是否引入了外部依赖。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>single self-contained HTML file</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <sub>Use: Torii at High Tide WebGL Diorama<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2110014604524896392">Original post ↗</a> · <a href="../../prompts/2110014604524896392.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>fixed 60 Hz</code>：将更新节奏或内存分配写进实现要求，减少动画中的抖动风险；性能仍需实际运行检查。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>fixed 60 Hz</code>: Specify update timing or allocation constraints to reduce stutter; verify performance by running the result.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -46,7 +46,7 @@
 <sub>Use: Interactive 3D Lava Lamp<br>Inputs: Original aeoniumsky lava lamp reference GIF attached to the prompt.<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/aeoniumsky/status/2109620598704087055">Original post ↗</a> · <a href="../../prompts/2109620598704087055.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>the lava and colours all need to be the same</code>：把熔岩运动与配色都绑定到参考 GIF，减少只复刻题材却偏离参考观感的情况。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>the lava and colours all need to be the same</code>: Bind both lava motion and color to the reference GIF instead of copying only its subject.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -55,7 +55,7 @@
 <sub>Use: Interactive WebGPU Plush Penguin 3D Simulation<br>Inputs: User inputs not specified by the author<br>Tools: WebGPU</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2109288662319919127">Original post ↗</a> · <a href="../../prompts/2109288662319919127.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>XPBD</code>：点名物理模型或仿真类型，要求运动有计算依据；复用时检查参数、稳定性和交互响应。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>XPBD</code>: Name the physics model or simulation type, then check parameters, stability and interaction response.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -66,7 +66,7 @@
 <sub>Use: WebGPU Plush Hedgehog Physics Simulation<br>Inputs: User inputs not specified by the author<br>Tools: WebGPU</sub><br>
 <sub><a href="https://x.com/N1njaCodex/status/2109259805638455401">Original post ↗</a> · <a href="../../prompts/2109259805638455401.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>XPBD</code>：点名物理模型或仿真类型，要求运动有计算依据；复用时检查参数、稳定性和交互响应。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>XPBD</code>: Name the physics model or simulation type, then check parameters, stability and interaction response.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -75,7 +75,7 @@
 <sub>Use: Interactive 3D Cake Application<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/SadAlbert10/status/2109197651518636184">Original post ↗</a> · <a href="../../prompts/2109197651518636184.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>i love you, can we build a cool cake</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>i love you, can we build a cool cake</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -84,7 +84,7 @@
 <sub>Use: Hiking Documentary 3D Reconstruction Scene<br>Inputs: User inputs not specified by the author<br>Tools: Claude Haiku 5.5 / Three.js / 火山引擎 TTS</sub><br>
 <sub><a href="https://x.com/shengtang135754/status/2109132993617125532">Original post ↗</a> · <a href="../../prompts/2109132993617125532.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>single-file HTML</code>：明确交付一个 HTML 文件，便于保存和在浏览器打开；仍需检查实际是否引入了外部依赖。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>single-file HTML</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -95,7 +95,7 @@
 <sub>Use: Robotic Arm Kinematics Simulation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/0x_meden/status/2108914859492483132">Original post ↗</a> · <a href="../../prompts/2108914859492483132.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>6-joint robot arm i can build for $122</code>：同时限定关节数、可制造性和成本；复用时核对零件报价、尺寸与实际机械可行性。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>6-joint robot arm i can build for $122</code>: Specify joint count, manufacturability and cost together, then verify dimensions, pricing and mechanical feasibility.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -104,7 +104,7 @@
 <sub>Use: Interactive 3D WebGL Diorama<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/kepochnik/status/2108890995459047654">Original post ↗</a> · <a href="../../prompts/2108890995459047654.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Three.js</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Three.js</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -113,7 +113,7 @@
 <sub>Use: Interactive 3D Camera Lens Cutaway Exploder<br>Inputs: User inputs not specified by the author<br>Tools: Claude Code / Three.js</sub><br>
 <sub><a href="https://x.com/aichrislee/status/2108709764817408244">Original post ↗</a> · <a href="../../prompts/2108709764817408244.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>one HTML file</code>：明确交付一个 HTML 文件，便于保存和在浏览器打开；仍需检查实际是否引入了外部依赖。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>one HTML file</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -124,7 +124,7 @@
 <sub>Use: Interactive Jelly Diorama<br>Inputs: User inputs not specified by the author<br>Tools: Claude Artifacts / WebGPU</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2108649845405929924">Original post ↗</a> · <a href="../../prompts/2108649845405929924.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>WebGPU</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>WebGPU</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -133,7 +133,7 @@
 <sub>Use: Double Pendulum Chaos Simulation<br>Inputs: User inputs not specified by the author<br>Tools: Python</sub><br>
 <sub><a href="https://x.com/marsautomates/status/2108626076159357393">Original post ↗</a> · <a href="../../prompts/2108626076159357393.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Simulate</code>：把任务限定为可观察的模拟现象；复用时补充运动规则、参数和交互，避免只有相似外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Simulate</code>: Define the simulated phenomenon, then add motion rules, parameters and interaction beyond its appearance.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -142,7 +142,7 @@
 <sub>Use: Newton's Cradle Three.js Simulation<br>Inputs: Attached reference image showing cradle construction.<br>Tools: JavaScript / Three.js</sub><br>
 <sub><a href="https://x.com/ivanainai/status/2108625335122026542">Original post ↗</a> · <a href="../../prompts/2108625335122026542.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>fixed camera</code>：明确固定镜头，减少构图漂移，让主体运动更容易观察和对比。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>fixed camera</code>: Lock the camera to reduce framing drift and make subject motion easier to inspect.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -153,7 +153,7 @@
 <sub>Use: Cinematic sci-fi scene generation via prompt orchestration<br>Inputs: User inputs not specified by the author<br>Tools: Flova.ai / Seedance 2.5</sub><br>
 <sub><a href="https://x.com/MadMax_Series/status/2108577475752054868">Original post ↗</a> · <a href="../../prompts/2108577475752054868.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>camera static</code>：明确固定镜头，减少构图漂移，让主体运动更容易观察和对比。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>camera static</code>: Lock the camera to reduce framing drift and make subject motion easier to inspect.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -162,7 +162,7 @@
 <sub>Use: Interactive 3D Soft-Body WebGPU Simulation<br>Inputs: User inputs not specified by the author<br>Tools: WebAudio / WebGPU</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2108572856044986846">Original post ↗</a> · <a href="../../prompts/2108572856044986846.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>XPBD</code>：点名物理模型或仿真类型，要求运动有计算依据；复用时检查参数、稳定性和交互响应。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>XPBD</code>: Name the physics model or simulation type, then check parameters, stability and interaction response.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -171,7 +171,7 @@
 <sub>Use: Cinematic 3D F1 Pit Stop<br>Inputs: User inputs not specified by the author<br>Tools: Claude Haiku 5.5 / Three.js</sub><br>
 <sub><a href="https://x.com/rubenssoto_ai/status/2108512810774802657">Original post ↗</a> · <a href="../../prompts/2108512810774802657.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -182,7 +182,7 @@
 <sub>Use: Interactive 3D Eiffel Tower Scene<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/maker_evan/status/2108490153467478249">Original post ↗</a> · <a href="../../prompts/2108490153467478249.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Create the Eiffel Tower and its surroundings in Paris as a detailed interactive 3D browser scene</code>：把用户操作纳入目标；复用时明确操作触发什么状态变化，避免只得到可观看的静态场景。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Create the Eiffel Tower and its surroundings in Paris as a detailed interactive 3D browser scene</code>: Specify how user input changes state so the result is interactive rather than merely viewable.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -191,7 +191,7 @@
 <sub>Use: Interactive WebGPU Plush Toy Simulation<br>Inputs: User inputs not specified by the author<br>Tools: WebGPU</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2108486895344767283">Original post ↗</a> · <a href="../../prompts/2108486895344767283.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>XPBD</code>：点名物理模型或仿真类型，要求运动有计算依据；复用时检查参数、稳定性和交互响应。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>XPBD</code>: Name the physics model or simulation type, then check parameters, stability and interaction response.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -200,7 +200,7 @@
 <sub>Use: AH-64E Apache Guardian 3D Presentation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/maker_evan/status/2108475056082850278">Original post ↗</a> · <a href="../../prompts/2108475056082850278.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Create a detailed visual 3D presentation of an AH-64E Apache Guardian</code>：限定空间建模或三维展示方向；复用时补充尺寸、视角和材质，减少模型对空间细节的猜测。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Create a detailed visual 3D presentation of an AH-64E Apache Guardian</code>: Add dimensions, camera views and materials to the spatial brief to reduce guesswork.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -211,7 +211,7 @@
 <sub>Use: Interactive Educational 3D Jet Engine<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/maker_evan/status/2108459952683811167">Original post ↗</a> · <a href="../../prompts/2108459952683811167.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Build an interactive educational 3D jet engine in the browser</code>：明确讲解或可视化用途；复用时补充受众、关键结论和例子，并核对知识与数据。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Build an interactive educational 3D jet engine in the browser</code>: State the teaching or visualization purpose, then add audience, key conclusions and examples; verify facts and data.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -220,7 +220,7 @@
 <sub>Use: Tesseract 3D Shader Illusion<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 / WebGL</sub><br>
 <sub><a href="https://x.com/TragoBuilds/status/2108384651362394407">Original post ↗</a> · <a href="../../prompts/2108384651362394407.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>do some really wacky demo in html5 something 3d that is an illusion or beatufiul masterpiece of some kind</code>：限定空间建模或三维展示方向；复用时补充尺寸、视角和材质，减少模型对空间细节的猜测。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>do some really wacky demo in html5 something 3d that is an illusion or beatufiul masterpiece of some kind</code>: Add dimensions, camera views and materials to the spatial brief to reduce guesswork.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -229,7 +229,7 @@
 <sub>Use: Interactive 3D Saturn V rocket exploded view<br>Inputs: User inputs not specified by the author<br>Tools: Claude Code / Three.js</sub><br>
 <sub><a href="https://x.com/aichrislee/status/2108347412636938609">Original post ↗</a> · <a href="../../prompts/2108347412636938609.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>one HTML file</code>：明确交付一个 HTML 文件，便于保存和在浏览器打开；仍需检查实际是否引入了外部依赖。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>one HTML file</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -240,7 +240,7 @@
 <sub>Use: Interactive Jelly Koi Pond<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 / WebGL</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2108256366879981677">Original post ↗</a> · <a href="../../prompts/2108256366879981677.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>single self-contained HTML file</code>：明确交付一个 HTML 文件，便于保存和在浏览器打开；仍需检查实际是否引入了外部依赖。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>single self-contained HTML file</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -249,7 +249,7 @@
 <sub>Use: WebGPU Propane Tank Crushing and Explosion Simulation<br>Inputs: User inputs not specified by the author<br>Tools: Web Audio API / WebGPU / WGSL</sub><br>
 <sub><a href="https://x.com/theparuchh/status/2108249888571916688">Original post ↗</a> · <a href="../../prompts/2108249888571916688.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>single HTML file</code>：明确交付一个 HTML 文件，便于保存和在浏览器打开；仍需检查实际是否引入了外部依赖。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>single HTML file</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -258,7 +258,7 @@
 <sub>Use: Car Chase Previs<br>Inputs: User inputs not specified by the author<br>Tools: Blender / Blender MCP</sub><br>
 <sub><a href="https://x.com/tonysurix/status/2108230699224596746">Original post ↗</a> · <a href="../../prompts/2108230699224596746.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>in blender make a previs of a car driving thru a mountainside with a another car chasing. record a video and show me here when its done.</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>in blender make a previs of a car driving thru a mountainside with a another car chasing. record a video and show me here when its done.</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -269,7 +269,7 @@
 <sub>Use: Interactive 3D Coral Reef Diorama<br>Inputs: No external assets required by the prompt<br>Tools: three.js / Three.js / WebAudio API</sub><br>
 <sub><a href="https://x.com/0xRhinoX/status/2108218949808656725">Original post ↗</a> · <a href="../../prompts/2108218949808656725.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>No external assets</code>：把外部依赖排除出实现范围，减少缺失素材、未安装库或网络请求导致的运行问题。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>No external assets</code>: Exclude external dependencies to reduce failures caused by missing assets, libraries or network requests.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -278,7 +278,7 @@
 <sub>Use: 3D Spaceport Digital Twin Dashboard<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/HamidoFx1/status/2107870393444729090">Original post ↗</a> · <a href="../../prompts/2107870393444729090.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>visualization</code>：明确讲解或可视化用途；复用时补充受众、关键结论和例子，并核对知识与数据。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>visualization</code>: State the teaching or visualization purpose, then add audience, key conclusions and examples; verify facts and data.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -287,7 +287,7 @@
 <sub>Use: Interactive 3D Planetary Gearbox CAD Demo<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/KanikaBK/status/2107788313390416110">Original post ↗</a> · <a href="../../prompts/2107788313390416110.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>create me an interesting CAD 3D of any object</code>：限定空间建模或三维展示方向；复用时补充尺寸、视角和材质，减少模型对空间细节的猜测。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>create me an interesting CAD 3D of any object</code>: Add dimensions, camera views and materials to the spatial brief to reduce guesswork.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -298,7 +298,7 @@
 <sub>Use: Interactive 3D WebGPU Gummy Squid Simulation<br>Inputs: User inputs not specified by the author<br>Tools: WebGPU / WGSL</sub><br>
 <sub><a href="https://x.com/vib3coded/status/2105190658701201725">Original post ↗</a> · <a href="../../prompts/2105190658701201725.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>SOFT-BODY PHYSICS</code>：点名物理模型或仿真类型，要求运动有计算依据；复用时检查参数、稳定性和交互响应。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>SOFT-BODY PHYSICS</code>: Name the physics model or simulation type, then check parameters, stability and interaction response.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -307,7 +307,7 @@
 <sub>Use: Procedural Rube Goldberg Machine in Blender<br>Inputs: User inputs not specified by the author<br>Tools: Blender / Blender MCP / Cursor</sub><br>
 <sub><a href="https://x.com/Kwazikot/status/2104953406708175097">Original post ↗</a> · <a href="../../prompts/2104953406708175097.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>inspect the scene after each major step</code>：每完成一大步就检查场景，把几何错误尽早暴露，避免直到最终渲染才发现结构问题。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>inspect the scene after each major step</code>: Inspect the scene after each major step so geometry errors surface before the final render.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -316,7 +316,7 @@
 <sub>Use: Continuous Macro Zoom Explainer<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/Dino_Spike_web3/status/2104909723443302770">Original post ↗</a> · <a href="../../prompts/2104909723443302770.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>single HTML file</code>：明确交付一个 HTML 文件，便于保存和在浏览器打开；仍需检查实际是否引入了外部依赖。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>single HTML file</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -327,7 +327,7 @@
 <sub>Use: Interactive 3D Particle Morphing System<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 Canvas API / Three.js</sub><br>
 <sub><a href="https://x.com/DaisyDiao2/status/2104827632538022154">Original post ↗</a> · <a href="../../prompts/2104827632538022154.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>particle</code>：把任务限定为可观察的模拟现象；复用时补充运动规则、参数和交互，避免只有相似外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>particle</code>: Define the simulated phenomenon, then add motion rules, parameters and interaction beyond its appearance.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -336,7 +336,7 @@
 <sub>Use: Three.js Cinematic Feature Reel<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/yupengfei990919/status/2104788406656184436">Original post ↗</a> · <a href="../../prompts/2104788406656184436.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>threejs</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>threejs</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -345,7 +345,7 @@
 <sub>Use: Interactive soft-body physics demo<br>Inputs: No external assets required by the prompt<br>Tools: WebGPU / WGSL</sub><br>
 <sub><a href="https://x.com/ImaStudio_ai/status/2104514806443303238">Original post ↗</a> · <a href="../../prompts/2104514806443303238.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation</code>：明确排除用预渲染视频或 CSS 形变冒充物理效果；复用时检查真实网格和仿真是否实现。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation</code>: Exclude prerecorded video and CSS deformation as substitutes for physics; check that meshes and simulation are implemented.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -356,7 +356,7 @@
 <sub>Use: Claude Opus 5.5 generated a self-contained WebGPU/XPBD soft-body 3D watermelon jelly simulation shown in a side-by-side screen recording.<br>Inputs: User inputs not specified by the author<br>Tools: JavaScript / WebGPU / WGSL</sub><br>
 <sub><a href="https://x.com/esrhengwu/status/2104504957173153951">Original post ↗</a> · <a href="../../prompts/2104504957173153951.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>self-contained HTML</code>：明确交付一个 HTML 文件，便于保存和在浏览器打开；仍需检查实际是否引入了外部依赖。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>self-contained HTML</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -365,7 +365,7 @@
 <sub>Use: Author prompts Claude Code using Opus 5.5 to independently generate and render an end-to-end scientific animation video titled 'The Beauty of Physics', spanning from quantum scales to black holes with a continuous timeline and cinematic layout.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/akokoi1/status/2104200939095904322">Original post ↗</a> · <a href="../../prompts/2104200939095904322.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Generate a video showcasing the beauty of physics, with a cinematic feel, sophisticated aesthetics, and a continuous one-shot flow.</code>：把任务限定为可观察的模拟现象；复用时补充运动规则、参数和交互，避免只有相似外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Generate a video showcasing the beauty of physics, with a cinematic feel, sophisticated aesthetics, and a continuous one-shot flow.</code>: Define the simulated phenomenon, then add motion rules, parameters and interaction beyond its appearance.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -374,7 +374,7 @@
 <sub>Use: Procedural Demoscene Production<br>Inputs: User inputs not specified by the author<br>Tools: HTML5 / WebGL / Web Audio</sub><br>
 <sub><a href="https://x.com/JustinPerea/status/2102893186330841502">Original post ↗</a> · <a href="../../prompts/2102893186330841502.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>video</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>video</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -385,7 +385,7 @@
 <sub>Use: Three.js 雨夜日式便利店 3D 微缩场景<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/xiax0603/status/2109655631284363289">Original post ↗</a> · <a href="../../prompts/2109655631284363289.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>drag</code>：把用户操作纳入目标；复用时明确操作触发什么状态变化，避免只得到可观看的静态场景。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>drag</code>: Specify how user input changes state so the result is interactive rather than merely viewable.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -394,7 +394,7 @@
 <sub>Use: Interactive 3D Seal Aquarium<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/neet_ai_/status/2109606505666560338">Original post ↗</a> · <a href="../../prompts/2109606505666560338.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>/diorama</code>：这是工作流命令，具体行为取决于配套技能与项目上下文；复用时先取得对应工作流定义。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>/diorama</code>: This is a workflow command whose behavior depends on its supporting skill and project context; obtain that workflow definition before reuse.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -403,7 +403,7 @@
 <sub>Use: 3D Procedural Character and Tree Animation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Andr1ycp/status/2109313213678367157">Original post ↗</a> · <a href="../../prompts/2109313213678367157.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>a banana tree and a monkey shaking it</code>：把主体动作写进要求；复用时拆分关键姿态、接触点和速度，检查运动是否连贯。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>a banana tree and a monkey shaking it</code>: Break the requested action into key poses, contact points and speeds; check continuity.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -414,7 +414,7 @@
 <sub>Use: Character Animation and Gentle 3D Scene<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Charlotteqozf/status/2109247904351445151">Original post ↗</a> · <a href="../../prompts/2109247904351445151.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Make a video where you appear</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Make a video where you appear</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -423,7 +423,7 @@
 <sub>Use: Robot Perception and Locomotion Simulation<br>Inputs: User inputs not specified by the author<br>Tools: build123d / MuJoCo / three.js</sub><br>
 <sub><a href="https://x.com/konstantinsaifo/status/2109243587724755158">Original post ↗</a> · <a href="../../prompts/2109243587724755158.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>I asked Claude Opus 5.5 to give my robot dog a lidar, two depth cameras and a brain that walks it in a physics sim.</code>：把任务限定为可观察的模拟现象；复用时补充运动规则、参数和交互，避免只有相似外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>I asked Claude Opus 5.5 to give my robot dog a lidar, two depth cameras and a brain that walks it in a physics sim.</code>: Define the simulated phenomenon, then add motion rules, parameters and interaction beyond its appearance.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -432,7 +432,7 @@
 <sub>Use: Whale Breaching Sunrise 3D Scene<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/Bhavani_00007/status/2108986964615840035">Original post ↗</a> · <a href="../../prompts/2108986964615840035.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>build a whale breaching at sunrise in Three.js</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>build a whale breaching at sunrise in Three.js</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -443,7 +443,7 @@
 <sub>Use: Interactive 3D Domino Simulation<br>Inputs: User inputs not specified by the author<br>Tools: Claude Artifacts / Custom physics code</sub><br>
 <sub><a href="https://x.com/madhugogineni97/status/2108928100624896157">Original post ↗</a> · <a href="../../prompts/2108928100624896157.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make a domino playground</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>make a domino playground</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -452,7 +452,7 @@
 <sub>Use: Interactive 3D DIY Bookshelf Visualizer<br>Inputs: Room or DIY shelf specifications and request for blueprints and concept visualization<br>Tools: HTML / WebGL Viewer</sub><br>
 <sub><a href="https://x.com/Ponpara5/status/2108907357166313662">Original post ↗</a> · <a href="../../prompts/2108907357166313662.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Also give me the blueprints and an image illustration while you&#x27;re at it</code>：将输入参考作为设计起点；复用时提供原图或文件，并说明哪些比例、颜色和结构必须保留。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Also give me the blueprints and an image illustration while you&#x27;re at it</code>: Supply the reference image or file and state which proportions, colors and structures must stay intact.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -461,7 +461,7 @@
 <sub>Use: 3D Logo Motion Intro<br>Inputs: User SVG logo code to be converted into 3D geometry<br>Tools: Google Chrome / three.js</sub><br>
 <sub><a href="https://x.com/juancarlos17626/status/2108663864581558301">Original post ↗</a> · <a href="../../prompts/2108663864581558301.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>SINGLE HTML file</code>：明确交付一个 HTML 文件，便于保存和在浏览器打开；仍需检查实际是否引入了外部依赖。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>SINGLE HTML file</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -472,7 +472,7 @@
 <sub>Use: Interactive Jelly Koi Pond<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/promptlogic_lab/status/2108564740519674082">Original post ↗</a> · <a href="../../prompts/2108564740519674082.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make a jelly koi pond</code>：给出环境或自然现象作为视觉主题；复用时补充运动方向、密度和光照，形成可执行的场景要求。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>make a jelly koi pond</code>: Turn the environment into an actionable scene brief with movement direction, density and lighting.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -481,7 +481,7 @@
 <sub>Use: Airplane Landing 3D Animation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/sebmoska/status/2108552389871444113">Original post ↗</a> · <a href="../../prompts/2108552389871444113.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>animate an airplane landing.</code>：把主体动作写进要求；复用时拆分关键姿态、接触点和速度，检查运动是否连贯。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>animate an airplane landing.</code>: Break the requested action into key poses, contact points and speeds; check continuity.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -490,7 +490,7 @@
 <sub>Use: Procedural 3D Visualizer<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/narukijima/status/2108547315971793119">Original post ↗</a> · <a href="../../prompts/2108547315971793119.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Make something</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Make something</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -501,7 +501,7 @@
 <sub>Use: Cinematic Scene Lighting and Video Generation Comparison<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/kinderlayer/status/2108537908583919966">Original post ↗</a> · <a href="../../prompts/2108537908583919966.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>A snake across an old rug. A swan through the forest. A dolphin in the deep.</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>A snake across an old rug. A swan through the forest. A dolphin in the deep.</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -510,7 +510,7 @@
 <sub>Use: Interactive 3D Plush Toy Simulation<br>Inputs: User inputs not specified by the author<br>Tools: Claude Artifacts</sub><br>
 <sub><a href="https://x.com/N1njaCodex/status/2108531279473910161">Original post ↗</a> · <a href="../../prompts/2108531279473910161.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make a plush goat</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>make a plush goat</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -519,7 +519,7 @@
 <sub>Use: Interactive Jelly Koi Pond Simulation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/zyroxxx111/status/2108514670411907296">Original post ↗</a> · <a href="../../prompts/2108514670411907296.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make a jelly koi pond</code>：给出环境或自然现象作为视觉主题；复用时补充运动方向、密度和光照，形成可执行的场景要求。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>make a jelly koi pond</code>: Turn the environment into an actionable scene brief with movement direction, density and lighting.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -530,7 +530,7 @@
 <sub>Use: Procedural 3D Scene Generation<br>Inputs: User inputs not specified by the author<br>Tools: HTML / Browser WebGL / Three.js</sub><br>
 <sub><a href="https://x.com/Thusatharan/status/2108511286795640926">Original post ↗</a> · <a href="../../prompts/2108511286795640926.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>one HTML file</code>：明确交付一个 HTML 文件，便于保存和在浏览器打开；仍需检查实际是否引入了外部依赖。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>one HTML file</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -539,7 +539,7 @@
 <sub>Use: Interactive 3D Lava River and Gnome Habitat in Three.js<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/ottollm/status/2108311732376453546">Original post ↗</a> · <a href="../../prompts/2108311732376453546.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>i asked for a river of lava coming down from an erupting volcano. and right next to it a little dome where gnomes live. by the fire. on purpose</code>：给出环境或自然现象作为视觉主题；复用时补充运动方向、密度和光照，形成可执行的场景要求。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>i asked for a river of lava coming down from an erupting volcano. and right next to it a little dome where gnomes live. by the fire. on purpose</code>: Turn the environment into an actionable scene brief with movement direction, density and lighting.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -548,7 +548,7 @@
 <sub>Use: Data Center Infrastructure 3D Walkthrough<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/Solvaix/status/2108301527483838465">Original post ↗</a> · <a href="../../prompts/2108301527483838465.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>&quot;make the row shorter&quot;, &quot;add a cooling loop&quot;</code>：明确需要时间变化；复用时补充动作阶段、速度和结束状态，避免只得到一张场景图。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>&quot;make the row shorter&quot;, &quot;add a cooling loop&quot;</code>: Define motion phases, speed and the end state so the output changes over time rather than remaining a still scene.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -559,7 +559,7 @@
 <sub>Use: WebGL 3D Lava Lamp Simulation<br>Inputs: User inputs not specified by the author<br>Tools: Google Chrome / WebGL / HTML5 Canvas</sub><br>
 <sub><a href="https://x.com/juancarlos17626/status/2108301452384870600">Original post ↗</a> · <a href="../../prompts/2108301452384870600.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>SINGLE HTML file</code>：明确交付一个 HTML 文件，便于保存和在浏览器打开；仍需检查实际是否引入了外部依赖。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>SINGLE HTML file</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -568,7 +568,7 @@
 <sub>Use: Procedural 3D F1 Pit Stop Animation<br>Inputs: User inputs not specified by the author<br>Tools: Claude Haiku 5.5 / Three.js</sub><br>
 <sub><a href="https://x.com/rubenssoto_ai/status/2108289170871582851">Original post ↗</a> · <a href="../../prompts/2108289170871582851.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -577,7 +577,7 @@
 <sub>Use: Cinematic horror creature reveal scene<br>Inputs: User inputs not specified by the author<br>Tools: Claude Opus 5.5 / Higgsfield / Seedance 2.5</sub><br>
 <sub><a href="https://x.com/MadMax_Series/status/2108218235468325374">Original post ↗</a> · <a href="../../prompts/2108218235468325374.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>no text</code>：用明确的排除项限定输出范围，减少模型自行增加不需要的文字、界面或交互。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>no text</code>: Use explicit exclusions to prevent unwanted text, UI or interactions.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -588,7 +588,7 @@
 <sub>Use: 3D Character Animation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/immortalhowwl/status/2107812780690596105">Original post ↗</a> · <a href="../../prompts/2107812780690596105.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>running crawler spider</code>：把主体动作写进要求；复用时拆分关键姿态、接触点和速度，检查运动是否连贯。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>running crawler spider</code>: Break the requested action into key poses, contact points and speeds; check continuity.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -597,7 +597,7 @@
 <sub>Use: Live Visitor Map Visualization<br>Inputs: Cloudflare real-time socket connections and country codes<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/RyanSael/status/2107683152865173619">Original post ↗</a> · <a href="../../prompts/2107683152865173619.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>my live visitor count</code>：以实时访客数作为视觉输入；复用时提供数据接口和刷新频率，避免展示的是假数据。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>my live visitor count</code>: Use live visitor counts as visual input and supply the data endpoint and refresh rate.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -606,7 +606,7 @@
 <sub>Use: 3D Cartoon Character Animation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/AIMind_Ai/status/2107435499686154557">Original post ↗</a> · <a href="../../prompts/2107435499686154557.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make a cow that runs</code>：把主体动作写进要求；复用时拆分关键姿态、接触点和速度，检查运动是否连贯。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>make a cow that runs</code>: Break the requested action into key poses, contact points and speeds; check continuity.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -617,7 +617,7 @@
 <sub>Use: Continuous Multi-Environment Sci-Fi Train Journey<br>Inputs: User inputs not specified by the author<br>Tools: Seedance 2.5 / Vidfield</sub><br>
 <sub><a href="https://x.com/HeyAbhishek/status/2106710882567037394">Original post ↗</a> · <a href="../../prompts/2106710882567037394.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>NO TEXT</code>：用明确的排除项限定输出范围，减少模型自行增加不需要的文字、界面或交互。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>NO TEXT</code>: Use explicit exclusions to prevent unwanted text, UI or interactions.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -626,7 +626,7 @@
 <sub>Use: AI Consciousness ASCII Journey<br>Inputs: User inputs not specified by the author<br>Tools: CapCut / Puppeteer with ffmpeg or CCapture.js / Three.js</sub><br>
 <sub><a href="https://x.com/trikcode/status/2106599643014414696">Original post ↗</a> · <a href="../../prompts/2106599643014414696.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>single self-contained HTML file</code>：明确交付一个 HTML 文件，便于保存和在浏览器打开；仍需检查实际是否引入了外部依赖。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>single self-contained HTML file</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -635,7 +635,7 @@
 <sub>Use: The author compares 3D generation capabilities between GPT 6.1 SOL and Claude Opus 5.5, requesting thin borders, translucent tones, detailed veins, and beveled edges on a rotating stained-glass leaf.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/abhinavflac/status/2105100907952353560">Original post ↗</a> · <a href="../../prompts/2105100907952353560.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>thin borders, translucent tones, detailed veins and beveled edges</code>：把外观拆成边框、透光、纹理和倒角，给材质表现可执行的细节，而不是只说“更真实”。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>thin borders, translucent tones, detailed veins and beveled edges</code>: Break material appearance into borders, transmission, texture and bevels rather than asking only for realism.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -646,7 +646,7 @@
 <sub>Use: Interactive 2D particle fluid dynamics simulation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/viewsfrom02108/status/2105086568155304269">Original post ↗</a> · <a href="../../prompts/2105086568155304269.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>20,000 water particles, 60 fps</code>：给出环境或自然现象作为视觉主题；复用时补充运动方向、密度和光照，形成可执行的场景要求。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>20,000 water particles, 60 fps</code>: Turn the environment into an actionable scene brief with movement direction, density and lighting.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -655,7 +655,7 @@
 <sub>Use: Mars Canyon Procedural Flight<br>Inputs: User inputs not specified by the author<br>Tools: Claude Code / ffmpeg / Gemini 3.8 Flash TTS / Playwright / Three.js / whisper</sub><br>
 <sub><a href="https://x.com/Mochi_AGI/status/2105049523139850561">Original post ↗</a> · <a href="../../prompts/2105049523139850561.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>2m above ground and 550 km/h</code>：用离地高度和速度两个数值定义飞行感；复用时检查场景单位和镜头运动是否与参数一致。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>2m above ground and 550 km/h</code>: Define altitude and speed numerically, then check scene units and camera motion against those values.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -664,7 +664,7 @@
 <sub>Use: Interactive 3D ballistics and fluid ray tracing simulation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/decodedbysania/status/2104859976112206265">Original post ↗</a> · <a href="../../prompts/2104859976112206265.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>shoot a bullet in a water balloon</code>：给出环境或自然现象作为视觉主题；复用时补充运动方向、密度和光照，形成可执行的场景要求。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>shoot a bullet in a water balloon</code>: Turn the environment into an actionable scene brief with movement direction, density and lighting.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -675,7 +675,7 @@
 <sub>Use: 3D visualization dissecting Tokyo Station's multi-layered layout generated via Claude Code / Opus 5.5 scripting Blender.<br>Inputs: User inputs not specified by the author<br>Tools: Blender</sub><br>
 <sub><a href="https://x.com/yktgch/status/2104525642121519401">Original post ↗</a> · <a href="../../prompts/2104525642121519401.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>I want to try Opus 5.5, so write a prompt for Blender to create a &#x27;Tokyo Station anatomy video&#x27; (starting from Marunouchi building to Yaesu side).</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>I want to try Opus 5.5, so write a prompt for Blender to create a &#x27;Tokyo Station anatomy video&#x27; (starting from Marunouchi building to Yaesu side).</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -684,7 +684,7 @@
 <sub>Use: Author used Claude Opus 5.5 to create an interactive 3D WebGL F135 fighter jet engine model demonstrating internal airflow, combustion, and afterburner plume.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/konstantinsaifo/status/2104516868182598079">Original post ↗</a> · <a href="../../prompts/2104516868182598079.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>explain how a fighter jet engine works by building an interactive F135 you can take apart in your browser.</code>：把用户操作纳入目标；复用时明确操作触发什么状态变化，避免只得到可观看的静态场景。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>explain how a fighter jet engine works by building an interactive F135 you can take apart in your browser.</code>: Specify how user input changes state so the result is interactive rather than merely viewable.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -693,7 +693,7 @@
 <sub>Use: Saul Flores Jr. demonstrates an interactive 3D simulation of sunlight heating a microring resonator and controller compensation, created by prompting Claude Opus 5.5.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/SaulFloresJr/status/2104498456626651380">Original post ↗</a> · <a href="../../prompts/2104498456626651380.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>simulate what happens when sunlight hits a microring resonator</code>：把任务限定为可观察的模拟现象；复用时补充运动规则、参数和交互，避免只有相似外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>simulate what happens when sunlight hits a microring resonator</code>: Define the simulated phenomenon, then add motion rules, parameters and interaction beyond its appearance.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -704,7 +704,7 @@
 <sub>Use: Unity weather-effects experiment<br>Inputs: Base Unity scene with simple 3D primitives and terrain before weather effects were added.<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/threediveai/status/2104458970865996117">Original post ↗</a> · <a href="../../prompts/2104458970865996117.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>rain expression</code>：给出环境或自然现象作为视觉主题；复用时补充运动方向、密度和光照，形成可执行的场景要求。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>rain expression</code>: Turn the environment into an actionable scene brief with movement direction, density and lighting.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -713,7 +713,7 @@
 <sub>Use: 3D modeling and exploded-view animation of a Toyota Prius 2027 in Blender, showing disassembly into 261 pieces, reassembly, and rainbow to mustard color shifting, led by Claude Opus 5.5 with assistance from GPT-Astra and Gemini.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/abxda/status/2104410894167916709">Original post ↗</a> · <a href="../../prompts/2104410894167916709.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>3D</code>：限定空间建模或三维展示方向；复用时补充尺寸、视角和材质，减少模型对空间细节的猜测。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>3D</code>: Add dimensions, camera views and materials to the spatial brief to reduce guesswork.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -722,7 +722,7 @@
 <sub>Use: A Web3D prompt used with Opus 5.5 and Three.js to recreate the classic dogfight scene from Hayao Miyazaki's 'Porco Rosso' over a sunset sea.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/NFT_Chen/status/2103882415299350878">Original post ↗</a> · <a href="../../prompts/2103882415299350878.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>sea</code>：给出环境或自然现象作为视觉主题；复用时补充运动方向、密度和光照，形成可执行的场景要求。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>sea</code>: Turn the environment into an actionable scene brief with movement direction, density and lighting.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -733,7 +733,7 @@
 <sub>Use: A 3D website for a forest conservation agency generated in a single HTML file using Opus 5.5 based on a Pinterest reference.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Souradip3000/status/2103876499262800291">Original post ↗</a> · <a href="../../prompts/2103876499262800291.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>create a website for forest conservation agency with pinterest post as reference for 3D animation</code>：将输入参考作为设计起点；复用时提供原图或文件，并说明哪些比例、颜色和结构必须保留。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>create a website for forest conservation agency with pinterest post as reference for 3D animation</code>: Supply the reference image or file and state which proportions, colors and structures must stay intact.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -742,7 +742,7 @@
 <sub>Use: A prompt given to Claude Opus 5.5 to generate a 3D browser animation inside a single HTML file showing what happens inside an AI data center down to the Blackwell silicon.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/mdaman010/status/2103845689713111079">Original post ↗</a> · <a href="../../prompts/2103845689713111079.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Show me what goes on inside an AI data centre.</code>：给出讲解或研究对象；公开片段未展开事实与脚本，复用时先补充来源、受众和关键结论。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Show me what goes on inside an AI data centre.</code>: Identify the teaching or research subject, then supply sources, audience and key conclusions before scripting.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -751,7 +751,7 @@
 <sub>Use: A simple prompt given to Claude Opus to generate an animated 3D walkthrough showing what happens inside an AI data center from the grid down to silicon.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Sayan_shanky/status/2103736579449868515">Original post ↗</a> · <a href="../../prompts/2103736579449868515.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>show me what goes on inside an AI data centre.</code>：给出讲解或研究对象；公开片段未展开事实与脚本，复用时先补充来源、受众和关键结论。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>show me what goes on inside an AI data centre.</code>: Identify the teaching or research subject, then supply sources, audience and key conclusions before scripting.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -762,7 +762,7 @@
 <sub>Use: A creative prompt asking the AI model to freely select a theme tailored to the user's interests, generating both a 30-second video and an interactive HTML page to showcase its front-end capabilities.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/DemitiyaGeekzen/status/2103517910274818523">Original post ↗</a> · <a href="../../prompts/2103517910274818523.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>30-second video</code>：给成片设定时间边界，让内容和动作有明确预算；复用时按时长分配镜头和节奏。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>30-second video</code>: Set a duration budget, then allocate shots and motion to fit it.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -771,7 +771,7 @@
 <sub>Use: A prompt used to evaluate Claude Opus 5.5 on generating GLSL shaders in Three.js, focusing on refraction, reflection, and water caustics.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/NicolaManzini/status/2103499771206156628">Original post ↗</a> · <a href="../../prompts/2103499771206156628.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>reflection, refraction and water caustics</code>：将真实感拆成反射、折射和焦散三个可检查的光学效果，避免只得到透明材质。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>reflection, refraction and water caustics</code>: Break realism into reflection, refraction and caustics rather than requesting only transparent material.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -780,7 +780,7 @@
 <sub>Use: A creative coding prompt used with Claude Opus 5.5 to generate an interactive 3D pagoda navigation world in a single shot.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/BuildFastWithAI/status/2103483174957597035">Original post ↗</a> · <a href="../../prompts/2103483174957597035.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Implement code to be able to navigate in a pagoda in 3D.</code>：限定空间建模或三维展示方向；复用时补充尺寸、视角和材质，减少模型对空间细节的猜测。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Implement code to be able to navigate in a pagoda in 3D.</code>: Add dimensions, camera views and materials to the spatial brief to reduce guesswork.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -791,7 +791,7 @@
 <sub>Use: A prompt requesting Claude Opus to generate a 3D animation illustrating gradient descent with a ball moving from crest to trough, along with explanations and a specific color scheme.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/anirockshady/status/2103195903012032809">Original post ↗</a> · <a href="../../prompts/2103195903012032809.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>3D</code>：限定空间建模或三维展示方向；复用时补充尺寸、视角和材质，减少模型对空间细节的猜测。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>3D</code>: Add dimensions, camera views and materials to the spatial brief to reduce guesswork.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -800,7 +800,7 @@
 <sub>Use: Explorable cinematic 3D world<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/LexnLin/status/2103194052850241739">Original post ↗</a> · <a href="../../prompts/2103194052850241739.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>This is not a game and not combat-focused</code>：先排除战斗和游戏任务，把制作重点留给漫游、建筑、气氛与视觉发现。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>This is not a game and not combat-focused</code>: Exclude combat and quests to focus the scene on exploration, architecture, atmosphere and discovery.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -809,7 +809,7 @@
 <sub>Use: A prompt given to Claude Opus asking it to create a video designed to go viral, leading to a coded physics simulation and synthesizer synchronized with Für Elise.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/kantamk/status/2103148907228176511">Original post ↗</a> · <a href="../../prompts/2103148907228176511.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make a video that could go viral.</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>make a video that could go viral.</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -820,7 +820,7 @@
 <sub>Use: Detailed character animation<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/AxtonLiu/status/2103119648271290566">Original post ↗</a> · <a href="../../prompts/2103119648271290566.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>pelican riding a bicycle</code>：用同一个明确主体和动作作为比较对象；这段未规定动作机制，复用时补充蹬踏与车轮联动。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>pelican riding a bicycle</code>: Use the same subject and action for comparison; add pedal and wheel coordination when reusing the short brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -829,7 +829,7 @@
 <sub>Use: Prompt used with Opus 5.5 to generate an interactive, detailed 3D model of the Taj Mahal with an exploded architectural view in a single HTML file using Three.js.<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/CurieuxExplorer/status/2103038625483272483">Original post ↗</a> · <a href="../../prompts/2103038625483272483.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>single HTML file</code>：明确交付一个 HTML 文件，便于保存和在浏览器打开；仍需检查实际是否引入了外部依赖。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>single HTML file</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -838,7 +838,7 @@
 <sub>Use: Claude Opus 5.5 runs a benchmark task to generate a 3D procedural water simulation with terrain, rain, streams, and lakes using TypeScript and Three.js.<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/StephanFerraro/status/2103020274107224281">Original post ↗</a> · <a href="../../prompts/2103020274107224281.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Three.js</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Three.js</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -849,7 +849,7 @@
 <sub>Use: A creative coding prompt instructing the AI to generate an advanced interactive explosion effect and unique environment with dynamic force propagation and visual aftermath.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/FornYapayZeka/status/2102971287224135914">Original post ↗</a> · <a href="../../prompts/2102971287224135914.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>product</code>：明确商业展示用途；复用时提供产品素材、一个核心卖点和结束行动，减少空泛宣传镜头。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>product</code>: Provide product assets, one key selling point and a closing action for a focused commercial presentation.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -858,7 +858,7 @@
 <sub>Use: A prompt used with Claude Opus 5.5 to generate an interactive 3D WebGL particle illustration of Santa Monica beach that adapts to the time of day.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ishuagra02/status/2102920408743678129">Original post ↗</a> · <a href="../../prompts/2102920408743678129.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>particle</code>：把任务限定为可观察的模拟现象；复用时补充运动规则、参数和交互，避免只有相似外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>particle</code>: Define the simulated phenomenon, then add motion rules, parameters and interaction beyond its appearance.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -867,7 +867,7 @@
 <sub>Use: A creative coding prompt instructing the AI to design and build an impressive, cinematic fireworks or light particle show with depth, dynamic lighting, and interactive replay capabilities.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/FornYapayZeka/status/2102888241443795431">Original post ↗</a> · <a href="../../prompts/2102888241443795431.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>product</code>：明确商业展示用途；复用时提供产品素材、一个核心卖点和结束行动，减少空泛宣传镜头。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>product</code>: Provide product assets, one key selling point and a closing action for a focused commercial presentation.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -878,7 +878,7 @@
 <sub>Use: A detailed prompt for Claude Opus 5.5 and PINOC MCP to generate a playable, browser-based Minecraft recreation with Three.js shaders and animated voxel NPCs.<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/Viggle_PINOC/status/2102861939072434495">Original post ↗</a> · <a href="../../prompts/2102861939072434495.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>three.js</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>three.js</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -887,7 +887,7 @@
 <sub>Use: STEP CAD Interactive 3D Viewer<br>Inputs: STEP AP203 CAD file with 65 bodies and 2,595 B-rep faces (201 x 161 x 488 mm)<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/profpicsou/status/2102715938671878156">Original post ↗</a> · <a href="../../prompts/2102715938671878156.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>give me the 3D visual</code>：限定空间建模或三维展示方向；复用时补充尺寸、视角和材质，减少模型对空间细节的猜测。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>give me the 3D visual</code>: Add dimensions, camera views and materials to the spatial brief to reduce guesswork.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -896,7 +896,7 @@
 <sub>Use: Historical 3D reconstruction<br>Inputs: User inputs not specified by the author<br>Tools: Blender</sub><br>
 <sub><a href="https://x.com/alexalbert__/status/2102466523164274839">Original post ↗</a> · <a href="../../prompts/2102466523164274839.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Before modeling anything, build a source file</code>：先建史料档案再建模，将建筑细节绑定到可核对的来源，而不是凭风格想象历史。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Before modeling anything, build a source file</code>: Build a historical source file before modeling so architectural details can be checked against evidence.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>

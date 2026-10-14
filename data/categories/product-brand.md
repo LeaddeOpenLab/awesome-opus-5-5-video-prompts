@@ -8,7 +8,7 @@
 <sub>Use: Video as Code Promo<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/YuanXi901019/status/2108570435575222596">Original post ↗</a> · <a href="../../prompts/2108570435575222596.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>promo</code>：明确商业展示用途；复用时提供产品素材、一个核心卖点和结束行动，减少空泛宣传镜头。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>promo</code>: Provide product assets, one key selling point and a closing action for a focused commercial presentation.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -17,7 +17,7 @@
 <sub>Use: Smartwatch Product Reveal Film<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/maker_evan/status/2108438685184401904">Original post ↗</a> · <a href="../../prompts/2108438685184401904.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>12s cinematic 3D product reveal film for a smartwatch called ORBIT</code>：明确商业展示用途；复用时提供产品素材、一个核心卖点和结束行动，减少空泛宣传镜头。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>12s cinematic 3D product reveal film for a smartwatch called ORBIT</code>: Provide product assets, one key selling point and a closing action for a focused commercial presentation.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -26,7 +26,7 @@
 <sub>Use: Roblox Game Promotional Trailer<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Aryanpxcr7/status/2108326197516198346">Original post ↗</a> · <a href="../../prompts/2108326197516198346.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Make me a Production level good quality trailer for my Roblox Game</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Make me a Production level good quality trailer for my Roblox Game</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <sub>Use: Article Promo Motion Graphic<br>Inputs: Author's open note article on AI meeting minutes<br>Tools: Claude in Chrome</sub><br>
 <sub><a href="https://x.com/kenchiku__girl/status/2108326054431707284">Original post ↗</a> · <a href="../../prompts/2108326054431707284.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Turn this article into a 15-second motion video</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Turn this article into a 15-second motion video</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -46,7 +46,7 @@
 <sub>Use: App Store Preview Promo<br>Inputs: Hyperframes automation skill; App branding, visual assets, and style guide<br>Tools: FFmpeg / hyperframes / JavaScript / Playwright</sub><br>
 <sub><a href="https://x.com/JeanLucas/status/2105287909343428943">Original post ↗</a> · <a href="../../prompts/2105287909343428943.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>FFmpeg</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>FFmpeg</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -55,7 +55,7 @@
 <sub>Use: AI Meme News Video Generator<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/threeaus/status/2105152588991868936">Original post ↗</a> · <a href="../../prompts/2105152588991868936.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Search recent AI-related news, select a topic</code>：先搜近期新闻再选题，让素材范围先于成片风格；发布时间与新闻事实仍需核对。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Search recent AI-related news, select a topic</code>: Research recent news before selecting a topic, then verify publication dates and facts.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -66,7 +66,7 @@
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Blender</sub><br>
 <sub><a href="https://x.com/motion_conquest/status/2105077715510714439">Original post ↗</a> · <a href="../../prompts/2105077715510714439.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Blender</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Blender</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -75,7 +75,7 @@
 <sub>Use: Service Promotional Motion Graphics<br>Inputs: Local workspace and project context for the YEIKEN platform<br>Tools: Claude Code / ffmpeg / Headless Browser</sub><br>
 <sub><a href="https://x.com/yeiken_app/status/2104820349838000492">Original post ↗</a> · <a href="../../prompts/2104820349838000492.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>I want you to actually make a video here. I want to turn that process into an article.</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>I want you to actually make a video here. I want to turn that process into an article.</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -84,7 +84,7 @@
 <sub>Use: Multi-shot fashion commercial structured with Claude Opus 5.5 and rendered via MiniMax H3 using model and product reference images.<br>Inputs: Picture 1: Reference image of the fashion model.; Picture 2: Reference image of the handbag product.<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ito1217yo/status/2104560073217597459">Original post ↗</a> · <a href="../../prompts/2104560073217597459.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>80 BPM</code>：把动效节奏与音频拍点联系起来；复用时先确定音轨和时间轴，再安排关键动作。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>80 BPM</code>: Connect motion to musical beats; establish the soundtrack and timeline before placing key actions.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -95,7 +95,7 @@
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/hugobarauna/status/2104558345118236704">Original post ↗</a> · <a href="../../prompts/2104558345118236704.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>15 second motion graphics video</code>：给成片设定时间边界，让内容和动作有明确预算；复用时按时长分配镜头和节奏。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>15 second motion graphics video</code>: Set a duration budget, then allocate shots and motion to fit it.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -104,7 +104,7 @@
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/kevinpiac/status/2104489806713553012">Original post ↗</a> · <a href="../../prompts/2104489806713553012.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>15-second motion graphics video</code>：给成片设定时间边界，让内容和动作有明确预算；复用时按时长分配镜头和节奏。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>15-second motion graphics video</code>: Set a duration budget, then allocate shots and motion to fit it.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -113,7 +113,7 @@
 <sub>Use: Educational / explainer video<br>Inputs: Ask me for: my product name, a logo (or let you draw a simple mark), my brand colours (or pull them from my logo), the one-line thing a user types into the prompt box, the page that answers it (title + 2–3 sentences with one key phrase), two feature names for the stacked cards, and a music track. If I skip any, use the defaults: product &quot;Frame by Frame&quot; living inside its Whop hub, a viewfinder mark (four corner brackets around a bold &quot;FF&quot;), prompt &quot;Make a launch video for my app&quot;, a lesson page titled &quot;2.1 Choose a reference&quot;, cards &quot;Launch&quot; and &quot;Sound&quot;, and Mixkit's free house track &quot;Rising Forest&quot; slowed to 124 BPM.<br>Tools: Playwright</sub><br>
 <sub><a href="https://x.com/notdwd/status/2104401208958230764">Original post ↗</a> · <a href="../../prompts/2104401208958230764.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>no text</code>：用明确的排除项限定输出范围，减少模型自行增加不需要的文字、界面或交互。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>no text</code>: Use explicit exclusions to prevent unwanted text, UI or interactions.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -124,7 +124,7 @@
 <sub>Use: EDteam Promotional Motion Graphics<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/AlvaroFelipeCh/status/2104219468079526187">Original post ↗</a> · <a href="../../prompts/2104219468079526187.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Research EDteam and create a promotional video showing all your Motion Graphics skills</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Research EDteam and create a promotional video showing all your Motion Graphics skills</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -133,7 +133,7 @@
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/tariqkhanfmd/status/2104219444130234430">Original post ↗</a> · <a href="../../prompts/2104219444130234430.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>40-second motion graphics video</code>：给成片设定时间边界，让内容和动作有明确预算；复用时按时长分配镜头和节奏。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>40-second motion graphics video</code>: Set a duration budget, then allocate shots and motion to fit it.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -142,7 +142,7 @@
 <sub>Use: Product Promo Motion Graphics<br>Inputs: Website URL for product context; Brand logo asset; Brand color palette<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ian_duhamel/status/2103896499738272041">Original post ↗</a> · <a href="../../prompts/2103896499738272041.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Could you make a professional motion graphics video promoting hashiapp.com?</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Could you make a professional motion graphics video promoting hashiapp.com?</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -153,7 +153,7 @@
 <sub>Use: Game Motion Graphics Promo<br>Inputs: Pokeidle gameplay recordings, Pokémon-inspired sprite graphics, and branding assets referenced in the video<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/pedrofasi/status/2103631509773025717">Original post ↗</a> · <a href="../../prompts/2103631509773025717.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>15-second motion graphics video</code>：给成片设定时间边界，让内容和动作有明确预算；复用时按时长分配镜头和节奏。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>15-second motion graphics video</code>: Set a duration budget, then allocate shots and motion to fit it.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -162,7 +162,7 @@
 <sub>Use: Product Launch Motion Graphics<br>Inputs: User inputs not specified by the author<br>Tools: FFmpeg / JavaScript / Playwright</sub><br>
 <sub><a href="https://x.com/pablovinicius1_/status/2103307592999305668">Original post ↗</a> · <a href="../../prompts/2103307592999305668.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>FFmpeg</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>FFmpeg</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -171,7 +171,7 @@
 <sub>Use: App Promotional Video<br>Inputs: Folder containing videos and screenshots of the Flora app.; App Store link for the Flora app.<br>Tools: FFmpeg / JavaScript / Playwright</sub><br>
 <sub><a href="https://x.com/andre_lucaxxs/status/2103292636945846347">Original post ↗</a> · <a href="../../prompts/2103292636945846347.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>FFmpeg</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>FFmpeg</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -182,7 +182,7 @@
 <sub>Use: Product Promotional Ad<br>Inputs: Product website URL containing copy and service features.<br>Tools: FFmpeg / JavaScript / Playwright / Remotion</sub><br>
 <sub><a href="https://x.com/thallisribeiro/status/2103107359727829318">Original post ↗</a> · <a href="../../prompts/2103107359727829318.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>&quot;Use only: JavaScript, Playwright and FFmpeg. Make a modern, elegant, and impactful video for my product (https://licitacerta.com.br/)&quot;</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>&quot;Use only: JavaScript, Playwright and FFmpeg. Make a modern, elegant, and impactful video for my product (https://licitacerta.com.br/)&quot;</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -191,7 +191,7 @@
 <sub>Use: Moritz Kremb prompts Claude Opus 5.5 to select a known SaaS product and produce a complete motion graphics launch video.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/moritzkremb/status/2103066071838466494">Original post ↗</a> · <a href="../../prompts/2103066071838466494.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>product</code>：明确商业展示用途；复用时提供产品素材、一个核心卖点和结束行动，减少空泛宣传镜头。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>product</code>: Provide product assets, one key selling point and a closing action for a focused commercial presentation.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -200,7 +200,7 @@
 <sub>Use: Deedy demonstrates using Claude Opus 5.5 via Claude Code to generate a sleek startup launch video by coding a JavaScript animation and recording it with Playwright and ffmpeg.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/deedydas/status/2102787937482252537">Original post ↗</a> · <a href="../../prompts/2102787937482252537.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make a modern slick and punchy video for a modern startup that works on inference</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>make a modern slick and punchy video for a modern startup that works on inference</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -211,7 +211,7 @@
 <sub>Use: Paper Rapids Interactive Creek Run &amp; Canvas Trailer<br>Inputs: No external assets required by the prompt<br>Tools: Canvas 2D / HTML Canvas / WebGL</sub><br>
 <sub><a href="https://x.com/jeffbruchado/status/2110038361062723704">Original post ↗</a> · <a href="../../prompts/2110038361062723704.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>then hands control to the player</code>：把自动预告片与玩家接管写成同一条流程，明确“演示结束后可玩”的交付要求。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>then hands control to the player</code>: Specify a trailer that hands control to the player, making playability part of delivery.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -220,7 +220,7 @@
 <sub>Use: Tool Promo Motion Graphics<br>Inputs: Source code and assets of the developer's SF Symbols web tool.<br>Tools: JavaScript / Web Audio</sub><br>
 <sub><a href="https://x.com/21Terrence1/status/2109225353243988478">Original post ↗</a> · <a href="../../prompts/2109225353243988478.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>25-second motion graphics video</code>：给成片设定时间边界，让内容和动作有明确预算；复用时按时长分配镜头和节奏。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>25-second motion graphics video</code>: Set a duration budget, then allocate shots and motion to fit it.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -229,7 +229,7 @@
 <sub>Use: Code-Driven Promo Motion Graphics<br>Inputs: User inputs not specified by the author<br>Tools: Claude Code / YoutubeMan</sub><br>
 <sub><a href="https://x.com/Manbarco/status/2109172836535566610">Original post ↗</a> · <a href="../../prompts/2109172836535566610.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>/youtubeman</code>：这是工作流命令，具体行为取决于配套技能与项目上下文；复用时先取得对应工作流定义。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>/youtubeman</code>: This is a workflow command whose behavior depends on its supporting skill and project context; obtain that workflow definition before reuse.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -240,7 +240,7 @@
 <sub>Use: Dynamic SaaS Motion Graphics Promo<br>Inputs: Hasos website link providing project context and brand copy<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/paidafluke/status/2108717646157922687">Original post ↗</a> · <a href="../../prompts/2108717646157922687.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>15 second motion graphics video</code>：给成片设定时间边界，让内容和动作有明确预算；复用时按时长分配镜头和节奏。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>15 second motion graphics video</code>: Set a duration budget, then allocate shots and motion to fit it.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -249,7 +249,7 @@
 <sub>Use: Apple Design System Launch Video<br>Inputs: Apple product launch videos provided as reference material<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/skpnky/status/2108547893506478160">Original post ↗</a> · <a href="../../prompts/2108547893506478160.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>use apple design system and send some apple product launch videos</code>：明确商业展示用途；复用时提供产品素材、一个核心卖点和结束行动，减少空泛宣传镜头。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>use apple design system and send some apple product launch videos</code>: Provide product assets, one key selling point and a closing action for a focused commercial presentation.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -258,7 +258,7 @@
 <sub>Use: Product Explainer Motion Graphics<br>Inputs: Logos, contact sheet preview imagery, and Rawnd web app interface UI assets featured throughout the video.<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/am56ay/status/2108511993955065948">Original post ↗</a> · <a href="../../prompts/2108511993955065948.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>And while you&#x27;re at it, make some videos for Rawnd.</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>And while you&#x27;re at it, make some videos for Rawnd.</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -269,7 +269,7 @@
 <sub>Use: SaaS Product Launch Motion Graphics<br>Inputs: Application repository providing app code and context<br>Tools: Devin / Remotion</sub><br>
 <sub><a href="https://x.com/Screeendev/status/2108333562462408823">Original post ↗</a> · <a href="../../prompts/2108333562462408823.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Remotion</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Remotion</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -278,7 +278,7 @@
 <sub>Use: Product Launch Motion Graphics Teaser<br>Inputs: Project link / product materials for Hunt (@usehuntt)<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/daveeyyy_/status/2108231764023861630">Original post ↗</a> · <a href="../../prompts/2108231764023861630.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>15 second motion graphics video</code>：给成片设定时间边界，让内容和动作有明确预算；复用时按时长分配镜头和节奏。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>15 second motion graphics video</code>: Set a duration budget, then allocate shots and motion to fit it.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -287,7 +287,7 @@
 <sub>Use: Crypto Brand Motion Graphics Promo<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/olivrweb3/status/2108226554740289897">Original post ↗</a> · <a href="../../prompts/2108226554740289897.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>man, make a motion for criptobr, don&#x27;t make mistakes</code>：明确需要时间变化；复用时补充动作阶段、速度和结束状态，避免只得到一张场景图。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>man, make a motion for criptobr, don&#x27;t make mistakes</code>: Define motion phases, speed and the end state so the output changes over time rather than remaining a still scene.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -298,7 +298,7 @@
 <sub>Use: Automated Tourism Promotional Video<br>Inputs: User instruction requesting a PR video for Hachijojima<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/8jojima_/status/2108157503209197887">Original post ↗</a> · <a href="../../prompts/2108157503209197887.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Make a promotional video for Hachijojima</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Make a promotional video for Hachijojima</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -307,7 +307,7 @@
 <sub>Use: UGC Travel Promo<br>Inputs: Airbnb listing URL for the decommissioned Titan II nuclear missile complex in Arkansas<br>Tools: ElevenLabs / Seedance 2.5 / Topaz</sub><br>
 <sub><a href="https://x.com/venturetwins/status/2107311661430493193">Original post ↗</a> · <a href="../../prompts/2107311661430493193.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Gave Opus 5.5 an Airbnb listing and asked it to generate a UGC video.</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Gave Opus 5.5 an Airbnb listing and asked it to generate a UGC video.</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -316,7 +316,7 @@
 <sub>Use: Product Feature Teaser Video<br>Inputs: Product roadmap describing upcoming features including cross-posting<br>Tools: Claude Code</sub><br>
 <sub><a href="https://x.com/robj3d3/status/2107040421989994822">Original post ↗</a> · <a href="../../prompts/2107040421989994822.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>15-second motion graphics video</code>：给成片设定时间边界，让内容和动作有明确预算；复用时按时长分配镜头和节奏。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>15-second motion graphics video</code>: Set a duration budget, then allocate shots and motion to fit it.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -327,7 +327,7 @@
 <sub>Use: Bravilo SaaS Promo Animation<br>Inputs: User inputs not specified by the author<br>Tools: Claude Code</sub><br>
 <sub><a href="https://x.com/luchoalfonso_/status/2106780444163281084">Original post ↗</a> · <a href="../../prompts/2106780444163281084.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>generate me a video of…</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>generate me a video of…</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -336,7 +336,7 @@
 <sub>Use: App Promotion Video<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Alex_theFounder/status/2105102105702756414">Original post ↗</a> · <a href="../../prompts/2105102105702756414.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Asked for a 15sec promotional video Clarified small things</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Asked for a 15sec promotional video Clarified small things</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -345,7 +345,7 @@
 <sub>Use: Open Source Repo Promo Video<br>Inputs: Code and documentation for the Location-Based WebXR project<br>Tools: Custom 3D Engine</sub><br>
 <sub><a href="https://x.com/csutil_com/status/2105100452232577419">Original post ↗</a> · <a href="../../prompts/2105100452232577419.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>15-second motion graphics video</code>：给成片设定时间边界，让内容和动作有明确预算；复用时按时长分配镜头和节奏。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>15-second motion graphics video</code>: Set a duration budget, then allocate shots and motion to fit it.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -356,7 +356,7 @@
 <sub>Use: The author shares a fast-paced promotional motion graphics video for their WordPress plugin 'Shifukuin-san's Site Builder' generated using Claude Opus 5.5.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Takamaro_SFKIN/status/2105075516156047624">Original post ↗</a> · <a href="../../prompts/2105075516156047624.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Make a PV for &#x27;Shifukuin-san&#x27;s Site Builder&#x27;</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Make a PV for &#x27;Shifukuin-san&#x27;s Site Builder&#x27;</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -365,7 +365,7 @@
 <sub>Use: Remotion Animated Short<br>Inputs: Original source explainer video referenced for the promo summary.<br>Tools: ElevenLabs / Midjourney / Remotion</sub><br>
 <sub><a href="https://x.com/ayumi_t820/status/2104807505297871023">Original post ↗</a> · <a href="../../prompts/2104807505297871023.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Make a short video showing that this video could be created with Opus 5.5</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Make a short video showing that this video could be created with Opus 5.5</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -374,7 +374,7 @@
 <sub>Use: Brand Story Commercial<br>Inputs: Brand details, milestone events, media features, origin history, and expansion regions.; Footage and imagery of charcoal kilns, packaging, and barbecues.<br>Tools: HyperFrames / Magnific MCP</sub><br>
 <sub><a href="https://x.com/guguimuzzio/status/2104665953883615408">Original post ↗</a> · <a href="../../prompts/2104665953883615408.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Tell the story of [BRAND] in 5 acts: 1. Hook: &quot;You met us at [MOST KNOWN</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Tell the story of [BRAND] in 5 acts: 1. Hook: &quot;You met us at [MOST KNOWN</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -385,7 +385,7 @@
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/0xPaulvibe/status/2104562535340884325">Original post ↗</a> · <a href="../../prompts/2104562535340884325.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>explainer</code>：明确讲解或可视化用途；复用时补充受众、关键结论和例子，并核对知识与数据。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>explainer</code>: State the teaching or visualization purpose, then add audience, key conclusions and examples; verify facts and data.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -394,7 +394,7 @@
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/karthikships/status/2104557402154549263">Original post ↗</a> · <a href="../../prompts/2104557402154549263.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>15-second motion graphics video</code>：给成片设定时间边界，让内容和动作有明确预算；复用时按时长分配镜头和节奏。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>15-second motion graphics video</code>: Set a duration budget, then allocate shots and motion to fit it.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -403,7 +403,7 @@
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/carajnikant/status/2104539072106492193">Original post ↗</a> · <a href="../../prompts/2104539072106492193.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>40-second motion graphics video</code>：给成片设定时间边界，让内容和动作有明确预算；复用时按时长分配镜头和节奏。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>40-second motion graphics video</code>: Set a duration budget, then allocate shots and motion to fit it.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -414,7 +414,7 @@
 <sub>Use: The author used Claude Opus 5.5 to generate an animated commercial video for a fictional soda brand, delegating animation, BGM, and sound effects to the model.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ito1217yo/status/2104537329667104818">Original post ↗</a> · <a href="../../prompts/2104537329667104818.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Make an ad video</code>：明确商业展示用途；复用时提供产品素材、一个核心卖点和结束行动，减少空泛宣传镜头。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Make an ad video</code>: Provide product assets, one key selling point and a closing action for a focused commercial presentation.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -423,7 +423,7 @@
 <sub>Use: Author created a 2-minute 42-second Persona 5-styled infographic motion graphics promotional video showcasing Hefei's historical background, economic milestones, and industrial development using Claude Opus 5.5.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/threeaus/status/2104535752373895249">Original post ↗</a> · <a href="../../prompts/2104535752373895249.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Make it in P5 style, so it looks a bit busier</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Make it in P5 style, so it looks a bit busier</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -432,7 +432,7 @@
 <sub>Use: Opus 5.5 orchestrating 6 subagents in Claude Code to direct, model, and animate a 45s phone ad rendered frame-by-frame via Three.js with Python-synthesized audio.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/thinkszyg/status/2104525558050886066">Original post ↗</a> · <a href="../../prompts/2104525558050886066.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>First give 3 style frames, 10s sample, 30s music preview, wait for my pick</code>：先用风格帧、短样片和配乐预览确认方向，再投入完整制作，减少后期整体返工。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>First give 3 style frames, 10s sample, 30s music preview, wait for my pick</code>: Approve style frames, a short sample and music before full production to reduce large late-stage revisions.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -443,7 +443,7 @@
 <sub>Use: Nabil Kazi showcases a 65-second animated SaaS product launch video for BugSmash created using Claude Opus 5.5 acting as a motion designer from a single prompt.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/nQaze/status/2104525094571937922">Original post ↗</a> · <a href="../../prompts/2104525094571937922.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>product</code>：明确商业展示用途；复用时提供产品素材、一个核心卖点和结束行动，减少空泛宣传镜头。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>product</code>: Provide product assets, one key selling point and a closing action for a focused commercial presentation.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -452,7 +452,7 @@
 <sub>Use: Oren shares a promotional short video for their YouTube channel ('Nippon Kaitai Shinsho') depicting 200-year-old Edo life, orchestrated by Claude Opus 5.5 via Claude Code calling fal's H3 Max Turbo for visual generation and Gemini 3.8 Flash TTS for narration.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Oren46902/status/2104522740695007363">Original post ↗</a> · <a href="../../prompts/2104522740695007363.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Create a promotional video for my YouTube channel with narration.</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Create a promotional video for my YouTube channel with narration.</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -461,7 +461,7 @@
 <sub>Use: Educational / explainer video<br>Inputs: YouTube animated explainer reference videos<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/andrewmichaelsa/status/2104490962139385936">Original post ↗</a> · <a href="../../prompts/2104490962139385936.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>explainer</code>：明确讲解或可视化用途；复用时补充受众、关键结论和例子，并核对知识与数据。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>explainer</code>: State the teaching or visualization purpose, then add audience, key conclusions and examples; verify facts and data.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -472,7 +472,7 @@
 <sub>Use: The author demonstrates a 2-minute 25-second product demo video with voiceover for the chargeback defense app Exhibit A, claiming it was produced in Claude Opus 5.5 via a single prompt without external connectors.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/kenn_ronin/status/2104487655757029501">Original post ↗</a> · <a href="../../prompts/2104487655757029501.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make a demo video for me and add voice over</code>：明确口播或旁白需求；复用时补充文稿、语速和音画对齐方式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>make a demo video for me and add voice over</code>: Specify the script, speaking rate and synchronization method for narration or dialogue.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -481,7 +481,7 @@
 <sub>Use: The author prompts Claude Opus 5.5 to create a creative and stunning promotional video for the product Applore, resulting in a dynamic motion graphics showcase of app icons and features.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/decohack/status/2104472001838465236">Original post ↗</a> · <a href="../../prompts/2104472001838465236.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Hi, Opus 5.5, make a promotional video for my product, it needs to be highly creative and sufficiently stunning. 👉 https://t.co/XMW1p8geoU</code>：明确商业展示用途；复用时提供产品素材、一个核心卖点和结束行动，减少空泛宣传镜头。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Hi, Opus 5.5, make a promotional video for my product, it needs to be highly creative and sufficiently stunning. 👉 https://t.co/XMW1p8geoU</code>: Provide product assets, one key selling point and a closing action for a focused commercial presentation.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -490,7 +490,7 @@
 <sub>Use: Product / brand film<br>Inputs: User inputs not specified by the author<br>Tools: React / Remotion</sub><br>
 <sub><a href="https://x.com/punit_io/status/2104467016719774112">Original post ↗</a> · <a href="../../prompts/2104467016719774112.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Build a 22-second product launch film in Remotion v4 (React + TypeScript). Every frame comes from code. Don&#x27;t use AI-generated video or images.</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Build a 22-second product launch film in Remotion v4 (React + TypeScript). Every frame comes from code. Don&#x27;t use AI-generated video or images.</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -501,7 +501,7 @@
 <sub>Use: Product / brand film<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/VectorCrossProd/status/2104093497561436573">Original post ↗</a> · <a href="../../prompts/2104093497561436573.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>video</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>video</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -510,7 +510,7 @@
 <sub>Use: Product promotional video<br>Inputs: Product URL and product details<br>Tools: FFmpeg / JavaScript / Playwright</sub><br>
 <sub><a href="https://x.com/felipemoller/status/2103846311149936736">Original post ↗</a> · <a href="../../prompts/2103846311149936736.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Use only: JavaScript, Playwright, and FFmpeg</code>：锁定制作与导出工具链，减少模型临时换工具；产品素材和竖屏比例仍需按原文准备。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Use only: JavaScript, Playwright, and FFmpeg</code>: Fix the production and export toolchain; prepare the product assets and portrait format specified in the prompt.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -519,7 +519,7 @@
 <sub>Use: Product introduction video<br>Inputs: Product URL, screenshots, logo and assets; Music for beat-synchronized motion<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/HO_BA/status/2103845264649761062">Original post ↗</a> · <a href="../../prompts/2103845264649761062.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>break them down into components/icons so we can animate those too</code>：把产品截图拆成可独立运动的组件，避免整张截图平移缩放造成静态幻灯片感。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>break them down into components/icons so we can animate those too</code>: Split product screenshots into independently animated components instead of moving a flat screenshot as one slide.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -530,7 +530,7 @@
 <sub>Use: Brand launch film<br>Inputs: Brand name; 9–12 high-res photos; ~120 BPM music; moving plant-shadow stock video<br>Tools: FFmpeg / Playwright</sub><br>
 <sub><a href="https://x.com/twoclipping/status/2103835273813496100">Original post ↗</a> · <a href="../../prompts/2103835273813496100.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Every scene is made out of the previous one</code>：要求后一场景由前一场景变形而来，让连续性成为转场规则，而不是只要求“苹果风”。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Every scene is made out of the previous one</code>: Require each scene to transform out of the previous one instead of relying only on an Apple-style reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -539,7 +539,7 @@
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/gouthamjay8/status/2103816261339910269">Original post ↗</a> · <a href="../../prompts/2103816261339910269.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>product</code>：明确商业展示用途；复用时提供产品素材、一个核心卖点和结束行动，减少空泛宣传镜头。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>product</code>: Provide product assets, one key selling point and a closing action for a focused commercial presentation.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -548,7 +548,7 @@
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/KmAsiff/status/2103810247131549880">Original post ↗</a> · <a href="../../prompts/2103810247131549880.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>20-second motion graphics video</code>：给成片设定时间边界，让内容和动作有明确预算；复用时按时长分配镜头和节奏。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>20-second motion graphics video</code>: Set a duration budget, then allocate shots and motion to fit it.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -559,7 +559,7 @@
 <sub>Use: A prompt used with Opus 5.5 to create a fast-paced launch video under 20 seconds that highlights key product features and aligns with the brand.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/RatheeJaisal/status/2103774864742154698">Original post ↗</a> · <a href="../../prompts/2103774864742154698.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>build me a beautiful launch video 20 seconds or under that shows all our key features, make it fast paced and fit our brand</code>：明确商业展示用途；复用时提供产品素材、一个核心卖点和结束行动，减少空泛宣传镜头。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>build me a beautiful launch video 20 seconds or under that shows all our key features, make it fast paced and fit our brand</code>: Provide product assets, one key selling point and a closing action for a focused commercial presentation.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -568,7 +568,7 @@
 <sub>Use: Educational / explainer video<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/sudo_kiran/status/2103761658745335993">Original post ↗</a> · <a href="../../prompts/2103761658745335993.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>explainer</code>：明确讲解或可视化用途；复用时补充受众、关键结论和例子，并核对知识与数据。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>explainer</code>: State the teaching or visualization purpose, then add audience, key conclusions and examples; verify facts and data.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -577,7 +577,7 @@
 <sub>Use: Concept advertisement / Apple 1984 homage<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/1littlecoder/status/2103746736980378066">Original post ↗</a> · <a href="../../prompts/2103746736980378066.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>avoid the border text or frames</code>：在风格参考之外明确排除边框和边缘文字，减少模型把参考广告的装饰一并照搬。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>avoid the border text or frames</code>: Explicitly exclude borders and edge text so the reference ad&#x27;s decorative elements are not copied wholesale.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -588,7 +588,7 @@
 <sub>Use: A motion design prompt used with Opus 5.5 to generate a 45–50 second vertical promotional video showcasing the features of the Motoseyir navigation app.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Bilimfili1/status/2103743617848459762">Original post ↗</a> · <a href="../../prompts/2103743617848459762.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>simulator</code>：给出玩法或游戏参考；复用时明确核心操作、目标和失败条件，避免只复刻外观。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>simulator</code>: Define core controls, objectives and failure conditions beyond the visual game reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -597,7 +597,7 @@
 <sub>Use: A prompt instructing the model to study a specified website and generate a product showcase video using Remotion.<br>Inputs: User inputs not specified by the author<br>Tools: Remotion</sub><br>
 <sub><a href="https://x.com/lester_tyy/status/2103733819568480587">Original post ↗</a> · <a href="../../prompts/2103733819568480587.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Study how this https://t.co/SR0AyULLNp works and use Remotion to make a product showcase video.</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Study how this https://t.co/SR0AyULLNp works and use Remotion to make a product showcase video.</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -606,7 +606,7 @@
 <sub>Use: A short prompt given to Claude Opus to generate a 30-second Apple-style promotional video for an app using Remotion and React.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/gautam_mer1/status/2103703336780530003">Original post ↗</a> · <a href="../../prompts/2103703336780530003.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>30s video</code>：给成片设定时间边界，让内容和动作有明确预算；复用时按时长分配镜头和节奏。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>30s video</code>: Set a duration budget, then allocate shots and motion to fit it.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -617,7 +617,7 @@
 <sub>Use: A multi-step prompt sequence used to generate a slick launch video for a startup release in an Anthropic-inspired style, including requests to make it viral and add trendy background music.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/iamMXFSCHR/status/2103619221296955831">Original post ↗</a> · <a href="../../prompts/2103619221296955831.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>launch</code>：明确商业展示用途；复用时提供产品素材、一个核心卖点和结束行动，减少空泛宣传镜头。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>launch</code>: Provide product assets, one key selling point and a closing action for a focused commercial presentation.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -626,7 +626,7 @@
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/madebyjmayala/status/2103578285892649220">Original post ↗</a> · <a href="../../prompts/2103578285892649220.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>15-second motion graphics video</code>：给成片设定时间边界，让内容和动作有明确预算；复用时按时长分配镜头和节奏。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>15-second motion graphics video</code>: Set a duration budget, then allocate shots and motion to fit it.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -635,7 +635,7 @@
 <sub>Use: A detailed system prompt to analyze sprites.ai and build an animated, looped product promo using pure code (HTML/Playwright/Python), featuring continuous morphing UI states and beat-matched UI sounds.<br>Inputs: User inputs not specified by the author<br>Tools: FFmpeg / NumPy / Playwright</sub><br>
 <sub><a href="https://x.com/AnnaCher___/status/2103571096549433425">Original post ↗</a> · <a href="../../prompts/2103571096549433425.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>One shape, never cut</code>：用同一个形状的连续变形连接状态，避免转场退化成互不相关的幻灯片。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>One shape, never cut</code>: Connect states by continuously transforming one shape, rather than cutting between unrelated slides.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -646,7 +646,7 @@
 <sub>Use: Slava S. shares a motion design animation created using Opus 5.5 Max from a single simple prompt.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/slvDev/status/2103569170075975986">Original post ↗</a> · <a href="../../prompts/2103569170075975986.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>create 15+ sec self-promotion promo</code>：明确商业展示用途；复用时提供产品素材、一个核心卖点和结束行动，减少空泛宣传镜头。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>create 15+ sec self-promotion promo</code>: Provide product assets, one key selling point and a closing action for a focused commercial presentation.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -655,7 +655,7 @@
 <sub>Use: A single prompt used with Claude Opus to automatically code and render a professional 16:9 MP4 product showcase video.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/ezshine/status/2103501705698750731">Original post ↗</a> · <a href="../../prompts/2103501705698750731.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>16:9</code>：先规定画幅或分辨率，帮助构图适配目标发布场景，减少导出后再裁切。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>16:9</code>: Set aspect ratio or resolution before composing the scene to avoid cropping after export.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -664,7 +664,7 @@
 <sub>Use: Anas shares a simple prompt tested with Opus 5.5 to generate a video for the website heeya.fr.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/anas0ra/status/2103490331815952637">Original post ↗</a> · <a href="../../prompts/2103490331815952637.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make me a nice video for https://t.co/BhfkLxyUZZ</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>make me a nice video for https://t.co/BhfkLxyUZZ</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -675,7 +675,7 @@
 <sub>Use: Educational / explainer video<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/sudo_kiran/status/2103486573476254201">Original post ↗</a> · <a href="../../prompts/2103486573476254201.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make a dynamic 30-seconds motion graphic video about the distilbook like a product explainer the video has to be very incredible (product url)</code>：明确讲解或可视化用途；复用时补充受众、关键结论和例子，并核对知识与数据。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>make a dynamic 30-seconds motion graphic video about the distilbook like a product explainer the video has to be very incredible (product url)</code>: State the teaching or visualization purpose, then add audience, key conclusions and examples; verify facts and data.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -684,7 +684,7 @@
 <sub>Use: A prompt designed to generate a motion-graphics-styled product launch video for a recognizable SaaS product using real assets and feature highlights.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/techyoutbe/status/2103465227807588678">Original post ↗</a> · <a href="../../prompts/2103465227807588678.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>product</code>：明确商业展示用途；复用时提供产品素材、一个核心卖点和结束行动，减少空泛宣传镜头。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>product</code>: Provide product assets, one key selling point and a closing action for a focused commercial presentation.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -693,7 +693,7 @@
 <sub>Use: A prompt asking an AI model to prove its graphic design skills by creating a 15-second promotional motion graphics video using a provided logo and cover photo.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/fire_ozgur/status/2103459971174130104">Original post ↗</a> · <a href="../../prompts/2103459971174130104.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>15-second motion graphics video</code>：给成片设定时间边界，让内容和动作有明确预算；复用时按时长分配镜头和节奏。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>15-second motion graphics video</code>: Set a duration budget, then allocate shots and motion to fit it.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -704,7 +704,7 @@
 <sub>Use: AI大白 shared an AI-generated product promo video created using Opus 5.5 by passing a single prompt referencing the project's codebase.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/Ai_Baymax/status/2103411004902416787">Original post ↗</a> · <a href="../../prompts/2103411004902416787.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make a 1-min promo for this product from the codebase.</code>：明确商业展示用途；复用时提供产品素材、一个核心卖点和结束行动，减少空泛宣传镜头。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>make a 1-min promo for this product from the codebase.</code>: Provide product assets, one key selling point and a closing action for a focused commercial presentation.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -713,7 +713,7 @@
 <sub>Use: Automated SaaS Product Launch Motion Graphics<br>Inputs: Startup concept prompt or product URL<br>Tools: FFmpeg / OpenComputer / Playwright headless Chromium</sub><br>
 <sub><a href="https://x.com/Dontgiveup_26/status/2103293284852588551">Original post ↗</a> · <a href="../../prompts/2103293284852588551.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make a modern slick and punchy video for a modern startup that works on inference</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>make a modern slick and punchy video for a modern startup that works on inference</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -722,7 +722,7 @@
 <sub>Use: David Marcus shared a prompt used with Opus 5.5 to generate a promotional video for Lightspark.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/davidmarcus/status/2103275618045686217">Original post ↗</a> · <a href="../../prompts/2103275618045686217.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make a punchy and modern short video for social that promotes @lightspark capabilities. Needs to be production grade with sound</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>make a punchy and modern short video for social that promotes @lightspark capabilities. Needs to be production grade with sound</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -733,7 +733,7 @@
 <sub>Use: App Promotional Motion Video<br>Inputs: Strino iOS application running in local iOS Simulator<br>Tools: Claude Code / FFmpeg / iOS Simulator</sub><br>
 <sub><a href="https://x.com/wallacex227/status/2103256743023366343">Original post ↗</a> · <a href="../../prompts/2103256743023366343.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>I asked it to run the app in the simulator, test everything, and asked for a promotional motion video using JavaScript, Playwright, and FFmpeg</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>I asked it to run the app in the simulator, test everything, and asked for a promotional motion video using JavaScript, Playwright, and FFmpeg</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -742,7 +742,7 @@
 <sub>Use: Mobile App Promo<br>Inputs: Strino mobile app running in an iOS/Android simulator.<br>Tools: FFmpeg / JavaScript</sub><br>
 <sub><a href="https://x.com/wallacex227/status/2103245000989659422">Original post ↗</a> · <a href="../../prompts/2103245000989659422.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>asked to run the app in the simulator test everything, a motion promo video using JavaScript, Playwright and FFmpeg</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>asked to run the app in the simulator test everything, a motion promo video using JavaScript, Playwright and FFmpeg</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -751,7 +751,7 @@
 <sub>Use: A prompt designed to create a professional, motion-graphics-style SaaS product launch video showcasing features and benefits.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/techtactician/status/2103219463508144474">Original post ↗</a> · <a href="../../prompts/2103219463508144474.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>product</code>：明确商业展示用途；复用时提供产品素材、一个核心卖点和结束行动，减少空泛宣传镜头。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>product</code>: Provide product assets, one key selling point and a closing action for a focused commercial presentation.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -762,7 +762,7 @@
 <sub>Use: Justin Cooperman shares an animated product clip for Tented created with Opus 5.5, illustrating its image generation features.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/justincooperman/status/2103201167367188876">Original post ↗</a> · <a href="../../prompts/2103201167367188876.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Make an animated clip about Tented&#x27;s image gen capabilities where users ask for branded images and see them added to content</code>：将输入参考作为设计起点；复用时提供原图或文件，并说明哪些比例、颜色和结构必须保留。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Make an animated clip about Tented&#x27;s image gen capabilities where users ask for branded images and see them added to content</code>: Supply the reference image or file and state which proportions, colors and structures must stay intact.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -771,7 +771,7 @@
 <sub>Use: A prompt to generate a 30-second drawing-style animated video showing how to submit a product to AppSumo using an agent in three steps.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/mattbean/status/2103146389412917572">Original post ↗</a> · <a href="../../prompts/2103146389412917572.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>product</code>：明确商业展示用途；复用时提供产品素材、一个核心卖点和结束行动，减少空泛宣传镜头。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>product</code>: Provide product assets, one key selling point and a closing action for a focused commercial presentation.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -780,7 +780,7 @@
 <sub>Use: A prompt requesting a slick, punchy video for an inference startup created without dedicated video generation models or extra libraries.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/lepadev/status/2103101681806475414">Original post ↗</a> · <a href="../../prompts/2103101681806475414.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make a modern slick and punchy video for a modern startup that works on inference no video gen model, no additional libraries.</code>：给出成片用途或形式；公开片段未展开制作约束，复用时补充时长、画幅、素材和交付格式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>make a modern slick and punchy video for a modern startup that works on inference no video gen model, no additional libraries.</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -791,7 +791,7 @@
 <sub>Use: A prompt asking an AI model to conceive a promotional story for an app and generate a full Pixar-level animation using Three.js and JavaScript.<br>Inputs: User inputs not specified by the author<br>Tools: JavaScript</sub><br>
 <sub><a href="https://x.com/Anilraok/status/2103087766662009118">Original post ↗</a> · <a href="../../prompts/2103087766662009118.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>threejs</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>threejs</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -800,7 +800,7 @@
 <sub>Use: A brief prompt used to generate a 10-second advertising-style video reel from an image using Opus 5.5.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/GonzaloMacagno/status/2102897651008344202">Original post ↗</a> · <a href="../../prompts/2102897651008344202.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>I need you to make a reel with this info in 10 seconds, very promotional</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>I need you to make a reel with this info in 10 seconds, very promotional</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -809,7 +809,7 @@
 <sub>Use: Product motion promotional film<br>Inputs: Product name + one-line promise; 3–5 UI scenes; accent color; 10–20 owned vertical clips; music<br>Tools: FFmpeg / NumPy / Playwright</sub><br>
 <sub><a href="https://x.com/twoclipping/status/2102554209166000267">Original post ↗</a> · <a href="../../prompts/2102554209166000267.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>One idea per shot</code>：每个镜头只承载一个信息点，配合原文的节拍结构，减少产品信息和动效相互抢占注意力。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>One idea per shot</code>: Give each shot one information point and follow the beat structure so product messaging and motion do not compete.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>

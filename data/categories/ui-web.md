@@ -8,7 +8,7 @@
 <sub>Use: UI Micro-interactions<br>Inputs: Pre-existing web application side navigation bar and icons.<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/dinocorreia09/status/2109310203631906912">Original post ↗</a> · <a href="../../prompts/2109310203631906912.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>animation</code>：明确需要时间变化；复用时补充动作阶段、速度和结束状态，避免只得到一张场景图。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>animation</code>: Define motion phases, speed and the end state so the output changes over time rather than remaining a still scene.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -17,7 +17,7 @@
 <sub>Use: Interactive 3D Honey Keyboard<br>Inputs: User inputs not specified by the author<br>Tools: HTML/WebGL</sub><br>
 <sub><a href="https://x.com/keydol123/status/2108501256067285443">Original post ↗</a> · <a href="../../prompts/2108501256067285443.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Build an interactive keyboard made of honey.</code>：把用户操作纳入目标；复用时明确操作触发什么状态变化，避免只得到可观看的静态场景。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Build an interactive keyboard made of honey.</code>: Specify how user input changes state so the result is interactive rather than merely viewable.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -26,7 +26,7 @@
 <sub>Use: Seamless Morphing Motion Graphics<br>Inputs: Ask me for: 4 photos (a mountain valley at sunrise, a top-down drone shot of a roundabout, a latte being poured from above, the sun over the sea at golden hour), one accent color (mine is violet #A898FF), and a royalty-free song around 118 BPM with a drop (e.g. Pixabay, free for commercial use).<br>Tools: HTML Canvas / numpy / NumPy / Playwright</sub><br>
 <sub><a href="https://x.com/finnardley/status/2108432616558879016">Original post ↗</a> · <a href="../../prompts/2108432616558879016.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>last frame is the first frame</code>：把首尾衔接设为动画约束；复用时同时检查位置、速度和光照是否能连续循环。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>last frame is the first frame</code>: Make the loop boundary explicit; check position, velocity and lighting at both ends.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <sub>Use: UI Motion Design<br>Inputs: Figma crypto card UI design<br>Tools: Figma / Jitter</sub><br>
 <sub><a href="https://x.com/Khlaseek_dsgner/status/2108167809997877659">Original post ↗</a> · <a href="../../prompts/2108167809997877659.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>scale in from 30% to 100% scale</code>：用明确起止比例定义卡片入场，再按原文顺序展开细节，避免所有元素同时出现。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>scale in from 30% to 100% scale</code>: Define start and end scales for the card entrance, then reveal details in order rather than all at once.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -46,7 +46,7 @@
 <sub>Use: Game UI Redesign &amp; 3D Backgrounds<br>Inputs: FLIP CLASH game source code and original settings interface<br>Tools: Blender</sub><br>
 <sub><a href="https://x.com/hii_studio_jp/status/2105051697525686340">Original post ↗</a> · <a href="../../prompts/2105051697525686340.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Make the menu stylish and easy to understand. Make the background realistic and cool.</code>：明确界面展示的对象；复用时补充内容层级、状态变化和真实数据，避免只有静态装饰。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Make the menu stylish and easy to understand. Make the background realistic and cool.</code>: Specify content hierarchy, state changes and real data for the interface rather than static decoration.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -55,7 +55,7 @@
 <sub>Use: 3D motion graphics / website hero<br>Inputs: User inputs not specified by the author<br>Tools: Three.js</sub><br>
 <sub><a href="https://x.com/hiro19_k/status/2104471436039803295">Original post ↗</a> · <a href="../../prompts/2104471436039803295.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>No interactivity</code>：明确这是用于首页的播放型动效，减少模型把 3D 展示扩展成无关的交互应用。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>No interactivity</code>: Specify a playback animation for the homepage so the 3D showcase does not expand into an unrelated interactive app.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -66,7 +66,7 @@
 <sub>Use: UI motion / interaction demonstration<br>Inputs: 8–12 UI states; palette; ~120 BPM music<br>Tools: FFmpeg / NumPy / Playwright</sub><br>
 <sub><a href="https://x.com/twoclipping/status/2103273003555402193">Original post ↗</a> · <a href="../../prompts/2103273003555402193.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>One shape, never cut</code>：用同一个形状连续变形连接 UI 状态，限制转场方式，避免做成互不相关的幻灯片。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>One shape, never cut</code>: Transform one shape continuously between UI states to avoid disconnected slide-like transitions.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -75,7 +75,7 @@
 <sub>Use: Architectural Elevation Web Animation<br>Inputs: Original source design ('Bottom left is the original. Source book - where we started')<br>Tools: HTML/CSS/JavaScript Web Environment / JavaScript</sub><br>
 <sub><a href="https://x.com/cristianvega/status/2110046079983001783">Original post ↗</a> · <a href="../../prompts/2110046079983001783.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Make this design better. Push what you can do using modern HTML, CSS, and JavaScript.</code>：将输入参考作为设计起点；复用时提供原图或文件，并说明哪些比例、颜色和结构必须保留。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Make this design better. Push what you can do using modern HTML, CSS, and JavaScript.</code>: Supply the reference image or file and state which proportions, colors and structures must stay intact.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -84,7 +84,7 @@
 <sub>Use: Interactive Animated Keyboard<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/fedemas/status/2108400811411996801">Original post ↗</a> · <a href="../../prompts/2108400811411996801.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>website</code>：明确界面展示的对象；复用时补充内容层级、状态变化和真实数据，避免只有静态装饰。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>website</code>: Specify content hierarchy, state changes and real data for the interface rather than static decoration.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -95,7 +95,7 @@
 <sub>Use: Chinese Calligraphy Digital Scroll Animation<br>Inputs: User inputs not specified by the author<br>Tools: Web Browser / Canvas</sub><br>
 <sub><a href="https://x.com/feigaobox/status/2106042539744862690">Original post ↗</a> · <a href="../../prompts/2106042539744862690.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Have Claude write a piece of calligraphy to describe itself, with an appropriate calligraphy style and</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Have Claude write a piece of calligraphy to describe itself, with an appropriate calligraphy style and</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -104,7 +104,7 @@
 <sub>Use: Demonstration of an interactive mobile app genre selection screen generated using Claude Opus 5.5, featuring animated soap bubbles that expand and filter subcategories upon interaction.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/asakarifa/status/2104463774862446760">Original post ↗</a> · <a href="../../prompts/2104463774862446760.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Make the genre selection screen a cute UI using soap bubbles</code>：明确界面展示的对象；复用时补充内容层级、状态变化和真实数据，避免只有静态装饰。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Make the genre selection screen a cute UI using soap bubbles</code>: Specify content hierarchy, state changes and real data for the interface rather than static decoration.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -113,7 +113,7 @@
 <sub>Use: Claude Opus 5.5を活用して動画の無音カット提案を行い、それを波形とプレビュー画面上でワンクリック承認・微調整できる専用の動画編集UI/スキルを開発・実演した事例。<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/excel_niisan/status/2104212398303543512">Original post ↗</a> · <a href="../../prompts/2104212398303543512.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Can&#x27;t you create a skill that previews with this kind of UI?</code>：明确界面展示的对象；复用时补充内容层级、状态变化和真实数据，避免只有静态装饰。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Can&#x27;t you create a skill that previews with this kind of UI?</code>: Specify content hierarchy, state changes and real data for the interface rather than static decoration.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -124,7 +124,7 @@
 <sub>Use: Scroll-driven website hero<br>Inputs: Background video; Two feature-card images<br>Tools: Framer Motion / GSAP ScrollTrigger / React</sub><br>
 <sub><a href="https://x.com/iamtanzil_/status/2103820321673675031">Original post ↗</a> · <a href="../../prompts/2103820321673675031.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>maps scroll progress to video.currentTime</code>：把滚动进度直接映射到视频时间，让视觉推进由滚动位置驱动，而不是另起一个播放计时器。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>maps scroll progress to video.currentTime</code>: Map scroll progress directly to video time rather than starting an independent playback timer.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -133,7 +133,7 @@
 <sub>Use: A comprehensive prompt template to instruct an LLM (such as Claude Opus) to generate pure-code, seamless looping UI motion design synced to a musical beat grid.<br>Inputs: Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader, player, slider, toggle, tabs, chart, command palette, toast), pure black and white or one accent color, and a royalty-free song around 120 BPM (e.g. Mixkit, free for commercial use).<br>Tools: FFmpeg / NumPy / Playwright</sub><br>
 <sub><a href="https://x.com/demonugc/status/2103526713208525162">Original post ↗</a> · <a href="../../prompts/2103526713208525162.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>One shape, never cut</code>：用同一个形状的连续变形连接状态，避免转场退化成互不相关的幻灯片。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>One shape, never cut</code>: Connect states by continuously transforming one shape, rather than cutting between unrelated slides.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -142,7 +142,7 @@
 <sub>Use: A structured prompt for generating a continuous, looping Dribbble-style UI morph animation programmed in HTML and rendered via Playwright.<br>Inputs: Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader, player, slider, toggle, tabs, chart, command palette, toast), pure black and white or one accent color, and a royalty-free song around 120 BPM (e.g. Mixkit, free for commercial use).<br>Tools: FFmpeg / NumPy / Playwright</sub><br>
 <sub><a href="https://x.com/sanjeevn72/status/2103456358125457691">Original post ↗</a> · <a href="../../prompts/2103456358125457691.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>One shape, never cut</code>：用同一个形状的连续变形连接状态，避免转场退化成互不相关的幻灯片。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>One shape, never cut</code>: Connect states by continuously transforming one shape, rather than cutting between unrelated slides.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -153,7 +153,7 @@
 <sub>Use: Code Coach demonstrates generating a complete Roblox battle royale UI in seconds using a custom plugin and Claude Opus with a one-shot prompt.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/MyCodeCoach/status/2103181065976459574">Original post ↗</a> · <a href="../../prompts/2103181065976459574.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>A cartoony battle royale: storm timer, players alive, inventory hotbar, minimap, emote wheel and a victory results screen</code>：明确界面展示的对象；复用时补充内容层级、状态变化和真实数据，避免只有静态装饰。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>A cartoony battle royale: storm timer, players alive, inventory hotbar, minimap, emote wheel and a victory results screen</code>: Specify content hierarchy, state changes and real data for the interface rather than static decoration.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -162,7 +162,7 @@
 <sub>Use: A prompt fragment used with Opus 5.5 to generate an animated splash screen for a mobile app.<br>Inputs: User inputs not specified by the author<br>Tools: Tool setup not specified by the source</sub><br>
 <sub><a href="https://x.com/modaalbuilder/status/2103053680945868989">Original post ↗</a> · <a href="../../prompts/2103053680945868989.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>build mobile app animated splash screen creation for ...</code>：明确界面展示的对象；复用时补充内容层级、状态变化和真实数据，避免只有静态装饰。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>build mobile app animated splash screen creation for ...</code>: Specify content hierarchy, state changes and real data for the interface rather than static decoration.</blockquote>
 <!-- pro-tip:end -->
 </td><td></td>
 </tr>

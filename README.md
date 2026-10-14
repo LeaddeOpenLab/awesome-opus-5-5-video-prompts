@@ -26,7 +26,7 @@ Read the prompt here on GitHub, or watch the preview and check setup notes on th
 
 <sub><a href="prompts/2103449416325890146.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/remotion-motion-design-showreel/">Watch preview · Website ↗</a> · <a href="https://x.com/ajith_io/status/2103449416325890146">Original post ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>dynamic 15-second motion graphics video</code>：把时长和动效形式一起写明，将“做得惊艳”收敛成一个 15 秒作品集片段。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>dynamic 15-second motion graphics video</code>: Specify duration and motion format together to turn a broad request into a focused 15-second showreel.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="50%" valign="top">
@@ -35,7 +35,7 @@ Read the prompt here on GitHub, or watch the preview and check setup notes on th
 
 <sub><a href="prompts/2103802923465768972.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/starry-night-3d-cats-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/MandelDuck/status/2103802923465768972">Original post ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>walk around and spot cats inside of a van gogh painting</code>：将画作风格与“漫游找猫”的具体玩法绑定，给场景设计和交互一个共同目标。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>walk around and spot cats inside of a van gogh painting</code>: Tie the painting style to a concrete activity: walking around and finding cats.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -46,7 +46,7 @@ Read the prompt here on GitHub, or watch the preview and check setup notes on th
 
 <sub><a href="prompts/2103273003555402193.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/looping-ui-motion-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/twoclipping/status/2103273003555402193">Original post ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>One shape, never cut</code>：用同一个形状连续变形连接 UI 状态，限制转场方式，避免做成互不相关的幻灯片。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>One shape, never cut</code>: Transform one shape continuously between UI states to avoid disconnected slide-like transitions.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="50%" valign="top">
@@ -55,7 +55,7 @@ Read the prompt here on GitHub, or watch the preview and check setup notes on th
 
 <sub><a href="prompts/2103128559174971663.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/manim-derivatives-explainer/">Watch preview · Website ↗</a> · <a href="https://x.com/LinearUncle/status/2103128559174971663">Original post ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Use edge-tts for dubbing</code>：把配音明确交给 edge-tts，与前文 Manim 动画分工；复用时还要检查音画时长是否对齐。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Use edge-tts for dubbing</code>: Assign narration to edge-tts and animation to Manim, then check that their durations align.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -66,7 +66,7 @@ Read the prompt here on GitHub, or watch the preview and check setup notes on th
 
 <sub><a href="prompts/2102466523164274839.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/blender-1906-san-francisco/">Watch preview · Website ↗</a> · <a href="https://x.com/alexalbert__/status/2102466523164274839">Original post ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Before modeling anything, build a source file</code>：先建史料档案再建模，将建筑细节绑定到可核对的来源，而不是凭风格想象历史。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Before modeling anything, build a source file</code>: Build a historical source file before modeling so architectural details can be checked against evidence.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="50%" valign="top">
@@ -75,7 +75,7 @@ Read the prompt here on GitHub, or watch the preview and check setup notes on th
 
 <sub><a href="prompts/2102476258948927543.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/pixel-art-wizard-html-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/majidmanzarpour/status/2102476258948927543">Original post ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>imageSmoothingEnabled = false</code>：关闭画布插值，再配合原文的整数倍缩放与像素网格，避免像素画被缩放成模糊边缘。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>imageSmoothingEnabled = false</code>: Disable canvas interpolation and retain integer scaling and the pixel grid for crisp edges.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -94,7 +94,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 <sub>Copy the prompt, save one HTML file, and open it in your browser. No external assets.</sub><br>
 <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/pixel-art-wizard-html-prompt/">Copy prompt &amp; setup →</a>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>imageSmoothingEnabled = false</code>：关闭画布插值，再配合原文的整数倍缩放与像素网格，避免像素画被缩放成模糊边缘。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>imageSmoothingEnabled = false</code>: Disable canvas interpolation and retain integer scaling and the pixel grid for crisp edges.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -103,7 +103,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 <sub>Replace the business description and brand colors, then preview the HTML animation.</sub><br>
 <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/business-explainer-html-prompt/">Copy prompt &amp; setup →</a>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>explainer</code>：明确讲解或可视化用途；复用时补充受众、关键结论和例子，并核对知识与数据。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>explainer</code>: State the teaching or visualization purpose, then add audience, key conclusions and examples; verify facts and data.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -126,7 +126,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/shmopixbzn/status/2110057151171338656">Original post ↗</a> · <a href="prompts/2110057151171338656.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>every shake leaves a lasting, softly accumulating snowfall</code>：要求每次摇晃都留下积雪，让互动改变场景状态，而不只是重复播放雪花特效。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>every shake leaves a lasting, softly accumulating snowfall</code>: Require snow to accumulate after each shake so interaction changes scene state instead of replaying an effect.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -135,7 +135,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/jeffbruchado/status/2110038361062723704">Original post ↗</a> · <a href="prompts/2110038361062723704.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>then hands control to the player</code>：把自动预告片与玩家接管写成同一条流程，明确“演示结束后可玩”的交付要求。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>then hands control to the player</code>: Specify a trailer that hands control to the player, making playability part of delivery.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -144,7 +144,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/everestchris6/status/2110036224320884998">Original post ↗</a> · <a href="prompts/2110036224320884998.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>the critic compares a screenshot of our room with the matching photo</code>：用房间截图逐项对照参考照片，把“像不像”变成具体差异反馈；复用时给迭代设置停止条件。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>the critic compares a screenshot of our room with the matching photo</code>: Compare room screenshots with reference photos and turn differences into revision requests; set a stopping condition.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -172,7 +172,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/felipemoller/status/2103846311149936736">Original post ↗</a> · <a href="prompts/2103846311149936736.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Use only: JavaScript, Playwright, and FFmpeg</code>：锁定制作与导出工具链，减少模型临时换工具；产品素材和竖屏比例仍需按原文准备。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Use only: JavaScript, Playwright, and FFmpeg</code>: Fix the production and export toolchain; prepare the product assets and portrait format specified in the prompt.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -181,7 +181,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/twoclipping/status/2102554209166000267">Original post ↗</a> · <a href="prompts/2102554209166000267.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>One idea per shot</code>：每个镜头只承载一个信息点，配合原文的节拍结构，减少产品信息和动效相互抢占注意力。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>One idea per shot</code>: Give each shot one information point and follow the beat structure so product messaging and motion do not compete.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -190,7 +190,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/twoclipping/status/2103835273813496100">Original post ↗</a> · <a href="prompts/2103835273813496100.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Every scene is made out of the previous one</code>：要求后一场景由前一场景变形而来，让连续性成为转场规则，而不是只要求“苹果风”。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Every scene is made out of the previous one</code>: Require each scene to transform out of the previous one instead of relying only on an Apple-style reference.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -201,7 +201,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/1littlecoder/status/2103746736980378066">Original post ↗</a> · <a href="prompts/2103746736980378066.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>avoid the border text or frames</code>：在风格参考之外明确排除边框和边缘文字，减少模型把参考广告的装饰一并照搬。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>avoid the border text or frames</code>: Explicitly exclude borders and edge text so the reference ad&#x27;s decorative elements are not copied wholesale.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -210,7 +210,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/HO_BA/status/2103845264649761062">Original post ↗</a> · <a href="prompts/2103845264649761062.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>break them down into components/icons so we can animate those too</code>：把产品截图拆成可独立运动的组件，避免整张截图平移缩放造成静态幻灯片感。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>break them down into components/icons so we can animate those too</code>: Split product screenshots into independently animated components instead of moving a flat screenshot as one slide.</blockquote>
 <!-- pro-tip:end -->
 </td><td></td>
 </tr>
@@ -228,7 +228,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/koldo2k/status/2103129343253778767">Original post ↗</a> · <a href="prompts/2103129343253778767.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>misty lake → hand mirror → back to start</code>：把结尾回到起点写进场景路径，使无限缩放有明确闭环，而不是镜头一直向前推进。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>misty lake → hand mirror → back to start</code>: Make the final scene return to the opening so the infinite zoom has a defined loop.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -237,7 +237,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/brainextends/status/2103801834930606193">Original post ↗</a> · <a href="prompts/2103801834930606193.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Do not stop at a storyboard, still images, or an implementation plan</code>：明确排除分镜、静帧和计划作为最终交付，要求完成渲染与检查，而不止给出创意。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Do not stop at a storyboard, still images, or an implementation plan</code>: Explicitly require a rendered and inspected result rather than accepting storyboards, stills or a plan as delivery.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -246,7 +246,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/itsolelehmann/status/2103124033365762215">Original post ↗</a> · <a href="prompts/2103124033365762215.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>4 seasons passing outside a train window</code>：用车窗这个稳定观察框串联四季变化，给短提示词提供清楚的场景和时间主线。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>4 seasons passing outside a train window</code>: Use the train window as a stable frame that connects the four seasons into one visual timeline.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -264,7 +264,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/hiro19_k/status/2104471436039803295">Original post ↗</a> · <a href="prompts/2104471436039803295.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>No interactivity</code>：明确这是用于首页的播放型动效，减少模型把 3D 展示扩展成无关的交互应用。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>No interactivity</code>: Specify a playback animation for the homepage so the 3D showcase does not expand into an unrelated interactive app.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -273,7 +273,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/iamtanzil_/status/2103820321673675031">Original post ↗</a> · <a href="prompts/2103820321673675031.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>maps scroll progress to video.currentTime</code>：把滚动进度直接映射到视频时间，让视觉推进由滚动位置驱动，而不是另起一个播放计时器。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>maps scroll progress to video.currentTime</code>: Map scroll progress directly to video time rather than starting an independent playback timer.</blockquote>
 <!-- pro-tip:end -->
 </td><td></td>
 </tr>
@@ -291,7 +291,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/emollick/status/2103688362960019567">Original post ↗</a> · <a href="prompts/2103688362960019567.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>make this self-referential</code>：让解释递归的视频本身也具备自指结构，把抽象概念落实到叙事形式。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>make this self-referential</code>: Let the recursion explainer itself use a self-referential structure to make the concept concrete.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -300,7 +300,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/GroundControl/status/2103678647777230877">Original post ↗</a> · <a href="prompts/2103678647777230877.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Pull some online data to see why it was hot and how it compares to other years</code>：先要求真实数据与跨年比较，再做可视化；复用时核对数据来源和年份，避免只有好看的曲线。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Pull some online data to see why it was hot and how it compares to other years</code>: Require real data and year-to-year comparisons before visualization; check sources and dates.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -309,7 +309,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/AstroTheWizard/status/2103629247751618782">Original post ↗</a> · <a href="prompts/2103629247751618782.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Give the photon a personality</code>：将光子拟人化，为抽象物理过程建立可跟随的主角；科普表述仍需单独核对。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Give the photon a personality</code>: Personify the photon to give the audience a character to follow; verify the scientific explanation separately.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -320,7 +320,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/Ror_Fly/status/2102853258582880547">Original post ↗</a> · <a href="prompts/2102853258582880547.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>empty glass to completed cocktail</code>：用空杯到成品的完整流程限定镜头顺序，让配方讲解有可检查的起点和终点。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>empty glass to completed cocktail</code>: Define the complete process from empty glass to finished cocktail with a checkable start and finish.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -329,7 +329,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/M_Adrian2/status/2104542961081983435">Original post ↗</a> · <a href="prompts/2104542961081983435.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Before animating, study articles from the last three months</code>：先研究近期材料再写动画故事，明确知识内容的时效要求；引用与结论仍要人工核对。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Before animating, study articles from the last three months</code>: Research recent material before scripting the animation, then verify citations and conclusions.</blockquote>
 <!-- pro-tip:end -->
 </td><td></td>
 </tr>
@@ -347,7 +347,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/doubleunplussed/status/2103697580421181894">Original post ↗</a> · <a href="prompts/2103697580421181894.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Don&#x27;t feel the need to represent everything in the lyrics literally</code>：明确允许隐喻和文化梗，让画面围绕歌词含义展开，而不是逐词机械配图。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Don&#x27;t feel the need to represent everything in the lyrics literally</code>: Allow metaphor and cultural references so visuals interpret the lyrics rather than illustrating words mechanically.</blockquote>
 <!-- pro-tip:end -->
 </td><td></td><td></td>
 </tr>
@@ -365,7 +365,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/LexnLin/status/2103194052850241739">Original post ↗</a> · <a href="prompts/2103194052850241739.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>This is not a game and not combat-focused</code>：先排除战斗和游戏任务，把制作重点留给漫游、建筑、气氛与视觉发现。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>This is not a game and not combat-focused</code>: Exclude combat and quests to focus the scene on exploration, architecture, atmosphere and discovery.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -374,7 +374,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/AxtonLiu/status/2103119648271290566">Original post ↗</a> · <a href="prompts/2103119648271290566.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>pelican riding a bicycle</code>：用同一个明确主体和动作作为比较对象；这段未规定动作机制，复用时补充蹬踏与车轮联动。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>pelican riding a bicycle</code>: Use the same subject and action for comparison; add pedal and wheel coordination when reusing the short brief.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -383,7 +383,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/ImaStudio_ai/status/2104514806443303238">Original post ↗</a> · <a href="prompts/2104514806443303238.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation</code>：明确排除用预渲染视频或 CSS 形变冒充物理效果；复用时检查真实网格和仿真是否实现。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation</code>: Exclude prerecorded video and CSS deformation as substitutes for physics; check that meshes and simulation are implemented.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -401,7 +401,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/0xChuckstock/status/2103804606794879327">Original post ↗</a> · <a href="prompts/2103804606794879327.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>take out key components of the star destroyer</code>：把攻击目标细化为敌舰的关键部件，让场景尺度与战斗目标关联，而不是泛泛生成太空射击。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>take out key components of the star destroyer</code>: Target specific enemy-ship components so combat objectives connect to the scene&#x27;s scale.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -410,7 +410,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/froessell/status/2103789415323562325">Original post ↗</a> · <a href="prompts/2103789415323562325.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>The player cannot directly attack</code>：先限制玩家攻击能力，让驾驶、躲避和诱导碰撞成为核心玩法，减少系统方向发散。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>The player cannot directly attack</code>: Limit the player&#x27;s attack abilities so driving, evasion and induced collisions remain the core mechanics.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -419,7 +419,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/aisongman/status/2103763192971461057">Original post ↗</a> · <a href="prompts/2103763192971461057.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>1-on-1 card game like Hearthstone</code>：用一对一卡牌对战限定玩法类型；公开片段没有卡牌规则，复用时补齐回合、费用和胜负条件。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>1-on-1 card game like Hearthstone</code>: Specify a one-on-one card battle, then add turn rules, costs and victory conditions missing from the public fragment.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -430,7 +430,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/akokoi1/status/2104520072014508316">Original post ↗</a> · <a href="prompts/2104520072014508316.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>according to the dimension markings (mm) in the image</code>：把平面图尺寸和毫米单位设为建模依据，避免房间与家具只在视觉上相似、比例却不一致。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>according to the dimension markings (mm) in the image</code>: Use floor-plan dimensions and millimeter units to keep rooms and furniture proportional.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -439,7 +439,7 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 
 <sub><a href="https://x.com/d_llm_kr/status/2104189915693269112">Original post ↗</a> · <a href="prompts/2104189915693269112.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>while listening to the sound of rain</code>：把观看与互动放在雨声陪伴的使用场景中；复用时补充音源和操作方式，避免只得到静态背景。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>while listening to the sound of rain</code>: Frame the experience around rain ambience, then provide audio sources and interaction methods.</blockquote>
 <!-- pro-tip:end -->
 </td><td></td>
 </tr>

@@ -8,7 +8,7 @@
 <sub>Use: Car Chase Previs<br>Inputs: User inputs not specified by the author<br>Tools: Blender / Blender MCP</sub><br>
 <sub><a href="https://x.com/tonysurix/status/2108230699224596746">Original post ↗</a> · <a href="../../prompts/2108230699224596746.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>in blender make a previs of a car driving thru a mountainside with a another car chasing. record a video and show me here when its done.</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>in blender make a previs of a car driving thru a mountainside with a another car chasing. record a video and show me here when its done.</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -17,7 +17,7 @@
 <sub>Use: AI Music Video Orchestration<br>Inputs: User inputs not specified by the author<br>Tools: Blender / ComfyUI / LTX-2.5 / Miniax H3 / YuE2</sub><br>
 <sub><a href="https://x.com/mikumiku_aloha/status/2107848117584543896">Original post ↗</a> · <a href="../../prompts/2107848117584543896.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Blender</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Blender</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -26,7 +26,7 @@
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Blender</sub><br>
 <sub><a href="https://x.com/motion_conquest/status/2105077715510714439">Original post ↗</a> · <a href="../../prompts/2105077715510714439.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Blender</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Blender</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -37,7 +37,7 @@
 <sub>Use: Game UI Redesign &amp; 3D Backgrounds<br>Inputs: FLIP CLASH game source code and original settings interface<br>Tools: Blender</sub><br>
 <sub><a href="https://x.com/hii_studio_jp/status/2105051697525686340">Original post ↗</a> · <a href="../../prompts/2105051697525686340.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Make the menu stylish and easy to understand. Make the background realistic and cool.</code>：明确界面展示的对象；复用时补充内容层级、状态变化和真实数据，避免只有静态装饰。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Make the menu stylish and easy to understand. Make the background realistic and cool.</code>: Specify content hierarchy, state changes and real data for the interface rather than static decoration.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -46,7 +46,7 @@
 <sub>Use: Procedural Rube Goldberg Machine in Blender<br>Inputs: User inputs not specified by the author<br>Tools: Blender / Blender MCP / Cursor</sub><br>
 <sub><a href="https://x.com/Kwazikot/status/2104953406708175097">Original post ↗</a> · <a href="../../prompts/2104953406708175097.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>inspect the scene after each major step</code>：每完成一大步就检查场景，把几何错误尽早暴露，避免直到最终渲染才发现结构问题。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>inspect the scene after each major step</code>: Inspect the scene after each major step so geometry errors surface before the final render.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -55,7 +55,7 @@
 <sub>Use: 3D Animation / Music Video<br>Inputs: Original musical composition created by the author; Storyboards and directorial instructions created by the author<br>Tools: Blender / three.js</sub><br>
 <sub><a href="https://x.com/LugiAXETomXV/status/2105091868149354753">Original post ↗</a> · <a href="../../prompts/2105091868149354753.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>&quot;Camera work here should be like this&quot; &quot;This light isn&#x27;t needed&quot; &quot;Depth of field should be</code>：公开片段只给出创作方向；复用时补充主体动作、画面约束和交付格式，不能据此推断完整制作过程。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>&quot;Camera work here should be like this&quot; &quot;This light isn&#x27;t needed&quot; &quot;Depth of field should be</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
 <!-- pro-tip:end -->
 </td>
 </tr>
@@ -66,7 +66,7 @@
 <sub>Use: 3D visualization dissecting Tokyo Station's multi-layered layout generated via Claude Code / Opus 5.5 scripting Blender.<br>Inputs: User inputs not specified by the author<br>Tools: Blender</sub><br>
 <sub><a href="https://x.com/yktgch/status/2104525642121519401">Original post ↗</a> · <a href="../../prompts/2104525642121519401.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>I want to try Opus 5.5, so write a prompt for Blender to create a &#x27;Tokyo Station anatomy video&#x27; (starting from Marunouchi building to Yaesu side).</code>：点名实现或渲染工具，减少技术路线漂移；复用时准备相应环境，不能把工具名当作完整制作步骤。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>I want to try Opus 5.5, so write a prompt for Blender to create a &#x27;Tokyo Station anatomy video&#x27; (starting from Marunouchi building to Yaesu side).</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
 <!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
@@ -75,7 +75,7 @@
 <sub>Use: Historical 3D reconstruction<br>Inputs: User inputs not specified by the author<br>Tools: Blender</sub><br>
 <sub><a href="https://x.com/alexalbert__/status/2102466523164274839">Original post ↗</a> · <a href="../../prompts/2102466523164274839.md">Prompt ↗</a></sub>
 <!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip / 核心咒语</strong><br><code>Before modeling anything, build a source file</code>：先建史料档案再建模，将建筑细节绑定到可核对的来源，而不是凭风格想象历史。</blockquote>
+<blockquote><strong>💡 Pro Tip</strong><br><code>Before modeling anything, build a source file</code>: Build a historical source file before modeling so architectural details can be checked against evidence.</blockquote>
 <!-- pro-tip:end -->
 </td><td></td>
 </tr>
