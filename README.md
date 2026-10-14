@@ -1,5 +1,7 @@
 # Awesome Opus 5.5 Video Prompts
 
+**More from Leadde Open Lab: [Awesome Gemini 4 Video Prompts →](https://github.com/LeaddeOpenLab/awesome-gemini4-video-prompts)**
+
 [![2000+ prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner-20261013-180152-collection.svg)](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)
 
 **Creator-shared prompts, visual previews, and practical setup notes — curated by Leadde Open Lab.** Find the original prompt and source, watch selected results, and check the tools and inputs before you try them. Return for fresh picks for your next video, animation or 3D project.
