@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T17:11:06.692Z",
+  "model": "opus5.5",
+  "prompt": "Design a highly creative voxel art scene depicting an intricate ship sailing inside a bottle. Include realistic waves and physics effects, contained within the bottle. Enrich the scene with colorful voxels, physics simulation, and props/landscapes. Implement via WebGL and other libraries, ensuring it can be copied into a single HTML file and opened in Chrome.",
+  "promptTranslations": {
+    "en": "Design a highly creative voxel art scene depicting an intricate ship sailing inside a bottle. Include realistic waves and physics effects, contained within the bottle. Enrich the scene with colorful voxels, physics simulation, and props/landscapes. Implement via WebGL and other libraries, ensuring it can be copied into a single HTML file and opened in Chrome."
+  },
+  "summary": "Comparison test between Claude Opus 5.5 and Gemini 4 Argon generating a voxel art ship-in-a-bottle WebGL simulation.",
+  "summaryEn": "Voxel Ship in a Bottle WebGL Scene",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110716381968879863",
+    "canonicalUrl": "https://x.com/Bitturing/status/2110716381968879863",
+    "author": {
+      "username": "Bitturing",
+      "displayName": "Bitturing",
+      "profileUrl": "https://x.com/Bitturing"
+    },
+    "publishedAt": "2026-10-15T12:56:15.000Z",
+    "collectedAt": "2026-10-15T16:23:36.594Z",
+    "language": "zh",
+    "originalText": "Gemini 4 Argon vs Claude Opus 5.5测试对比！\n\n分别花费：$0.19 vs $12.06\n\n64倍差价的秘密，或许就藏在那几行提示词里。\nhttps://t.co/6Jfuk0FD5C\n\nOpus直接整了个完整的小世界：海豚、海鸥、灯塔、瓶子摇晃，还有一堆交互细节。玻璃、水、小细节都精致得多\n\nGemini花$0.19也能看，就是简单点。便宜64倍啊\n\n用的提示词：\n'设计一个创意十足的体素艺术场景，画一艘精致的船在瓶子里航行。加上逼真的波浪和物理效果，整个场景都装在瓶子里。用多彩的体素、物理模拟和各种道具/景观丰富场景。用WebGL和其他库实现，确保能复制到单个HTML文件里用Chrome打开'",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Bitturing/status/2110716381968879863",
+        "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2110716319708663808/pu/img/seKezpJrmitrxPSs.jpg",
+        "analysisUrl": "https://x.com/Bitturing/status/2110716381968879863"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 1027
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HCEB0WqjJd0dY0ja9JGFSM674WkgwaP8wGudQBWr&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FE0pK4USfRSXLIJIIEsOl1g",
+        "text": "\n\n    \n        \n\n\n\n\n\n\n\n\n\n        \n        \n        \n\n\n\n\n\n    \n    \n         \n\n  \n\n        \n      \n    \n\n    \n        环境异常\n\n        当前环境异常，完成验证后即可继续访问。\n\n    \n\n    \n      \n        去验证\n      \n\n    \n\n    \n\n\n\n        \n        \n\n\n\n\n\n：\n，\n。\n \n\n\n视频\n小程序\n\n\n赞\n，轻点两下取消赞\n在看\n，轻点两下取消在看\n\n        \n\n\n        \n\n\n\n    \n\n\n",
+        "kind": "linked_public_material",
+        "author": "Bitturing"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Bitturing/status/2110716381968879863",
+  "coverUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2110716319708663808/pu/img/seKezpJrmitrxPSs.jpg",
+  "coverPath": "data/covers/2110716381968879863-wide.jpg",
+  "gifPath": "data/gifs/2110716381968879863.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110716319708663808",
+    "x-post:2110716381968879863"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Voxel Ship in a Bottle WebGL Scene",
+      "summary": "Comparison test between Claude Opus 5.5 and Gemini 4 Argon generating a voxel art ship-in-a-bottle WebGL simulation.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon vs Claude Opus 5.5测试对比！"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "设计一个创意十足的体素艺术场景，画一艘精致的船在瓶子里航行。加上逼真的波浪和物理效果，整个场景都装在瓶子里。用多彩的体素、物理模拟和各种道具/景观丰富场景。用WebGL和其他库实现，确保能复制到单个HTML文件里用Chrome打开",
+        "englishText": "Design a highly creative voxel art scene depicting an intricate ship sailing inside a bottle. Include realistic waves and physics effects, contained within the bottle. Enrich the scene with colorful voxels, physics simulation, and props/landscapes. Implement via WebGL and other libraries, ensuring it can be copied into a single HTML file and opened in Chrome.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Side-by-side browser capture displays the interactive 3D voxel ship in a bottle with simulated waves, lighting, and environmental props.",
+        "textualResultQuote": "Opus直接整了个完整的小世界：海豚、海鸥、灯塔、瓶子摇晃，还有一堆交互细节。玻璃、水、小细节都精致得多"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Chrome",
+          "role": "Web runtime host",
+          "evidence": "确保能复制到单个HTML文件里用Chrome打开",
+          "sourceUrl": "https://x.com/Bitturing/status/2110716381968879863",
+          "status": "required"
+        },
+        {
+          "name": "WebGL",
+          "role": "In-browser 3D rendering engine",
+          "evidence": "用WebGL和其他库实现，确保能复制到单个HTML文件里用Chrome打开",
+          "sourceUrl": "https://x.com/Bitturing/status/2110716381968879863",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Voxel Ship in a Bottle Interactive Demo",
+        "topic": "3d-scenes",
+        "tags": [
+          "voxel",
+          "webgl",
+          "interactive-3d",
+          "ship-in-a-bottle"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 authored the self-contained HTML and WebGL script.",
+      "outputSource": "Browser WebGL renderer running Opus-generated code.",
+      "divisionEvidence": "用WebGL和其他库实现，确保能复制到单个HTML文件里用Chrome打开",
+      "video": {
+        "shots": "Split-screen recording comparing model outputs",
+        "duration": "18s",
+        "aspectRatio": "720:912",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Opus 5.5 coding showcase with verbatim generation prompt and live recorded WebGL interactive output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Bitturing/status/2110716381968879863",
+        "start": 202,
+        "end": 317
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Bitturing/status/2110716381968879863",
+        "author": "Bitturing",
+        "postId": "2110716381968879863",
+        "publishedAt": "2026-10-15T12:56:15.000Z"
+      },
+      "checkedAt": "2026-10-15T16:37:06.400Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "verified",
+        "status": "publishable",
+        "reasons": []
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Bitturing/status/2110716381968879863",
+        "evidence": ""
+      }
+    },
+    "summary": "Comparison test between Claude Opus 5.5 and Gemini 4 Argon generating a voxel art ship-in-a-bottle WebGL simulation.",
+    "summaryEn": "Voxel Ship in a Bottle WebGL Scene",
+    "originalPrompt": "设计一个创意十足的体素艺术场景，画一艘精致的船在瓶子里航行。加上逼真的波浪和物理效果，整个场景都装在瓶子里。用多彩的体素、物理模拟和各种道具/景观丰富场景。用WebGL和其他库实现，确保能复制到单个HTML文件里用Chrome打开",
+    "sourceRange": {
+      "start": 202,
+      "end": 317
+    },
+    "translations": {
+      "zh": "设计一个创意十足的体素艺术场景，画一艘精致的船在瓶子里航行。加上逼真的波浪和物理效果，整个场景都装在瓶子里。用多彩的体素、物理模拟和各种道具/景观丰富场景。用WebGL和其他库实现，确保能复制到单个HTML文件里用Chrome打开",
+      "en": "Design a highly creative voxel art scene depicting an intricate ship sailing inside a bottle. Include realistic waves and physics effects, contained within the bottle. Enrich the scene with colorful voxels, physics simulation, and props/landscapes. Implement via WebGL and other libraries, ensuring it can be copied into a single HTML file and opened in Chrome."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Voxel Ship in a Bottle Interactive Demo",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Side-by-side browser capture displays the interactive 3D voxel ship in a bottle with simulated waves, lighting, and environmental props."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
