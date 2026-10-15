@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T17:08:51.005Z",
+  "model": "opus5.5",
+  "prompt": "Build \"Rubik's Cube\", a single self-contained HTML file, three.js r160 only. A glossy, realistic 3x3 Rubik's cube in a dark studio with soft lighting and a subtle shadow or reflection. Standard colors. Layers must really rotate. 0-1.5s solved cube turning, 1.5-5s it scrambles itself with 20 seeded random turns, 5-14s it solves itself with every turn animated (any method allowed, including undoing the scramble), 14-15s a small celebration. Slow cinematic camera, no UI.",
+  "promptTranslations": {
+    "en": "Build \"Rubik's Cube\", a single self-contained HTML file, three.js r160 only. A glossy, realistic 3x3 Rubik's cube in a dark studio with soft lighting and a subtle shadow or reflection. Standard colors. Layers must really rotate. 0-1.5s solved cube turning, 1.5-5s it scrambles itself with 20 seeded random turns, 5-14s it solves itself with every turn animated (any method allowed, including undoing the scramble), 14-15s a small celebration. Slow cinematic camera, no UI."
+  },
+  "summary": "Claude Opus 5.5 generated a self-contained HTML and Three.js script rendering a realistic 3D Rubik's cube that scrambles itself with seeded random turns, reverses the scramble to solve itself, and finishes with a celebration.",
+  "summaryEn": "Three.js Rubik's Cube Scramble and Solve Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110588980718940283",
+    "canonicalUrl": "https://x.com/dayvanxd/status/2110588980718940283",
+    "author": {
+      "username": "dayvanxd",
+      "displayName": "dayvan",
+      "profileUrl": "https://x.com/dayvanxd"
+    },
+    "publishedAt": "2026-10-15T04:30:00.000Z",
+    "collectedAt": "2026-10-15T16:23:36.594Z",
+    "language": "en",
+    "originalText": "All 4 Claude models solved a Rubik's cube. One of them cost over 100x more.\n\nSame prompt, one shot, no edits: a glossy cube that scrambles itself, then solves itself.\n\nHaiku 5.5: 7 min · $0.08\nSonnet 5.5: 7 min · $1.06\nOpus 5.5: 13 min · $2.57\nFable 5.1: 25 min · $8.76\n\nPlot twist: all four solved it the same way. They played the scramble backwards. The prompt allowed it.\n\nWhich cube wins? Reply 1, 2, 3 or 4\n\nPrompt below, steal it:\n\nBuild \"Rubik's Cube\", a single self-contained HTML file, three.js r160 only. A glossy, realistic 3x3 Rubik's cube in a dark studio with soft lighting and a subtle shadow or reflection. Standard colors. Layers must really rotate. 0-1.5s solved cube turning, 1.5-5s it scrambles itself with 20 seeded random turns, 5-14s it solves itself with every turn animated (any method allowed, including undoing the scramble), 14-15s a small celebration. Slow cinematic camera, no UI.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/dayvanxd/status/2110588980718940283",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110506128392028160/img/w-IidwgnxNZPEUgo.jpg",
+        "analysisUrl": "https://x.com/dayvanxd/status/2110588980718940283"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 104
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/dayvanxd/status/2110588980718940283",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110506128392028160/img/w-IidwgnxNZPEUgo.jpg",
+  "coverPath": "data/covers/2110588980718940283-wide.jpg",
+  "gifPath": "data/gifs/2110588980718940283.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110506128392028160",
+    "x-post:2110588980718940283"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Three.js Rubik's Cube Scramble and Solve Animation",
+      "summary": "Claude Opus 5.5 generated a self-contained HTML and Three.js script rendering a realistic 3D Rubik's cube that scrambles itself with seeded random turns, reverses the scramble to solve itself, and finishes with a celebration.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5: 13 min · $2.57"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build \"Rubik's Cube\", a single self-contained HTML file, three.js r160 only. A glossy, realistic 3x3 Rubik's cube in a dark studio with soft lighting and a subtle shadow or reflection. Standard colors. Layers must really rotate. 0-1.5s solved cube turning, 1.5-5s it scrambles itself with 20 seeded random turns, 5-14s it solves itself with every turn animated (any method allowed, including undoing the scramble), 14-15s a small celebration. Slow cinematic camera, no UI.",
+        "englishText": "Build \"Rubik's Cube\", a single self-contained HTML file, three.js r160 only. A glossy, realistic 3x3 Rubik's cube in a dark studio with soft lighting and a subtle shadow or reflection. Standard colors. Layers must really rotate. 0-1.5s solved cube turning, 1.5-5s it scrambles itself with 20 seeded random turns, 5-14s it solves itself with every turn animated (any method allowed, including undoing the scramble), 14-15s a small celebration. Slow cinematic camera, no UI.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows the rendered Three.js Rubik's cube animation by Opus 5.5 adhering to the prompt requirements: scrambling itself, solving itself via inverse moves, and displaying a celebratory confetti effect with reflective studio lighting.",
+        "textualResultQuote": "Opus 5.5: 13 min · $2.57\nsolved it with confetti"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "Build \"Rubik's Cube\", a single self-contained HTML file, three.js r160 only.",
+          "sourceUrl": "https://x.com/dayvanxd/status/2110588980718940283",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Rubik's Cube 3D Animation",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "creative-coding",
+          "3d-animation",
+          "rubiks-cube"
+        ]
+      },
+      "targetModelRole": "Code generation of a complete, self-contained HTML and Three.js application managing 3D mesh hierarchies, rotation logic, and time-sequenced animation.",
+      "outputSource": "Web browser executing the self-contained HTML/Three.js script.",
+      "divisionEvidence": "Build \"Rubik's Cube\", a single self-contained HTML file, three.js r160 only.",
+      "video": {
+        "shots": "Single camera tracking shot in a dark studio environment",
+        "duration": "18s",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "The author provides explicit evidence of Claude Opus 5.5 usage, includes the complete original generation prompt, and provides a corresponding video screen recording showing the Three.js 3D animation executing as instructed.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/dayvanxd/status/2110588980718940283",
+        "start": 438,
+        "end": 910
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/dayvanxd/status/2110588980718940283",
+        "author": "dayvanxd",
+        "postId": "2110588980718940283",
+        "publishedAt": "2026-10-15T04:30:00.000Z"
+      },
+      "checkedAt": "2026-10-15T17:03:13.734Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "verified",
+        "status": "publishable",
+        "reasons": []
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/dayvanxd/status/2110588980718940283",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated a self-contained HTML and Three.js script rendering a realistic 3D Rubik's cube that scrambles itself with seeded random turns, reverses the scramble to solve itself, and finishes with a celebration.",
+    "summaryEn": "Three.js Rubik's Cube Scramble and Solve Animation",
+    "originalPrompt": "Build \"Rubik's Cube\", a single self-contained HTML file, three.js r160 only. A glossy, realistic 3x3 Rubik's cube in a dark studio with soft lighting and a subtle shadow or reflection. Standard colors. Layers must really rotate. 0-1.5s solved cube turning, 1.5-5s it scrambles itself with 20 seeded random turns, 5-14s it solves itself with every turn animated (any method allowed, including undoing the scramble), 14-15s a small celebration. Slow cinematic camera, no UI.",
+    "sourceRange": {
+      "start": 438,
+      "end": 910
+    },
+    "translations": {
+      "zh": "Build \"Rubik's Cube\", a single self-contained HTML file, three.js r160 only. A glossy, realistic 3x3 Rubik's cube in a dark studio with soft lighting and a subtle shadow or reflection. Standard colors. Layers must really rotate. 0-1.5s solved cube turning, 1.5-5s it scrambles itself with 20 seeded random turns, 5-14s it solves itself with every turn animated (any method allowed, including undoing the scramble), 14-15s a small celebration. Slow cinematic camera, no UI.",
+      "en": "Build \"Rubik's Cube\", a single self-contained HTML file, three.js r160 only. A glossy, realistic 3x3 Rubik's cube in a dark studio with soft lighting and a subtle shadow or reflection. Standard colors. Layers must really rotate. 0-1.5s solved cube turning, 1.5-5s it scrambles itself with 20 seeded random turns, 5-14s it solves itself with every turn animated (any method allowed, including undoing the scramble), 14-15s a small celebration. Slow cinematic camera, no UI."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Rubik's Cube 3D Animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows the rendered Three.js Rubik's cube animation by Opus 5.5 adhering to the prompt requirements: scrambling itself, solving itself via inverse moves, and displaying a celebratory confetti effect with reflective studio lighting."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T17:08:51.425Z",
+  "model": "opus5.5",
+  "prompt": "create a beautiful, busy, living koi pond using Three.js in a single HTML file. Include a waterfall, rocks, plants, and multiple koi fish with different colors and patterns. Make the scene feel alive through continuous fish movement, flowing water, and animated environmental details. Add a “Feed the koi” button. When clicked, food should appear on the water, and the fish should visibly swim toward it and eat it—not simply continue their normal swimming animation. Allow the camera to orbit and zoom so I can explore the pond. Make the scene visually polished, with convincing water, lighting, and depth. Deliver the complete working HTML file.",
+  "promptTranslations": {
+    "en": "create a beautiful, busy, living koi pond using Three.js in a single HTML file. Include a waterfall, rocks, plants, and multiple koi fish with different colors and patterns. Make the scene feel alive through continuous fish movement, flowing water, and animated environmental details. Add a “Feed the koi” button. When clicked, food should appear on the water, and the fish should visibly swim toward it and eat it—not simply continue their normal swimming animation. Allow the camera to orbit and zoom so I can explore the pond. Make the scene visually polished, with convincing water, lighting, and depth. Deliver the complete working HTML file."
+  },
+  "summary": "Claude Opus 5.5 generates a complete, self-contained Three.js HTML file simulating an interactive 3D koi pond with swimming fish, waterfall, water ripples, camera navigation, and an interactive feeding mechanic.",
+  "summaryEn": "Interactive 3D Living Koi Pond in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110442447495127067",
+    "canonicalUrl": "https://x.com/Haleeeemahh/status/2110442447495127067",
+    "author": {
+      "username": "Haleeeemahh",
+      "displayName": "Haleemah",
+      "profileUrl": "https://x.com/Haleeeemahh"
+    },
+    "publishedAt": "2026-10-14T18:47:44.000Z",
+    "collectedAt": "2026-10-15T16:23:36.594Z",
+    "language": "en",
+    "originalText": "Gemini 4 argon vs opus 5.5 \n\nI tested the same prompt on both models \n\n - argon took 3 mins and cost $3\n\n- opus took 25mins and cost $8\n\nwho did it better ? https://t.co/4TjQRVBxDa",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Haleeeemahh/status/2110442447495127067",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110442137024131072/img/d8juT3iFpz9ALThF.jpg",
+        "analysisUrl": "https://x.com/Haleeeemahh/status/2110442447495127067"
+      }
+    ],
+    "metrics": {
+      "likeCount": 537,
+      "repostCount": 28,
+      "replyCount": 46,
+      "quoteCount": 2,
+      "viewCount": 51233
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Haleeeemahh/status/2110694883711496450",
+        "text": "@triedthisai Hmm maybe I’ll try that again",
+        "author": "Haleeeemahh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Haleeeemahh/status/2110694711946100745",
+        "text": "@miia_lamia Gemini 4 argon was a paid API test where you get billed based on tokens used\n\nso you can tell the price easily \n\nthere are tools you can use to see this too if you’re not using API",
+        "author": "Haleeeemahh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Haleeeemahh/status/2110692791772942555",
+        "text": "@idevranjan Where did you test ?",
+        "author": "Haleeeemahh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Haleeeemahh/status/2110692736424628336",
+        "text": "@leiroops In some aspects argon did it better",
+        "author": "Haleeeemahh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Haleeeemahh/status/2110692475438587999",
+        "text": "@ValencianaAbel If you love prompts like these make sure you follow would be posting more of these 🤝",
+        "author": "Haleeeemahh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Haleeeemahh/status/2110622707716956308",
+        "text": "@Hedonistmax Wow 🤯 this looks so good \n\nDid you get the renewed prompt ?",
+        "author": "Haleeeemahh"
+      },
+      {
+        "url": "https://x.com/Haleeeemahh/status/2110622544038613187",
+        "text": "Haleemah on X: \"@MoreModeratio\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nHaleemah on X: \"@MoreModeratio\"\n\n\n\nHaleemah\n\n@Haleeeemahh\n\n\n\n\n\n\n\n\nGIF\n\n\n\n\n\n\n\n6:43 AM · Oct 15, 2026·408\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nHaleemah@HaleeeemahhFollow\nfrontier AI leaks & news\ntesting CN + FR models • building prompt portal\n\nopinions my own\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGokhan@MoreModeratioFollow\n\n\n\n\n\n\n\n\nGokhan\n@MoreModeratio\n11h\n\n\nOpus might be more realistic. But Argon has better taste.\n\n\n1\n\n\n469\n\n\n\n\n\n\n\n\n\n\nHaleemah\n\n@Haleeeemahh\n\n\n\n\n\n\n\n\nGIF\n\n\n\n\n\n\n\n6:43 AM · Oct 15, 2026·408\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Haleeeemahh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Haleeeemahh/status/2110622468243329238",
+        "text": "@alizeh_ai 🙂‍↕️🙂‍↕️🙂‍↕️",
+        "author": "Haleeeemahh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Haleeeemahh/status/2110622366569246729",
+        "text": "@abhiontwt this was made using API credits from @AiHubMix",
+        "author": "Haleeeemahh"
+      },
+      {
+        "url": "https://x.com/Haleeeemahh/status/2110451857835311306",
+        "text": "Haleemah on X: \"@pengsonal I agree peng\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nHaleemah on X: \"@pengsonal I agree peng\"\n\n\n\nHaleemah\n\n@Haleeeemahh\n\n\n\n\nI agree peng\n\n\n\n\n\n7:25 PM · Oct 14, 2026·682\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nHaleemah@HaleeeemahhFollow\nfrontier AI leaks & news\ntesting CN + FR models • building prompt portal\n\nopinions my own\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPeng\n\n@pengsonal\n22h\n\n\nargon looks better\n\n\n1\n\n1\n785\n\n\n\n\n\n\n\n\n\n\nHaleemah\n\n@Haleeeemahh\n\n\n\n\nI agree peng\n\n\n\n\n\n7:25 PM · Oct 14, 2026·682\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPeng@pengsonalFollow\nㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ I share AI alpha || vibecoding tools & guidesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Haleeeemahh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Haleeeemahh/status/2110448286889054595",
+        "text": "@HarshithLucky3 It did so good",
+        "author": "Haleeeemahh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Haleeeemahh/status/2110445790023795171",
+        "text": "@adnaannasir_ Yes",
+        "author": "Haleeeemahh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Haleeeemahh/status/2110444301318857061",
+        "text": "@ValencianaAbel create a beautiful, busy, living koi pond using Three.js in a single HTML file. Include a waterfall, rocks, plants, and multiple koi fish with different colors and patterns. Make the scene feel alive through continuous fish movement, flowing water, and animated environmental details. Add a “Feed the koi” button. When clicked, food should appear on the water, and the fish should visibly swim toward it and eat it—not simply continue their normal swimming animation. Allow the camera to orbit and zoom so I can explore the pond. Make the scene visually polished, with convincing water, lighting, and depth. Deliver the complete working HTML file.",
+        "author": "Haleeeemahh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Haleeeemahh/status/2110443446553198927",
+        "text": "@adnaannasir_ The water effect in argon looks so good",
+        "author": "Haleeeemahh"
+      },
+      {
+        "url": "https://x.com/Haleeeemahh/status/2110442447495127067",
+        "text": "Haleemah on X: \"Gemini 4 argon vs opus 5.5 \n\nI tested the same prompt on both models \n\n - argon took 3 mins and cost $3\n\n- opus took 25mins and cost $8\n\nwho did it better ?\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nHaleemah on X: \"Gemini 4 argon vs opus 5.5 \n\nI tested the same prompt on both models \n\n - argon took 3 mins and cost $3\n\n- opus took 25mins and cost $8\n\nwho did it better ?\"\n\n\n\nHaleemah\n\n@Haleeeemahh\n\n\n\n\nGemini 4 argon vs opus 5.5 \n\nI tested the same prompt on both models \n\n - argon took 3 mins and cost $3\n\n- opus took 25mins and cost $8\n\nwho did it better ?\n\n\n00:00\n\n\n\n\n\n\n\n\n6:47 PM · Oct 14, 2026·51.4K\nViews\n\n\n\n46\n28\n541\n152\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nHaleemah@HaleeeemahhFollow\nfrontier AI leaks & news\ntesting CN + FR models • building prompt portal\n\nopinions my own\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHaleemah\n\n@Haleeeemahh\n\n\n\n\nGemini 4 argon vs opus 5.5 \n\nI tested the same prompt on both models \n\n - argon took 3 mins and cost $3\n\n- opus took 25mins and cost $8\n\nwho did it better ?\n\n\n00:00\n\n\n\n\n\n\n\n\n6:47 PM · Oct 14, 2026·51.4K\nViews\n\n\n\n46\n28\n541\n152\n\n\n\n\n\n\n\n\n\nHaleemah\n\n@Haleeeemahh\n5h\n\n\n\n\n\nHaleemah\n\n@Haleeeemahh\n22h\n\nReplying to @ValencianaAbel\ncreate a beautiful, busy, living koi pond using Three.js in a single HTML file. Include a waterfall, rocks, plants, and multiple koi fish with different colors and patterns. Make the scene feel alive through continuous fish movement, flowing water, and animated environmental Show more\n\n\n\n\n\n\n\n1\n1.2K\n\n\n\n\n\n\n\n\n\n\n\nHarshith\n\n@HarshithLucky3\n22h\n\n\nwater physics in Argon >>\n\n\n1\n\n19\n2K\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Haleeeemahh"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Haleeeemahh/status/2110442447495127067",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110442137024131072/img/d8juT3iFpz9ALThF.jpg",
+  "coverPath": "data/covers/2110442447495127067-wide.jpg",
+  "gifPath": "data/gifs/2110442447495127067.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110442137024131072",
+    "x-post:2110442447495127067"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Living Koi Pond in Three.js",
+      "summary": "Claude Opus 5.5 generates a complete, self-contained Three.js HTML file simulating an interactive 3D koi pond with swimming fish, waterfall, water ripples, camera navigation, and an interactive feeding mechanic.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "AiHubMix API",
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 argon vs opus 5.5 \n\nI tested the same prompt on both models \n\n - argon took 3 mins and cost $3\n\n- opus took 25mins and cost $8 | this was made using API credits from @AiHubMix"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "create a beautiful, busy, living koi pond using Three.js in a single HTML file. Include a waterfall, rocks, plants, and multiple koi fish with different colors and patterns. Make the scene feel alive through continuous fish movement, flowing water, and animated environmental details. Add a “Feed the koi” button. When clicked, food should appear on the water, and the fish should visibly swim toward it and eat it—not simply continue their normal swimming animation. Allow the camera to orbit and zoom so I can explore the pond. Make the scene visually polished, with convincing water, lighting, and depth. Deliver the complete working HTML file.",
+        "englishText": "create a beautiful, busy, living koi pond using Three.js in a single HTML file. Include a waterfall, rocks, plants, and multiple koi fish with different colors and patterns. Make the scene feel alive through continuous fish movement, flowing water, and animated environmental details. Add a “Feed the koi” button. When clicked, food should appear on the water, and the fish should visibly swim toward it and eat it—not simply continue their normal swimming animation. Allow the camera to orbit and zoom so I can explore the pond. Make the scene visually polished, with convincing water, lighting, and depth. Deliver the complete working HTML file.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording demonstrates the Opus 5.5 Three.js output showing a running waterfall, rocks, lily pads, swimming multicolored koi, water shaders, and the functional 'Feed the koi' button triggering pellets and koi flocking to feed.",
+        "textualResultQuote": "Gemini 4 argon vs opus 5.5 \n\nI tested the same prompt on both models \n\n - argon took 3 mins and cost $3\n\n- opus took 25mins and cost $8\n\nwho did it better ?"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "create a beautiful, busy, living koi pond using Three.js in a single HTML file.",
+          "sourceUrl": "https://x.com/Haleeeemahh/status/2110444301318857061",
+          "status": "required"
+        },
+        {
+          "name": "Web Browser",
+          "role": "Execution environment for the generated single HTML file",
+          "evidence": "Deliver the complete working HTML file.",
+          "sourceUrl": "https://x.com/Haleeeemahh/status/2110444301318857061",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Living Koi Pond in Three.js",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "koi-pond",
+          "interactive",
+          "water-simulation",
+          "canvas-interactive"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 authored the full Three.js and HTML/JavaScript code implementing 3D models, water shaders, flocking behaviors, UI buttons, and interaction logic.",
+      "outputSource": "Web browser executing Three.js WebGL canvas rendering",
+      "divisionEvidence": "create a beautiful, busy, living koi pond using Three.js in a single HTML file. Include a waterfall, rocks, plants, and multiple koi fish with different colors and patterns... Deliver the complete working HTML file.",
+      "video": {
+        "shots": "1 side-by-side comparative shot",
+        "duration": "0:14",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Complete verification of Claude Opus 5.5 generating an interactive 3D Three.js scene demoed via side-by-side screen recording with full original prompt disclosed.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Haleeeemahh/status/2110444301318857061",
+        "start": 16,
+        "end": 663
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Haleeeemahh/status/2110442447495127067",
+        "author": "Haleeeemahh",
+        "postId": "2110442447495127067",
+        "publishedAt": "2026-10-14T18:47:44.000Z"
+      },
+      "checkedAt": "2026-10-15T17:07:37.841Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Haleeeemahh/status/2110444301318857061",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generates a complete, self-contained Three.js HTML file simulating an interactive 3D koi pond with swimming fish, waterfall, water ripples, camera navigation, and an interactive feeding mechanic.",
+    "summaryEn": "Interactive 3D Living Koi Pond in Three.js",
+    "originalPrompt": "create a beautiful, busy, living koi pond using Three.js in a single HTML file. Include a waterfall, rocks, plants, and multiple koi fish with different colors and patterns. Make the scene feel alive through continuous fish movement, flowing water, and animated environmental details. Add a “Feed the koi” button. When clicked, food should appear on the water, and the fish should visibly swim toward it and eat it—not simply continue their normal swimming animation. Allow the camera to orbit and zoom so I can explore the pond. Make the scene visually polished, with convincing water, lighting, and depth. Deliver the complete working HTML file.",
+    "sourceRange": {
+      "start": 16,
+      "end": 663
+    },
+    "translations": {
+      "zh": "create a beautiful, busy, living koi pond using Three.js in a single HTML file. Include a waterfall, rocks, plants, and multiple koi fish with different colors and patterns. Make the scene feel alive through continuous fish movement, flowing water, and animated environmental details. Add a “Feed the koi” button. When clicked, food should appear on the water, and the fish should visibly swim toward it and eat it—not simply continue their normal swimming animation. Allow the camera to orbit and zoom so I can explore the pond. Make the scene visually polished, with convincing water, lighting, and depth. Deliver the complete working HTML file.",
+      "en": "create a beautiful, busy, living koi pond using Three.js in a single HTML file. Include a waterfall, rocks, plants, and multiple koi fish with different colors and patterns. Make the scene feel alive through continuous fish movement, flowing water, and animated environmental details. Add a “Feed the koi” button. When clicked, food should appear on the water, and the fish should visibly swim toward it and eat it—not simply continue their normal swimming animation. Allow the camera to orbit and zoom so I can explore the pond. Make the scene visually polished, with convincing water, lighting, and depth. Deliver the complete working HTML file."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Living Koi Pond in Three.js",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The screen recording demonstrates the Opus 5.5 Three.js output showing a running waterfall, rocks, lily pads, swimming multicolored koi, water shaders, and the functional 'Feed the koi' button triggering pellets and koi flocking to feed."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

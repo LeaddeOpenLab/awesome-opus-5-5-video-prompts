@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T17:08:50.161Z",
+  "model": "opus5.5",
+  "prompt": "an interactive Tokyo street alley at night in the rain.",
+  "promptTranslations": {
+    "en": "an interactive Tokyo street alley at night in the rain."
+  },
+  "summary": "Author compares Claude Opus 5.5 with GPT-6.1 Sol generating an interactive 3D Tokyo street alley diorama in the rain, noting Opus 5.5 added detailed neon bloom, steam vents, arcade machines, and street props.",
+  "summaryEn": "Interactive Tokyo Street Alley at Night in the Rain",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110708088680403204",
+    "canonicalUrl": "https://x.com/olezhavich/status/2110708088680403204",
+    "author": {
+      "username": "olezhavich",
+      "displayName": "Olezhka",
+      "profileUrl": "https://x.com/olezhavich"
+    },
+    "publishedAt": "2026-10-15T12:23:18.000Z",
+    "collectedAt": "2026-10-15T16:23:36.594Z",
+    "language": "en",
+    "originalText": "Same prompt, one shot: an interactive Tokyo street alley at night in the rain.\n\n- Claude Opus 5.5: 34m 14s | ~30.7M tokens | $12.82\n- GPT-6.1 Sol: ~16m 42s | ~7.8M tokens | $1.76\n\nCosts are estimated API prices.\n\nSol gave it a little moody, minimal vibe. But Opus went all out on the neon bloom, steam vents, arcade machines, and street props. \n\nOpus cost 7x more, but visually it feels like a finished scene with much more details. Which vibe do you prefer here?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/olezhavich/status/2110708088680403204",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110707733422862336/img/yapMUxI_i5oJsstP.jpg",
+        "analysisUrl": "https://x.com/olezhavich/status/2110708088680403204"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 96
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/olezhavich/status/2110708088680403204",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110707733422862336/img/yapMUxI_i5oJsstP.jpg",
+  "coverPath": "data/covers/2110708088680403204-wide.jpg",
+  "gifPath": "data/gifs/2110708088680403204.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110707733422862336",
+    "x-post:2110708088680403204"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive Tokyo Street Alley at Night in the Rain",
+      "summary": "Author compares Claude Opus 5.5 with GPT-6.1 Sol generating an interactive 3D Tokyo street alley diorama in the rain, noting Opus 5.5 added detailed neon bloom, steam vents, arcade machines, and street props.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5: 34m 14s | ~30.7M tokens | $12.82"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "an interactive Tokyo street alley at night in the rain.",
+        "englishText": "an interactive Tokyo street alley at night in the rain.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full coding prompt and system instructions",
+          "Framework specifications and scene camera/lighting requirements",
+          "Interactive control setup and shader/asset details"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording demonstrates an interactive 3D Tokyo street alley diorama at night in the rain, featuring rich neon bloom, arcade cabinets, steam, and interactively rotatable camera perspectives matching the Opus 5.5 comparison description.",
+        "textualResultQuote": "Opus went all out on the neon bloom, steam vents, arcade machines, and street props. Opus cost 7x more, but visually it feels like a finished scene with much more details."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "WebGL / Three.js Canvas",
+          "role": "Interactive 3D rendering and camera navigation runtime",
+          "evidence": "an interactive Tokyo street alley at night in the rain",
+          "status": "inferred",
+          "sourceUrl": "https://x.com/olezhavich/status/2110708088680403204"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Tokyo Alley Diorama",
+        "topic": "3d-scenes",
+        "tags": [
+          "interactive-3d",
+          "tokyo",
+          "webgl",
+          "diorama",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Code generation and scene orchestration for the interactive 3D street diorama",
+      "outputSource": "In-browser WebGL/Canvas 3D interactive diorama viewer",
+      "divisionEvidence": "Same prompt, one shot: an interactive Tokyo street alley at night in the rain. - Claude Opus 5.5: 34m 14s | ~30.7M tokens | $12.82",
+      "video": {
+        "shots": "Side-by-side comparative screen recording displaying 3D interactive viewport camera rotations, lighting adjustments, and scene inspections",
+        "duration": "0:35",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic creator showcase demonstrating Claude Opus 5.5 generating a full interactive 3D diorama scene with verified video recording and explicit version attribution.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/olezhavich/status/2110708088680403204",
+        "start": 23,
+        "end": 78
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/olezhavich/status/2110708088680403204",
+        "author": "olezhavich",
+        "postId": "2110708088680403204",
+        "publishedAt": "2026-10-15T12:23:18.000Z"
+      },
+      "checkedAt": "2026-10-15T16:40:56.298Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/olezhavich/status/2110708088680403204",
+        "evidence": ""
+      }
+    },
+    "summary": "Author compares Claude Opus 5.5 with GPT-6.1 Sol generating an interactive 3D Tokyo street alley diorama in the rain, noting Opus 5.5 added detailed neon bloom, steam vents, arcade machines, and street props.",
+    "summaryEn": "Interactive Tokyo Street Alley at Night in the Rain",
+    "originalPrompt": "an interactive Tokyo street alley at night in the rain.",
+    "sourceRange": {
+      "start": 23,
+      "end": 78
+    },
+    "translations": {
+      "zh": "an interactive Tokyo street alley at night in the rain.",
+      "en": "an interactive Tokyo street alley at night in the rain."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Tokyo Alley Diorama",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full coding prompt and system instructions",
+        "Framework specifications and scene camera/lighting requirements",
+        "Interactive control setup and shader/asset details"
+      ],
+      "evidence": "The screen recording demonstrates an interactive 3D Tokyo street alley diorama at night in the rain, featuring rich neon bloom, arcade cabinets, steam, and interactively rotatable camera perspectives matching the Opus 5.5 comparison description."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T17:08:50.582Z",
+  "model": "opus5.5",
+  "prompt": "A concrete dam, a mountain lake, a village in the valley below, and a \"Break the dam\" button that plays the whole disaster.",
+  "promptTranslations": {
+    "en": "A concrete dam, a mountain lake, a village in the valley below, and a \"Break the dam\" button that plays the whole disaster."
+  },
+  "summary": "Comparison demonstration of an interactive 3D dam failure and flood simulation coded by Claude Opus 5.5 versus ChatGPT.",
+  "summaryEn": "Interactive 3D Dam Collapse Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110620135245443294",
+    "canonicalUrl": "https://x.com/genuenci/status/2110620135245443294",
+    "author": {
+      "username": "genuenci",
+      "displayName": "genuenci",
+      "profileUrl": "https://x.com/genuenci"
+    },
+    "publishedAt": "2026-10-15T06:33:48.000Z",
+    "collectedAt": "2026-10-15T16:23:36.594Z",
+    "language": "en",
+    "originalText": "I asked Claude and ChatGPT to build the same thing: a tiny 3D dam that you can break with one button.\n\nSame prompt, word for word. A concrete dam, a mountain lake, a village in the valley below, and a \"Break the dam\" button that plays the whole disaster.\n\nClaude Opus 5.5 — $14.7 ChatGPT — $12.5\n\nWhat I noticed:\n\n•ChatGPT's page didn't open at all. Third time in a row: one missing line, and it hangs on a blank screen. I added it so we could compare.\n\n•When ChatGPT's dam breaks, the middle just disappears. No collapse, the wall is simply gone.\n\n•Claude's dam fails in stages. Cracks spread from the center, one hole punches through with a jet, then the wall comes apart block by block, rebar and all, and a waterfall pours through the gap.\n\n•The flood actually moves through Claude's village: a foamy wave front, houses lifted off their foundations, cars and a school bus floating away, the bridge torn into planks.\n\n•ChatGPT's panel and typography are still the cleaner design. Credit where it's due.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/genuenci/status/2110620135245443294",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110620103221923840/img/gis69Hqs0pvsAK5Q.jpg",
+        "analysisUrl": "https://x.com/genuenci/status/2110620135245443294"
+      }
+    ],
+    "metrics": {
+      "likeCount": 28,
+      "repostCount": 0,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 575
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/genuenci/status/2110620135245443294",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110620103221923840/img/gis69Hqs0pvsAK5Q.jpg",
+  "coverPath": "data/covers/2110620135245443294-wide.jpg",
+  "gifPath": "data/gifs/2110620135245443294.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110620103221923840",
+    "x-post:2110620135245443294"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Dam Collapse Simulation",
+      "summary": "Comparison demonstration of an interactive 3D dam failure and flood simulation coded by Claude Opus 5.5 versus ChatGPT.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 — $14.7"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "A concrete dam, a mountain lake, a village in the valley below, and a \"Break the dam\" button that plays the whole disaster.",
+        "englishText": "A concrete dam, a mountain lake, a village in the valley below, and a \"Break the dam\" button that plays the whole disaster.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "exact full prompt text",
+          "technical specifications",
+          "library/runtime setup instructions"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows the interactive 3D scene where the dam cracks, collapses block by block, and water floods the downstream village with interactive controls.",
+        "textualResultQuote": "Claude's dam fails in stages. Cracks spread from the center, one hole punches through with a jet, then the wall comes apart block by block, rebar and all, and a waterfall pours through the gap."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "WebGL / HTML Canvas",
+          "role": "Interactive 3D rendering engine",
+          "evidence": "Screen recording shows an interactive isometric 3D canvas viewport with camera rotation and custom UI sliders.",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Dam Breach Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "3d-scenes",
+          "interactive",
+          "webgl",
+          "dam-collapse",
+          "simulation"
+        ]
+      },
+      "targetModelRole": "Generated the client-side code and dynamic simulation logic for the 3D dam collapse and flood mechanics.",
+      "outputSource": "Web browser canvas executing the generated code.",
+      "divisionEvidence": "I asked Claude and ChatGPT to build the same thing: a tiny 3D dam that you can break with one button.",
+      "video": {
+        "shots": "Single split-screen recording comparing Claude Opus 5.5 and ChatGPT side by side",
+        "duration": "00:17",
+        "aspectRatio": "3:4",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Original screen recording displaying Claude Opus 5.5 code generation for a dynamic, interactive 3D simulation scene with partial prompt text provided.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/genuenci/status/2110620135245443294",
+        "start": 131,
+        "end": 254
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/genuenci/status/2110620135245443294",
+        "author": "genuenci",
+        "postId": "2110620135245443294",
+        "publishedAt": "2026-10-15T06:33:48.000Z"
+      },
+      "checkedAt": "2026-10-15T16:50:55.489Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/genuenci/status/2110620135245443294",
+        "evidence": ""
+      }
+    },
+    "summary": "Comparison demonstration of an interactive 3D dam failure and flood simulation coded by Claude Opus 5.5 versus ChatGPT.",
+    "summaryEn": "Interactive 3D Dam Collapse Simulation",
+    "originalPrompt": "A concrete dam, a mountain lake, a village in the valley below, and a \"Break the dam\" button that plays the whole disaster.",
+    "sourceRange": {
+      "start": 131,
+      "end": 254
+    },
+    "translations": {
+      "zh": "A concrete dam, a mountain lake, a village in the valley below, and a \"Break the dam\" button that plays the whole disaster.",
+      "en": "A concrete dam, a mountain lake, a village in the valley below, and a \"Break the dam\" button that plays the whole disaster."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Dam Breach Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "exact full prompt text",
+        "technical specifications",
+        "library/runtime setup instructions"
+      ],
+      "evidence": "The video shows the interactive 3D scene where the dam cracks, collapses block by block, and water floods the downstream village with interactive controls."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

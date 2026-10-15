@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T17:08:50.789Z",
+  "model": "opus5.5",
+  "prompt": "research aircraft manufacturing, study @AirsupHQ lean production books, design a functional Texas jet plant, build a live 3D simulation, test it, and deploy it.",
+  "promptTranslations": {
+    "en": "research aircraft manufacturing, study @AirsupHQ lean production books, design a functional Texas jet plant, build a live 3D simulation, test it, and deploy it."
+  },
+  "summary": "Konstantin Saifoulline showcases a 3D simulation of a Texas jet plant built with Claude Opus 5.5 and Three.js, modeling lean manufacturing lines, robotic assembly, and flight tests.",
+  "summaryEn": "3D Lean Aircraft Manufacturing Simulation with Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2109989449673347271",
+    "canonicalUrl": "https://x.com/konstantinsaifo/status/2109989449673347271",
+    "author": {
+      "username": "konstantinsaifo",
+      "displayName": "Konstantin Saifoulline",
+      "profileUrl": "https://x.com/konstantinsaifo"
+    },
+    "publishedAt": "2026-10-13T12:47:41.000Z",
+    "collectedAt": "2026-10-15T16:23:36.594Z",
+    "language": "en",
+    "originalText": "Claude Opus 5.5 manufacturing test using @threejs: \n\nI asked it to research aircraft manufacturing, study @AirsupHQ lean production books, design a functional Texas jet plant, build a live 3D simulation, test it, and deploy it.\n\nhttps://t.co/3PBf09whmu https://t.co/H8m8UtUSm5",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/konstantinsaifo/status/2109989449673347271",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2109989101264834560/img/mD2ryX7IFIvwoFzB.jpg",
+        "analysisUrl": "https://x.com/konstantinsaifo/status/2109989449673347271"
+      }
+    ],
+    "metrics": {
+      "likeCount": 89,
+      "repostCount": 4,
+      "replyCount": 7,
+      "quoteCount": 1,
+      "viewCount": 4620
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/konstantinsaifo/status/2109989451988430883",
+        "text": "Run it yourself: change demand, shifts and stations, break a machine, press X to close the cutaway.\nhttps://t.co/3PBf09vJwW",
+        "author": "konstantinsaifo"
+      },
+      {
+        "url": "https://www.airsup.ai/lab/jet-plant",
+        "text": "\n\n  \n    \n    \n    \n    Texas Jet Plant\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n  \n    \n    \n\n    \n\n\n    \n      Texas jet plant\n\n\n      A lean final assembly plant for a midsize business jet. The line moves at takt, the cells build to kanban, andon stops the line. Change the plan and watch it run.\n\n      \n        Takt\n\n        Delivered\n\n        In work\n\n      \n\n      \n\n      \n\n    \n\n    \n      \n\n      \n        Demand\n\n        \n\n      \n\n      \n        \n          Shifts\n\n          123\n\n        \n\n        \n          Stations\n\n          RemoveAdd\n\n        \n\n      \n\n      \n        Break a machine\n\n        \n          Wing drillerFuselage robotJoin trackerWing AGVsTail craneEngine liftTest rigPaint booth\n        \n\n      \n\n      \n        View\n\n        PlantLineCellsPaintFlight line\n\n      \n\n      \n        \n          Clock\n\n          \n\n        \n\n        PauseRoof offTour\n\n      \n\n      \n\n    \n\n    \n\n\n    \n      ×\n      How this plant is designed\n\n      The jet is our own midsize twin (24 m long, 23 m span, aft engines, T tail), not a real type. The plant is designed from a demand target: takt is the available shift time in a month divided by the jets the customers want. At 6 a month on two shifts that is 56 shift hours, 3.5 working days, and the moving line advances one 36 m station in that time, about 0.4 inches a minute.\n\n      The final assembly work (4,370 labour hours in 22 tasks, our own estimate) is balanced over the stations so the busiest carries as little as possible, and each crew is sized to finish in 88 % of the cycle. Upstream the wing and fuselage cells build to kanban, two sets of cards each; engines and interiors are bought on cards sized by demand times lead time. Paint has two bays, the flight line five stands.\n\n      The model is a discrete event simulation: it moves straight from one event to the next (a task done, a jet at the end of a station, a machine down or repaired, a kit done, a truck in, a shift change). Task times vary (log normal, 12 % spread, 3 % rework); machines fail at random. Automated checks: the line reaches a steady state, meets demand, keeps WIP flat, obeys Little's law, does not overproduce, and falls short in the cases it should.\n\n      The machines and their physics\n\n      The equipment is modelled after the real thing and moves by its own physics. The fuselage cell's robots are KUKA KR 500 class arms on linear tracks with a multi function end effector; every hole is reached by inverse kinematics inside the joint limits, and the one pass cycle (clamp, drill and countersink, probe, sealant, insert, release) takes 7.1 s, about 8.5 fasteners a minute. The wing cell's C frame riveters follow Electroimpact's wing panel machines at 12 slug rivets a minute. The 20 t bridge cranes run at the two speed figures of a 28 m span Hak crane (bridge 15/60 m/min, trolley 7.5/30, hoist 2.4/12) with acceleration limits, and the load swings on the ropes as a pendulum when the bridge starts and stops. Fuselage and wing joins are aligned with Leica AT960 class laser trackers (15 µm + 6 µm/m): the positioners move by most of what was measured, the trackers shoot again, until the residual reads inside 0.25 mm; the rounds and minutes it takes are random, as they are on the floor, and are charged to the station. Crews ride a 97 % learning curve. The test flight's takeoff roll is integrated from thrust, weight, lift and drag for a Praetor 600 class jet (two 33.5 kN engines, 21.5 m span) and lands within the published field length.\n\n      Lean, from the airsup lean notes\n\n      Take the buffers out so problems surface; pull instead of push; stabilise and standardise before levelling; make the state of the work visible from across the room (andon boards at every station, the plant board at the head of the line); put parts at the point of use (flow racks, supermarkets beside the stations that use them); automate the constraint, not the loudest problem.\n\n      Real lines this follows\n\n      \n        Boeing 737, Renton: moving line at 2 inches a minute, flow time cut from 22 to 11 days, five jets on the line against about two dozen in work before. Boeing, Assembly\n\n        Boeing 737 panel assembly line: automated machines fasten stringers to wing skins at twice the old rate. AIN\n\n        Airbus A321XLR final assembly, Hamburg: station sequence from monuments and fuselage join (over 3,000 rivets) to wing join (about 2,400 rivets a wing), power on, tests. Airbus\n\n        Embraer Melbourne: Phenom line with its own paint shop, up to 8 jets a month at full capacity. Airframer\n\n        Business jet deliveries, 854 in 2025. GAMA\n\n        Renton paint hangar: about 3 days a 737. Boeing\n\n        Airbus Hamburg fuselage structure line: 20 robots, 1,100 to 2,400 holes a longitudinal joint, 3,000 rivets at the orbital joint, AGVs and laser positioning. AIN\n\n      \n      The equipment\n\n      \n        Electroimpact wing panel riveters: E4320 at Broughton 12 slug rivets or 8 lockbolts a minute, E6000 16 a minute, E7000 fuselage 20 a minute. Electroimpact, E6000\n\n        Robotic one pass fastening with a multi function end effector (clamp, drill and countersink, inspect, sealant, insert) on KUKA class robots. Electroimpact, SAE 2017-01-2094, KUKA\n\n        Broetje multi panel assembly cell: 10 axis positioner, all electric end effector, flexible tooling to ±0.1 mm. Broetje\n\n        Leica Absolute Tracker AT960: 3D measuring volume to 40 m, 6DoF to 20 m. Hexagon\n\n        20 t double girder bridge crane, 28 m span: hoist 2.4/12, trolley 7.5/30, bridge 15/60 m/min. Hak\n\n        Air bearing and omnidirectional transporters under fuselages and wings, millimetre positioning. Assembly, HUBTEX\n\n        Praetor 600: 21.5 m span, 20.74 m long, MTOW 19,440 kg, two Honeywell HTF7500E of 7,528 lbf, takeoff 4,717 ft at MTOW, sea level, ISA. Jetcraft, AOPA\n\n      \n      Simplified: labour hours, crews, hand fastening rates, mean time between failures and lead times are our own scenario numbers; the robots drill a representative sample of their holes on screen; transporter speeds are assumed (vendors publish capacity, not speed); weekends are left out; only the takeoff roll is flown by a flight model, the rest of the sortie is scripted; no certification, cost or supplier risk. A design study, not a real plant.\n\n    \n\n    \n\n    \n    How it works and sources\n    Follow on \n    Drag to orbit, scroll to zoom. Try more demand, then add a station.\n\n    \n  \n\n",
+        "kind": "linked_public_material",
+        "author": "konstantinsaifo"
+      },
+      {
+        "url": "https://x.com/konstantinsaifo/status/2109989449673347271",
+        "text": "Konstantin Saifoulline on X: \"Claude Opus 5.5 manufacturing test using @threejs: \n\nI asked it to research aircraft manufacturing, study @AirsupHQ lean production books, design a functional Texas jet plant, build a live 3D simulation, test it, and deploy it.\n\nhttps://t.co/3PBf09whmu\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nKonstantin Saifoulline on X: \"Claude Opus 5.5 manufacturing test using @threejs: \n\nI asked it to research aircraft manufacturing, study @AirsupHQ lean production books, design a functional Texas jet plant, build a live 3D simulation, test it, and deploy it.\n\nhttps://t.co/3PBf09whmu\"\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n\n\n\n\nClaude Opus 5.5 manufacturing test using @threejs: \n\nI asked it to research aircraft manufacturing, study @AirsupHQ lean production books, design a functional Texas jet plant, build a live 3D simulation, test it, and deploy it.\n\nairsup.ai/lab/jet-plant\n\n\n00:00\n\n\n\n\n\n\n\n\n12:47 PM · Oct 13, 2026·4,620\nViews\n\n\n\n7\n4\n89\n47\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nKonstantin Saifoulline@konstantinsaifoFollow\nFounder of @AirsupHQ\nBuilding autonomous factories in the US 🇺🇸\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThree.js@threejsFollow\nMaking 3D easier since 2010.\n\n\n\n\nAirsup@AirsupHQFollow\nAI ops for aerospace & robotics manufacturing. \nSimulate production. Find bottlenecks. Ship faster.\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n\n\n\n\nClaude Opus 5.5 manufacturing test using @threejs: \n\nI asked it to research aircraft manufacturing, study @AirsupHQ lean production books, design a functional Texas jet plant, build a live 3D simulation, test it, and deploy it.\n\nairsup.ai/lab/jet-plant\n\n\n00:00\n\n\n\n\n\n\n\n\n12:47 PM · Oct 13, 2026·4,620\nViews\n\n\n\n7\n4\n89\n47\n\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\nOct 13\n\n\nRun it yourself: change demand, shifts and stations, break a machine, press X to close the cutaway.\n\n\n\n\n\nairsup.ai\nTexas jet plant: a live 3D factory you can run\nA moving line at takt, kanban cells, andon, paint and test flights. Change demand, shifts and stations, break a machine.\n\n\n\n\n\n\n194\n\n\n\n\n\n\n\n\n\n\n\nanish\n\n@justmetolife\nOct 13\n\n\nhaving it research lean production first and then build the sim is a good way to test a model on a real domain. did it model takt time or just station flow?\n\n\n\n\n1\n49\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "konstantinsaifo"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/konstantinsaifo/status/2109989449673347271",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2109989101264834560/img/mD2ryX7IFIvwoFzB.jpg",
+  "coverPath": "data/covers/2109989449673347271-wide.jpg",
+  "gifPath": "data/gifs/2109989449673347271.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2109989101264834560",
+    "x-post:2109989449673347271"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "3D Lean Aircraft Manufacturing Simulation with Three.js",
+      "summary": "Konstantin Saifoulline showcases a 3D simulation of a Texas jet plant built with Claude Opus 5.5 and Three.js, modeling lean manufacturing lines, robotic assembly, and flight tests.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "\"Claude Opus 5.5 manufacturing test using @threejs\" and video end card \"Built with Claude Opus 5.5\""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "research aircraft manufacturing, study @AirsupHQ lean production books, design a functional Texas jet plant, build a live 3D simulation, test it, and deploy it.",
+        "englishText": "research aircraft manufacturing, study @AirsupHQ lean production books, design a functional Texas jet plant, build a live 3D simulation, test it, and deploy it.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact initial system prompt and full user instructions",
+          "Lean manufacturing book contents and domain data inputs",
+          "Implementation code and multi-step conversation logs"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 28-second video demonstrates the Texas jet plant 3D simulation in Three.js, including assembly bays, robotic drilling arms, fuselage join stages, and a jet takeoff roll.",
+        "textualResultQuote": "Texas jet plant\nA lean final assembly plant for a midsize business jet. The line moves at takt, the cells build to kanban, andon stops the line. Change the plan and watch it run."
+      },
+      "inputs": [
+        {
+          "kind": "reference",
+          "description": "Airsup lean production books and aircraft manufacturing references",
+          "available": false,
+          "evidence": "\"study @AirsupHQ lean production books\"",
+          "origin": "user",
+          "sourceUrl": "https://x.com/konstantinsaifo/status/2109989449673347271"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D rendering engine and simulation runtime",
+          "evidence": "Claude Opus 5.5 manufacturing test using @threejs:",
+          "sourceUrl": "https://x.com/konstantinsaifo/status/2109989449673347271",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Aircraft Factory Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "simulation",
+          "aerospace",
+          "lean-manufacturing",
+          "webgl"
+        ]
+      },
+      "targetModelRole": "Code generation, system design, and simulation logic development",
+      "outputSource": "Three.js WebGL canvas application",
+      "divisionEvidence": "Author states: \"Claude Opus 5.5 manufacturing test using @threejs: I asked it to research aircraft manufacturing... build a live 3D simulation\"",
+      "video": {
+        "shots": "Multiple camera cuts showcasing assembly line stations, robotic arm riveting, fuselage interior/exterior, and tarmac takeoff roll",
+        "duration": "28s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "Demonstrates an interactive 3D simulation scene built with Claude Opus 5.5 and Three.js accompanied by original video evidence, though prompts remain high-level fragments.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/konstantinsaifo/status/2109989449673347271",
+        "start": 67,
+        "end": 227
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/konstantinsaifo/status/2109989449673347271",
+        "author": "konstantinsaifo",
+        "postId": "2109989449673347271",
+        "publishedAt": "2026-10-13T12:47:41.000Z"
+      },
+      "checkedAt": "2026-10-15T16:57:00.709Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/konstantinsaifo/status/2109989449673347271",
+        "evidence": ""
+      }
+    },
+    "summary": "Konstantin Saifoulline showcases a 3D simulation of a Texas jet plant built with Claude Opus 5.5 and Three.js, modeling lean manufacturing lines, robotic assembly, and flight tests.",
+    "summaryEn": "3D Lean Aircraft Manufacturing Simulation with Three.js",
+    "originalPrompt": "research aircraft manufacturing, study @AirsupHQ lean production books, design a functional Texas jet plant, build a live 3D simulation, test it, and deploy it.",
+    "sourceRange": {
+      "start": 67,
+      "end": 227
+    },
+    "translations": {
+      "zh": "research aircraft manufacturing, study @AirsupHQ lean production books, design a functional Texas jet plant, build a live 3D simulation, test it, and deploy it.",
+      "en": "research aircraft manufacturing, study @AirsupHQ lean production books, design a functional Texas jet plant, build a live 3D simulation, test it, and deploy it."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "3d-scenes",
+    "useCase": "Interactive 3D Aircraft Factory Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact initial system prompt and full user instructions",
+        "Lean manufacturing book contents and domain data inputs",
+        "Implementation code and multi-step conversation logs"
+      ],
+      "evidence": "The attached 28-second video demonstrates the Texas jet plant 3D simulation in Three.js, including assembly bays, robotic drilling arms, fuselage join stages, and a jet takeoff roll."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

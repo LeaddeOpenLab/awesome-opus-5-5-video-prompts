@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T17:08:50.376Z",
+  "model": "opus5.5",
+  "prompt": "make a 1-minute 3D animated short.\n\nNo templates. No stock footage. No text on screen.",
+  "promptTranslations": {
+    "en": "make a 1-minute 3D animated short.\n\nNo templates. No stock footage. No text on screen."
+  },
+  "summary": "Opus 5.5 directed and scripted a 60-second 3D animation rendered via Blender EEVEE featuring character Glim.",
+  "summaryEn": "Glim - 3D Animated Short via Blender Python Scripts",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110705871755878728",
+    "canonicalUrl": "https://x.com/Reena_Lin/status/2110705871755878728",
+    "author": {
+      "username": "Reena_Lin",
+      "displayName": "Reena Lin",
+      "profileUrl": "https://x.com/Reena_Lin"
+    },
+    "publishedAt": "2026-10-15T12:14:29.000Z",
+    "collectedAt": "2026-10-15T16:23:36.594Z",
+    "language": "en",
+    "originalText": "I asked Opus 5.5 to make a 1-minute 3D animated short.\n\nNo templates. No stock footage. No text on screen.\n\nIt designed an original character, built every scene in Blender, animated all 1,440 frames, picked the music, mixed the sound… and rendered the whole thing. 🤯\n\nMeet Glim. I'm not okay. 🥺✨@claudeai\n\n#Blender #3DAnimation #AIart #Claude",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Reena_Lin/status/2110705871755878728",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110705474404487168/img/VRPNTDdZRc8pYEgm.jpg",
+        "analysisUrl": "https://x.com/Reena_Lin/status/2110705871755878728"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 31
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Reena_Lin/status/2110739562649792611",
+        "text": "How long did it take? About 11 hours, start to finish. ⏱️\n\nHere's the breakdown 🧵👇\n\n🧠 Opus 5.5 (Claude) wrote every line of code: character design, sets, animation, camera moves, lighting\n🎨 Blender 5.1 + EEVEE for all the 3D, built 100% from Python scripts, no hand modeling\n💻 Rendered 1,440 frames at 1080p in ~3 hours\n🎵 Music: \"Light Magic\" by Magiksolo + 40 free sound effects, all from Pixabay\n🎚️ Mixed and mastered by Opus 5.5 too\n\nMy job? Giving notes like \"Glim looks grumpy here, fix it\" and \"the ending feels weird.\" 😂\n\nIt even fixed things I didn't notice, like one frame where Glim's pose glitched for 1/24 of a second. 🤯\n\nFrom a blank folder to a finished short film, in one day. We're living in the future. ✨\n\n#Blender #AIart #Claude #3DAnimation",
+        "author": "Reena_Lin"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/Reena_Lin/status/2110710169319719096",
+        "text": "Fun fact: Glim was born from a glitchy old CRT screen 💻💗\n\nThe hardest part? Getting thousands of fireflies to blink in perfect sync — just like real synchronous fireflies do in nature. 🌲✨\n\nWatch the valley scene again. Every light is pulsing to the beat. 👀",
+        "author": "Reena_Lin"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Reena_Lin/status/2110705871755878728",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110705474404487168/img/VRPNTDdZRc8pYEgm.jpg",
+  "coverPath": "data/covers/2110705871755878728-wide.jpg",
+  "gifPath": "data/gifs/2110705871755878728.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110705474404487168",
+    "x-post:2110705871755878728"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Glim - 3D Animated Short via Blender Python Scripts",
+      "summary": "Opus 5.5 directed and scripted a 60-second 3D animation rendered via Blender EEVEE featuring character Glim.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "claudeai",
+        "authorUseConfirmed": true,
+        "evidence": "I asked Opus 5.5 to make a 1-minute 3D animated short... Opus 5.5 (Claude) wrote every line of code"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make a 1-minute 3D animated short.\n\nNo templates. No stock footage. No text on screen.",
+        "englishText": "make a 1-minute 3D animated short.\n\nNo templates. No stock footage. No text on screen.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Initial system prompt and full generation prompts",
+          "Character modeling and environment Python scripts",
+          "Camera trajectory and animation code",
+          "Audio mixing scripts and Pixabay asset IDs"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "60-second 1080p Blender animation depicting Glim emerging from a CRT monitor into a forest of synchronized fireflies.",
+        "textualResultQuote": "Rendered 1,440 frames at 1080p in ~3 hours"
+      },
+      "inputs": [
+        {
+          "kind": "audio",
+          "description": "Music track 'Light Magic' by Magiksolo and 40 sound effects from Pixabay",
+          "available": false,
+          "evidence": "Music: 'Light Magic' by Magiksolo + 40 free sound effects, all from Pixabay",
+          "origin": "downloaded"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Blender 5.1",
+          "role": "3D scene building, procedural generation, camera animation, and EEVEE rendering",
+          "evidence": "Blender 5.1 + EEVEE for all the 3D, built 100% from Python scripts, no hand modeling",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/Reena_Lin/status/2110739562649792611"
+        },
+        {
+          "name": "Python",
+          "role": "Execution scripting inside Blender for procedural asset generation and timeline animation",
+          "evidence": "Opus 5.5 (Claude) wrote every line of code... built 100% from Python scripts",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Character & Environment 3D Animation Short",
+        "topic": "3d-scenes",
+        "tags": [
+          "blender",
+          "python",
+          "procedural-animation",
+          "character-design",
+          "eevee"
+        ]
+      },
+      "targetModelRole": "Wrote procedural Blender Python scripts for characters, environments, lighting, camera movement, and audio synchronization",
+      "outputSource": "Blender 5.1 EEVEE engine executing Opus 5.5-generated Python scripts",
+      "divisionEvidence": "🧠 Opus 5.5 (Claude) wrote every line of code... 🎨 Blender 5.1 + EEVEE for all the 3D, built 100% from Python scripts, no hand modeling",
+      "video": {
+        "shots": "Multiple continuous 3D camera cuts: room desk, window exit, flight over tree canopy, valley of fireflies, blooming light tree, return to desk",
+        "duration": "01:00",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 video production showcase using procedural Python scripting executed in Blender.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Reena_Lin/status/2110705871755878728",
+        "start": 20,
+        "end": 106
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Reena_Lin/status/2110705871755878728",
+        "author": "Reena_Lin",
+        "postId": "2110705871755878728",
+        "publishedAt": "2026-10-15T12:14:29.000Z"
+      },
+      "checkedAt": "2026-10-15T16:40:35.901Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Reena_Lin/status/2110705871755878728",
+        "evidence": ""
+      }
+    },
+    "summary": "Opus 5.5 directed and scripted a 60-second 3D animation rendered via Blender EEVEE featuring character Glim.",
+    "summaryEn": "Glim - 3D Animated Short via Blender Python Scripts",
+    "originalPrompt": "make a 1-minute 3D animated short.\n\nNo templates. No stock footage. No text on screen.",
+    "sourceRange": {
+      "start": 20,
+      "end": 106
+    },
+    "translations": {
+      "zh": "make a 1-minute 3D animated short.\n\nNo templates. No stock footage. No text on screen.",
+      "en": "make a 1-minute 3D animated short.\n\nNo templates. No stock footage. No text on screen."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "3d-scenes",
+    "useCase": "Character & Environment 3D Animation Short",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Initial system prompt and full generation prompts",
+        "Character modeling and environment Python scripts",
+        "Camera trajectory and animation code",
+        "Audio mixing scripts and Pixabay asset IDs"
+      ],
+      "evidence": "60-second 1080p Blender animation depicting Glim emerging from a CRT monitor into a forest of synchronized fireflies."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

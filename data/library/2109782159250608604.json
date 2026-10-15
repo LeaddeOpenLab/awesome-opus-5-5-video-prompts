@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T17:08:51.635Z",
+  "model": "opus5.5",
+  "prompt": "a turbofan jet engine, the kind that pushes a widebody off the runway",
+  "promptTranslations": {
+    "en": "a turbofan jet engine, the kind that pushes a widebody off the runway"
+  },
+  "summary": "Konstantin Saifoulline showcases Machine Skill for Claude Code, powered by Claude Opus 5.5, which converts single-line machine descriptions into photorealistic 3D interactive Three.js simulations and cutaway demonstration videos driven by real physics solvers.",
+  "summaryEn": "Airsup Machine Skill: 3D Interactive Turbofan and Rocket Engine Physics Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2109782159250608604",
+    "canonicalUrl": "https://x.com/konstantinsaifo/status/2109782159250608604",
+    "author": {
+      "username": "konstantinsaifo",
+      "displayName": "Konstantin Saifoulline",
+      "profileUrl": "https://x.com/konstantinsaifo"
+    },
+    "publishedAt": "2026-10-12T23:03:59.000Z",
+    "collectedAt": "2026-10-15T16:23:36.594Z",
+    "language": "en",
+    "originalText": "Name a machine. Claude builds the real thing.\n\nWe open sourced the skill behind our lab: 50+ machines built with Claude Opus 5.5.\n\nOne line in. The machine comes out at real size, in real materials, running on real physics: a turbofan making 340 kN from a computed Brayton cycle that you can cut open, take apart and break.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/konstantinsaifo/status/2109782159250608604",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2109781650049531904/img/nU1DjalOF80mkMFo.jpg",
+        "analysisUrl": "https://x.com/konstantinsaifo/status/2109782159250608604"
+      }
+    ],
+    "metrics": {
+      "likeCount": 77,
+      "repostCount": 9,
+      "replyCount": 4,
+      "quoteCount": 5,
+      "viewCount": 11092
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/konstantinsaifo/status/2109782176925388988",
+        "text": "Konstantin Saifoulline on X: \"How the cutaway works: every part is a closed solid. Where the cut plane opens one, the shader draws its back faces as the section face, in museum cutaway red. No cap geometry, so the cut can sweep in live.\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nKonstantin Saifoulline on X: \"How the cutaway works: every part is a closed solid. Where the cut plane opens one, the shader draws its back faces as the section face, in museum cutaway red. No cap geometry, so the cut can sweep in live.\"\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n\n\n\n\nHow the cutaway works: every part is a closed solid. Where the cut plane opens one, the shader draws its back faces as the section face, in museum cutaway red. No cap geometry, so the cut can sweep in live.\n\n\n\n\n\n11:04 PM · Oct 12, 2026·755\nViews\n\n\n\n\n\n3\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nKonstantin Saifoulline@konstantinsaifoFollow\nFounder of @AirsupHQ\nBuilding autonomous factories in the US 🇺🇸\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\nOct 12\n\n\nName a machine. Claude builds the real thing.\n\nWe open sourced the skill behind our lab: 50+ machines built with Claude Opus 5.5.\n\nOne line in. The machine comes out at real size, in real materials, running on real physics: a turbofan making 340 kN from a computed Brayton cycle Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n4\n9\n77\n11K\n\n\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\nOct 12\n\n\nMachine Skill is free and open source (MIT), by Airsup. One command:\n\nnpx skills add AirsupHQ/machine-skill -g -a claude-code\n\nCode: github.com/AirsupHQ/machi…\nRun the machines in your browser: airsup.ai/lab/skill\n\n\nGitHub - AirsupHQ/machine-skill: Describe any machine in one line. Claude builds a photoreal,...\n\n\nFrom github.com\n\n\n\n4\n21\n135\n23K\n\n\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\nOct 12\n\n\nThe line was: \"a turbofan jet engine, the kind that pushes a widebody off the runway\".\n\nClaude wrote down the real dimensions first (2.9 m fan, 4.9 m long), then built 3,597 parts: 20 twisted titanium fan blades, 10 compressor stages, 22 fuel nozzles, two turbines that glow at Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n6\n1.9K\n\n\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\nOct 12\n\n\nA Raptor style full flow rocket engine on a test stand\n\nThroat and exit are measured from the model (area ratio 31), so the nozzle solution gives Mach 4.06 at the exit and, at full power (330 bar), 2,462 kN and Isp 321 s at sea level.\n\nCut the regen cooling and the copper throat Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n3\n1K\n\n\n\n\n\n\n\n\n\n\nKonstantin Saifoulline\n\n@konstantinsaifo\n\n\n\n\nHow the cutaway works: every part is a closed solid. Where the cut plane opens one, the shader draws its back faces as the section face, in museum cutaway red. No cap geometry, so the cut can sweep in live.\n\n\n\n\n\n11:04 PM · Oct 12, 2026·755\nViews\n\n\n\n\n\n3\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "konstantinsaifo"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/konstantinsaifo/status/2109782173981061236",
+        "text": "A Raptor style full flow rocket engine on a test stand\n\nThroat and exit are measured from the model (area ratio 31), so the nozzle solution gives Mach 4.06 at the exit and, at full power (330 bar), 2,462 kN and Isp 321 s at sea level.\n\nCut the regen cooling and the copper throat melts in milliseconds. The flame turns green: that is the engine burning its own copper.",
+        "author": "konstantinsaifo"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/konstantinsaifo/status/2109782168889065576",
+        "text": "The line was: \"a turbofan jet engine, the kind that pushes a widebody off the runway\".\n\nClaude wrote down the real dimensions first (2.9 m fan, 4.9 m long), then built 3,597 parts: 20 twisted titanium fan blades, 10 compressor stages, 22 fuel nozzles, two turbines that glow at the temperatures the cycle computes.\n\nThrow a fan blade and it tells you the load the case has to hold.",
+        "author": "konstantinsaifo"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/konstantinsaifo/status/2109782163591721100",
+        "text": "Machine Skill is free and open source (MIT), by Airsup. One command:\n\nnpx skills add AirsupHQ/machine-skill -g -a claude-code\n\nCode: https://t.co/Sd6dDGqdhz\nRun the machines in your browser: https://t.co/sc9aqaS7RE",
+        "author": "konstantinsaifo"
+      },
+      {
+        "url": "https://www.airsup.ai/lab/skill",
+        "text": "\n\n\n\n\n\nMachine Skill by Airsup\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n\n\n\n  \n  \n    Name a machine. Claude builds the real thing.\n\n    \n      Machine Skill, by Airsup: an open source skill for Claude Code. One line in, a photoreal simulation out: real dimensions, real materials, moving on real physics, in a single HTML file. Plus the film to post it.\n\n      npx skills add AirsupHQ/machine-skillCopy\n\n      Source on GitHubOpen a machineThe factory skill\n\n    \n\n  \n  \n\n  Every frame is three.js in a browser, recorded by the skill's own script. Every number on screen comes from a solver.\n\n\n  \n    Each from a single line\n\n    Type the line under a machine into Claude Code and you get a page like this one. Open it: drag the slider, cut it open, take it apart, break it. More machines are on the way.\n\n    \n\n  \n\n  \n    How it works\n\n    The skill is a SKILL.md Claude reads, a small runtime every page inlines, and a recorder. No build step, no dependencies beyond three.js from a pinned CDN.\n\n    \n      01\nResearch\nClaude writes down the real dimensions, the parts in assembly order, the 3 to 6 equations that make the machine work, the number you care about and the failure an engineer worries about.\n\n\n      02\nBuild\nClosed solids at real size: lathe turned parts, twisted airfoils, involute gears, routed pipes, bolt circles. Measured metals, paints and glass on a softbox studio set.\n\n\n      03\nSolve\nA small honest model runs every frame and drives every motion and number: a Brayton cycle, a nozzle solution, slider crank kinematics, a pump curve against a heartbeat.\n\n\n      04\nFilm\nOne command records a 28 second film in numbered beats: the line typed, the machine assembling, the solver running, the cutaway, the break. Music bed included.\n\n\n    \n\n  \n\n  \n    Inside every page\n\n    \n      Cutaway with real section facesEvery part is a closed solid; the shader draws the cut faces at the plane, so a section can sweep in live.\n\n      Explode, x-ray, slow motionParts move apart on their assembly axes; casings turn to glass while the core keeps running.\n\n      Break itThe solver decides what fails: a fan blade's imbalance load, a copper throat melting, valves floating past the redline.\n\n      Live labelsPinned to the section planes, carrying the solver's values: pressures, temperatures, flows, speeds.\n\n      How it is computedEvery page shows its model in plain words and the equations exactly as the code solves them.\n\n      Film modeA deterministic clock, a cursor that drags and clicks, beat captions, and a recorder that refuses magenta frames.\n\n    \n\n  \n\n  \n    MIT licensed. Built with Claude Opus 5.5 by Airsup, from the machines in airsup.ai/lab.\n\n    Sibling: the factory skill. Inspired by Anatomy.\n\n  \n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "konstantinsaifo"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/Sd6dDGqdhz"
+    ]
+  },
+  "xUrl": "https://x.com/konstantinsaifo/status/2109782159250608604",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2109781650049531904/img/nU1DjalOF80mkMFo.jpg",
+  "coverPath": "data/covers/2109782159250608604-wide.jpg",
+  "gifPath": "data/gifs/2109782159250608604.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2109781650049531904",
+    "x-post:2109782159250608604"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Airsup Machine Skill: 3D Interactive Turbofan and Rocket Engine Physics Simulation",
+      "summary": "Konstantin Saifoulline showcases Machine Skill for Claude Code, powered by Claude Opus 5.5, which converts single-line machine descriptions into photorealistic 3D interactive Three.js simulations and cutaway demonstration videos driven by real physics solvers.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Code",
+        "authorUseConfirmed": true,
+        "evidence": "We open sourced the skill behind our lab: 50+ machines built with Claude Opus 5.5."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "a turbofan jet engine, the kind that pushes a widebody off the runway",
+        "englishText": "a turbofan jet engine, the kind that pushes a widebody off the runway",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video demonstrates the complete sequence: typing the line into Claude Code, assembly of 3,597 parts, throttle ramp-up to 340 kN via a computed Brayton cycle, red cutaway section view, fan blade release failure, followed by a Raptor-style rocket engine burn.",
+        "textualResultQuote": "Claude wrote down the real dimensions first (2.9 m fan, 4.9 m long), then built 3,597 parts: 20 twisted titanium fan blades, 10 compressor stages, 22 fuel nozzles, two turbines that glow at the temperatures the cycle computes."
+      },
+      "inputs": [
+        {
+          "kind": "skill_definition",
+          "description": "AirsupHQ/machine-skill open-source Claude Code skill providing SKILL.md rules, runtime, and deterministic recorder.",
+          "available": true,
+          "evidence": "Machine Skill is free and open source (MIT), by Airsup. One command: npx skills add AirsupHQ/machine-skill -g -a claude-code",
+          "sourceUrl": "https://github.com/AirsupHQ/machine-skill",
+          "origin": "downloaded"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Claude Code",
+          "role": "Agent CLI environment running Claude Opus 5.5 and orchestrating the Machine Skill",
+          "evidence": "Machine Skill, by Airsup: an open source skill for Claude Code. One line in, a photoreal simulation out...",
+          "sourceUrl": "https://www.airsup.ai/lab/skill",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D WebGL renderer rendering solids, section shaders, and mechanical components in browser",
+          "evidence": "Every frame is three.js in a browser, recorded by the skill's own script. Every number on screen comes from a solver.",
+          "sourceUrl": "https://www.airsup.ai/lab/skill",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Physics-driven 3D machine simulation and animated cutaway video",
+        "topic": "3d-scenes",
+        "tags": [
+          "three.js",
+          "claude-code",
+          "engineering",
+          "simulation",
+          "interactive",
+          "cutaway"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 generates the full HTML/JavaScript implementation including 3D CAD geometries, shader cutaway logic, physics cycle solver equations, and automated film recording beats.",
+      "outputSource": "In-browser Three.js WebGL canvas recorded via the skill's deterministic film recording script.",
+      "divisionEvidence": "The skill is a SKILL.md Claude reads, a small runtime every page inlines, and a recorder. No build step, no dependencies beyond three.js from a pinned CDN.",
+      "video": {
+        "shots": "Single multi-beat sequence featuring UI command entry, parts assembly, throttle power-up, live cutaway cross-section, blade throw failure, rocket engine test stand cutaway, and final title card.",
+        "duration": "0:39",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 showcase generating interactive WebGL engineering simulations and demonstration video sequences from concise natural language prompts.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/konstantinsaifo/status/2109782176925388988",
+        "start": 2073,
+        "end": 2142
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/konstantinsaifo/status/2109782159250608604",
+        "author": "konstantinsaifo",
+        "postId": "2109782159250608604",
+        "publishedAt": "2026-10-12T23:03:59.000Z"
+      },
+      "checkedAt": "2026-10-15T17:06:27.628Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/konstantinsaifo/status/2109782176925388988",
+        "evidence": ""
+      }
+    },
+    "summary": "Konstantin Saifoulline showcases Machine Skill for Claude Code, powered by Claude Opus 5.5, which converts single-line machine descriptions into photorealistic 3D interactive Three.js simulations and cutaway demonstration videos driven by real physics solvers.",
+    "summaryEn": "Airsup Machine Skill: 3D Interactive Turbofan and Rocket Engine Physics Simulation",
+    "originalPrompt": "a turbofan jet engine, the kind that pushes a widebody off the runway",
+    "sourceRange": {
+      "start": 2073,
+      "end": 2142
+    },
+    "translations": {
+      "zh": "a turbofan jet engine, the kind that pushes a widebody off the runway",
+      "en": "a turbofan jet engine, the kind that pushes a widebody off the runway"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Physics-driven 3D machine simulation and animated cutaway video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video demonstrates the complete sequence: typing the line into Claude Code, assembly of 3,597 parts, throttle ramp-up to 340 kN via a computed Brayton cycle, red cutaway section view, fan blade release failure, followed by a Raptor-style rocket engine burn."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

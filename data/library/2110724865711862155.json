@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T17:08:49.529Z",
+  "model": "opus5.5",
+  "prompt": "build a cinematic 3D tsunami hitting a Mediterranean town. One HTML file, pure Three.js, no assets.",
+  "promptTranslations": {
+    "en": "build a cinematic 3D tsunami hitting a Mediterranean town. One HTML file, pure Three.js, no assets."
+  },
+  "summary": "Claude Opus 5.5 and ChatGPT are tasked with creating a standalone Three.js HTML file simulating a cinematic 3D tsunami striking a Mediterranean town without external assets.",
+  "summaryEn": "3D Mediterranean Tsunami Simulation in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110724865711862155",
+    "canonicalUrl": "https://x.com/genuenci/status/2110724865711862155",
+    "author": {
+      "username": "genuenci",
+      "displayName": "genuenci",
+      "profileUrl": "https://x.com/genuenci"
+    },
+    "publishedAt": "2026-10-15T13:29:58.000Z",
+    "collectedAt": "2026-10-15T16:23:36.594Z",
+    "language": "en",
+    "originalText": "I gave Claude and ChatGPT the same job: build a cinematic 3D tsunami hitting a Mediterranean town. One HTML file, pure Three.js, no assets.\n\nTop: Claude Opus 5.5, $10.53\n Bottom: ChatGPT, $13.25\n\nWhat each one delivered:\nClaude\n → the sea pulls back and boats get stranded on the exposed seabed\n → the wave knocks the lighthouse over and the lamp goes out\n → houses come apart and the debris floats on the real water surface\n → slow-motion impact, then a flooded aftermath\n → export buttons for 16:9, 4:5 and 9:16, plus a key to hide the UI for recording\nChatGPT\n → ran on the first try, with no broken imports this time\n → the wave and the flood both work\n → a heavy pink haze and huge hills \ncover half the frame\n → skipped the aspect-ratio buttons and the hide-UI key the prompt asked for\n\nClaude came out $2.72 cheaper and gave the more cinematic result.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/genuenci/status/2110724865711862155",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110724797684416512/img/7XmVCszWiGvOjGIK.jpg",
+        "analysisUrl": "https://x.com/genuenci/status/2110724865711862155"
+      }
+    ],
+    "metrics": {
+      "likeCount": 31,
+      "repostCount": 2,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 410
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/genuenci/status/2110724865711862155",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110724797684416512/img/7XmVCszWiGvOjGIK.jpg",
+  "coverPath": "data/covers/2110724865711862155-wide.jpg",
+  "gifPath": "data/gifs/2110724865711862155.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110724797684416512",
+    "x-post:2110724865711862155"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "3D Mediterranean Tsunami Simulation in Three.js",
+      "summary": "Claude Opus 5.5 and ChatGPT are tasked with creating a standalone Three.js HTML file simulating a cinematic 3D tsunami striking a Mediterranean town without external assets.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Top: Claude Opus 5.5, $10.53"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build a cinematic 3D tsunami hitting a Mediterranean town. One HTML file, pure Three.js, no assets.",
+        "englishText": "build a cinematic 3D tsunami hitting a Mediterranean town. One HTML file, pure Three.js, no assets.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact full user and system prompt instructions",
+          "Explicit requirements for UI export buttons, aspect ratios, and camera/debris animation logic"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The top half of the video shows the Claude Opus 5.5 Three.js output: the sea retreats exposing the seabed, a massive wave crashes into the town knocking over the lighthouse and breaking apart houses, and debris floats across the water surface.",
+        "textualResultQuote": "Claude → the sea pulls back and boats get stranded on the exposed seabed → the wave knocks the lighthouse over and the lamp goes out → houses come apart and the debris floats on the real water surface → slow-motion impact, then a flooded aftermath → export buttons for 16:9, 4:5 and 9:16, plus a key to hide the UI for recording"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "WebGL 3D rendering library running in an HTML file",
+          "evidence": "One HTML file, pure Three.js, no assets.",
+          "sourceUrl": "https://x.com/genuenci/status/2110724865711862155",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Mediterranean Tsunami 3D Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "tsunami",
+          "simulation",
+          "interactive-3d"
+        ]
+      },
+      "targetModelRole": "Code generator producing a standalone HTML and Three.js script to simulate 3D physics, scene geometry, and animations",
+      "outputSource": "Browser WebGL rendering via Three.js",
+      "divisionEvidence": "I gave Claude and ChatGPT the same job: build a cinematic 3D tsunami hitting a Mediterranean town. One HTML file, pure Three.js, no assets.",
+      "video": {
+        "shots": "Single continuous camera angle over the coastline and town",
+        "duration": "25s",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic demonstration of Claude Opus 5.5 generating executable 3D animation code in Three.js with an attached screen recording demonstrating visual fidelity and animation behavior.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/genuenci/status/2110724865711862155",
+        "start": 40,
+        "end": 139
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/genuenci/status/2110724865711862155",
+        "author": "genuenci",
+        "postId": "2110724865711862155",
+        "publishedAt": "2026-10-15T13:29:58.000Z"
+      },
+      "checkedAt": "2026-10-15T16:25:35.643Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/genuenci/status/2110724865711862155",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 and ChatGPT are tasked with creating a standalone Three.js HTML file simulating a cinematic 3D tsunami striking a Mediterranean town without external assets.",
+    "summaryEn": "3D Mediterranean Tsunami Simulation in Three.js",
+    "originalPrompt": "build a cinematic 3D tsunami hitting a Mediterranean town. One HTML file, pure Three.js, no assets.",
+    "sourceRange": {
+      "start": 40,
+      "end": 139
+    },
+    "translations": {
+      "zh": "build a cinematic 3D tsunami hitting a Mediterranean town. One HTML file, pure Three.js, no assets.",
+      "en": "build a cinematic 3D tsunami hitting a Mediterranean town. One HTML file, pure Three.js, no assets."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Mediterranean Tsunami 3D Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact full user and system prompt instructions",
+        "Explicit requirements for UI export buttons, aspect ratios, and camera/debris animation logic"
+      ],
+      "evidence": "The top half of the video shows the Claude Opus 5.5 Three.js output: the sea retreats exposing the seabed, a massive wave crashes into the town knocking over the lighthouse and breaking apart houses, and debris floats across the water surface."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

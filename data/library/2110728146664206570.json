@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T17:08:49.313Z",
+  "model": "opus5.5",
+  "prompt": "a drone combat racer in the browser. 12 drones, 3 laps, lasers, missiles, mines.",
+  "promptTranslations": {
+    "en": "a drone combat racer in the browser. 12 drones, 3 laps, lasers, missiles, mines."
+  },
+  "summary": "Comparison demo showing a 3D browser drone racer built and visually polished by Claude Opus 5.5 versus Gemini.",
+  "summaryEn": "Drone Combat Racer in Three.js by Claude Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110728146664206570",
+    "canonicalUrl": "https://x.com/dustinng_gs/status/2110728146664206570",
+    "author": {
+      "username": "dustinng_gs",
+      "displayName": "Dustin Ng",
+      "profileUrl": "https://x.com/dustinng_gs"
+    },
+    "publishedAt": "2026-10-15T13:43:00.000Z",
+    "collectedAt": "2026-10-15T16:23:36.594Z",
+    "language": "en",
+    "originalText": "Claude Opus 5.5 vs Gemini Argon! \n\nSame prompt. Two fates.\n\nSame game. Same seed. Same inputs. Frame for frame.\n\nOne stopped at \"it works\".\nThe other kept going.\n\nClaude up \nGemini down https://t.co/jmRZgHlw6L",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/dustinng_gs/status/2110728146664206570",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110667615115104256/img/qNyiZSFV0qC3L9Nc.jpg",
+        "analysisUrl": "https://x.com/dustinng_gs/status/2110728146664206570"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 105
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/dustinng_gs/status/2110728148782358662",
+        "text": "Under 1 MB. Phone and desktop. Free, no install.\n\nPlay it: https://t.co/MmgoT6SDer",
+        "author": "dustinng_gs"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/dustinng_gs/status/2110728148446773405",
+        "text": "Why the split screen lines up perfectly: the race runs on a fixed 60 Hz simulation. Same seed + same inputs = the same race, every time.\n\nSame trick lets me test the rules automatically: no skipping checkpoints, fair respawns, AI that actually passes.",
+        "author": "dustinng_gs"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/dustinng_gs/status/2110728148069281922",
+        "text": "The bottom one isn't broken. It's what a lot of AI-built games look like when you ship the first version that runs.\n\nThe gap is game feel. Players don't remember your feature list. They remember the 100 ms freeze when the hit lands.",
+        "author": "dustinng_gs"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/dustinng_gs/status/2110728147750506797",
+        "text": "What the top one got:\n\nbloom, AO and a colour grade\nengine trails that fade to the tail\na chase cam that keeps the drone big at 600 km/h\nstyle score, combos up to x15, a points feed\nhit-stop and a flash when you take someone down",
+        "author": "dustinng_gs"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/dustinng_gs/status/2110728147427590592",
+        "text": "The brief was simple: a drone combat racer in the browser. 12 drones, 3 laps, lasers, missiles, mines.\n\nBoth halves run that exact race. The only difference is what happened after the first version ran.",
+        "author": "dustinng_gs"
+      },
+      {
+        "url": "https://x.com/dustinng_gs/status/2110728146664206570",
+        "text": "Dustin Ng on X: \"Claude Opus 5.5 vs Gemini Argon! \n\nSame prompt. Two fates.\n\nSame game. Same seed. Same inputs. Frame for frame.\n\nOne stopped at \"it works\".\nThe other kept going.\n\nClaude up \nGemini down\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nDustin Ng on X: \"Claude Opus 5.5 vs Gemini Argon! \n\nSame prompt. Two fates.\n\nSame game. Same seed. Same inputs. Frame for frame.\n\nOne stopped at \"it works\".\nThe other kept going.\n\nClaude up \nGemini down\"\n\n\n\nDustin Ng\n\n@dustinng_gs\n\n\n\n\nClaude Opus 5.5 vs Gemini Argon! \n\nSame prompt. Two fates.\n\nSame game. Same seed. Same inputs. Frame for frame.\n\nOne stopped at \"it works\".\nThe other kept going.\n\nClaude up \nGemini down\n\n\n00:00\n\n\n\n\n\n\n\n\n1:43 PM · Oct 15, 2026·105\nViews\n\n\n\n2\n1\n1\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nDustin Ng@dustinng_gsFollow\nVN founder shipping games & animations with AI. Making &#x27;Clawd in Vietnam&#x27; with @claudeai @openai. @goldenseaglobal\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDustin Ng\n\n@dustinng_gs\n\n\n\n\nClaude Opus 5.5 vs Gemini Argon! \n\nSame prompt. Two fates.\n\nSame game. Same seed. Same inputs. Frame for frame.\n\nOne stopped at \"it works\".\nThe other kept going.\n\nClaude up \nGemini down\n\n\n00:00\n\n\n\n\n\n\n\n\n1:43 PM · Oct 15, 2026·105\nViews\n\n\n\n2\n1\n1\n1\n\n\n\n\n\n\n\n\n\nDustin Ng\n\n@dustinng_gs\n2h\n\n\nThe brief was simple: a drone combat racer in the browser. 12 drones, 3 laps, lasers, missiles, mines.\n\nBoth halves run that exact race. The only difference is what happened after the first version ran.\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\nDustin Ng\n\n@dustinng_gs\n2h\n\n\nWhat the top one got:\n\nbloom, AO and a colour grade\nengine trails that fade to the tail\na chase cam that keeps the drone big at 600 km/h\nstyle score, combos up to x15, a points feed\nhit-stop and a flash when you take someone down\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\nDustin Ng\n\n@dustinng_gs\n2h\n\n\nThe bottom one isn&#x27;t broken. It&#x27;s what a lot of AI-built games look like when you ship the first version that runs.\n\nThe gap is game feel. Players don&#x27;t remember your feature list. They remember the 100 ms freeze when the hit lands.\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\nDustin Ng\n\n@dustinng_gs\n2h\n\n\nWhy the split screen lines up perfectly: the race runs on a fixed 60 Hz simulation. Same seed + same inputs = the same race, every time.\n\nSame trick lets me test the rules automatically: no skipping checkpoints, fair respawns, AI that actually passes.\n\n\n1\n\n\n1\n\n\n\n\n\n\n\n\n\nDustin Ng\n\n@dustinng_gs\n2h\n\n\nUnder 1 MB. Phone and desktop. Free, no install.\n\nPlay it: \n\n\nDrone Rush: game đua drone 3D chơi trên trình duyệt | Golden…\n\n\nFrom goldenseastudios.com\n\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\nDustin Wong\n@dustinwoong\n1h\n\n\nWow\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "dustinng_gs"
+      },
+      {
+        "url": "https://goldenseastudios.com/dronerush",
+        "text": "Drone Rush: game đua drone 3D chơi trên trình duyệt | Golden…\n\nDrone Rush: game đua drone bắn nhau ngoài vũ trụ trên trình duyệt\nMười hai phi công, ba vòng, một đường đua thép lơ lửng giữa vũ trụ đen. Chọn một trong bốn khung drone, giữ ga, tăng tốc qua các ô sáng, núp sau đuôi đối thủ để ăn gió, rồi bắn hạ họ trước khi về đích.\nCách chơi\nBốn khung drone, bốn lối chơi\nKestrel cân bằng, Needle nhanh nhất, Anvil giáp dày nhất, Mistral tăng tốc lâu nhất. Mỗi khung có chỉ số tốc độ, giáp, tản nhiệt và nhiên liệu riêng.\n\nĐường đua quỹ đạo 4 km\nSàn thép lơ lửng có lan can sáng, dốc phóng để bay bổng, xưởng đóng tàu với giàn cẩu và ống xuyên trạm không gian.\n\nVũ khí và phòng thủ\nLaser bắn liên tục nhưng nóng dần, tên lửa tự bám mục tiêu, mìn thả sau đuôi, khiên chặn tên lửa và đẩy đối thủ, overdrive tăng tốc ngắn.\n\nChơi đẹp được thưởng\nÔ tăng tốc, núp gió sau đối thủ, lách sát mà không va đều cộng điểm Style. Nối liên tiếp để combo lên tới x15.\n\nĐối thủ biết chiến đấu\nMười một drone máy có ba mức tốc độ, biết vượt, biết né mìn, biết bật khiên khi thấy tên lửa và chia lửa sang nhiều mục tiêu.\n\nĐiện thoại và máy tính\nTrên điện thoại có cần lái và nút bấm cảm ứng. Trên máy tính chơi bằng bàn phím hoặc tay cầm. Chất lượng hình tự hạ khi máy yếu.\n\n\nPhím điều khiển\nW / SGa và phanh\nA / DLái\nShiftTăng tốc\nSpaceGiữ để bắn laser\nFBắn tên lửa hoặc thả mìn\nQKhiên\nEOverdrive\nEscTạm dừng\nCâu hỏi thường gặp\nDrone Rush có miễn phí không?Có. Game chơi miễn phí ngay trên trình duyệt, không cần cài đặt, không cần tài khoản, không có tiền thật hay vật phẩm quy đổi.\nChơi trên điện thoại được không?Được. Trên điện thoại có cần lái và các nút Laser, Boost, tên lửa, khiên, overdrive. Game tự giảm chất lượng hình khi máy yếu để giữ khung hình mượt.\nGame có tiếng Việt không?Giao diện trong game hiện bằng tiếng Anh, với các chữ ngắn như Race, Boost, Lap. Trang này có hướng dẫn tiếng Việt.\nGame được làm bằng công nghệ gì?Three.js (WebGL) cho đồ họa 3D, Vite để đóng gói, âm thanh tổng hợp bằng Web Audio. Toàn bộ bản build dưới 1 MB và chạy thẳng trong trình duyệt.\nXem case study Dịch vụ phát triển game\nDrone Rush là game giải trí do Golden Sea Studios làm để trình diễn năng lực, chơi miễn phí, không có tiền thật hay vật phẩm quy đổi.\n\n",
+        "kind": "linked_public_material",
+        "author": "dustinng_gs"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/dustinng_gs/status/2110728146664206570",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110667615115104256/img/qNyiZSFV0qC3L9Nc.jpg",
+  "coverPath": "data/covers/2110728146664206570-wide.jpg",
+  "gifPath": "data/gifs/2110728146664206570.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110667615115104256",
+    "x-post:2110728146664206570"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Drone Combat Racer in Three.js by Claude Opus 5.5",
+      "summary": "Comparison demo showing a 3D browser drone racer built and visually polished by Claude Opus 5.5 versus Gemini.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 vs Gemini Argon!"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "a drone combat racer in the browser. 12 drones, 3 laps, lasers, missiles, mines.",
+        "englishText": "a drone combat racer in the browser. 12 drones, 3 laps, lasers, missiles, mines.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact system prompt",
+          "Full iterative follow-up instructions for graphics and polish",
+          "Source code implementation details"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording displays side-by-side gameplay of a 12-drone space track combat race featuring bloom, engine trails, and weapons.",
+        "textualResultQuote": "What the top one got: bloom, AO and a colour grade, engine trails that fade to the tail, a chase cam that keeps the drone big at 600 km/h, style score, combos up to x15, a points feed, hit-stop and a flash when you take someone down"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "WebGL 3D graphics rendering in the browser",
+          "evidence": "Game được làm bằng công nghệ gì? Three.js (WebGL) cho đồ họa 3D",
+          "sourceUrl": "https://goldenseastudios.com/dronerush",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Vite",
+          "role": "Project bundler and build tool",
+          "evidence": "Vite để đóng gói",
+          "sourceUrl": "https://goldenseastudios.com/dronerush",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Web Audio API",
+          "role": "Synthesized game audio",
+          "evidence": "âm thanh tổng hợp bằng Web Audio",
+          "sourceUrl": "https://goldenseastudios.com/dronerush",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "3D Browser Game Prototype",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "webgl",
+          "drone-racing",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Interactive game code generation, visual shader setup, and game-feel iteration",
+      "outputSource": "Three.js / WebGL browser execution",
+      "divisionEvidence": "Claude Opus 5.5 generated the game code and polish, while Three.js rendered the interactive 3D simulation in the browser.",
+      "video": {
+        "shots": "Single continuous split-screen race capture",
+        "duration": "30s",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic demonstration of Claude Opus 5.5 generating and refining an interactive 3D WebGL drone racing game.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/dustinng_gs/status/2110728147427590592",
+        "start": 22,
+        "end": 102
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/dustinng_gs/status/2110728146664206570",
+        "author": "dustinng_gs",
+        "postId": "2110728146664206570",
+        "publishedAt": "2026-10-15T13:43:00.000Z"
+      },
+      "checkedAt": "2026-10-15T16:26:14.802Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/dustinng_gs/status/2110728147427590592",
+        "evidence": ""
+      }
+    },
+    "summary": "Comparison demo showing a 3D browser drone racer built and visually polished by Claude Opus 5.5 versus Gemini.",
+    "summaryEn": "Drone Combat Racer in Three.js by Claude Opus 5.5",
+    "originalPrompt": "a drone combat racer in the browser. 12 drones, 3 laps, lasers, missiles, mines.",
+    "sourceRange": {
+      "start": 22,
+      "end": 102
+    },
+    "translations": {
+      "zh": "a drone combat racer in the browser. 12 drones, 3 laps, lasers, missiles, mines.",
+      "en": "a drone combat racer in the browser. 12 drones, 3 laps, lasers, missiles, mines."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "3D Browser Game Prototype",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact system prompt",
+        "Full iterative follow-up instructions for graphics and polish",
+        "Source code implementation details"
+      ],
+      "evidence": "Screen recording displays side-by-side gameplay of a 12-drone space track combat race featuring bloom, engine trails, and weapons."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

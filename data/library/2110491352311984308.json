@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T17:08:51.220Z",
+  "model": "opus5.5",
+  "prompt": "Build a single self-contained HTML file (canvas or WebGL, no libraries, no network) showing a square 1080x1080 top-down terrarium at night where 600 ants leave the nest at the center and forage autonomously.",
+  "promptTranslations": {
+    "en": "Build a single self-contained HTML file (canvas or WebGL, no libraries, no network) showing a square 1080x1080 top-down terrarium at night where 600 ants leave the nest at the center and forage autonomously."
+  },
+  "summary": "Jeff Bruchado benchmarks Claude Opus 5.5 against Sonnet 5.5 using an identical prompt to code a self-contained HTML/Canvas night terrarium simulation where 600 glowing ants forage autonomously.",
+  "summaryEn": "Antlight: Glowing Colony Terrarium Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110491352311984308",
+    "canonicalUrl": "https://x.com/jeffbruchado/status/2110491352311984308",
+    "author": {
+      "username": "jeffbruchado",
+      "displayName": "Jeff Bruchado",
+      "profileUrl": "https://x.com/jeffbruchado"
+    },
+    "publishedAt": "2026-10-14T22:02:04.000Z",
+    "collectedAt": "2026-10-15T16:23:36.594Z",
+    "language": "en",
+    "originalText": "Opus 5.5 vs Sonnet 5.5, same prompt: Antlight: a glowing colony forages\n\none HTML file, no assets\n\nOpus 5.5: 20m 20s, 836 lines, $2.42\nSonnet 5.5: 11m 10s, 711 lines, $1.25\n\ntop is Opus 5.5, bottom is Sonnet 5.5. costs are estimated API prices https://t.co/kMXluiyv6J",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/jeffbruchado/status/2110491352311984308",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110491323509673985/img/PMraVCQcqF4IXdCR.jpg",
+        "analysisUrl": "https://x.com/jeffbruchado/status/2110491352311984308"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 70
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/jeffbruchado/status/2110491375380959410",
+        "text": "Prompt (excerpt): \"Build a single self-contained HTML file (canvas or WebGL, no libraries, no network) showing a square 1080x1080 top-down terrarium at night where 600 ants leave the nest at the center and forage autonomously.\"",
+        "author": "jeffbruchado"
+      },
+      {
+        "url": "https://x.com/jeffbruchado/status/2110491352311984308",
+        "text": "Jeff Bruchado on X: \"Opus 5.5 vs Sonnet 5.5, same prompt: Antlight: a glowing colony forages\n\none HTML file, no assets\n\nOpus 5.5: 20m 20s, 836 lines, $2.42\nSonnet 5.5: 11m 10s, 711 lines, $1.25\n\ntop is Opus 5.5, bottom is Sonnet 5.5. costs are estimated API prices\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nJeff Bruchado on X: \"Opus 5.5 vs Sonnet 5.5, same prompt: Antlight: a glowing colony forages\n\none HTML file, no assets\n\nOpus 5.5: 20m 20s, 836 lines, $2.42\nSonnet 5.5: 11m 10s, 711 lines, $1.25\n\ntop is Opus 5.5, bottom is Sonnet 5.5. costs are estimated API prices\"\n\n\n\nJeff Bruchado\n\n@jeffbruchado\n\n\n\n\nOpus 5.5 vs Sonnet 5.5, same prompt: Antlight: a glowing colony forages\n\none HTML file, no assets\n\nOpus 5.5: 20m 20s, 836 lines, $2.42\nSonnet 5.5: 11m 10s, 711 lines, $1.25\n\ntop is Opus 5.5, bottom is Sonnet 5.5. costs are estimated API prices\n\n\n00:00\n\n\n\n\n\n\n\n\n10:02 PM · Oct 14, 2026·70\nViews\n\n\n\n2\n\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nJeff Bruchado@jeffbruchadoFollow\nSoftware engineer building products with AI. Sharing code, decisions, and real lessons from shipping products.\n🕹️ PlayTokenEater.com\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJeff Bruchado\n\n@jeffbruchado\n\n\n\n\nOpus 5.5 vs Sonnet 5.5, same prompt: Antlight: a glowing colony forages\n\none HTML file, no assets\n\nOpus 5.5: 20m 20s, 836 lines, $2.42\nSonnet 5.5: 11m 10s, 711 lines, $1.25\n\ntop is Opus 5.5, bottom is Sonnet 5.5. costs are estimated API prices\n\n\n00:00\n\n\n\n\n\n\n\n\n10:02 PM · Oct 14, 2026·70\nViews\n\n\n\n2\n\n2\n\n\n\n\n\n\n\n\n\n\nJeff Bruchado\n\n@jeffbruchado\n18h\n\n\nPrompt (excerpt): \"Build a single self-contained HTML file (canvas or WebGL, no libraries, no network) showing a square 1080x1080 top-down terrarium at night where 600 ants leave the nest at the center and forage autonomously.\"\n\n\n\n\n2\n154\n\n\n\n\n\n\n\n\n\n\n\nAckerman\n\n@Yarilo7brigada\n10h\n\n\nSonnet taking almost half the cost and finishing nine minutes faster is a pretty strong case for using it on smaller creative builds\n\n\n\n\n\n112\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "jeffbruchado"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/jeffbruchado/status/2110491352311984308",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110491323509673985/img/PMraVCQcqF4IXdCR.jpg",
+  "coverPath": "data/covers/2110491352311984308-wide.jpg",
+  "gifPath": "data/gifs/2110491352311984308.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110491323509673985",
+    "x-post:2110491352311984308"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Antlight: Glowing Colony Terrarium Simulation",
+      "summary": "Jeff Bruchado benchmarks Claude Opus 5.5 against Sonnet 5.5 using an identical prompt to code a self-contained HTML/Canvas night terrarium simulation where 600 glowing ants forage autonomously.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "API",
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 vs Sonnet 5.5, same prompt: Antlight: a glowing colony forages\n\none HTML file, no assets\n\nOpus 5.5: 20m 20s, 836 lines, $2.42"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Build a single self-contained HTML file (canvas or WebGL, no libraries, no network) showing a square 1080x1080 top-down terrarium at night where 600 ants leave the nest at the center and forage autonomously.",
+        "englishText": "Build a single self-contained HTML file (canvas or WebGL, no libraries, no network) showing a square 1080x1080 top-down terrarium at night where 600 ants leave the nest at the center and forage autonomously.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Remaining prompt text beyond the provided excerpt"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a side-by-side execution of the generated HTML files, displaying top-down terrariums at night with glowing ants autonomously venturing out from central nests and tracing illuminated foraging trails.",
+        "textualResultQuote": "Opus 5.5: 20m 20s, 836 lines, $2.42\nSonnet 5.5: 11m 10s, 711 lines, $1.25\n\ntop is Opus 5.5, bottom is Sonnet 5.5."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML / Canvas or WebGL",
+          "role": "Client-side rendering engine executing the self-contained script",
+          "evidence": "Build a single self-contained HTML file (canvas or WebGL, no libraries, no network)",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/jeffbruchado/status/2110491375380959410"
+        }
+      ],
+      "purpose": {
+        "label": "Glowing Ant Colony Terrarium Simulation",
+        "topic": "games-interactive",
+        "tags": [
+          "canvas",
+          "webgl",
+          "creative-coding",
+          "simulation",
+          "autonomous-agents"
+        ]
+      },
+      "targetModelRole": "Generates the complete, standalone HTML/JavaScript code driving the autonomous ant simulation and visual effects",
+      "outputSource": "Web browser rendering the generated HTML file",
+      "divisionEvidence": "Build a single self-contained HTML file (canvas or WebGL, no libraries, no network) showing a square 1080x1080 top-down terrarium at night",
+      "video": {
+        "shots": "1",
+        "duration": "8s",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Directly demonstrates Claude Opus 5.5 generating self-contained creative coding animation and interactive simulation code displayed via screen recording, with an excerpted verbatim prompt provided by the author.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/jeffbruchado/status/2110491375380959410",
+        "start": 19,
+        "end": 226
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/jeffbruchado/status/2110491352311984308",
+        "author": "jeffbruchado",
+        "postId": "2110491352311984308",
+        "publishedAt": "2026-10-14T22:02:04.000Z"
+      },
+      "checkedAt": "2026-10-15T16:59:36.330Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/jeffbruchado/status/2110491375380959410",
+        "evidence": ""
+      }
+    },
+    "summary": "Jeff Bruchado benchmarks Claude Opus 5.5 against Sonnet 5.5 using an identical prompt to code a self-contained HTML/Canvas night terrarium simulation where 600 glowing ants forage autonomously.",
+    "summaryEn": "Antlight: Glowing Colony Terrarium Simulation",
+    "originalPrompt": "Build a single self-contained HTML file (canvas or WebGL, no libraries, no network) showing a square 1080x1080 top-down terrarium at night where 600 ants leave the nest at the center and forage autonomously.",
+    "sourceRange": {
+      "start": 19,
+      "end": 226
+    },
+    "translations": {
+      "zh": "Build a single self-contained HTML file (canvas or WebGL, no libraries, no network) showing a square 1080x1080 top-down terrarium at night where 600 ants leave the nest at the center and forage autonomously.",
+      "en": "Build a single self-contained HTML file (canvas or WebGL, no libraries, no network) showing a square 1080x1080 top-down terrarium at night where 600 ants leave the nest at the center and forage autonomously."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Glowing Ant Colony Terrarium Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Remaining prompt text beyond the provided excerpt"
+      ],
+      "evidence": "The video shows a side-by-side execution of the generated HTML files, displaying top-down terrariums at night with glowing ants autonomously venturing out from central nests and tracing illuminated foraging trails."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-15T17:08:49.939Z",
+  "model": "opus5.5",
+  "prompt": "i want to FEEL the power of the vehicle.",
+  "promptTranslations": {
+    "en": "i want to FEEL the power of the vehicle."
+  },
+  "summary": "The author prompted Claude Opus 5.5 to make the player feel the power of the vehicle in the space simulator Roll Authority, implementing intense camera shake during max-Q.",
+  "summaryEn": "Roll Authority Max-Q Vehicle Shake",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110613662599942496",
+    "canonicalUrl": "https://x.com/RollAuthGame/status/2110613662599942496",
+    "author": {
+      "username": "RollAuthGame",
+      "displayName": "Roll Authority",
+      "profileUrl": "https://x.com/RollAuthGame"
+    },
+    "publishedAt": "2026-10-15T06:08:05.000Z",
+    "collectedAt": "2026-10-15T16:23:36.594Z",
+    "language": "en",
+    "originalText": "I told Claude Opus 5.5 \"i want to FEEL the power of the vehicle.\" Now the ride shakes through max-Q.\n\nRoll Authority is a Kerbal-inspired space sim about evacuating a dying world, one launch at a time.\n\nFree demo: https://t.co/jF5betpkCn\n#indiegame #gamedev #spaceflight https://t.co/YpuQhl6eNe",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/RollAuthGame/status/2110613662599942496",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110613580982648832/img/ccYYnBPKtL5nNiNK.jpg",
+        "analysisUrl": "https://x.com/RollAuthGame/status/2110613662599942496"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 1
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://evoradevelopmentstudios.itch.io/roll-authority",
+        "text": "Roll Authority by evoradevelopmentstudiosFollow evoradevelopmentstudiosFollowFollowing evoradevelopmentstudiosFollowing\nAdd To CollectionCollection\nComments\n Related gamesRelated\nRoll Authority\n\nA downloadable game for Windows\n Download\n\nHøm is dying, and everyone on it has to leave. In Roll Authority you are the agency responsible for getting them out – one launch at a time.\n\r\nRockets are assembled part by part: tanks, engines, decouplers and cargo modules stacked and mounted in symmetry, with staging arranged by hand. They fly on real orbital mechanics. Apoapsis and periapsis, transfer windows, time warp and landings on other worlds all follow the physics, not a script.\n\r\nIn the free demo\n\r\n\r\nBuild rockets part by part, with stacking, radial symmetry and drag-and-drop staging\n\r\nFly them on real Keplerian orbits, with time warp and a map view that shows live apoapsis and periapsis\n\r\nLaunch from Høm, make orbit, and set down on its moon, Luna\n\r\nRun it all from the Space Center: the Vehicle Assembly Building, Tracking Station, R&D, Mission Control (CAPCOM) and the launch pad\n\r\n\r\nProof of concept\n\r\nThis demo is the proof of concept: the rockets, the physics and the orbits are real and working. The finished game is cut from construction paper – planets, ships, modules and the interface – like a hand-made diorama of an exodus.\n\r\nWhere it&#x27;s going\n\r\nA rocket is only the start. Lifting mass off Høm is the hardest thing in the game, so the real work is the supply chain: survey worlds from orbit, mine and refine what you find, carry it in cargo holds that weigh out or cube out, and build the outposts, refineries and depots that turn every launch into fuel for the next. Every structure costs its own mass in metal, and every kilogram has to come from somewhere.\n\r\nAnd the crisis does not stay on Høm. What killed the homeworld travels with the evacuees, so every world settled becomes the next to empty – until humanity builds a ship that can leave the system for good.\n\r\nThe supply chain opens up in early access on Steam. You can back early access now on our website, and your Steam key arrives as soon as the store page goes live.\n\r\nWho&#x27;s building this\n\r\nI&#x27;m a full-time student in computer science and aerospace engineering. On March 23, 2026, I almost died from a massive aortic dissection. I&#x27;ve been running through life like my ass is on fire ever since, and Roll Authority is my dream project.\n\r\nMade with AI\n\r\nRoll Authority is made with generative AI. One developer and AI tools took it from the first line of code to this demo in five weeks. That&#x27;s how this game exists. If that&#x27;s a dealbreaker, go play something else.\n\r\nFly with us\n\r\n\r\nDiscord: devlogs, bug reports and the flight board\n\r\nRoadmap: what&#x27;s shipped, what&#x27;s being built, what&#x27;s next\n\r\nPress kit\n\r\n\r\nWindows only. This demo is five weeks old, counting from the first line of code. It&#x27;s early, and your bug reports decide what gets fixed first.\n\nMore information\nUpdated 8 hours agoPublished 5 days agoStatusIn developmentPlatformsWindowsAuthorevoradevelopmentstudiosGenreSimulationTagsbuilding, Management, orbital-mechanics, papercraft, Physics, rockets, Sandbox, Singleplayer, Space, spaceflightAI DisclosureAI Assisted, Code, Graphics, Text\n\n\nDownload\nDownloadroll-authority-windows.zip 249 MB  \nVersion 0.3.0  8 hours ago\n\n\n\n\nLeave a comment\nLog in with itch.io to leave a comment.\n\n\n\n\n\n\n\n\n\nitch.io·View all by evoradevelopmentstudios·Report·Embed·Updated  8 hours ago\nGames › Simulation › Free\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "RollAuthGame"
+      },
+      {
+        "url": "https://x.com/RollAuthGame/status/2110613662599942496",
+        "text": "Roll Authority on X: \"I told Claude Opus 5.5 \"i want to FEEL the power of the vehicle.\" Now the ride shakes through max-Q.\n\nRoll Authority is a Kerbal-inspired space sim about evacuating a dying world, one launch at a time.\n\nFree demo: https://t.co/jF5betpkCn\n#indiegame #gamedev #spaceflight\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nRoll Authority on X: \"I told Claude Opus 5.5 \"i want to FEEL the power of the vehicle.\" Now the ride shakes through max-Q.\n\nRoll Authority is a Kerbal-inspired space sim about evacuating a dying world, one launch at a time.\n\nFree demo: https://t.co/jF5betpkCn\n#indiegame #gamedev #spaceflight\"\n\n\n\nRoll Authority\n\n@RollAuthGame\n\n\n\n\nI told Claude Opus 5.5 \"i want to FEEL the power of the vehicle.\" Now the ride shakes through max-Q.\n\nRoll Authority is a Kerbal-inspired space sim about evacuating a dying world, one launch at a time.\n\nFree demo: evoradevelopmentstudios.itch.io/roll-authority\n#indiegame #gamedev #spaceflight\n\n\n00:00\n\n\n\n\n\n\n\n\n6:08 AM · Oct 15, 2026·1\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nRoll Authority@RollAuthGameFollow\nEvacuate a dying world, one launch at a time. Spaceflight + logistics, inspired by KSP. By Evora Development Studios. Discord: discord.gg/99EJEbg4V\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRoll Authority\n\n@RollAuthGame\n\n\n\n\nI told Claude Opus 5.5 \"i want to FEEL the power of the vehicle.\" Now the ride shakes through max-Q.\n\nRoll Authority is a Kerbal-inspired space sim about evacuating a dying world, one launch at a time.\n\nFree demo: evoradevelopmentstudios.itch.io/roll-authority\n#indiegame #gamedev #spaceflight\n\n\n00:00\n\n\n\n\n\n\n\n\n6:08 AM · Oct 15, 2026·1\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "RollAuthGame"
+      }
+    ],
+    "sourceMaterialErrors": []
+  },
+  "xUrl": "https://x.com/RollAuthGame/status/2110613662599942496",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110613580982648832/img/ccYYnBPKtL5nNiNK.jpg",
+  "coverPath": "data/covers/2110613662599942496-wide.jpg",
+  "gifPath": "data/gifs/2110613662599942496.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110613580982648832",
+    "x-post:2110613662599942496"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Roll Authority Max-Q Vehicle Shake",
+      "summary": "The author prompted Claude Opus 5.5 to make the player feel the power of the vehicle in the space simulator Roll Authority, implementing intense camera shake during max-Q.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I told Claude Opus 5.5 \"i want to FEEL the power of the vehicle.\""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "i want to FEEL the power of the vehicle.",
+        "englishText": "i want to FEEL the power of the vehicle.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Complete system prompt and context",
+          "Game engine codebase and camera controller scripts",
+          "Physics and flight parameter implementations"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video recording displays a rocket launch in the simulator experiencing pronounced camera shaking as it ascends through max-Q atmospheric pressure.",
+        "textualResultQuote": "Now the ride shakes through max-Q."
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "Spaceflight Simulation Dynamic Launch Shake",
+        "topic": "games-interactive",
+        "tags": [
+          "space-sim",
+          "camera-shake",
+          "max-q",
+          "orbital-mechanics",
+          "interactive"
+        ]
+      },
+      "targetModelRole": "Writing game code to add dynamic camera shake and flight HUD countdowns based on natural language directions",
+      "outputSource": "In-engine spaceflight simulator gameplay recording",
+      "divisionEvidence": "The author states 'I told Claude Opus 5.5 \"i want to FEEL the power of the vehicle.\"' while the desktop game executable renders the simulation.",
+      "video": {
+        "shots": "Multi-shot gameplay sequence with camera perspective shifts",
+        "duration": "47s",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Demonstrates Claude Opus 5.5 generating code for interactive motion dynamics and camera shake in a 3D simulation with a corresponding screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/RollAuthGame/status/2110613662599942496",
+        "start": 24,
+        "end": 64
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/RollAuthGame/status/2110613662599942496",
+        "author": "RollAuthGame",
+        "postId": "2110613662599942496",
+        "publishedAt": "2026-10-15T06:08:05.000Z"
+      },
+      "checkedAt": "2026-10-15T16:34:19.539Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/RollAuthGame/status/2110613662599942496",
+        "evidence": ""
+      }
+    },
+    "summary": "The author prompted Claude Opus 5.5 to make the player feel the power of the vehicle in the space simulator Roll Authority, implementing intense camera shake during max-Q.",
+    "summaryEn": "Roll Authority Max-Q Vehicle Shake",
+    "originalPrompt": "i want to FEEL the power of the vehicle.",
+    "sourceRange": {
+      "start": 24,
+      "end": 64
+    },
+    "translations": {
+      "zh": "i want to FEEL the power of the vehicle.",
+      "en": "i want to FEEL the power of the vehicle."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Spaceflight Simulation Dynamic Launch Shake",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Complete system prompt and context",
+        "Game engine codebase and camera controller scripts",
+        "Physics and flight parameter implementations"
+      ],
+      "evidence": "The video recording displays a rocket launch in the simulator experiencing pronounced camera shaking as it ascends through max-Q atmospheric pressure."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
