@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T06:58:44.193Z",
+  "model": "opus5.5",
+  "prompt": "create a mathematically accurate visualisation of the paper",
+  "promptTranslations": {
+    "en": "create a mathematically accurate visualisation of the paper"
+  },
+  "summary": "The author prompted Claude Opus 5.5 to generate a mathematically accurate Three.js simulation of human psychological evolution and ego-death based on a preprint paper, resulting in an interactive 3D visualization resembling the Unalome symbol.",
+  "summaryEn": "Wave Model Psyche Simulation in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104803951296352610",
+    "canonicalUrl": "https://x.com/fabinrasheed/status/2104803951296352610",
+    "author": {
+      "username": "fabinrasheed",
+      "displayName": "Nurecas",
+      "profileUrl": "https://x.com/fabinrasheed"
+    },
+    "publishedAt": "2026-09-29T05:22:22.000Z",
+    "collectedAt": "2026-10-16T05:43:49.141Z",
+    "language": "en",
+    "originalText": "Oh Wow! I asked Claude Opus 5.5 to create a simulation of the evolution of human psychology over a lifetime with the resolution of human trauma and desires until full resolution (ego-death) based on my wave-model of psyche-environment interaction paper. And without explicitly mentioning anything other than to \"create a mathematically accurate visualisation of the paper\", Claude one-shotted this @threejs visualisation. \n\nAnd guess what? The human journey to full psychological resolution looks just like the Unalome symbol!\n\nPreprint link:\nhttps://t.co/MQ1Ix1khaJ\n\nOne-shotted simulation:\nhttps://t.co/iOKwnrjKMO",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/fabinrasheed/status/2104803951296352610",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104802845732270080/img/fVrV81zJ9ilxqwT2.jpg",
+        "analysisUrl": "https://x.com/fabinrasheed/status/2104803951296352610"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HTXDCVPbIAAFHSZ.png",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTXDCVPbIAAFHSZ.png"
+      }
+    ],
+    "metrics": {
+      "likeCount": 30,
+      "repostCount": 5,
+      "replyCount": 7,
+      "quoteCount": 2,
+      "viewCount": 1821
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/fabinrasheed/status/2104805955812966816",
+        "text": "And this is what happens for a collective of individuals where our psychologies are not isolated, but connected as one field.\n\nWarm colors represent reaching tendencies (desires, greed, hunger etc.) while cool colors indicate resisting tendencies (fear, disgust, embarrassment etc.)... The white points are the points of knot resolution (think trauma resolutions or desire fulfillment). Eventually each of those wavelets resolve to zero. You see how our desires and fears are not just our own but is connected very much to others.\n\nFun point: you can add an enlightened teacher to the midst...",
+        "author": "fabinrasheed"
+      },
+      {
+        "url": "https://nurecas.github.io/wavemodelviz/",
+        "text": "\nWave Model Field\n\n\n\n\n\n\n\n  \n    \n      Wave Model Field\n\n      A working model of A wave model of interaction between the psyche and environment (F. Rasheed, preprint)\n\n    \n\n    \n  \n\n  \n    \n      \n      \n\n      One psyche, from conception to death\ntime runs upward · each thread is a knot\n\n\n      \n\n      \n        Pause\n        Speed 1×\n        \n      \n\n      \n        \n\n        \n          reachingRe z > 0\n          resistingRe z < 0\n          zero-state|z| &rarr; 0\n        \n      \n\n      \n\n    \n\n    \n      \n      \n        Scale I · one person\n\n        A life, drawn by its knots\n\n        Seven inherited knots, each a wave. The ego sets the sign of the mirror&rsquo;s feedback. In phase (μ > 0) a knot grows toward attachment. Out of phase (μ < 0) it falls to zero, and time spent near zero is felt as bliss. Each bliss teaches the ego to lean further toward negative feedback.\n\n        żk = (μk + iωk) zk + (1 + iβ)|zk|²zk − |zk|⁴zk\n          μk = μ₀ − Λ(1 − e−W/60) + cravingk − presence · W = ∫ bliss dt\n\n        \n          Age0%\n\n          Ego gain μ̄0.10\n\n          Regimeattaching\n\n          Ego I = Σ|z|²0.00\n\n          Bliss now0.00\n\n          Wisdom W0\n\n        \n        \n          Roadmap · knot amplitude against ego gain\n          \n\n          Solid lines are states a knot can rest in; dashed lines are tipping points. Between μ = −¼ and 0 both rest states coexist: small knots dissolve, large ones hold on. That band is the paper&rsquo;s accumulation threshold.\n\n        \n        \n          This life so farcf. Fig. 11\n          \n\n\n        \n        \n          Intervene\n          \n            Send antidote\n            Trauma\n            Desire\n          \n\n          Dose α (antidote size)\n\n\n          Aim error δ (miss of the root)\n\n\n          \n\n          Presence of a zero-state other\nDampening: coupling to someone at z = 0 lowers every μk by this amount.\n\n        \n        \n          This life&rsquo;s settings\n          Ego gain at birth μ₀\n\n\n          Learning depth Λ\n\n\n          Craving after bliss\n\n\n          Life events per 100 time units\n\n\n          Antidotes life offers, per knot per 100 units\n\n\n          Replay this lifeA different life\n\n        \n        \n          Many lives\n          Run 200 lives with the settings above, each with different events, and see when (or whether) each one reaches the zero-state.\n\n          Run 200 lives\n\n          \n\n\n        \n      \n\n\n      \n      \n        Scale II · 40,962 people on a world\n\n        Zero-points in a population\n\n        Each point on the planet is one person&rsquo;s dominant knot. A person&rsquo;s environment is mostly their neighbours, so each psyche is pulled toward the average of the psyches around it. Where the phase winds once around a loop (reaching, rising, resisting, falling), the field has to pass through zero inside it. Those still points are the eyes of the spiral waves.\n\n        żi = f(zi) + K(1 + iα)(⟨z⟩nbrs − zi) − di zif is the same knot law as Scale I · di is dampening near a teacher\n\n        \n          Zero-points0\n\n          Net charge0\n\n          Ego gain μ0.20\n\n          Mean |z|0.00\n\n          In zero-state0%\n\n          Regimeattaching\n\n        \n        Clockwise and anticlockwise zero-points are born and die in pairs, so the net charge over the whole world is always exactly 0.\n\n        \n          History\n          \n\n\n        \n        \n          Collective settings\n          Collective ego gain μ\nTry −0.05. A world with zero-points lets the zero-state spread from them; press Synchronise everyone first and the same μ changes nothing.\n\n          Rhythm shift β\nHow much a knot&rsquo;s intensity changes its tempo. β = 0 gives still vortices; larger β winds them into spirals.\n\n          Mirror twist α\nHow much the phase turns when it passes from person to person.\n\n          Life events per 100 time units\n\n\n        \n        \n          Experiments\n          Time for the ego to switch on\n\n\n          Birth of the egoSynchronise everyone\n\n          The birth ramps μ from −0.1 to +0.2 over the chosen time. Slow births leave fewer zero-points; the count falls roughly as time−½.\n\n          Tap to place a teacher: onClear teachers\n\n          A teacher is a person pinned at z = 0 who damps the people around them (the paper&rsquo;s dampening).\n\n        \n      \n\n\n      \n      \n        Scale III · one field filling space\n\n        Knots made of stillness\n\n        Let the population become a continuum filling three dimensions. The zero-states are no longer points but closed lines, and the waves of reaching and resisting turn around them. These lines can tie into knots and link through each other. Under positive feedback they tighten, reconnect and vanish. Under negative feedback the zero-state swells out from them.\n\n        ∂z/∂t = f(z) + (1 + iα)∇²zcubic–quintic complex Ginzburg–Landau equation on a periodic cube\n\n        \n          Zero-loops0\n\n          Line length0\n\n          Linking–\n\n          Ego gain μ0.20\n\n          In zero-state0%\n\n          Regimeattaching\n\n        \n        \n          History\n          \n\n\n        \n        \n          Begin a universe\n          \n            Big bang\n            Trefoil knot\n            Hopf link\n            Single ring\n          \n\n          Big bang gives every small region its own random phase, the way the early universe froze in cosmic strings. The knot seeds place the zero-set exactly on a trefoil, two linked rings, or one ring.\n\n        \n        \n          Field settings\n          Collective ego gain μ\nBelow 0, watch the zero-state spread out along the lines.\n\n          Rhythm shift β\n\n\n          \n            Zero-lines\n            Zero-state glow\n            Phase slice\n          \n\n          Slice depth\n\n\n        \n      \n\n    \n  \n\n  \n    \n      What emerged\n\n      Running the wave model\n\n      The paper describes knots, a mirror, an ego that switches feedback, and a zero-state. Written as equations and run, those four ideas make one specific dynamical system. At the scale of a population or a universe it produces geometry the paper doesn&rsquo;t mention: points and lines of stillness that come in pairs, knot together, and act as the seeds from which release spreads.\n\n\n      From the paper to equations\n\n      \n        In the paperIn the modelWhat it means\n        \n          Psychological knotz = |z| eiφ|z| is intensity. Re z > 0 is reaching (the crest), Re z < 0 is resisting (the trough).\n          A feeling rises and fallsrotation at ωEach knot keeps turning through reaching, rising, resisting and falling.\n          Environment as mirrorreturns ρzWhat is inside comes back from outside.\n          Ego as feedback switcherμ = ρg − γg > 0 meets the mirror in phase (amplify); g < 0 meets it out of phase (resolve). μ is the net gain.\n          Accumulation, attachmentstable cycle at rsThe knot sustains itself: the cyclical pattern between psyche and environment.\n          Knots beyond a threshold are hard to resolveunstable cycle at ruBelow ru a knot falls to zero once μ < 0; above it, the knot stays.\n          Compensationz → (1 − αeiδ) zAn opposite-phase wave of dose α, aimed δ away from the knot&rsquo;s root.\n          Dampening−d zCoupling to someone at z = 0 lowers your effective μ.\n          BlissΣ Mk e−|zk|²/ε²Proportional to the amplitude that was resolved (M) and to the time spent near zero.\n          Resolution teachesμ₀ − Λ(1 − e−W/60)W = ∫ bliss dt. Each release tilts the ego toward negative feedback and sharpens its aim.\n          Bliss invites repetitioncraving ckA short-lived rise in μ for the knot that just gave bliss: the route to addiction.\n          Humans as nodes in a larger systemK(⟨z⟩ − zi)Your environment is mostly other people&rsquo;s psyches.\n          A global field∂z/∂t = f(z) + (1 + iα)∇²zThe continuum limit: the cubic–quintic complex Ginzburg–Landau equation.\n        \n      \n\n      The knot law f(z) = (μ + iω)z + (1 + iβ)|z|²z − |z|⁴z is the normal form of a subcritical Hopf bifurcation, the simplest equation in which an oscillation can switch on abruptly and then refuse to switch off. I chose it because it is the smallest law that reproduces the paper&rsquo;s claims together: amplification, a threshold, a flip after release, and release that needs several cycles.\n\n\n      1The ego works as a bifurcation parameter\n\n      For μ > 0 every knot, however small, grows to the attachment cycle. For −¼ < μ < 0 the zero-state and attachment coexist: small knots dissolve, large ones persist. Below μ = −¼ every knot dissolves. None of the paper&rsquo;s behaviours had to be added by hand. A compensation that overshoots rotates the knot past 90°, so a reaching knot comes back as a smaller resisting one (Fig. 9). A deep knot pushed only part of the way down climbs back to attachment, so it needs several cycles (Accumulation section). There is also hysteresis: once a knot has reached zero, it stays there until μ climbs all the way back above 0.\n\n\n      2Aim matters more than dose\n\n      An antidote multiplies the knot by 1 − αeiδ. It helps only when cos δ > α/2. A full-strength antidote (α = 1) aimed more than 60° away from the root leaves the knot larger than before. Gentler doses tolerate more error, which fits the paper&rsquo;s observation from exposure therapy that release is easier at low intensity. This is the arithmetic behind its point that finding the root cause matters most.\n\n      \n        α = 1.0α = 0.5no change\n\n        \n\n\n        Knot size after one antidote, as a multiple of its size before, against aim error δ. Above the dashed line the antidote made things worse.\n\n      \n\n\n      3Release arrives as a cascade\n\n      Each release lowers μ and sharpens aim, which makes the next release easier. That feedback makes lives in the model hold at attachment for a long time and then fall through the threshold in a short burst, rather than decline gradually. With the default settings, 76 of 200 simulated lives reached the zero-state, at a median of 81% of the lifespan; the rest died still attached. Run 200 lives on the Psyche tab reproduces this, and shows how the settings move the split. Seen from above, a knot&rsquo;s track spirals outward while it accumulates, zigzags across the axis as antidotes arrive, and settles onto the straight line of the axis: the loops, zigzag and line of the unalome the paper mentions.\n\n\n      4Zero-states become topological defects\n\n      When psyches are coupled to their neighbours, a person&rsquo;s phase has to vary smoothly across the population. Around some closed loops the phase winds once through reaching, rising, resisting and falling. A continuous field that winds like that must pass through z = 0 inside the loop, so a zero-point sits there. It cannot be removed by any local change. Zero-points come in two handednesses and are created and destroyed only in opposite pairs, so on a closed world the net charge is always exactly zero. Your duality of reaching and resisting shows up at this scale as a conservation law. The spiral waves on the planet are everyone&rsquo;s knots circulating around these still points.\n\n\n      5Release spreads from the zero-points\n\n      This was the result I didn&rsquo;t expect. Take a world in the bistable band (−¼ < μ < 0). If everyone is in sync and there is no zero-point anywhere, attachment holds all the way down to μ = −¼, because the zero-state has nowhere to start. If the world contains zero-points, the zero-state grows outward from them and takes over the planet at a much higher μ. How much higher depends on the rhythm shift β. With β = 0, release starts near μ ≈ −0.2, close to the Maxwell point −3/16 where the two states are equally stable. From β ≈ 0.75 upward, any negative gain is enough. The zero-points act as nucleation sites. A population with a variety of phases can reach the zero-state at a higher ego gain than a synchronised one.\n\n      \n        world with zero-pointssynchronised world (no zero-points)\n\n        \n\n\n        Highest collective ego gain at which the zero-state takes over, measured on a 128 × 128 periodic grid run for 400–500 time units. Bars span the last μ tested where it took over and the first where it did not.\n\n      \n\n\n      6A fast birth of the ego leaves more still points\n\n      Start a population at zero and ramp μ through 0 over a time τ: the ego switching on across a whole society. Separate regions choose their phases independently, and zero-points freeze in where the choices disagree. Measured over six ramp times from 32 to 1024 units, the number of zero-points left behind falls as τ−0.52. Mean-field theory predicts τ−½. This is the Kibble–Zurek law, first worked out for defects frozen into the early universe and later checked in superfluid helium. A fast, disordered birth leaves a world with more nucleation sites for release.\n\n      \n        measured (mean of 4 runs, ±1 s.d.)fit, slope −0.52theory, slope −½\n\n        \n\n\n        Zero-points frozen in on a 256 × 256 world against the time taken for the ego to switch on. Both axes logarithmic.\n\n      \n\n\n      7In three dimensions, the knots are made of stillness\n\n      In a field filling space, the zero-set is a set of closed curves, and those curves can knot and link. Seeding the field so that the zero-set is two linked rings gives a Gauss linking number of −1.000 when measured on the simulated lines, and a trefoil seed gives a single knotted loop. So the paper&rsquo;s knots come back at the largest scale as literal knots, but made of zero-state, with the waves of reaching and resisting circulating around them. Under positive feedback the lines behave like strings under tension: they tighten, reconnect and disappear, leaving a uniform field with no stillness in it. Reconnection is how these knots untie. The Hopf link merges into one loop within a few time units, then splits into two unlinked rings, and its linking number drops from −1 to 0. Under negative feedback the zero-state grows outward along the lines as tubes and fills the space. A uniform field with no lines, at the same μ = −0.05, doesn&rsquo;t change.\n\n\n      The same equation governs spiral waves in the Belousov–Zhabotinsky reaction and in heart tissue, quantised vortex lines in superfluids, and the cosmic strings proposed for the early universe. The paper cites the Hermetic principle &ldquo;as above, so below&rdquo;. Here it has a precise form: near the point where an oscillation switches on, any system of waves with feedback and neighbours reduces to this equation, whatever the waves are made of.\n\n\n\n      Which parts are my modelling choices\n\n      \n        The paper doesn&rsquo;t give dynamics, so the knot law is my choice. A supercritical (smooth) Hopf law would keep the amplification and the flip but lose the threshold and the hysteresis.\n\n        The rules for bliss, learning, craving, and the antidotes life offers are one reading of the text. Different forms move the numbers in findings 3 and 6. They do not change the geometry in findings 4, 5 and 7.\n\n        That geometry is universal: it follows from waves plus feedback plus neighbours, and doesn&rsquo;t depend on what the waves are. That makes the argument structurally sound. It is not evidence that psyches work this way. Testing that would need measurements of the kind the paper&rsquo;s future-work section proposes.\n\n        The model makes predictions that could in principle be tested: hysteresis between attachment and release, an aim tolerance of arccos(α/2) for interventions, release that comes as a cascade rather than a slope, and release that spreads faster through a population with more variety of phase than through a synchronised one.\n\n      \n\n      How the simulations run\n\n      Euler time-stepping, with the |z|⁴ term treated implicitly for stability. One psyche: seven knots, dt = 0.05, life = 600 time units. Population: a geodesic sphere of 40,962 vertices with graph-Laplacian coupling. Universe: a 48³ periodic grid (40³ on small screens). Zero-points are the triangles or grid plaquettes around which the phase winds by ±2π. Zero-lines join pierced plaquettes cube by cube. Knot seeds use the zero-set of u² − v³ (trefoil) and u² − v² (Hopf link) on the 3-sphere, projected into space. Linking numbers use the exact segment-pair Gauss integral. The figures on this page come from separate runs of the same equations in NumPy.\n\n      \n        Rasheed, F. A wave model of interaction between the psyche and environment. Preprint, IIT Hyderabad.\n\n        Kuznetsov, Y. A. Elements of Applied Bifurcation Theory, ch. 8 (Bautin bifurcation). Springer.\n\n        Aranson, I. S. & Kramer, L. The world of the complex Ginzburg–Landau equation. Rev. Mod. Phys. 74, 99 (2002).\n\n        Kibble, T. W. B. Topology of cosmic domains and strings. J. Phys. A 9, 1387 (1976). Zurek, W. H. Cosmological experiments in superfluid helium? Nature 317, 505 (1985).\n\n        Winfree, A. T. & Strogatz, S. H. Organizing centres for three-dimensional chemical waves. Nature 311, 611 (1984).\n\n        Dennis, M. R., King, R. P., Jack, B., O&rsquo;Holleran, K. & Padgett, M. J. Isolated optical vortex knots. Nature Physics 6, 118 (2010).\n\n        Klenin, K. & Langowski, J. Computation of writhe in modeling of supercoiled DNA. Biopolymers 54, 307 (2000).\n\n      \n    \n\n  \n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "fabinrasheed"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/MQ1Ix1khaJ"
+    ]
+  },
+  "xUrl": "https://x.com/fabinrasheed/status/2104803951296352610",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104802845732270080/img/fVrV81zJ9ilxqwT2.jpg",
+  "coverPath": "data/covers/2104803951296352610-wide.jpg",
+  "gifPath": "data/gifs/2104803951296352610.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104802845732270080",
+    "x-image:/media/HTXDCVPbIAAFHSZ",
+    "x-post:2104803951296352610"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Wave Model Psyche Simulation in Three.js",
+      "summary": "The author prompted Claude Opus 5.5 to generate a mathematically accurate Three.js simulation of human psychological evolution and ego-death based on a preprint paper, resulting in an interactive 3D visualization resembling the Unalome symbol.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I asked Claude Opus 5.5 to create a simulation of the evolution of human psychology over a lifetime"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "create a mathematically accurate visualisation of the paper",
+        "englishText": "create a mathematically accurate visualisation of the paper",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full verbatim prompt text",
+          "Attached paper text/context provided to Claude Opus 5.5"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording demonstrates an animated 3D Three.js simulation titled 'Wave Model Field: One psyche, from conception to death' where wave knots accumulate and resolve upward into a single line, matching the author's description and Unalome comparison.",
+        "textualResultQuote": "One psyche, from conception to death\ntime runs upward · each thread is a knot"
+      },
+      "inputs": [
+        {
+          "kind": "document",
+          "description": "Preprint paper: 'A wave model of interaction between the psyche and environment' (F. Rasheed)",
+          "available": true,
+          "evidence": "based on my wave-model of psyche-environment interaction paper",
+          "sourceUrl": "https://t.co/MQ1Ix1khaJ",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D WebGL rendering engine for the interactive browser visualization",
+          "evidence": "Claude one-shotted this @threejs visualisation.",
+          "sourceUrl": "https://x.com/fabinrasheed/status/2104803951296352610",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Psychological Wave Model Interactive 3D Visualization",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "simulation",
+          "interactive",
+          "creative-coding",
+          "webgl"
+        ]
+      },
+      "targetModelRole": "Code generation of the complete Three.js mathematical simulation script based on the supplied theory and paper.",
+      "outputSource": "Browser WebGL renderer running Three.js code generated by Claude Opus 5.5.",
+      "divisionEvidence": "Claude one-shotted this @threejs visualisation.",
+      "video": {
+        "shots": "Single continuous screen capture of interactive simulation viewport",
+        "duration": "20s",
+        "aspectRatio": "31:27",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Clear demonstration of Claude Opus 5.5 writing code to produce an animated interactive 3D simulation in Three.js accompanied by video evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/fabinrasheed/status/2104803951296352610",
+        "start": 312,
+        "end": 371
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/fabinrasheed/status/2104803951296352610",
+        "author": "fabinrasheed",
+        "postId": "2104803951296352610",
+        "publishedAt": "2026-09-29T05:22:22.000Z"
+      },
+      "checkedAt": "2026-10-16T06:08:58.939Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/fabinrasheed/status/2104803951296352610",
+        "evidence": ""
+      }
+    },
+    "summary": "The author prompted Claude Opus 5.5 to generate a mathematically accurate Three.js simulation of human psychological evolution and ego-death based on a preprint paper, resulting in an interactive 3D visualization resembling the Unalome symbol.",
+    "summaryEn": "Wave Model Psyche Simulation in Three.js",
+    "originalPrompt": "create a mathematically accurate visualisation of the paper",
+    "sourceRange": {
+      "start": 312,
+      "end": 371
+    },
+    "translations": {
+      "zh": "create a mathematically accurate visualisation of the paper",
+      "en": "create a mathematically accurate visualisation of the paper"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Psychological Wave Model Interactive 3D Visualization",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full verbatim prompt text",
+        "Attached paper text/context provided to Claude Opus 5.5"
+      ],
+      "evidence": "The screen recording demonstrates an animated 3D Three.js simulation titled 'Wave Model Field: One psyche, from conception to death' where wave knots accumulate and resolve upward into a single line, matching the author's description and Unalome comparison."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

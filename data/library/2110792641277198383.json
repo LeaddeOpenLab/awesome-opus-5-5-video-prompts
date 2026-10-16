@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T06:58:40.545Z",
+  "model": "opus5.5",
+  "prompt": "A real 3D scene where one cherry tree goes from snow to blossom, cherries, falling leaves and back to snow, a whole year in 16 seconds.",
+  "promptTranslations": {
+    "en": "A real 3D scene where one cherry tree goes from snow to blossom, cherries, falling leaves and back to snow, a whole year in 16 seconds."
+  },
+  "summary": "Author tests Claude Opus 5.5 running in an agent loop with self-visual testing against Gemini 4 Argon to build a real-time 3D cherry tree cycle spanning four seasons in 16 seconds.",
+  "summaryEn": "A Year of a Cherry Tree in 16 Seconds 3D Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110792641277198383",
+    "canonicalUrl": "https://x.com/AIMind_Ai/status/2110792641277198383",
+    "author": {
+      "username": "AIMind_Ai",
+      "displayName": "AiMind",
+      "profileUrl": "https://x.com/AIMind_Ai"
+    },
+    "publishedAt": "2026-10-15T17:59:16.000Z",
+    "collectedAt": "2026-10-16T05:43:49.141Z",
+    "language": "en",
+    "originalText": "Claude Opus 5.5 spent $15.14 on one cherry tree. Gemini 4 Argon did it for ~$0.20.\n\nBoth got the same prompt: A real 3D scene where one cherry tree goes from snow to blossom, cherries, falling leaves and back to snow, a whole year in 16 seconds.\n\nOpus ran as an agent and spent 1h 50m checking its own frames. Gemini wrote it in one pass.\n\nOpus cost 75x more. Its version has painted leaves, petals blowing across the meadow and robins pecking at the cherries. Gemini’s leaves look like jelly beans",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AIMind_Ai/status/2110792641277198383",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110791795747504129/img/6Na6J02vqhMeNDt_.jpg",
+        "analysisUrl": "https://x.com/AIMind_Ai/status/2110792641277198383"
+      }
+    ],
+    "metrics": {
+      "likeCount": 49,
+      "repostCount": 5,
+      "replyCount": 11,
+      "quoteCount": 2,
+      "viewCount": 6504
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2110948661974696276",
+        "text": "@Snoaper Yeah, obvious.",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2110947603223327229",
+        "text": "@skunzu cost usually wins.",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2110815154568872205",
+        "text": "@fominaaalina Yeah Opus looks better but Gemini is way cheaper and still fun so I get the preference",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2110814804416040960",
+        "text": "@olezhavich The extra time paid off. Those little details make it feel real.",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2110814024816631928",
+        "text": "@genuenci Yeah the gap is huge. Those little details still hit different though.",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2110804090036928530",
+        "text": "@Klonzu those robins make it worth the $15.",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2110800515152089234",
+        "text": "@gosh_sol_eth Yeah Opus feels way more alive but the price jump is crazy. Gemini is solid for normal use.",
+        "author": "AIMind_Ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AIMind_Ai/status/2110799128045187112",
+        "text": "@_TrojanMorse Yeah makes sense. Still way cheaper",
+        "author": "AIMind_Ai"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/AIMind_Ai/status/2110792641277198383",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110791795747504129/img/6Na6J02vqhMeNDt_.jpg",
+  "coverPath": "data/covers/2110792641277198383-wide.jpg",
+  "gifPath": "data/gifs/2110792641277198383.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110791795747504129",
+    "x-post:2110792641277198383"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "A Year of a Cherry Tree in 16 Seconds 3D Simulation",
+      "summary": "Author tests Claude Opus 5.5 running in an agent loop with self-visual testing against Gemini 4 Argon to build a real-time 3D cherry tree cycle spanning four seasons in 16 seconds.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 spent $15.14 on one cherry tree. Gemini 4 Argon did it for ~$0.20.\n\nBoth got the same prompt... Opus ran as an agent and spent 1h 50m checking its own frames."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "A real 3D scene where one cherry tree goes from snow to blossom, cherries, falling leaves and back to snow, a whole year in 16 seconds.",
+        "englishText": "A real 3D scene where one cherry tree goes from snow to blossom, cherries, falling leaves and back to snow, a whole year in 16 seconds.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video recording displays the Opus 5.5 3D interactive application transitioning smoothly across the entire 12-month calendar from snow to blossom, cherries, autumn leaf shedding, and returning to snow within 16 seconds.",
+        "textualResultQuote": "Its version has painted leaves, petals blowing across the meadow and robins pecking at the cherries. Gemini’s leaves look like jelly beans"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "WebGL / Three.js 3D Canvas",
+          "role": "Real-time interactive 3D browser graphics renderer executing code generated and iterated by the agent",
+          "evidence": "A real 3D scene where one cherry tree goes from snow to blossom... Opus ran as an agent and spent 1h 50m checking its own frames.",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Seasonal Cherry Tree 3D Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "3d-scene",
+          "webgl",
+          "canvas-interactive",
+          "agentic-coding",
+          "seasonal-animation"
+        ]
+      },
+      "targetModelRole": "Code authoring and visual feedback verification agent running in an iterative evaluation loop",
+      "outputSource": "In-browser WebGL canvas rendering the agent-generated 3D scene",
+      "divisionEvidence": "Opus ran as an agent and spent 1h 50m checking its own frames. Gemini wrote it in one pass.",
+      "video": {
+        "shots": "Single interactive scene camera view with animated seasonal states",
+        "duration": "16s",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Provides verbatim original prompt, explicit confirmation of Claude Opus 5.5, clear delineation between the agent's code/critique role and the interactive 3D canvas execution, and accompanying screen recording evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/AIMind_Ai/status/2110792641277198383",
+        "start": 110,
+        "end": 245
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/AIMind_Ai/status/2110792641277198383",
+        "author": "AIMind_Ai",
+        "postId": "2110792641277198383",
+        "publishedAt": "2026-10-15T17:59:16.000Z"
+      },
+      "checkedAt": "2026-10-16T05:58:44.208Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/AIMind_Ai/status/2110792641277198383",
+        "evidence": ""
+      }
+    },
+    "summary": "Author tests Claude Opus 5.5 running in an agent loop with self-visual testing against Gemini 4 Argon to build a real-time 3D cherry tree cycle spanning four seasons in 16 seconds.",
+    "summaryEn": "A Year of a Cherry Tree in 16 Seconds 3D Simulation",
+    "originalPrompt": "A real 3D scene where one cherry tree goes from snow to blossom, cherries, falling leaves and back to snow, a whole year in 16 seconds.",
+    "sourceRange": {
+      "start": 110,
+      "end": 245
+    },
+    "translations": {
+      "zh": "A real 3D scene where one cherry tree goes from snow to blossom, cherries, falling leaves and back to snow, a whole year in 16 seconds.",
+      "en": "A real 3D scene where one cherry tree goes from snow to blossom, cherries, falling leaves and back to snow, a whole year in 16 seconds."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Seasonal Cherry Tree 3D Simulation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video recording displays the Opus 5.5 3D interactive application transitioning smoothly across the entire 12-month calendar from snow to blossom, cherries, autumn leaf shedding, and returning to snow within 16 seconds."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

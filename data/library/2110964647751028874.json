@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T06:58:38.971Z",
+  "model": "opus5.5",
+  "prompt": "You are an exceptional motion designer. I’m providing you with our solution brief. Follow the website’s colour palette and create a dynamic, 30-second motion graphics video that showcases what we offer and what we’re capable of. Anyone watching this video should be able to immediately understand what Guard0 does.",
+  "promptTranslations": {
+    "en": "You are an exceptional motion designer. I’m providing you with our solution brief. Follow the website’s colour palette and create a dynamic, 30-second motion graphics video that showcases what we offer and what we’re capable of. Anyone watching this video should be able to immediately understand what Guard0 does."
+  },
+  "summary": "Piyush Agarwal shares a 56-second product explainer motion graphics video for Guard0 created using Claude Opus 5.5.",
+  "summaryEn": "Guard0 AI Security Motion Graphics Explainer Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110964647751028874",
+    "canonicalUrl": "https://x.com/piyushh_agarwal/status/2110964647751028874",
+    "author": {
+      "username": "piyushh_agarwal",
+      "displayName": "Piyush Agarwal",
+      "profileUrl": "https://x.com/piyushh_agarwal"
+    },
+    "publishedAt": "2026-10-16T05:22:46.000Z",
+    "collectedAt": "2026-10-16T05:43:49.141Z",
+    "language": "en",
+    "originalText": "I made this video using Opus 5.5, and the result turned out amazing!\n\nThe prompt I used:\n“You are an exceptional motion designer. I’m providing you with our solution brief. Follow the website’s colour palette and create a dynamic, 30-second motion graphics video that showcases what we offer and what we’re capable of. Anyone watching this video should be able to immediately understand what Guard0 does.”",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/piyushh_agarwal/status/2110964647751028874",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110964443945521152/img/YqTiYvjdkpG3IwTb.jpg",
+        "analysisUrl": "https://x.com/piyushh_agarwal/status/2110964647751028874"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 3
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/piyushh_agarwal/status/2110964647751028874",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110964443945521152/img/YqTiYvjdkpG3IwTb.jpg",
+  "coverPath": "data/covers/2110964647751028874-wide.jpg",
+  "gifPath": "data/gifs/2110964647751028874.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110964443945521152",
+    "x-post:2110964647751028874"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Guard0 AI Security Motion Graphics Explainer Video",
+      "summary": "Piyush Agarwal shares a 56-second product explainer motion graphics video for Guard0 created using Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I made this video using Opus 5.5, and the result turned out amazing!"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "You are an exceptional motion designer. I’m providing you with our solution brief. Follow the website’s colour palette and create a dynamic, 30-second motion graphics video that showcases what we offer and what we’re capable of. Anyone watching this video should be able to immediately understand what Guard0 does.",
+        "englishText": "You are an exceptional motion designer. I’m providing you with our solution brief. Follow the website’s colour palette and create a dynamic, 30-second motion graphics video that showcases what we offer and what we’re capable of. Anyone watching this video should be able to immediately understand what Guard0 does.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Guard0 solution brief document",
+          "Website color palette and brand assets",
+          "Motion graphics code framework, script, and rendering pipeline setup"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 56-second video presents an animated motion graphics explainer showcasing Guard0's product features, including inventory count, radar discovery, architecture mapping, testing, and accountability scoring.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "document",
+          "description": "Guard0 solution brief outlining product capabilities and value proposition",
+          "available": false,
+          "evidence": "I’m providing you with our solution brief.",
+          "origin": "user",
+          "sourceUrl": "https://x.com/piyushh_agarwal/status/2110964647751028874"
+        },
+        {
+          "kind": "brand_guidelines",
+          "description": "Guard0 website color palette and branding",
+          "available": false,
+          "evidence": "Follow the website’s colour palette",
+          "origin": "user",
+          "sourceUrl": "https://x.com/piyushh_agarwal/status/2110964647751028874"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "Guard0 Product Explainer Animation",
+        "topic": "motion-graphics",
+        "tags": [
+          "explainer",
+          "guard0",
+          "cybersecurity",
+          "motion-graphics",
+          "ai-agents"
+        ]
+      },
+      "targetModelRole": "Motion designer prompt orchestrator / code generator for creating the video scenes based on the solution brief",
+      "outputSource": "video renderer / animation framework",
+      "divisionEvidence": "Claude Opus 5.5 was prompted as a motion designer to create the video from the brief, with rendering executed outside the model.",
+      "video": {
+        "shots": "Multiple dynamic 2D motion graphic sequences depicting AI agent counts, entry pathways, guardrails, radar scanning, dependency graph mapping, risk testing, and audit ownership scoring",
+        "duration": "00:56",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 video production case demonstrating an animated product explainer with verbatim author prompt instructions and accompanying video proof.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/piyushh_agarwal/status/2110964647751028874",
+        "start": 90,
+        "end": 404
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/piyushh_agarwal/status/2110964647751028874",
+        "author": "piyushh_agarwal",
+        "postId": "2110964647751028874",
+        "publishedAt": "2026-10-16T05:22:46.000Z"
+      },
+      "checkedAt": "2026-10-16T05:53:16.041Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/piyushh_agarwal/status/2110964647751028874",
+        "evidence": ""
+      }
+    },
+    "summary": "Piyush Agarwal shares a 56-second product explainer motion graphics video for Guard0 created using Claude Opus 5.5.",
+    "summaryEn": "Guard0 AI Security Motion Graphics Explainer Video",
+    "originalPrompt": "You are an exceptional motion designer. I’m providing you with our solution brief. Follow the website’s colour palette and create a dynamic, 30-second motion graphics video that showcases what we offer and what we’re capable of. Anyone watching this video should be able to immediately understand what Guard0 does.",
+    "sourceRange": {
+      "start": 90,
+      "end": 404
+    },
+    "translations": {
+      "zh": "You are an exceptional motion designer. I’m providing you with our solution brief. Follow the website’s colour palette and create a dynamic, 30-second motion graphics video that showcases what we offer and what we’re capable of. Anyone watching this video should be able to immediately understand what Guard0 does.",
+      "en": "You are an exceptional motion designer. I’m providing you with our solution brief. Follow the website’s colour palette and create a dynamic, 30-second motion graphics video that showcases what we offer and what we’re capable of. Anyone watching this video should be able to immediately understand what Guard0 does."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Guard0 Product Explainer Animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Guard0 solution brief document",
+        "Website color palette and brand assets",
+        "Motion graphics code framework, script, and rendering pipeline setup"
+      ],
+      "evidence": "The attached 56-second video presents an animated motion graphics explainer showcasing Guard0's product features, including inventory count, radar discovery, architecture mapping, testing, and accountability scoring."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T06:58:46.432Z",
+  "model": "opus5.5",
+  "prompt": "Active volcano, lava flowing into the sea, palms, a beach village, fish under the water, and a panel to control the eruption, time of day, water and lava color.",
+  "promptTranslations": {
+    "en": "Active volcano, lava flowing into the sea, palms, a beach village, fish under the water, and a panel to control the eruption, time of day, water and lava color."
+  },
+  "summary": "Claude Opus 5.5 was prompted to build an interactive 3D volcano island in the browser featuring dynamic controls for eruption, time of day, water/lava colors, and detailed environmental elements, compared side-by-side with ChatGPT.",
+  "summaryEn": "Interactive 3D Volcano Island Web Demo",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110421556031569949",
+    "canonicalUrl": "https://x.com/genuenci/status/2110421556031569949",
+    "author": {
+      "username": "genuenci",
+      "displayName": "genuenci",
+      "profileUrl": "https://x.com/genuenci"
+    },
+    "publishedAt": "2026-10-14T17:24:43.000Z",
+    "collectedAt": "2026-10-16T05:43:49.141Z",
+    "language": "en",
+    "originalText": "I asked Claude and ChatGPT to build the same thing: a tiny 3D volcano island you can play with in the browser.\n\nSame prompt, word for word. Active volcano, lava flowing into the sea, palms, a beach village, fish under the water, and a panel to control the eruption, time of day, water and lava color.\n\nClaude Opus 5.5 — $7.53\n ChatGPT — $6.68\n\nWhat I noticed:\n\n•ChatGPT's page didn't open at all. Same bug as last time: one missing line, and it hangs on a blank screen. I added it so we could compare.\n\n•ChatGPT's magma chamber literally pokes out of the front of the block.\n\n•Claude kept adding things nobody asked for: a shipwreck with a treasure chest, a sea turtle, dolphins jumping, villagers walking the beach, a canoe, a geode in the rock layers, and a rainbow.\n\n•At night Claude's ash cloud throws volcanic lightning. That one got me.\n\n•ChatGPT's typography and panel are still the cleaner design. Credit where it's due.\n\n85 cents more, and one of them actually loads.\n\nClaude's version here is round two: I asked it to push the details further. ChatGPT is its first try.\n\nWhich one would you ship? 👇",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/genuenci/status/2110421556031569949",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110421526721744896/img/mPNW-snAOo1ehiOH.jpg",
+        "analysisUrl": "https://x.com/genuenci/status/2110421556031569949"
+      }
+    ],
+    "metrics": {
+      "likeCount": 20,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 861
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/genuenci/status/2110421556031569949",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110421526721744896/img/mPNW-snAOo1ehiOH.jpg",
+  "coverPath": "data/covers/2110421556031569949-wide.jpg",
+  "gifPath": "data/gifs/2110421556031569949.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110421526721744896",
+    "x-post:2110421556031569949"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Volcano Island Web Demo",
+      "summary": "Claude Opus 5.5 was prompted to build an interactive 3D volcano island in the browser featuring dynamic controls for eruption, time of day, water/lava colors, and detailed environmental elements, compared side-by-side with ChatGPT.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 — $7.53"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Active volcano, lava flowing into the sea, palms, a beach village, fish under the water, and a panel to control the eruption, time of day, water and lava color.",
+        "englishText": "Active volcano, lava flowing into the sea, palms, a beach village, fish under the water, and a panel to control the eruption, time of day, water and lava color.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "complete verbatim initial generation instructions",
+          "exact follow-up prompt used for round two detail expansion"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows the interactive 3D island created by Claude Opus 5.5 running in a web browser with working UI sliders and toggles for eruption, time of day, ash cloud lighting effects, and environmental detail.",
+        "textualResultQuote": "Claude kept adding things nobody asked for: a shipwreck with a treasure chest, a sea turtle, dolphins jumping, villagers walking the beach, a canoe, a geode in the rock layers, and a rainbow. At night Claude's ash cloud throws volcanic lightning."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web Browser / WebGL Canvas",
+          "role": "Executes and renders the interactive 3D application generated by Claude Opus 5.5",
+          "evidence": "a tiny 3D volcano island you can play with in the browser",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/genuenci/status/2110421556031569949"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Volcano Island Web Demo",
+        "topic": "3d-scenes",
+        "tags": [
+          "3d-scenes",
+          "interactive",
+          "webgl",
+          "creative-coding",
+          "canvas-interactive"
+        ]
+      },
+      "targetModelRole": "Code generation agent writing the interactive 3D WebGL / HTML / JavaScript application",
+      "outputSource": "Web browser screen recording executing Claude Opus 5.5 generated code",
+      "divisionEvidence": "I asked Claude and ChatGPT to build the same thing: a tiny 3D volcano island you can play with in the browser.",
+      "video": {
+        "shots": "1 shot",
+        "duration": "16s",
+        "aspectRatio": "3:4",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates Claude Opus 5.5 producing functional, interactive 3D creative code for the browser with accompanying screen recording verification.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/genuenci/status/2110421556031569949",
+        "start": 140,
+        "end": 300
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/genuenci/status/2110421556031569949",
+        "author": "genuenci",
+        "postId": "2110421556031569949",
+        "publishedAt": "2026-10-14T17:24:43.000Z"
+      },
+      "checkedAt": "2026-10-16T06:33:14.056Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/genuenci/status/2110421556031569949",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 was prompted to build an interactive 3D volcano island in the browser featuring dynamic controls for eruption, time of day, water/lava colors, and detailed environmental elements, compared side-by-side with ChatGPT.",
+    "summaryEn": "Interactive 3D Volcano Island Web Demo",
+    "originalPrompt": "Active volcano, lava flowing into the sea, palms, a beach village, fish under the water, and a panel to control the eruption, time of day, water and lava color.",
+    "sourceRange": {
+      "start": 140,
+      "end": 300
+    },
+    "translations": {
+      "zh": "Active volcano, lava flowing into the sea, palms, a beach village, fish under the water, and a panel to control the eruption, time of day, water and lava color.",
+      "en": "Active volcano, lava flowing into the sea, palms, a beach village, fish under the water, and a panel to control the eruption, time of day, water and lava color."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Volcano Island Web Demo",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "complete verbatim initial generation instructions",
+        "exact follow-up prompt used for round two detail expansion"
+      ],
+      "evidence": "The video shows the interactive 3D island created by Claude Opus 5.5 running in a web browser with working UI sliders and toggles for eruption, time of day, ash cloud lighting effects, and environmental detail."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

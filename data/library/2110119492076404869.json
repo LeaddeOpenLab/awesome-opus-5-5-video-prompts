@@ -1,0 +1,322 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T06:58:49.234Z",
+  "model": "opus5.5",
+  "prompt": "Edit this video in the style of an anime opening. Add color grading,  also dynamic cuts, transitions, visual effects, motion graphics and impactful editing to give it that authentic anime opening feel.",
+  "promptTranslations": {
+    "en": "Edit this video in the style of an anime opening. Add color grading,  also dynamic cuts, transitions, visual effects, motion graphics and impactful editing to give it that authentic anime opening feel."
+  },
+  "summary": "Author used Claude Opus 5.5 to transform raw Seedance 2.5 martial arts footage into an anime opening sequence via Python and FFmpeg.",
+  "summaryEn": "Anime Opening Video Edit via Python and FFmpeg",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110119492076404869",
+    "canonicalUrl": "https://x.com/aimikoda/status/2110119492076404869",
+    "author": {
+      "username": "aimikoda",
+      "displayName": "Kōda",
+      "profileUrl": "https://x.com/aimikoda"
+    },
+    "publishedAt": "2026-10-13T21:24:25.000Z",
+    "collectedAt": "2026-10-16T05:43:49.141Z",
+    "language": "en",
+    "originalText": "Generated a video with Seedance 2.5, then gave it to Opus 5.5 and asked for an anime opening.\n\nIt re-cut every shot to the beat, added impact frames, motion graphics, a title logo and a color grade, and composed the music from scratch in code.\n\nOriginal + prompt in the replies. https://t.co/j8u8L0pLz9",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/aimikoda/status/2110119492076404869",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110118417697054720/img/7Eycu37NGlkJY0FD.jpg",
+        "analysisUrl": "https://x.com/aimikoda/status/2110119492076404869"
+      }
+    ],
+    "metrics": {
+      "likeCount": 770,
+      "repostCount": 62,
+      "replyCount": 66,
+      "quoteCount": 8,
+      "viewCount": 31742
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2110776217813352770",
+        "text": "@Framer_X Thanks!",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2110436732730487068",
+        "text": "@CoffeeVectors Thanks!",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2110436673670500580",
+        "text": "@SolracSan Thank you, SolracSan! 🙌",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2110436530926035055",
+        "text": "@Anima_Labs Thanks, mate!",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2110368926521573516",
+        "text": "@Gdgtify This is so cool! I'm gonna try making stuff like this too!",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2110341853748846685",
+        "text": "@theogsavageaeri Thank you, Aeri! Yes, it just used python and ffmpeg. No MCP.",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2110310239681524010",
+        "text": "@itsPixieVerse Thank you, Pixel! 🙌🙌",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2110310142990328227",
+        "text": "@aleenaamiir Thank you, Aleena! 🙌",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2110310083972497452",
+        "text": "@CuriousOne_01 Thanks! Glad you liked them! 🙌",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2110305371701018648",
+        "text": "@Aliaksei_AI Thank you! 🙌",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2110305314855948692",
+        "text": "@rovvmut_ Thanks, mate!",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2110305198413676883",
+        "text": "@guicastellanos1 Glad you liked it, Guillermo!",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2110305141769535847",
+        "text": "@Gdgtify I've only been using it for a few days but I'm already amazed by what it can do!",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2110165746177495177",
+        "text": "@opener_ai Thanks, Jin!",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2110155122579734684",
+        "text": "@MusicSatire It's really fun to play with these type of content.",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2110133584585539839",
+        "text": "@kattlatte Thank you, Katt! 🙌",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2110131826048315884",
+        "text": "@0xemotions_ Thanks!",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2110126713719931310",
+        "text": "@Sagnamenn Thanks!",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2110120443390709934",
+        "text": "Opus Prompt: Edit this video in the style of an anime opening. Add color grading,  also dynamic cuts, transitions, visual effects, motion graphics and impactful editing to give it that authentic anime opening feel.\n\nSeedance 2.5 Prompt:\nReferences:\n@[ref1]: The martial artist's face. Identity, dark tousled hair, eyes, and the look of the painted flame around her open hand.\n@[ref2]: Her body, costume, setting, and effects. Pale pink short-sleeve top, red wrist wraps and red sash, dark loose trousers, her low kneeling stance, the misty blue void with its dark floor, the looping pink ribbon arcs, and the spark burst.\n\nVisual style: Painterly digital illustration in motion: thick, loose brushstrokes and palette-knife texture, deep blue-teal shadows and haze, figures built from broad painted planes. Every effect is painted, not rendered: flame-like ribbons of orange, hot pink, and violet with white-hot cores, exactly as in @[ref1] and @[ref2].\n\nAvoid: No subtitles. No background music. No clean 3D particle fire, glossy CG effects, or lens-flare glare. No weapons or opponents.\n\nA solo karate kata in a misty blue void, where painted flame grows with every strike and ends in an explosive palm strike into the floor. Vertical 9:16 frame, real-time speed except one brief speed ramp at the final impact. She performs toward screen right, faces screen left after her turn, and faces the lens for the finale; the camera stays on the same side of her line. The flame starts in her right hand; after the first punch it ignites on whichever limb strikes, and each technique leaves its own shape. Warm colors stay on the effects; the setting stays blue-teal. Crackling flame, sharp whooshes, foot stamps, cloth snaps, breath, one kiai, and heavy impact thuds land on the cuts.\n\nScene 1: Continuous, the misty blue void, its dark floor dusted pale blue.\nShot 1 (0-2s): [Extreme close-up on her eyes, slow push in] Stillness. A single ember drifts across her face as she breathes in. Cut on a sharp inhale.\nShot 2 (2-4s): [Close-up on her right hand, low angle, quick push toward the lens] Her open right hand thrusts at the lens in teisho-uchi, fingers spread as in @[ref1]. Painted flame ignites in the palm and curls up her forearm. Cut as the flame flares.\n\nScene 2: Continuous, the first form.\nShot 3 (4-6s): [Low wide, fast lateral track] She steps into zenkutsu-dachi and drives a right oi-zuki toward screen right; the flame stretches behind her fist in one long straight ribbon. Cut as the punch locks out.\nShot 4 (6-7s): [Tight side view at waist height] A left gyaku-zuki snaps out past the retracting right fist, and the flame catches on her left fist too. Cut as it locks out.\nShot 5 (7-9s): [Medium, camera whipping around to face her] Her right mae-geri kicks straight at the lens, flame fanning off the foot in a short burst. Cut as the kick retracts.\nShot 6 (9-10s): [Ground level, close on her feet] The kicking foot stamps down, throwing a ring of pale blue dust and orange sparks. Cut as she pivots.\nShot 7 (10-13s): [Orbiting camera with a whip pan] She turns 180 degrees through a right, then left shuto-uke, and her burning hands wrap her in looping pink ribbon arcs as in @[ref2]. She now faces screen left. Cut as the arcs close.\n\nScene 3: Continuous, the pause and the escalation.\nShot 8 (13-15s): [Low frontal medium, locked] She sinks into kiba-dachi, both fists drawn to her hips. The flames shrink into tight glowing cores in her fists and the dust settles; only her breath is heard. Cut on a sharp exhale.\nShot 9 (15-16s): [Snap zoom into her face] Her kiai rings out, flame reflected in her eyes, hair whipping. Cut at the peak of the shout.\nShot 10 (16-18s): [Low wide] She explodes into ushiro-mawashi-geri, the burning heel drawing one full ring of fire around her. Cut as the ring closes.\nShot 11 (18-19s): [Close tracking on her right fist] An uraken-uchi snaps through the frame toward screen left, its trail cracking like a whip. Cut on the snap.\nShot 12 (19-20s): [Medium from behind her shoulder] Her right empi-uchi drives toward screen left, a short burst flaring off the elbow. Cut as the elbow locks.\nShot 13 (20-22s): [Low angle, camera rising] She crouches and launches into nidan-geri, a spiral of flame climbing around her through both kicks. Cut at the apex.\n\nScene 4: Continuous, the finale.\nShot 14 (22-24s): [High angle, camera diving down with her] She descends from the apex, turning to face the lens, and drops onto one knee, right palm driving toward the floor. Cut just before contact.\nShot 15 (24-25s): [Ground-level close-up] Her right teisho-uchi hits the floor: a white-hot core flashes and erupts into orange sparks, pink paint flecks, and lifted blue dust, as in @[ref2], with a brief speed ramp at contact. Cut at the peak of the burst.\nShot 16 (25-30s): [Low frontal wide, slow push in to medium] She holds the low kneeling stance from @[ref2] as the burst's ribbons settle into drifting embers and fade. She raises her eyes to the lens and holds.",
+        "author": "aimikoda"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/j8u8L0pLz9"
+    ]
+  },
+  "xUrl": "https://x.com/aimikoda/status/2110119492076404869",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110118417697054720/img/7Eycu37NGlkJY0FD.jpg",
+  "coverPath": "data/covers/2110119492076404869-wide.jpg",
+  "gifPath": "data/gifs/2110119492076404869.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110118417697054720",
+    "x-post:2110119492076404869"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Anime Opening Video Edit via Python and FFmpeg",
+      "summary": "Author used Claude Opus 5.5 to transform raw Seedance 2.5 martial arts footage into an anime opening sequence via Python and FFmpeg.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "\"then gave it to Opus 5.5 and asked for an anime opening\""
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Edit this video in the style of an anime opening. Add color grading,  also dynamic cuts, transitions, visual effects, motion graphics and impactful editing to give it that authentic anime opening feel.",
+        "englishText": "Edit this video in the style of an anime opening. Add color grading,  also dynamic cuts, transitions, visual effects, motion graphics and impactful editing to give it that authentic anime opening feel.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached video shows an anime opening re-cut with synced cuts, visual effects, graphic overlays, and generated audio.",
+        "textualResultQuote": "It re-cut every shot to the beat, added impact frames, motion graphics, a title logo and a color grade, and composed the music from scratch in code."
+      },
+      "inputs": [
+        {
+          "kind": "video",
+          "description": "Original raw martial arts video generated by Seedance 2.5",
+          "available": false,
+          "evidence": "Generated a video with Seedance 2.5, then gave it to Opus 5.5",
+          "origin": "generated",
+          "sourceUrl": "https://x.com/aimikoda/status/2110119492076404869"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "FFmpeg",
+          "role": "Video processing, cutting, filtering, and compositing",
+          "evidence": "Yes, it just used python and ffmpeg. No MCP.",
+          "sourceUrl": "https://x.com/aimikoda/status/2110341853748846685",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Python",
+          "role": "Scripting language for automation, audio composition, and orchestration",
+          "evidence": "Yes, it just used python and ffmpeg. No MCP.",
+          "sourceUrl": "https://x.com/aimikoda/status/2110341853748846685",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Anime Opening Edit",
+        "topic": "motion-graphics",
+        "tags": [
+          "ffmpeg",
+          "python",
+          "anime",
+          "video-editing"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 generated the Python/FFmpeg scripts for video editing, motion graphics, grading, and procedural music composition.",
+      "outputSource": "Rendered via Python and FFmpeg executing model-generated scripts.",
+      "divisionEvidence": "\"Yes, it just used python and ffmpeg. No MCP.\"",
+      "video": {
+        "shots": "Multiple fast-paced cuts, split screens, and typography overlays",
+        "duration": "31s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Direct demonstration of Opus 5.5 orchestrating programmatic video editing and music generation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/aimikoda/status/2110120443390709934",
+        "start": 13,
+        "end": 214
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/aimikoda/status/2110119492076404869",
+        "author": "aimikoda",
+        "postId": "2110119492076404869",
+        "publishedAt": "2026-10-13T21:24:25.000Z"
+      },
+      "checkedAt": "2026-10-16T06:56:50.491Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/aimikoda/status/2110120443390709934",
+        "evidence": ""
+      }
+    },
+    "summary": "Author used Claude Opus 5.5 to transform raw Seedance 2.5 martial arts footage into an anime opening sequence via Python and FFmpeg.",
+    "summaryEn": "Anime Opening Video Edit via Python and FFmpeg",
+    "originalPrompt": "Edit this video in the style of an anime opening. Add color grading,  also dynamic cuts, transitions, visual effects, motion graphics and impactful editing to give it that authentic anime opening feel.",
+    "sourceRange": {
+      "start": 13,
+      "end": 214
+    },
+    "translations": {
+      "zh": "Edit this video in the style of an anime opening. Add color grading,  also dynamic cuts, transitions, visual effects, motion graphics and impactful editing to give it that authentic anime opening feel.",
+      "en": "Edit this video in the style of an anime opening. Add color grading,  also dynamic cuts, transitions, visual effects, motion graphics and impactful editing to give it that authentic anime opening feel."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Anime Opening Edit",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached video shows an anime opening re-cut with synced cuts, visual effects, graphic overlays, and generated audio."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

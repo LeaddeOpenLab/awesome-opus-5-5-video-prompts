@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T06:58:39.760Z",
+  "model": "opus5.5",
+  "prompt": "generate a 3D night scene of a train crossing a stone mountain bridge",
+  "promptTranslations": {
+    "en": "generate a 3D night scene of a train crossing a stone mountain bridge"
+  },
+  "summary": "A benchmark post comparing four AI models on generating an animated 3D night scene of a train crossing a stone mountain bridge, highlighting Claude Opus 5.5's high texture and stonework detail.",
+  "summaryEn": "3D Night Scene Train Crossing Stone Mountain Bridge Comparison",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110845560995381514",
+    "canonicalUrl": "https://x.com/renanekko/status/2110845560995381514",
+    "author": {
+      "username": "renanekko",
+      "displayName": "renanekko",
+      "profileUrl": "https://x.com/renanekko"
+    },
+    "publishedAt": "2026-10-15T21:29:34.000Z",
+    "collectedAt": "2026-10-16T05:43:49.141Z",
+    "language": "en",
+    "originalText": "SIMPLY INSANE RESULTS FROM THE FOUR GIANTS\n\nFour top-tier AI models were given the exact same prompt: generate a 3D night scene of a train crossing a stone mountain bridge. Here are the results:\n\n• Gemini 4 Argon (4 min 20 sec | $3.40) - The undisputed winner. Great movement physics, clean geometry, and zero artifacts in record time.\n\n• GPT-6 Astra (19 min 31 sec | $5.18) - Cinematic lighting and a clean visual style, though the environment lacked a bit of density and texture.\n\n• Claude Opus 5.5 (26 min 56 sec | $5.53) - Maximum detailing. Incredible stonework and train textures, but it took nearly half an hour to render.\n\n• Claude Sonnet 5.5 (2 hr 40 min | $18.80) - An efficiency fail. The output was on par with Opus but took almost 3 hours and cost 5.5x more than Gemini.\n\nGemini delivers unbelievable speed without sacrificing quality, while Opus remains the go-to for those who need pixel-perfect micro-details.\n\nWould you switch to Gemini for that insane speed, or are you still sticking with Claude for the details? I’m waiting for the answer in the comments.\n\nBookmark this post so you know exactly which AI to choose for your next 3D project!",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/renanekko/status/2110845560995381514",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110845246619660289/img/T1y08lqvHnExqUi0.jpg",
+        "analysisUrl": "https://x.com/renanekko/status/2110845560995381514"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 65
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/renanekko/status/2110845560995381514",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110845246619660289/img/T1y08lqvHnExqUi0.jpg",
+  "coverPath": "data/covers/2110845560995381514-wide.jpg",
+  "gifPath": "data/gifs/2110845560995381514.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110845246619660289",
+    "x-post:2110845560995381514"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "3D Night Scene Train Crossing Stone Mountain Bridge Comparison",
+      "summary": "A benchmark post comparing four AI models on generating an animated 3D night scene of a train crossing a stone mountain bridge, highlighting Claude Opus 5.5's high texture and stonework detail.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 (26 min 56 sec | $5.53) - Maximum detailing. Incredible stonework and train textures, but it took nearly half an hour to render."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "generate a 3D night scene of a train crossing a stone mountain bridge",
+        "englishText": "generate a 3D night scene of a train crossing a stone mountain bridge",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "system prompt",
+          "tooling instructions",
+          "3D framework/engine specifications",
+          "camera and lighting settings"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video includes a quadrant labeled 'Claude Opus 5.5' showing an animated 3D night scene of a train moving across a stone arch mountain bridge.",
+        "textualResultQuote": "Claude Opus 5.5 (26 min 56 sec | $5.53) - Maximum detailing. Incredible stonework and train textures, but it took nearly half an hour to render."
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "3D Mountain Bridge Train Scene",
+        "topic": "3d-scenes",
+        "tags": [
+          "3d-scene",
+          "train",
+          "bridge",
+          "benchmark",
+          "night-scene"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 is tasked with generating the 3D scene and assets, though the specific execution environment or code interface is not disclosed.",
+      "outputSource": "Rendered 3D animation video",
+      "divisionEvidence": "The author quotes generation time and cost for Claude Opus 5.5 but does not document the specific renderer or runtime used to execute the output.",
+      "video": {
+        "shots": "Single tracking shot of a train traversing a stone arch bridge",
+        "duration": "24s",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "The post provides a direct visual video demonstration of 3D scene animation generated via Claude Opus 5.5, suitable as an agent video production reference case despite the prompt being shared only as a fragment.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/renanekko/status/2110845560995381514",
+        "start": 102,
+        "end": 171
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/renanekko/status/2110845560995381514",
+        "author": "renanekko",
+        "postId": "2110845560995381514",
+        "publishedAt": "2026-10-15T21:29:34.000Z"
+      },
+      "checkedAt": "2026-10-16T05:50:40.797Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/renanekko/status/2110845560995381514",
+        "evidence": ""
+      }
+    },
+    "summary": "A benchmark post comparing four AI models on generating an animated 3D night scene of a train crossing a stone mountain bridge, highlighting Claude Opus 5.5's high texture and stonework detail.",
+    "summaryEn": "3D Night Scene Train Crossing Stone Mountain Bridge Comparison",
+    "originalPrompt": "generate a 3D night scene of a train crossing a stone mountain bridge",
+    "sourceRange": {
+      "start": 102,
+      "end": 171
+    },
+    "translations": {
+      "zh": "generate a 3D night scene of a train crossing a stone mountain bridge",
+      "en": "generate a 3D night scene of a train crossing a stone mountain bridge"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "3D Mountain Bridge Train Scene",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "system prompt",
+        "tooling instructions",
+        "3D framework/engine specifications",
+        "camera and lighting settings"
+      ],
+      "evidence": "The video includes a quadrant labeled 'Claude Opus 5.5' showing an animated 3D night scene of a train moving across a stone arch mountain bridge."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

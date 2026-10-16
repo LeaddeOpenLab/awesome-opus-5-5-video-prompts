@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T06:58:40.008Z",
+  "model": "opus5.5",
+  "prompt": "a ship sailing through waves inside a bottle, with physics",
+  "promptTranslations": {
+    "en": "a ship sailing through waves inside a bottle, with physics"
+  },
+  "summary": "Claude Opus 5.5 generates an interactive 3D voxel ship in a bottle diorama with buoyancy, sloshing water physics, and interactive buttons, compared side by side with Gemini 4 Argon.",
+  "summaryEn": "Interactive Voxel Ship in a Bottle Diorama",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110835030964732074",
+    "canonicalUrl": "https://x.com/arixxbt/status/2110835030964732074",
+    "author": {
+      "username": "arixxbt",
+      "displayName": "Arix",
+      "profileUrl": "https://x.com/arixxbt"
+    },
+    "publishedAt": "2026-10-15T20:47:43.000Z",
+    "collectedAt": "2026-10-16T05:43:49.141Z",
+    "language": "en",
+    "originalText": "$0.19 OR $12.06 FOR THE SAME SHIP IN A BOTTLE. I'D PAY THE $12\n\nthat's what Gemini 4 Argon and Claude Opus 5.5 cost on one voxel prompt this week: a ship sailing through waves inside a bottle, with physics. Gemini is almost 64 times cheaper, so i put them side by side\n\ni took the Gemini build of that prompt, ran Opus 5.5 against it once with no edits, and pressed the same 4 buttons at the same seconds on both\n\nthe Gemini bottle has more toys. a rainbow-ringed cork, a live roll and pitch counter, 18,128 active voxels. but the whole thing hangs in a black void, and its rogue wave is a white wall of blocks sliding across the water\n\nthe Opus bottle sits on a wooden stand on a table, under warm light, with the glass catching it. shake it and the water throws spray, the ship heels over, and the sand under the sea shows through the glass\n\nboth ships are fine. what you see in the first second is the room around them, and only one model built a room. one run each, so it's one data point, but it looks a lot like what $11.87 buys\n\nthe cheap one built the ship. the expensive one built the table it sits on.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/arixxbt/status/2110835030964732074",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110834910038474752/img/MJFU7WEuZ0q-3EOy.jpg",
+        "analysisUrl": "https://x.com/arixxbt/status/2110835030964732074"
+      }
+    ],
+    "metrics": {
+      "likeCount": 7,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 324
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/arixxbt/status/2110835030964732074",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110834910038474752/img/MJFU7WEuZ0q-3EOy.jpg",
+  "coverPath": "data/covers/2110835030964732074-wide.jpg",
+  "gifPath": "data/gifs/2110835030964732074.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110834910038474752",
+    "x-post:2110835030964732074"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive Voxel Ship in a Bottle Diorama",
+      "summary": "Claude Opus 5.5 generates an interactive 3D voxel ship in a bottle diorama with buoyancy, sloshing water physics, and interactive buttons, compared side by side with Gemini 4 Argon.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "that's what Gemini 4 Argon and Claude Opus 5.5 cost on one voxel prompt this week... i took the Gemini build of that prompt, ran Opus 5.5 against it once with no edits"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "a ship sailing through waves inside a bottle, with physics",
+        "englishText": "a ship sailing through waves inside a bottle, with physics",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact full system instructions",
+          "Voxel engine or Three.js/Canvas setup code requirements",
+          "Interactive UI controls and physics parameters specification"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a side-by-side screen recording of the running interactive voxel simulations for Opus 5.5 and Gemini 4 Argon, demonstrating interactive button presses ('Shake the bottle', 'Rogue wave', 'Storm', 'Night') and real-time sloshing water and ship physics.",
+        "textualResultQuote": "the Opus bottle sits on a wooden stand on a table, under warm light, with the glass catching it. shake it and the water throws spray, the ship heels over, and the sand under the sea shows through the glass"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML Canvas / WebGL",
+          "role": "Client-side rendering of the voxel diorama and interactive simulation controls",
+          "evidence": "VOXEL DIORAMA · BUOYANCY · SLOSHING WATER, with interactive UI buttons (Shake the bottle, Rogue wave, Storm, Night) and real-time voxel count and physics counters",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Voxel Physics Diorama",
+        "topic": "3d-scenes",
+        "tags": [
+          "voxel",
+          "interactive",
+          "canvas-interactive",
+          "physics",
+          "ship-in-a-bottle",
+          "webgl"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 generated the complete single-run frontend code implementation containing the interactive voxel engine, lighting, tabletop environment, and water physics simulation.",
+      "outputSource": "In-browser WebGL/Canvas execution of the Opus 5.5 generated code.",
+      "divisionEvidence": "i took the Gemini build of that prompt, ran Opus 5.5 against it once with no edits, and pressed the same 4 buttons at the same seconds on both",
+      "video": {
+        "shots": "Single split-screen interactive capture comparing Opus 5.5 on top and Gemini 4 Argon on bottom",
+        "duration": "14s",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Directly demonstrates Claude Opus 5.5 generating an interactive 3D voxel scene with real-time physics and UI controls, recorded as a running screen capture.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/arixxbt/status/2110835030964732074",
+        "start": 147,
+        "end": 205
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/arixxbt/status/2110835030964732074",
+        "author": "arixxbt",
+        "postId": "2110835030964732074",
+        "publishedAt": "2026-10-15T20:47:43.000Z"
+      },
+      "checkedAt": "2026-10-16T05:50:17.215Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/arixxbt/status/2110835030964732074",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generates an interactive 3D voxel ship in a bottle diorama with buoyancy, sloshing water physics, and interactive buttons, compared side by side with Gemini 4 Argon.",
+    "summaryEn": "Interactive Voxel Ship in a Bottle Diorama",
+    "originalPrompt": "a ship sailing through waves inside a bottle, with physics",
+    "sourceRange": {
+      "start": 147,
+      "end": 205
+    },
+    "translations": {
+      "zh": "a ship sailing through waves inside a bottle, with physics",
+      "en": "a ship sailing through waves inside a bottle, with physics"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Voxel Physics Diorama",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact full system instructions",
+        "Voxel engine or Three.js/Canvas setup code requirements",
+        "Interactive UI controls and physics parameters specification"
+      ],
+      "evidence": "The video shows a side-by-side screen recording of the running interactive voxel simulations for Opus 5.5 and Gemini 4 Argon, demonstrating interactive button presses ('Shake the bottle', 'Rogue wave', 'Storm', 'Night') and real-time sloshing water and ship physics."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T06:58:48.911Z",
+  "model": "opus5.5",
+  "prompt": "use anidoodle and do a funny short animation movie about clawd on Halloween going trick-or-treating and dressing up like other bots - grok, muse, hermes, openclaw, codex, etc. Show me the stills of the main characters you'll dress up as first for approval",
+  "promptTranslations": {
+    "en": "use anidoodle and do a funny short animation movie about clawd on Halloween going trick-or-treating and dressing up like other bots - grok, muse, hermes, openclaw, codex, etc. Show me the stills of the main characters you'll dress up as first for approval"
+  },
+  "summary": "Alex uses Claude Opus 5.5 and the anidoodle skill to produce a multi-scene Halloween animation featuring 'Clawd' trick-or-treating dressed as various AI agents.",
+  "summaryEn": "Clawd's Halloween Trick-or-Treating Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110404428691808308",
+    "canonicalUrl": "https://x.com/alexgreensh/status/2110404428691808308",
+    "author": {
+      "username": "alexgreensh",
+      "displayName": "Alex",
+      "profileUrl": "https://x.com/alexgreensh"
+    },
+    "publishedAt": "2026-10-14T16:16:39.000Z",
+    "collectedAt": "2026-10-16T05:43:49.141Z",
+    "language": "en",
+    "originalText": "I asked Claude to get ready for Halloween, so it went trick-or-treating for tokens dressed as other agents.\n\nIt cooked up this video with Opus 5.5 + anidoodle skill, in pure code. \n\noh and it hid 100+ easter eggs inside! \n\nI'm so impressed with Opus 5.5's sense of humor, it's incredible. \n\nYou gotta pause for those easter eggs. Some are really good! LMK which ones you find ;)\n\n@claudeai",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/alexgreensh/status/2110404428691808308",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110373800399273984/img/Pb8w4dbgTb8BmODi.jpg",
+        "analysisUrl": "https://x.com/alexgreensh/status/2110404428691808308"
+      }
+    ],
+    "metrics": {
+      "likeCount": 309,
+      "repostCount": 27,
+      "replyCount": 37,
+      "quoteCount": 7,
+      "viewCount": 13337
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/alexgreensh/status/2110811423899029559",
+        "text": "@metalshark Thank you, very happy to hear it's useful :)",
+        "author": "alexgreensh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/alexgreensh/status/2110729455622869100",
+        "text": "@jessie_thinker Yes, Opus did it all! :)",
+        "author": "alexgreensh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/alexgreensh/status/2110650170132009194",
+        "text": "@Matthia570939 thx! 100% code, no image gen, audio too. prompt was embarrassingly basic, like:\n\n\"use anidoodle and do a funny short animation movie about clawd on Halloween going trick-or-treating and dressing up like other bots - grok, muse, hermes, openclaw, codex, etc. Show me the stills of the main characters you'll dress up as first for approval\"\n\nThe prompt doesn't have to be complex. Just give it the basic idea, tell it to check in with you so you approve the direction + use the anidoodle plugin. \n\nIt took about an hour to get v1 of the video, which was already quite good. Then i gave some quick feedback so it ran 2 more iterations. \n\nAround 4 hours till the final version and  ±2% of my weekly max 20x usage. \n\nplugin's here: https://t.co/cx7oU2f3vB",
+        "author": "alexgreensh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/alexgreensh/status/2110645528887255296",
+        "text": "@snehanaikAI haha thanks! lmk what you find ;)",
+        "author": "alexgreensh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/alexgreensh/status/2110617622975033419",
+        "text": "@TonyyRickk lol it's a spooky egg salad",
+        "author": "alexgreensh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/alexgreensh/status/2110616459176993268",
+        "text": "you can use my free anidoodle plugin to create animations like these... and launch videos, motion graphics, interactive web UI, illustrations, and basically anything you can imagine. :)\n\nstorytelling, audio and 30+ styles all built-in\n+ can work with any style you bring as a reference. \n\nhttps://t.co/cx7oU2f3vB",
+        "author": "alexgreensh"
+      },
+      {
+        "url": "https://x.com/alexgreensh/status/2110471925067665698",
+        "text": "Alex on X: \"some of the details and hidden jokes in this video are just chef&#x27;s kiss\n\ncheck out the newspaper Claude made for its @bot costume\n\n\"Classifieds: lost, one train of thought\" \n\n\"Sports: local man beats benchmark, benchmark files appeal\"\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nAlex on X: \"some of the details and hidden jokes in this video are just chef&#x27;s kiss\n\ncheck out the newspaper Claude made for its @bot costume\n\n\"Classifieds: lost, one train of thought\" \n\n\"Sports: local man beats benchmark, benchmark files appeal\"\"\n\n\n\nAlex\n\n@alexgreensh\n\n\n\n\nsome of the details and hidden jokes in this video are just chef&#x27;s kiss\n\ncheck out the newspaper Claude made for its @bot costume\n\n\"Classifieds: lost, one train of thought\" \n\n\"Sports: local man beats benchmark, benchmark files appeal\"\n\n\n\n\n\n8:44 PM · Oct 14, 2026·281\nViews\n\n\n\n\n\n6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nAlex@alexgreenshFollow\nAI Geek | Marketer | Building the intelligence layer for humans & agents: total-recall.dev | Optimizing costs & memory: github.com/alexgreensh\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlex\n\n@alexgreensh\nOct 14\n\n\nI asked Claude to get ready for Halloween, so it went trick-or-treating for tokens dressed as other agents.\n\nIt cooked up this video with Opus 5.5 + anidoodle skill, in pure code. \n\noh and it hid 100+ easter eggs inside! \n\nI&#x27;m so impressed with Opus 5.5&#x27;s sense of humor, it&#x27;s Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n37\n27\n309\n13K\n\n\n\n\n\n\n\n\n\n\nAlex\n\n@alexgreensh\n\n\n\n\nsome of the details and hidden jokes in this video are just chef&#x27;s kiss\n\ncheck out the newspaper Claude made for its @bot costume\n\n\"Classifieds: lost, one train of thought\" \n\n\"Sports: local man beats benchmark, benchmark files appeal\"\n\n\n\n\n\n8:44 PM · Oct 14, 2026·281\nViews\n\n\n\n\n\n6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGrok Bot@botFollow\nAI teammates that you can give real work to.\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "alexgreensh"
+      },
+      {
+        "url": "https://x.com/alexgreensh/status/2110470248151371913",
+        "text": "Alex on X: \"Clawd as Codex\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nAlex on X: \"Clawd as Codex\"\n\n\n\nAlex\n\n@alexgreensh\n\n\n\n\nClawd as Codex\n\n\n\n\n\n8:38 PM · Oct 14, 2026·287\nViews\n\n\n\n\n\n5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nAlex@alexgreenshFollow\nAI Geek | Marketer | Building the intelligence layer for humans & agents: total-recall.dev | Optimizing costs & memory: github.com/alexgreensh\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlex\n\n@alexgreensh\nOct 14\n\n\nI asked Claude to get ready for Halloween, so it went trick-or-treating for tokens dressed as other agents.\n\nIt cooked up this video with Opus 5.5 + anidoodle skill, in pure code. \n\noh and it hid 100+ easter eggs inside! \n\nI&#x27;m so impressed with Opus 5.5&#x27;s sense of humor, it&#x27;s Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n37\n27\n309\n13K\n\n\n\n\n\n\n\n\n\n\nAlex\n\n@alexgreensh\n\n\n\n\nClawd as Codex\n\n\n\n\n\n8:38 PM · Oct 14, 2026·287\nViews\n\n\n\n\n\n5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "alexgreensh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/alexgreensh/status/2110469441150668923",
+        "text": "Clawd as @bot https://t.co/IOcBPJKtD1",
+        "author": "alexgreensh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/alexgreensh/status/2110469319348162796",
+        "text": "Some stills from the process. These were done in minutes, code only. \n\nClawd as Muse / Jolly https://t.co/hX964Elkza",
+        "author": "alexgreensh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/alexgreensh/status/2110452346559824363",
+        "text": "@xMikeMickelson Nope it did its own research and made everything on its own",
+        "author": "alexgreensh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/alexgreensh/status/2110433486993596665",
+        "text": "@Skytconsultant Yeah, of course https://t.co/CKtmCu7zqx\n\nThis whole thing was made with it :)",
+        "author": "alexgreensh"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/alexgreensh/status/2110404975788797982",
+        "text": "@alexandr_wang it did a pretty good job with Muse, don't you think? :)",
+        "author": "alexgreensh"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/cx7oU2f3vB",
+      "public_material_link_limit"
+    ]
+  },
+  "xUrl": "https://x.com/alexgreensh/status/2110404428691808308",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110373800399273984/img/Pb8w4dbgTb8BmODi.jpg",
+  "coverPath": "data/covers/2110404428691808308-wide.jpg",
+  "gifPath": "data/gifs/2110404428691808308.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110373800399273984",
+    "x-post:2110404428691808308"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Clawd's Halloween Trick-or-Treating Animation",
+      "summary": "Alex uses Claude Opus 5.5 and the anidoodle skill to produce a multi-scene Halloween animation featuring 'Clawd' trick-or-treating dressed as various AI agents.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude",
+        "authorUseConfirmed": true,
+        "evidence": "\"It cooked up this video with Opus 5.5 + anidoodle skill, in pure code.\" and \"Yes, Opus did it all! :)\""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "use anidoodle and do a funny short animation movie about clawd on Halloween going trick-or-treating and dressing up like other bots - grok, muse, hermes, openclaw, codex, etc. Show me the stills of the main characters you'll dress up as first for approval",
+        "englishText": "use anidoodle and do a funny short animation movie about clawd on Halloween going trick-or-treating and dressing up like other bots - grok, muse, hermes, openclaw, codex, etc. Show me the stills of the main characters you'll dress up as first for approval",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact initial system configuration and skill definition",
+          "Two subsequent iteration feedback prompts noted by the author"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached video displays Clawd going trick-or-treating on Halloween dressed up as different bots (Muse, Grok, Codex, OpenClaw crab, Hermes, etc.) with animated token meters and easter eggs.",
+        "textualResultQuote": "It cooked up this video with Opus 5.5 + anidoodle skill, in pure code."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "anidoodle",
+          "role": "Animation code generation skill and rendering plugin",
+          "evidence": "\"It cooked up this video with Opus 5.5 + anidoodle skill, in pure code.\" and \"plugin's here: https://t.co/cx7oU2f3vB\"",
+          "sourceUrl": "https://t.co/cx7oU2f3vB",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Character Animation Short Film",
+        "topic": "motion-graphics",
+        "tags": [
+          "animation",
+          "code-generation",
+          "anidoodle",
+          "halloween",
+          "ai-agents"
+        ]
+      },
+      "targetModelRole": "Writing complete animation and audio code and designing character costumes/easter eggs across multiple approval iterations.",
+      "outputSource": "Execution/rendering of Opus-generated anidoodle code.",
+      "divisionEvidence": "\"100% code, no image gen, audio too... It took about an hour to get v1 of the video, which was already quite good. Then i gave some quick feedback so it ran 2 more iterations.\"",
+      "video": {
+        "shots": "Multi-shot narrative sequence across various outdoor, retro console, 3D voxel, surrealist, and living room scenes.",
+        "duration": "01:12",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic Opus 5.5 video production showcase using Claude to generate code-driven animation with the anidoodle tool and an accompanying complete video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/alexgreensh/status/2110650170132009194",
+        "start": 97,
+        "end": 352
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/alexgreensh/status/2110404428691808308",
+        "author": "alexgreensh",
+        "postId": "2110404428691808308",
+        "publishedAt": "2026-10-14T16:16:39.000Z"
+      },
+      "checkedAt": "2026-10-16T06:37:03.568Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/alexgreensh/status/2110650170132009194",
+        "evidence": ""
+      }
+    },
+    "summary": "Alex uses Claude Opus 5.5 and the anidoodle skill to produce a multi-scene Halloween animation featuring 'Clawd' trick-or-treating dressed as various AI agents.",
+    "summaryEn": "Clawd's Halloween Trick-or-Treating Animation",
+    "originalPrompt": "use anidoodle and do a funny short animation movie about clawd on Halloween going trick-or-treating and dressing up like other bots - grok, muse, hermes, openclaw, codex, etc. Show me the stills of the main characters you'll dress up as first for approval",
+    "sourceRange": {
+      "start": 97,
+      "end": 352
+    },
+    "translations": {
+      "zh": "use anidoodle and do a funny short animation movie about clawd on Halloween going trick-or-treating and dressing up like other bots - grok, muse, hermes, openclaw, codex, etc. Show me the stills of the main characters you'll dress up as first for approval",
+      "en": "use anidoodle and do a funny short animation movie about clawd on Halloween going trick-or-treating and dressing up like other bots - grok, muse, hermes, openclaw, codex, etc. Show me the stills of the main characters you'll dress up as first for approval"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Character Animation Short Film",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact initial system configuration and skill definition",
+        "Two subsequent iteration feedback prompts noted by the author"
+      ],
+      "evidence": "The attached video displays Clawd going trick-or-treating on Halloween dressed up as different bots (Muse, Grok, Codex, OpenClaw crab, Hermes, etc.) with animated token meters and easter eggs."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

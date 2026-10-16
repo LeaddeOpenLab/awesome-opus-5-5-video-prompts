@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T06:58:39.233Z",
+  "model": "opus5.5",
+  "prompt": "make a dynamic 15-secon motion graphics video that shows what an incredible motion designer you are , like it's your showreel for a resume. go all out.",
+  "promptTranslations": {
+    "en": "make a dynamic 15-secon motion graphics video that shows what an incredible motion designer you are , like it's your showreel for a resume. go all out."
+  },
+  "summary": "15-second dynamic motion graphics showreel generated via Claude Opus 5.5 highlighting animation principles, shapes, and 3D particles.",
+  "summaryEn": "Claude Motion Designer Showreel",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110476412213686723",
+    "canonicalUrl": "https://x.com/0node0/status/2110476412213686723",
+    "author": {
+      "username": "0node0",
+      "displayName": "Chris Slowik 🌱",
+      "profileUrl": "https://x.com/0node0"
+    },
+    "publishedAt": "2026-10-14T21:02:42.000Z",
+    "collectedAt": "2026-10-15T16:23:36.594Z",
+    "language": "en",
+    "originalText": "prompt: make a dynamic 15-secon motion graphics video that shows what an incredible motion designer you are , like it's your showreel for a resume. go all out.\n\nmodel: Opus 5.5 (extra effort)\n\nresult: https://t.co/zworSEeVLT",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/0node0/status/2110476412213686723",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110476334262542336/img/mjl3UWul0y3lFg92.jpg",
+        "analysisUrl": "https://x.com/0node0/status/2110476412213686723"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 45
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/0node0/status/2110476412213686723",
+        "text": "Chris Slowik 🌱 on X: \"prompt: make a dynamic 15-secon motion graphics video that shows what an incredible motion designer you are , like it&#x27;s your showreel for a resume. go all out.\n\nmodel: Opus 5.5 (extra effort)\n\nresult:\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nChris Slowik 🌱 on X: \"prompt: make a dynamic 15-secon motion graphics video that shows what an incredible motion designer you are , like it&#x27;s your showreel for a resume. go all out.\n\nmodel: Opus 5.5 (extra effort)\n\nresult:\"\n\n\n\nChris Slowik 🌱\n\n@0node0\n\n\n\n\nprompt: make a dynamic 15-secon motion graphics video that shows what an incredible motion designer you are , like it&#x27;s your showreel for a resume. go all out.\n\nmodel: Opus 5.5 (extra effort)\n\nresult:\n\n\n00:00\n\n\n\n\n\n\n\n\n9:02 PM · Oct 14, 2026·47\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nChris Slowik 🌱@0node0Follow\n17 years in marketing. Spent the last one automating all of it.  Sharing what I&#x27;m learning while learning.\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChris Slowik 🌱\n\n@0node0\n\n\n\n\nprompt: make a dynamic 15-secon motion graphics video that shows what an incredible motion designer you are , like it&#x27;s your showreel for a resume. go all out.\n\nmodel: Opus 5.5 (extra effort)\n\nresult:\n\n\n00:00\n\n\n\n\n\n\n\n\n9:02 PM · Oct 14, 2026·47\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "0node0"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/0node0/status/2110476412213686723",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110476334262542336/img/mjl3UWul0y3lFg92.jpg",
+  "coverPath": "data/covers/2110476412213686723-wide.jpg",
+  "gifPath": "data/gifs/2110476412213686723.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110476334262542336",
+    "x-post:2110476412213686723"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Claude Motion Designer Showreel",
+      "summary": "15-second dynamic motion graphics showreel generated via Claude Opus 5.5 highlighting animation principles, shapes, and 3D particles.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "model: Opus 5.5 (extra effort)"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "make a dynamic 15-secon motion graphics video that shows what an incredible motion designer you are , like it's your showreel for a resume. go all out.",
+        "englishText": "make a dynamic 15-secon motion graphics video that shows what an incredible motion designer you are , like it's your showreel for a resume. go all out.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "A 15-second motion graphics reel showcasing typography, shape systems, 3D particle forms, easing curves, and final branding for 'Claude Motion Designer'.",
+        "textualResultQuote": "result: https://t.co/zworSEeVLT"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "Motion Graphics Showreel",
+        "topic": "motion-graphics",
+        "tags": [
+          "motion-graphics",
+          "showreel",
+          "animation",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Generates motion graphics animation code/assets per user prompt.",
+      "outputSource": "unknown",
+      "divisionEvidence": "Author specifies Claude Opus 5.5 for creating the motion graphics showreel video.",
+      "video": {
+        "shots": "Multiple fast-paced motion graphics scenes",
+        "duration": "15s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Clear demonstration of Claude Opus 5.5 generating a programmatic motion graphics showreel.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/0node0/status/2110476412213686723",
+        "start": 8,
+        "end": 159
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/0node0/status/2110476412213686723",
+        "author": "0node0",
+        "postId": "2110476412213686723",
+        "publishedAt": "2026-10-14T21:02:42.000Z"
+      },
+      "checkedAt": "2026-10-16T05:46:59.679Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/0node0/status/2110476412213686723",
+        "evidence": ""
+      }
+    },
+    "summary": "15-second dynamic motion graphics showreel generated via Claude Opus 5.5 highlighting animation principles, shapes, and 3D particles.",
+    "summaryEn": "Claude Motion Designer Showreel",
+    "originalPrompt": "make a dynamic 15-secon motion graphics video that shows what an incredible motion designer you are , like it's your showreel for a resume. go all out.",
+    "sourceRange": {
+      "start": 8,
+      "end": 159
+    },
+    "translations": {
+      "zh": "make a dynamic 15-secon motion graphics video that shows what an incredible motion designer you are , like it's your showreel for a resume. go all out.",
+      "en": "make a dynamic 15-secon motion graphics video that shows what an incredible motion designer you are , like it's your showreel for a resume. go all out."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Motion Graphics Showreel",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "A 15-second motion graphics reel showcasing typography, shape systems, 3D particle forms, easing curves, and final branding for 'Claude Motion Designer'."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

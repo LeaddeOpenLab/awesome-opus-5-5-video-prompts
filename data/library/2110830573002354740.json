@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T06:58:40.280Z",
+  "model": "opus5.5",
+  "prompt": "I want to see how we can manage a swarm of IoT and agentic-physical AI look like at home and we can use Mia's UI to manage everything: Water the plants, check on the baby, make sure the oven is off, and how is the Tesla?",
+  "promptTranslations": {
+    "en": "I want to see how we can manage a swarm of IoT and agentic-physical AI look like at home and we can use Mia's UI to manage everything: Water the plants, check on the baby, make sure the oven is off, and how is the Tesla?"
+  },
+  "summary": "Luis Lozano demonstrates using Claude Opus 5.5 alongside Three.js and the Mia Multiplayer UI to create an interactive 3D physical AI and IoT swarm simulation managing home tasks such as checking the baby, checking the oven, and monitoring a Tesla.",
+  "summaryEn": "IoT Swarm and Agentic Physical AI Home Simulation in Three.js with Mia UI",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110830573002354740",
+    "canonicalUrl": "https://x.com/luislozanog86/status/2110830573002354740",
+    "author": {
+      "username": "luislozanog86",
+      "displayName": "Luis Lozano",
+      "profileUrl": "https://x.com/luislozanog86"
+    },
+    "publishedAt": "2026-10-15T20:30:00.000Z",
+    "collectedAt": "2026-10-16T05:43:49.141Z",
+    "language": "en",
+    "originalText": "Physical AI is moving very fast, this is the test I did.\n\nMy prompt was a mess: \"I want to see how we can manage a swarm of IoT and agentic-physical AI look like at home and we can use Mia's UI to manage everything: Water the plants, check on the baby, make sure the oven is off, and how is the Tesla?\" \n\nI think I'll test this a little bit more. I used Opus 5.5 + three.js + https://t.co/Wuc7cWLFR8",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/luislozanog86/status/2110830573002354740",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110604813973028864/img/rRf_uaYsesrRDntW.jpg",
+        "analysisUrl": "https://x.com/luislozanog86/status/2110830573002354740"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 30
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://miamultiplayer.com/",
+        "text": "\n\n\n\n\nMia Multiplayer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n\n  \n  \n    \n      \n        \n      \n\n    \n\n    \n    \n      \n        \n        \n\n      \n\n      \n        \n        \n\n      \n\n      \n        \n        \n\n      \n\n      \n        \n        \n\n      \n\n      \n        \n        \n\n      \n\n    \n\n    Mia.Multiplayer\n\n    Easy, powerful AI for everyone on Earth — regardless of technical ability.\n\n    \n      Join the waitlist\n      \n        Send to a dev friend\n        \n          WhatsApp\n          Telegram\n          X / Twitter\n          Email\n          Copy link\n        \n\n      \n\n    \n\n  \n\n  \n  \n    \n      \n      \n      \n      Solo · you + trip-bot\n    \n\n    \n      \n        first week of November, somewhere warm, direct flights, under $900 round trip. where do I even start\n\n      \n\n      \n        \n\n        \n          Trip BotBot2:15 pm\n\n          Three fits: Mexico City, Madeira, or Cartagena. Madeira is the only one with a direct flight that week — want the full price breakdown?\n\n        \n\n      \n\n      \n        yes — and keep an eye on fares for me\n\n      \n\n      \n        \n\n        \n          Trip BotBot2:16 pm\n\n          Done. I'll check fares every morning and ping you if Madeira drops below $900.\n\n        \n\n      \n\n    \n\n  \n\n  \n  \n    \n      How it works\n    \n\n    \n      \n        01\n\n        Join the waitlist\n\n        Sign up and we'll let you in when it's your turn. One app, easy install on Mac or Linux.\n\n      \n\n      \n        02\n\n        Bring your sub\n\n        Your agent manages your bots and runs on your computer with your ChatGPT, Grok or any other compatible subscription or API key.\n\n      \n\n      \n        03\n\n        Bots\n\n        Describe the job — trip planner, bill splitter, homework coach — and it gets a name and a face. Hand it recurring tasks, or let it nudge you with reminders.\n\n      \n\n    \n\n  \n\n  \n  \n    \n      Bots & agents\n    \n\n    \n      \n        \n          \n          \n          \n        \n\n        BotsShareable\n\n        Little characters anyone can make. Build one for yourself — then send it to a friend and it works on their machine too. Bots travel; a good one gets passed around like a playlist.\n\n      \n\n      \n        \n          \n            \n          \n\n          Only you can see this one\n        \n\n        AgentsPrivate\n\n        The personal kind. Agents can reach your email, files and calendar, so they stay on your machine and can't be shared. The group only sees what you choose to post.\n\n      \n\n    \n\n  \n\n  \n  \n    \n      What bots can do\n    \n\n    \n\n      \n        Bots work where you work\n\n        Bots get their own browser, built into the app. Log it into the sites you want them to use — your own browser stays yours.\n\n        \n          \n\n          \n\n          \n\n          \n\n          \n\n        \n\n      \n\n\n      \n        Put a bot on a schedule\n\n        Hand a bot a recurring job — check fares every morning, tidy the inbox on Fridays. It runs on time and pings you with the result.\n\n        \n          \n            \n\n            trip-bot · every morning · 7:00 am\n          \n\n          \n            \n\n            \n\n            \n\n            \n\n            \n\n            \n\n          \n\n        \n\n      \n\n\n      \n        Your agent manages the bots\n\n        You don't manage your bots — your agent does. It delegates the steps, checks the results, and only pings you when something needs a human.\n\n        \n          \n            \n          \n\n          \n\n          \n\n          \n          \n        \n\n      \n\n\n      \n        Connect your Google account\n\n        Mia Multiplayer is a desktop AI workspace where you can use your accounts (e.g. Google) to triage email for you, edit spreadsheets or create beautiful slides.\n\n        \n          \n            Google account · connected\n          \n\n          \n            ✓Triage email\n\n            ✓Edit spreadsheets\n\n            ✓Create slides\n\n          \n\n        \n\n      \n\n\n    \n\n  \n\n  \n  \n    \n      For your dev friend\n    \n\n    \n      \n        The part they'll want to read before they vouch for it:\n\n        \n          LicenseMIT\n\n          ModelsBring your own model\n\n          HarnessHermes Agent\n\n          StackElectron · Express · SQLite\n\n          TelemetryNone — runs on your machine\n\n        \n\n        Read the source on GitHub →\n      \n\n      \n        \n          terminal\n          copy\n        \n\n        \n          $ git clone https://github.com/luislozanogmia/mia_multiplayer\n\n          $ ./scripts/install-local.sh\n\n          → miaos-desktop ready — app, agent + local backend\n\n        \n\n        Clone, one install script. If they can run a shell script, they can set the whole thing up for you during a coffee.\n\n      \n\n    \n\n  \n\n  \n  \n    \n      Early access\n    \n\n    \n      \n        Get on the list\n\n        We're onboarding alpha testers who want to shape what Mia becomes. Spots are limited.\n\n        \n          \n            \n              First name\n              \n            \n\n            \n              Last name\n              \n            \n\n          \n\n          \n            Website\n            \n          \n\n          \n            Email\n            \n          \n\n          \n            What would you use Mia for?\n            \n            Optional\n\n          \n\n          Join the waitlist\n          \n\n          No spam, ever.\n\n        \n      \n\n    \n\n  \n\n  \n  \n    Mia — open source — solo mode\n    Multiplayer coming soon\n    Terms of ServicePrivacy Policy\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "luislozanog86"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/luislozanog86/status/2110830573002354740",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110604813973028864/img/rRf_uaYsesrRDntW.jpg",
+  "coverPath": "data/covers/2110830573002354740-wide.jpg",
+  "gifPath": "data/gifs/2110830573002354740.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110604813973028864",
+    "x-post:2110830573002354740"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "IoT Swarm and Agentic Physical AI Home Simulation in Three.js with Mia UI",
+      "summary": "Luis Lozano demonstrates using Claude Opus 5.5 alongside Three.js and the Mia Multiplayer UI to create an interactive 3D physical AI and IoT swarm simulation managing home tasks such as checking the baby, checking the oven, and monitoring a Tesla.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I used Opus 5.5 + three.js + https://t.co/Wuc7cWLFR8"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "I want to see how we can manage a swarm of IoT and agentic-physical AI look like at home and we can use Mia's UI to manage everything: Water the plants, check on the baby, make sure the oven is off, and how is the Tesla?",
+        "englishText": "I want to see how we can manage a swarm of IoT and agentic-physical AI look like at home and we can use Mia's UI to manage everything: Water the plants, check on the baby, make sure the oven is off, and how is the Tesla?",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Technical code generation instructions",
+          "Three.js house scene scaffolding",
+          "Integration setup between Opus 5.5 agent harness and Mia UI"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a 3D isometric house simulator built in Three.js (Swarms House) on the left side with moving drone agents, while Mia's chat UI on the right coordinates tasks including baby monitoring, plant watering, oven safety, and Tesla battery status.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "application",
+          "description": "Mia Multiplayer desktop AI workspace UI and agent harness",
+          "available": true,
+          "evidence": "we can use Mia's UI to manage everything ... https://t.co/Wuc7cWLFR8",
+          "sourceUrl": "https://miamultiplayer.com/",
+          "origin": "downloaded"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Mia Multiplayer",
+          "role": "Multi-agent orchestration platform and desktop UI",
+          "evidence": "we can use Mia's UI to manage everything ... https://t.co/Wuc7cWLFR8",
+          "sourceUrl": "https://miamultiplayer.com/",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "WebGL 3D rendering engine for the isometric house and swarm simulation",
+          "evidence": "I used Opus 5.5 + three.js + https://t.co/Wuc7cWLFR8",
+          "sourceUrl": "https://x.com/luislozanog86/status/2110830573002354740",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Agentic IoT Swarm 3D Home Simulator",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "iot-swarm",
+          "physical-ai",
+          "interactive-simulation",
+          "smart-home"
+        ]
+      },
+      "targetModelRole": "Code generation and logic orchestration for the IoT agent swarm simulation and integration with Mia UI",
+      "outputSource": "Three.js WebGL canvas and Mia Multiplayer desktop application",
+      "divisionEvidence": "Luis Lozano notes: 'I used Opus 5.5 + three.js + https://t.co/Wuc7cWLFR8'",
+      "video": {
+        "shots": "Single screen recording featuring split-screen interaction between 3D house simulator and agent chat UI",
+        "duration": "16s",
+        "aspectRatio": "1280:556",
+        "referenceMaterials": [
+          "https://miamultiplayer.com/"
+        ]
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 creative coding and interactive 3D simulation case with author-confirmed model version, prompt quote, and accompanying screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/luislozanog86/status/2110830573002354740",
+        "start": 81,
+        "end": 301
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/luislozanog86/status/2110830573002354740",
+        "author": "luislozanog86",
+        "postId": "2110830573002354740",
+        "publishedAt": "2026-10-15T20:30:00.000Z"
+      },
+      "checkedAt": "2026-10-16T05:49:53.143Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/luislozanog86/status/2110830573002354740",
+        "evidence": ""
+      }
+    },
+    "summary": "Luis Lozano demonstrates using Claude Opus 5.5 alongside Three.js and the Mia Multiplayer UI to create an interactive 3D physical AI and IoT swarm simulation managing home tasks such as checking the baby, checking the oven, and monitoring a Tesla.",
+    "summaryEn": "IoT Swarm and Agentic Physical AI Home Simulation in Three.js with Mia UI",
+    "originalPrompt": "I want to see how we can manage a swarm of IoT and agentic-physical AI look like at home and we can use Mia's UI to manage everything: Water the plants, check on the baby, make sure the oven is off, and how is the Tesla?",
+    "sourceRange": {
+      "start": 81,
+      "end": 301
+    },
+    "translations": {
+      "zh": "I want to see how we can manage a swarm of IoT and agentic-physical AI look like at home and we can use Mia's UI to manage everything: Water the plants, check on the baby, make sure the oven is off, and how is the Tesla?",
+      "en": "I want to see how we can manage a swarm of IoT and agentic-physical AI look like at home and we can use Mia's UI to manage everything: Water the plants, check on the baby, make sure the oven is off, and how is the Tesla?"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Agentic IoT Swarm 3D Home Simulator",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Technical code generation instructions",
+        "Three.js house scene scaffolding",
+        "Integration setup between Opus 5.5 agent harness and Mia UI"
+      ],
+      "evidence": "The video shows a 3D isometric house simulator built in Three.js (Swarms House) on the left side with moving drone agents, while Mia's chat UI on the right coordinates tasks including baby monitoring, plant watering, oven safety, and Tesla battery status."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

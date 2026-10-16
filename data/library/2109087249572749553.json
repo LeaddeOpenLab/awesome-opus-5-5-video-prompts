@@ -1,0 +1,246 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T06:58:41.622Z",
+  "model": "opus5.5",
+  "prompt": "Make a fully interactive music video for this song as a single HTML file, at the level of a motion designer, sound engineer and creative director's showreel. The first frame has to stop the scroll and hook the viewer. Go all out.\n\nLyrics are below. Sync them word by word to the actual vocal. Separate the stems first, then time every word from the vocal track rather than estimating. Detect tempo, beats, kicks and snares, and drive the visuals from them.\n\nRules:\n- One visual and type system across every section. Quiet sections should feel like the same video with the energy held back, not a different style.\n- Every word must be crisp and readable over the effects. Glow and trails go behind the type, never through it.\n- Give each lyric its own visual idea where it fits. No section should be filler.\n- Don't add any audio to the song unless I ask.\n- Interactions: hold to muffle the band, tap for a spark quantized to the beat, scroll for gain, stem mute buttons, a scrubbable timeline.\n- Include an \"Export 1080p video\" button that renders every frame on a fixed clock and saves a 1920x1080 16:9 MP4 (H.264 + AAC) with the audio muxed in.\n- Make the HTML file run on its own by double-clicking it in Chrome, with the audio built in.\n\n[LYRICS WITH SECTION TAGS]",
+  "promptTranslations": {
+    "en": "Make a fully interactive music video for this song as a single HTML file, at the level of a motion designer, sound engineer and creative director's showreel. The first frame has to stop the scroll and hook the viewer. Go all out.\n\nLyrics are below. Sync them word by word to the actual vocal. Separate the stems first, then time every word from the vocal track rather than estimating. Detect tempo, beats, kicks and snares, and drive the visuals from them.\n\nRules:\n- One visual and type system across every section. Quiet sections should feel like the same video with the energy held back, not a different style.\n- Every word must be crisp and readable over the effects. Glow and trails go behind the type, never through it.\n- Give each lyric its own visual idea where it fits. No section should be filler.\n- Don't add any audio to the song unless I ask.\n- Interactions: hold to muffle the band, tap for a spark quantized to the beat, scroll for gain, stem mute buttons, a scrubbable timeline.\n- Include an \"Export 1080p video\" button that renders every frame on a fixed clock and saves a 1920x1080 16:9 MP4 (H.264 + AAC) with the audio muxed in.\n- Make the HTML file run on its own by double-clicking it in Chrome, with the audio built in.\n\n[LYRICS WITH SECTION TAGS]"
+  },
+  "summary": "Claude Opus 5.5 generated a single HTML file that parsed audio stems, synchronized 229 lyrics, and rendered a 1080p kinetic motion graphics music video in-browser.",
+  "summaryEn": "Turn It Up Now Kinetic Lyric Music Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2109087249572749553",
+    "canonicalUrl": "https://x.com/kloss_xyz/status/2109087249572749553",
+    "author": {
+      "username": "kloss_xyz",
+      "displayName": "klöss",
+      "profileUrl": "https://x.com/kloss_xyz"
+    },
+    "publishedAt": "2026-10-11T01:02:39.000Z",
+    "collectedAt": "2026-10-16T05:43:49.141Z",
+    "language": "en",
+    "originalText": "No editing software touched this video.\n\nGave Opus 5.5 a song I made in Suno v6. Then asked it for a lyrical music video.\n\nClaude split the stems and timed all 229 words to the vocals. Then it wrote the visuals in code and built an HTML file that rendered and exported the video in 1080p right in the browser. Under 1 minute on my MacBook Pro.\n\nIntroducing Turn It Up Now.\n\nSave it, remix it, and show me what you get.\n\nPrompt (plus attach your song .mp3):\n\nMake a fully interactive music video for this song as a single HTML file, at the level of a motion designer, sound engineer and creative director's showreel. The first frame has to stop the scroll and hook the viewer. Go all out.\n\nLyrics are below. Sync them word by word to the actual vocal. Separate the stems first, then time every word from the vocal track rather than estimating. Detect tempo, beats, kicks and snares, and drive the visuals from them.\n\nRules:\n- One visual and type system across every section. Quiet sections should feel like the same video with the energy held back, not a different style.\n- Every word must be crisp and readable over the effects. Glow and trails go behind the type, never through it.\n- Give each lyric its own visual idea where it fits. No section should be filler.\n- Don't add any audio to the song unless I ask.\n- Interactions: hold to muffle the band, tap for a spark quantized to the beat, scroll for gain, stem mute buttons, a scrubbable timeline.\n- Include an \"Export 1080p video\" button that renders every frame on a fixed clock and saves a 1920x1080 16:9 MP4 (H.264 + AAC) with the audio muxed in.\n- Make the HTML file run on its own by double-clicking it in Chrome, with the audio built in.\n\n[LYRICS WITH SECTION TAGS]",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/kloss_xyz/status/2109087249572749553",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2109086565519482880/img/_yz7o1HeHxJCwkZX.jpg",
+        "analysisUrl": "https://x.com/kloss_xyz/status/2109087249572749553"
+      }
+    ],
+    "metrics": {
+      "likeCount": 62,
+      "repostCount": 10,
+      "replyCount": 22,
+      "quoteCount": 2,
+      "viewCount": 5222
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/kloss_xyz/status/2109298268790510019",
+        "text": "@dnsv123 perfect use case love to hear it",
+        "author": "kloss_xyz"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/kloss_xyz/status/2109298196774035870",
+        "text": "@AmirMushich very much so, and this is with zero creative direction just cause I wanted to see",
+        "author": "kloss_xyz"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/kloss_xyz/status/2109089508247376026",
+        "text": "@PawelJLisowski banger",
+        "author": "kloss_xyz"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/kloss_xyz/status/2109089464840487221",
+        "text": "@NFT_Dee crazy how creative it is with very minimal input here",
+        "author": "kloss_xyz"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/kloss_xyz/status/2109087249572749553",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2109086565519482880/img/_yz7o1HeHxJCwkZX.jpg",
+  "coverPath": "data/covers/2109087249572749553-wide.jpg",
+  "gifPath": "data/gifs/2109087249572749553.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2109086565519482880",
+    "x-post:2109087249572749553"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Turn It Up Now Kinetic Lyric Music Video",
+      "summary": "Claude Opus 5.5 generated a single HTML file that parsed audio stems, synchronized 229 lyrics, and rendered a 1080p kinetic motion graphics music video in-browser.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "Gave Opus 5.5 a song I made in Suno v6. Then asked it for a lyrical music video. Claude split the stems and timed all 229 words to the vocals."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Make a fully interactive music video for this song as a single HTML file, at the level of a motion designer, sound engineer and creative director's showreel. The first frame has to stop the scroll and hook the viewer. Go all out.\n\nLyrics are below. Sync them word by word to the actual vocal. Separate the stems first, then time every word from the vocal track rather than estimating. Detect tempo, beats, kicks and snares, and drive the visuals from them.\n\nRules:\n- One visual and type system across every section. Quiet sections should feel like the same video with the energy held back, not a different style.\n- Every word must be crisp and readable over the effects. Glow and trails go behind the type, never through it.\n- Give each lyric its own visual idea where it fits. No section should be filler.\n- Don't add any audio to the song unless I ask.\n- Interactions: hold to muffle the band, tap for a spark quantized to the beat, scroll for gain, stem mute buttons, a scrubbable timeline.\n- Include an \"Export 1080p video\" button that renders every frame on a fixed clock and saves a 1920x1080 16:9 MP4 (H.264 + AAC) with the audio muxed in.\n- Make the HTML file run on its own by double-clicking it in Chrome, with the audio built in.\n\n[LYRICS WITH SECTION TAGS]",
+        "englishText": "Make a fully interactive music video for this song as a single HTML file, at the level of a motion designer, sound engineer and creative director's showreel. The first frame has to stop the scroll and hook the viewer. Go all out.\n\nLyrics are below. Sync them word by word to the actual vocal. Separate the stems first, then time every word from the vocal track rather than estimating. Detect tempo, beats, kicks and snares, and drive the visuals from them.\n\nRules:\n- One visual and type system across every section. Quiet sections should feel like the same video with the energy held back, not a different style.\n- Every word must be crisp and readable over the effects. Glow and trails go behind the type, never through it.\n- Give each lyric its own visual idea where it fits. No section should be filler.\n- Don't add any audio to the song unless I ask.\n- Interactions: hold to muffle the band, tap for a spark quantized to the beat, scroll for gain, stem mute buttons, a scrubbable timeline.\n- Include an \"Export 1080p video\" button that renders every frame on a fixed clock and saves a 1920x1080 16:9 MP4 (H.264 + AAC) with the audio muxed in.\n- Make the HTML file run on its own by double-clicking it in Chrome, with the audio built in.\n\n[LYRICS WITH SECTION TAGS]",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Original song audio file (.mp3)",
+          "Verbatim lyrics text and section tags substituted for [LYRICS WITH SECTION TAGS]"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached video displays kinetic typography and audio-synced visual effects precisely matching the lyrics, tempo, and layout specified in the prompt instructions.",
+        "textualResultQuote": "Claude split the stems and timed all 229 words to the vocals. Then it wrote the visuals in code and built an HTML file that rendered and exported the video in 1080p right in the browser."
+      },
+      "inputs": [
+        {
+          "kind": "audio",
+          "description": "Original song .mp3 generated via Suno v6.",
+          "available": false,
+          "evidence": "Gave Opus 5.5 a song I made in Suno v6.",
+          "origin": "generated",
+          "sourceUrl": "https://x.com/kloss_xyz/status/2109087249572749553"
+        },
+        {
+          "kind": "text",
+          "description": "Full lyrics text with section tags.",
+          "available": false,
+          "evidence": "[LYRICS WITH SECTION TAGS]",
+          "origin": "user",
+          "sourceUrl": "https://x.com/kloss_xyz/status/2109087249572749553"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "HTML5 Canvas / Web Audio / MediaRecorder",
+          "role": "Client-side video rendering and audio synchronization engine in Chrome.",
+          "evidence": "built an HTML file that rendered and exported the video in 1080p right in the browser",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/kloss_xyz/status/2109087249572749553"
+        },
+        {
+          "name": "Suno v6",
+          "role": "Audio generation model used to create the original song.",
+          "evidence": "Gave Opus 5.5 a song I made in Suno v6.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/kloss_xyz/status/2109087249572749553"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Kinetic Lyric Video",
+        "topic": "motion-graphics",
+        "tags": [
+          "motion-graphics",
+          "kinetic-typography",
+          "audio-reactive",
+          "canvas-interactive"
+        ]
+      },
+      "targetModelRole": "Code generator and orchestrator that separated stems, mapped word timestamps, and wrote interactive HTML/Canvas rendering code.",
+      "outputSource": "In-browser HTML canvas export engine generated by Claude Opus 5.5.",
+      "divisionEvidence": "Claude split the stems and timed all 229 words to the vocals. Then it wrote the visuals in code and built an HTML file that rendered and exported the video in 1080p right in the browser.",
+      "video": {
+        "shots": "Single continuous dynamic camera sequence with kinetic typography transitions.",
+        "duration": "1:50",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 creative coding production generating an interactive HTML file that renders an audio-reactive lyric video.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/kloss_xyz/status/2109087249572749553",
+        "start": 458,
+        "end": 1726
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/kloss_xyz/status/2109087249572749553",
+        "author": "kloss_xyz",
+        "postId": "2109087249572749553",
+        "publishedAt": "2026-10-11T01:02:39.000Z"
+      },
+      "checkedAt": "2026-10-16T06:02:51.520Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/kloss_xyz/status/2109087249572749553",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated a single HTML file that parsed audio stems, synchronized 229 lyrics, and rendered a 1080p kinetic motion graphics music video in-browser.",
+    "summaryEn": "Turn It Up Now Kinetic Lyric Music Video",
+    "originalPrompt": "Make a fully interactive music video for this song as a single HTML file, at the level of a motion designer, sound engineer and creative director's showreel. The first frame has to stop the scroll and hook the viewer. Go all out.\n\nLyrics are below. Sync them word by word to the actual vocal. Separate the stems first, then time every word from the vocal track rather than estimating. Detect tempo, beats, kicks and snares, and drive the visuals from them.\n\nRules:\n- One visual and type system across every section. Quiet sections should feel like the same video with the energy held back, not a different style.\n- Every word must be crisp and readable over the effects. Glow and trails go behind the type, never through it.\n- Give each lyric its own visual idea where it fits. No section should be filler.\n- Don't add any audio to the song unless I ask.\n- Interactions: hold to muffle the band, tap for a spark quantized to the beat, scroll for gain, stem mute buttons, a scrubbable timeline.\n- Include an \"Export 1080p video\" button that renders every frame on a fixed clock and saves a 1920x1080 16:9 MP4 (H.264 + AAC) with the audio muxed in.\n- Make the HTML file run on its own by double-clicking it in Chrome, with the audio built in.\n\n[LYRICS WITH SECTION TAGS]",
+    "sourceRange": {
+      "start": 458,
+      "end": 1726
+    },
+    "translations": {
+      "zh": "Make a fully interactive music video for this song as a single HTML file, at the level of a motion designer, sound engineer and creative director's showreel. The first frame has to stop the scroll and hook the viewer. Go all out.\n\nLyrics are below. Sync them word by word to the actual vocal. Separate the stems first, then time every word from the vocal track rather than estimating. Detect tempo, beats, kicks and snares, and drive the visuals from them.\n\nRules:\n- One visual and type system across every section. Quiet sections should feel like the same video with the energy held back, not a different style.\n- Every word must be crisp and readable over the effects. Glow and trails go behind the type, never through it.\n- Give each lyric its own visual idea where it fits. No section should be filler.\n- Don't add any audio to the song unless I ask.\n- Interactions: hold to muffle the band, tap for a spark quantized to the beat, scroll for gain, stem mute buttons, a scrubbable timeline.\n- Include an \"Export 1080p video\" button that renders every frame on a fixed clock and saves a 1920x1080 16:9 MP4 (H.264 + AAC) with the audio muxed in.\n- Make the HTML file run on its own by double-clicking it in Chrome, with the audio built in.\n\n[LYRICS WITH SECTION TAGS]",
+      "en": "Make a fully interactive music video for this song as a single HTML file, at the level of a motion designer, sound engineer and creative director's showreel. The first frame has to stop the scroll and hook the viewer. Go all out.\n\nLyrics are below. Sync them word by word to the actual vocal. Separate the stems first, then time every word from the vocal track rather than estimating. Detect tempo, beats, kicks and snares, and drive the visuals from them.\n\nRules:\n- One visual and type system across every section. Quiet sections should feel like the same video with the energy held back, not a different style.\n- Every word must be crisp and readable over the effects. Glow and trails go behind the type, never through it.\n- Give each lyric its own visual idea where it fits. No section should be filler.\n- Don't add any audio to the song unless I ask.\n- Interactions: hold to muffle the band, tap for a spark quantized to the beat, scroll for gain, stem mute buttons, a scrubbable timeline.\n- Include an \"Export 1080p video\" button that renders every frame on a fixed clock and saves a 1920x1080 16:9 MP4 (H.264 + AAC) with the audio muxed in.\n- Make the HTML file run on its own by double-clicking it in Chrome, with the audio built in.\n\n[LYRICS WITH SECTION TAGS]"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Kinetic Lyric Video",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Original song audio file (.mp3)",
+        "Verbatim lyrics text and section tags substituted for [LYRICS WITH SECTION TAGS]"
+      ],
+      "evidence": "The attached video displays kinetic typography and audio-synced visual effects precisely matching the lyrics, tempo, and layout specified in the prompt instructions."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
