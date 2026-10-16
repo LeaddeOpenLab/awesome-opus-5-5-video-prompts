@@ -10,6 +10,8 @@ on:
       - README.md
       - .github/scripts/update-pro-tips.py
       - .github/scripts/update-banner.py
+      - .github/scripts/update-template-cards.py
+      - .github/readme-template-cards.md
       - .github/workflows/banner.yml
   workflow_dispatch:
 permissions:
@@ -24,6 +26,8 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: main
+      - name: Keep runnable template cards
+        run: python3 .github/scripts/update-template-cards.py
       - name: Render banner
         env:
           GITHUB_TOKEN: ${{ github.token }}
