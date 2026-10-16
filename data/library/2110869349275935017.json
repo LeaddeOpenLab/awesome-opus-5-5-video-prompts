@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T07:02:18.806Z",
+  "model": "opus5.5",
+  "prompt": "Can you create a tool that takes a video input and allows changing the pitch for each word of the dialogue?",
+  "promptTranslations": {
+    "en": "Can you create a tool that takes a video input and allows changing the pitch for each word of the dialogue?"
+  },
+  "summary": "Claude Opus 5.5 was prompted to build an interactive tool that adjusts per-syllable pitch for dialogue within video inputs.",
+  "summaryEn": "Interactive Dialogue Pitch Editor",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110869349275935017",
+    "canonicalUrl": "https://x.com/eijo_AIart/status/2110869349275935017",
+    "author": {
+      "username": "eijo_AIart",
+      "displayName": "eijo(SAT577)@『人生2周目のRIO』制作中",
+      "profileUrl": "https://x.com/eijo_AIart"
+    },
+    "publishedAt": "2026-10-15T23:04:05.000Z",
+    "collectedAt": "2026-10-16T05:43:49.141Z",
+    "language": "ja",
+    "originalText": "AIのイントネーションって気になりますよね？\n\n作り直しの沼にハマりたくないので、わたしはイントネーション修正ツールを作って対応しています。\n\nそれにしても発話の音程を修正するって難しいんですよね。絶対音感があれば一発で直せそうですが。。。\n\nツール制作時のプロンプトです👇\n※対象モデル：Claude Opus5.5\n-------------\n動画をインプットすると、台詞の一語づつ音の高さを変えられるツールつくれる？\n-------------",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/eijo_AIart/status/2110869349275935017",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110868390634213376/img/-I-oSRK_qnbHQv-U.jpg",
+        "analysisUrl": "https://x.com/eijo_AIart/status/2110869349275935017"
+      }
+    ],
+    "metrics": {
+      "likeCount": 15,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 767
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/eijo_AIart/status/2110897527998558241",
+        "text": "@iX00AI ありがとうございます！繰り返しを行う作業のツール化がサクッとできて、便利時代です（しみじみ）😊",
+        "author": "eijo_AIart"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/eijo_AIart/status/2110892685322289412",
+        "text": "@iX00AI そしていざ直そうとすると、何が正解か分からなくなるという新しい沼に突入してます笑",
+        "author": "eijo_AIart"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/eijo_AIart/status/2110869865984852072",
+        "text": "「人生2周目のRIO」、1話からの再生リストはこちら\nhttps://t.co/MNQCermN4A",
+        "author": "eijo_AIart"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/MNQCermN4A"
+    ]
+  },
+  "xUrl": "https://x.com/eijo_AIart/status/2110869349275935017",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110868390634213376/img/-I-oSRK_qnbHQv-U.jpg",
+  "coverPath": "data/covers/2110869349275935017-wide.jpg",
+  "gifPath": "data/gifs/2110869349275935017.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110868390634213376",
+    "x-post:2110869349275935017"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive Dialogue Pitch Editor",
+      "summary": "Claude Opus 5.5 was prompted to build an interactive tool that adjusts per-syllable pitch for dialogue within video inputs.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "※対象モデル：Claude Opus5.5"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "動画をインプットすると、台詞の一語づつ音の高さを変えられるツールつくれる？",
+        "englishText": "Can you create a tool that takes a video input and allows changing the pitch for each word of the dialogue?",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "audio processing pipeline details",
+          "UI framework specifications",
+          "follow-up iteration prompts"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording shows the operational Dialogue Pitch Editor web app adjusting pitch curves and previewing modified video.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "video",
+          "description": "Dialogue video clip loaded into the web editor (01 (25.mp4)).",
+          "available": true,
+          "evidence": "Visible playing inside the editor interface in the screen recording.",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web Browser / HTML5 Audio & Canvas",
+          "role": "Runtime environment executing the generated pitch editing application.",
+          "evidence": "Visible browser interface titled 'セリフ音程エディタ' with audio graph manipulation.",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Dialogue Pitch Editor",
+        "topic": "games-interactive",
+        "tags": [
+          "interactive-tool",
+          "speech-intonation",
+          "audio-editing",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Wrote code to implement the interactive pitch editing web application.",
+      "outputSource": "Browser-rendered interactive application",
+      "divisionEvidence": "ツール制作時のプロンプトです👇 ※対象モデル：Claude Opus5.5",
+      "video": {
+        "shots": "1",
+        "duration": "122s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Direct demonstration of an interactive tool engineered via Claude Opus 5.5 for video dialogue pitch editing.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/eijo_AIart/status/2110869349275935017",
+        "start": 175,
+        "end": 212
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/eijo_AIart/status/2110869349275935017",
+        "author": "eijo_AIart",
+        "postId": "2110869349275935017",
+        "publishedAt": "2026-10-15T23:04:05.000Z"
+      },
+      "checkedAt": "2026-10-16T06:05:02.256Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/eijo_AIart/status/2110869349275935017",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 was prompted to build an interactive tool that adjusts per-syllable pitch for dialogue within video inputs.",
+    "summaryEn": "Interactive Dialogue Pitch Editor",
+    "originalPrompt": "動画をインプットすると、台詞の一語づつ音の高さを変えられるツールつくれる？",
+    "sourceRange": {
+      "start": 175,
+      "end": 212
+    },
+    "translations": {
+      "zh": "動画をインプットすると、台詞の一語づつ音の高さを変えられるツールつくれる？",
+      "en": "Can you create a tool that takes a video input and allows changing the pitch for each word of the dialogue?"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Dialogue Pitch Editor",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "audio processing pipeline details",
+        "UI framework specifications",
+        "follow-up iteration prompts"
+      ],
+      "evidence": "Screen recording shows the operational Dialogue Pitch Editor web app adjusting pitch curves and previewing modified video."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

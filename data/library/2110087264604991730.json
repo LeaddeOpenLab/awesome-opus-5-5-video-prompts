@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T07:02:19.095Z",
+  "model": "opus5.5",
+  "prompt": "– Apple keynote aesthetic, with features in a bento box.\n– Smoother and more dynamic animations, because initially it made them too abrupt.",
+  "promptTranslations": {
+    "en": "– Apple keynote aesthetic, with features in a bento box.\n– Smoother and more dynamic animations, because initially it made them too abrupt."
+  },
+  "summary": "Juanchi Gallego showcases a Q3 keynote video created using Claude Opus 5.5, featuring an Apple keynote bento box design layout with dynamic card animations.",
+  "summaryEn": "Bento Box Apple Keynote Feature Overview Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2110087264604991730",
+    "canonicalUrl": "https://x.com/juanchigallego/status/2110087264604991730",
+    "author": {
+      "username": "juanchigallego",
+      "displayName": "Juanchi Gallego",
+      "profileUrl": "https://x.com/juanchigallego"
+    },
+    "publishedAt": "2026-10-13T19:16:22.000Z",
+    "collectedAt": "2026-10-16T05:43:49.141Z",
+    "language": "es",
+    "originalText": "Armé el video de la keynote de Q3 con Opus 5.5.\n\n3 prompts. 40 minutos. Cero ajustes a mano.\n\nLo único que le pedí:\n– Estética de keynote de Apple, con features en bento box.\n– Animaciones más suaves y dinámicas, porque al principio las hacía muy de golpe.\n\nEl resto lo resolvió solo. Como diseñador, me vuela la cabeza que hacer esto a mano me hubiera llevado fácil una semana, ahora fue sólo esperar 40 minutos a Claude.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/juanchigallego/status/2110087264604991730",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2110087026787647490/img/NbQ4zovkRDIbNVlx.jpg",
+        "analysisUrl": "https://x.com/juanchigallego/status/2110087264604991730"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 91
+    },
+    "matchedRuleIds": [
+      "group:opus:es:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/juanchigallego/status/2110127480359010307",
+        "text": "@BastiMDevs De una! Igual debe haber sido algo tipo “hacelo más suave” 🤣 últimamente siento que mientras más natural es el prompt mejor sale. A vos que te funciona?",
+        "author": "juanchigallego"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/juanchigallego/status/2110087264604991730",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2110087026787647490/img/NbQ4zovkRDIbNVlx.jpg",
+  "coverPath": "data/covers/2110087264604991730-wide.jpg",
+  "gifPath": "data/gifs/2110087264604991730.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2110087026787647490",
+    "x-post:2110087264604991730"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Bento Box Apple Keynote Feature Overview Animation",
+      "summary": "Juanchi Gallego showcases a Q3 keynote video created using Claude Opus 5.5, featuring an Apple keynote bento box design layout with dynamic card animations.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Armé el video de la keynote de Q3 con Opus 5.5."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "– Estética de keynote de Apple, con features en bento box.\n– Animaciones más suaves y dinámicas, porque al principio las hacía muy de golpe.",
+        "englishText": "– Apple keynote aesthetic, with features in a bento box.\n– Smoother and more dynamic animations, because initially it made them too abrupt.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "verbatim initial prompt",
+          "feature content and text assets",
+          "exact animation code and execution environment"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video demonstrates an Apple keynote style motion graphic presenting product flows in a modular bento box grid with smoothly transitioning UI panels.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "Apple Keynote Bento Box Motion Graphics",
+        "topic": "motion-graphics",
+        "tags": [
+          "keynote",
+          "bento-box",
+          "ui-animation",
+          "product-tour",
+          "opus-5-5"
+        ]
+      },
+      "targetModelRole": "Generated the animation code and orchestrations across 3 iteration prompts.",
+      "outputSource": "Claude Opus 5.5 generated codebase/canvas animation exported to video.",
+      "divisionEvidence": "El resto lo resolvió solo. Como diseñador, me vuela la cabeza que hacer esto a mano me hubiera llevado fácil una semana, ahora fue sólo esperar 40 minutos a Claude.",
+      "video": {
+        "shots": "Single sequence with zoom and staggered card transitions",
+        "duration": "0:50",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 video production showcase featuring motion graphics in an Apple-style bento box keynote presentation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/juanchigallego/status/2110087264604991730",
+        "start": 116,
+        "end": 256
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/juanchigallego/status/2110087264604991730",
+        "author": "juanchigallego",
+        "postId": "2110087264604991730",
+        "publishedAt": "2026-10-13T19:16:22.000Z"
+      },
+      "checkedAt": "2026-10-16T06:26:25.980Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/juanchigallego/status/2110087264604991730",
+        "evidence": ""
+      }
+    },
+    "summary": "Juanchi Gallego showcases a Q3 keynote video created using Claude Opus 5.5, featuring an Apple keynote bento box design layout with dynamic card animations.",
+    "summaryEn": "Bento Box Apple Keynote Feature Overview Animation",
+    "originalPrompt": "– Estética de keynote de Apple, con features en bento box.\n– Animaciones más suaves y dinámicas, porque al principio las hacía muy de golpe.",
+    "sourceRange": {
+      "start": 116,
+      "end": 256
+    },
+    "translations": {
+      "zh": "– Estética de keynote de Apple, con features en bento box.\n– Animaciones más suaves y dinámicas, porque al principio las hacía muy de golpe.",
+      "en": "– Apple keynote aesthetic, with features in a bento box.\n– Smoother and more dynamic animations, because initially it made them too abrupt."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Apple Keynote Bento Box Motion Graphics",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "verbatim initial prompt",
+        "feature content and text assets",
+        "exact animation code and execution environment"
+      ],
+      "evidence": "The video demonstrates an Apple keynote style motion graphic presenting product flows in a modular bento box grid with smoothly transitioning UI panels."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
