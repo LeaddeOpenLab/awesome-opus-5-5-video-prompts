@@ -10,14 +10,14 @@ library; records may appear in multiple categories. Search covers all records.
 `prompts/<id>.md` files. Cards use existing covers, author, purpose, tools and
 prompt status. Latest means records stored on the date in `data/latest-update.json`.
 Non-selected cases link to the existing GitHub prompt rather than generating new
-detail pages. The nine selected detail pages and their previews remain intact.
+detail pages. Homepage picks now include three recent additions, with twelve detail pages retained in total.
 
 Three editable templates reuse their existing posters and MP4 previews, linking
 to their GitHub directories and Chinese guides. Pages rebuilds also watch template,
 category, cover and latest-update changes. Updates pushed with GITHUB_TOKEN still
 need an explicit deployment trigger, as described below.
 
-这是 `awesome-opus-5-5-video-prompts` 的轻量内容站。沿用 Leadde 的紫色、Logo、白底和深灰文字，以作品和使用信息为主。首页、三个专题、九个案例共 13 个可索引页面；另有 404 页面。
+这是 `awesome-opus-5-5-video-prompts` 的轻量内容站。沿用 Leadde 的紫色、Logo、白底和深灰文字，以作品和使用信息为主。首页、三个专题、十二个案例共 16 个可索引页面；另有 404 页面。
 
 ## 本地预览
 
@@ -60,7 +60,7 @@ GitHub 项目站位于子路径，子路径下的 robots.txt 无法控制域名�
 
 ## 内容维护
 
-- `site/selection.json`：九个精选案例、页面路径、编辑后的标题、简短介绍和使用建议。
+- `site/selection.json`：十二个详情案例（首页选取九个）、页面路径、编辑后的标题、简短介绍和使用建议。
 - `data/library/<id>.json`：原作者、原文提示词、来源和模型说明。构建时直接读取，不另建一份提示词数据库。
 - `site/build.py`：生成完整静态 HTML、独立 metadata、canonical、Open Graph、WebPage/CollectionPage 结构化数据与 sitemap。
 - `site/assets/site.css`、`site.js`：响应式样式、筛选、搜索、复制提示词和预览弹窗。

@@ -142,5 +142,50 @@
       "Inspect landmarks and camera movement before rendering the requested ten-second street journey."
     ],
     "note": "Historical research is part of this task. A plausible-looking scene is not evidence of historical accuracy."
+  },
+  {
+    "id": "2104896325255037196",
+    "slug": "saas-product-motion-prompt",
+    "category": "motion-graphics",
+    "title": "Turn your website into a product film",
+    "description": "A SaaS product promo combining brand colors, bold type, animated UI and a logo reveal.",
+    "tool": "Claude Code",
+    "inputs": "Your product website, brand assets and UI. The author did not list the exact rendering packages.",
+    "steps": [
+      "Copy the shared prompt and replace the website URL with your product.",
+      "Ask the agent to inspect your brand and prepare the animation and rendering tools.",
+      "Preview the scenes, correct product claims and export with your chosen renderer."
+    ],
+    "note": "The author shared the creative prompt and a separate setup step. This repository has not reproduced the result."
+  },
+  {
+    "id": "2110792641277198383",
+    "slug": "cherry-tree-four-seasons-prompt",
+    "category": "3d-worlds",
+    "title": "A year in the life of a cherry tree",
+    "description": "Snow, blossom, cherries and falling leaves in a 16-second brief. The creator preview compares Opus and Gemini.",
+    "tool": "3D animation",
+    "inputs": "A coding agent and a 3D rendering environment. The author did not confirm the exact graphics framework.",
+    "steps": [
+      "Copy the seasonal brief and choose a 3D rendering environment.",
+      "Ask the agent to build the seasonal sequence and inspect frames throughout the animation.",
+      "Review the transitions and export the animation; the original creator used multiple iterations."
+    ],
+    "note": "The preview contains both Opus and Gemini results, with the creator’s model labels. Framework details are inferred in the source record, not confirmed by the author."
+  },
+  {
+    "id": "2109782159250608604",
+    "slug": "machine-skill-turbofan-prompt",
+    "category": "explainers",
+    "title": "Inside a machine: motion and mechanics",
+    "description": "The creator’s machine simulation showcase, with a one-line turbofan brief and a reusable tool setup.",
+    "tool": "Three.js · Machine Skill",
+    "inputs": "Claude Code and the AirsupHQ/machine-skill project linked in the source record. The short prompt relies on that skill.",
+    "steps": [
+      "Read the author’s Machine Skill setup instructions linked in the source record.",
+      "Use the turbofan prompt with the configured skill and inspect the generated scene.",
+      "Check labels, mechanical behavior and numerical claims before recording or sharing."
+    ],
+    "note": "The preview showcases multiple machines. The shared prompt is the turbofan example, not a standalone instruction for every machine shown. This repository has not independently validated the physics or reproduced the result."
   }
 ]
