@@ -5,6 +5,10 @@ on:
     paths:
       - "site/**"
       - "data/library/**"
+      - "data/latest-update.json"
+      - "data/categories/**"
+      - "data/covers/**"
+      - "templates/**"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 permissions:

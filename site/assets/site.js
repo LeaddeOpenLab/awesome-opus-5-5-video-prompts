@@ -29,38 +29,53 @@ const search = document.querySelector("input[data-search]");
 const cards = [...document.querySelectorAll("[data-card]")];
 const filters = [...document.querySelectorAll("[data-filter]")];
 let category = "all";
+let browse = "selected";
+let limit = 24;
+const browseButtons = [...document.querySelectorAll("[data-browse]")];
+const more = document.querySelector("[data-more]");
 function filterCards() {
   const query = search?.value.trim().toLowerCase() || "";
+  // Searching always includes the full library, without duplicate selected cards.
+  const mode = query ? "all" : browse;
   let visible = 0;
   for (const card of cards) {
-    const show =
-      (category === "all" || card.dataset.category === category) &&
-      (card.dataset.search + " " + card.textContent.toLowerCase()).includes(
-        query,
-      );
-    card.hidden = !show;
-    if (show) visible++;
+    const inMode = mode === "selected" ? card.dataset.mode === "selected" :
+      card.dataset.mode === "catalog" && (mode !== "latest" || card.dataset.new === "true");
+    const matches = inMode &&
+      (category === "all" || card.dataset.category.split(" ").includes(category)) &&
+      (card.dataset.search + " " + card.textContent.toLowerCase()).includes(query);
+    card.hidden = !(matches && visible < limit);
+    if (matches) visible++;
   }
+  browseButtons.forEach(button => button.setAttribute("aria-pressed", String(button.dataset.browse === mode)));
+  document.querySelector(".showcase-grid")?.classList.toggle("catalog-grid", mode !== "selected");
   const count = document.querySelector("[data-count]");
-  if (count)
-    count.textContent = t(
-      `${visible} ${visible === 1 ? "example" : "examples"}`,
-    );
+  if (count) count.textContent = t(`${visible} ${visible === 1 ? "example" : "examples"}`);
+  if (more) more.hidden = visible <= limit;
   const empty = document.querySelector("[data-empty]");
   if (empty) empty.hidden = visible !== 0;
   document.dispatchEvent(new Event("collectionfiltered"));
 }
-search?.addEventListener("input", filterCards);
+search?.addEventListener("input", () => { limit = 24; filterCards(); });
 document.addEventListener("languagechange", filterCards);
-filters.forEach((button) =>
-  button.addEventListener("click", () => {
-    category = button.dataset.filter;
-    filters.forEach((item) =>
-      item.setAttribute("aria-pressed", String(item === button)),
-    );
-    filterCards();
-  }),
-);
+filters.forEach(button => button.addEventListener("click", () => {
+  category = button.dataset.filter;
+  // A category selection browses all entries in that category.
+  if (browse === "selected") browse = "all";
+  limit = 24;
+  filters.forEach(item => item.setAttribute("aria-pressed", String(item === button)));
+  filterCards();
+}));
+browseButtons.forEach(button => button.addEventListener("click", () => {
+  browse = button.dataset.browse;
+  category = "all";
+  if (search) search.value = "";
+  limit = 24;
+  filters.forEach(item => item.setAttribute("aria-pressed", String(item.dataset.filter === "all")));
+  filterCards();
+}));
+more?.addEventListener("click", () => { limit += 24; filterCards(); });
+filterCards();
 document.querySelectorAll("[data-copy]").forEach((button) =>
   button.addEventListener("click", async () => {
     const code = document.getElementById(button.dataset.copy);
@@ -134,7 +149,7 @@ if (dialog) {
 const played = new Set();
 document.querySelectorAll("video").forEach((video) => {
   video.addEventListener("playing", () => {
-    const placement = video.matches("[data-hero-video]") ? "hero" : video.dataset.cardVideo || (video.closest("dialog") ? "preview" : "detail");
+    const placement = video.matches("[data-hero-video]") ? "hero" : video.dataset.cardVideo || (video.closest("dialog") ? "preview" : video.classList.contains("template-video") ? "template" : "detail");
     const key = placement + video.dataset.promptId;
     if (played.has(key)) return;
     played.add(key);

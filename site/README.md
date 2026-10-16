@@ -1,5 +1,22 @@
 # Leadde Open Lab · GitHub Pages
 
+## Catalog and template updates
+
+The homepage now includes Selected / Latest / All browsing, seven use-case filters,
+full-library search and batches of 24 cards. Category counts cover the complete
+library; records may appear in multiple categories. Search covers all records.
+
+`site/catalog.py` reads published records from `data/library/` with matching
+`prompts/<id>.md` files. Cards use existing covers, author, purpose, tools and
+prompt status. Latest means records stored on the date in `data/latest-update.json`.
+Non-selected cases link to the existing GitHub prompt rather than generating new
+detail pages. The nine selected detail pages and their previews remain intact.
+
+Three editable templates reuse their existing posters and MP4 previews, linking
+to their GitHub directories and Chinese guides. Pages rebuilds also watch template,
+category, cover and latest-update changes. Updates pushed with GITHUB_TOKEN still
+need an explicit deployment trigger, as described below.
+
 这是 `awesome-opus-5-5-video-prompts` 的轻量内容站。沿用 Leadde 的紫色、Logo、白底和深灰文字，以作品和使用信息为主。首页、三个专题、九个案例共 13 个可索引页面；另有 404 页面。
 
 ## 本地预览

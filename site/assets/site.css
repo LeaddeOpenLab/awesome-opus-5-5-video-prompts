@@ -1319,3 +1319,26 @@ html[lang="zh-CN"] .hero h1 {
 .star-hint span { color: var(--muted); }
 .star-hint a { color: var(--purple-dark); font-weight: 550; }
 .star-hint a:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+/* Library browsing extends the existing cards and color system. */
+.collection-nav { flex-wrap: wrap; }
+.collection-nav .filter { font: inherit; cursor: pointer; }
+.filter small { opacity: .65; margin-left: 4px; }
+.catalog-meta { font-size: 12px; color: var(--muted); overflow-wrap: anywhere; }
+.new-badge { color: var(--purple-dark); background: var(--lilac); border-radius: 4px; padding: 2px 7px; }
+.catalog-grid .catalog-card { grid-column: span 4; min-width: 0; }
+.catalog-card h3 { font-size: 18px; overflow-wrap: anywhere; }
+.catalog-card .card-media img { aspect-ratio: 16/9; object-fit: cover; }
+.catalog-placeholder { aspect-ratio: 16/9; display: grid; place-items: center; background: var(--lilac); color: var(--purple-dark); }
+.catalog-card .card-info { padding-top: 16px; }
+.catalog-card .card-top { flex-wrap: wrap; }
+.load-more { margin: 28px auto 0; cursor: pointer; }
+.template-video { width: 100%; aspect-ratio: 16/9; display: block; background: #131319; border-radius: 12px; }
+.templates { border-top: 1px solid var(--line); padding-top: 42px; }
+[hidden] { display: none !important; }
+@media (max-width: 760px) { .catalog-grid .catalog-card { grid-column: span 6; } }
+@media (max-width: 450px) {
+  .catalog-grid .catalog-card { grid-column: 1 / -1; }
+  .showcase-grid .catalog-card p { display: block !important; }
+  .catalog-card .card-bottom { font-size: 12px !important; }
+}
