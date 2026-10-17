@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T17:02:08.539Z",
+  "model": "opus5.5",
+  "prompt": "Create a single self-contained HTML file with a beautiful, colorful 3D physics scene using Three.js (load it from https://t.co/vqULHd2mcL via an import map). No physics libraries: write the physics yourself. Scene: a tall tower of at least 40 brightly colored blocks (rainbow palette) standing on a glossy floor. A heavy chrome wrecking ball on a chain swings in from the side, smashes into the tower, and the blocks tumble, collide with each other and the floor, and come to rest realistically. Blocks must never pass through the floor or each other. Include gravity, collisions, friction, and rotation. Make it cinematic: dark gradient background, soft shadows, nice lighting, and a camera slowly orbiting the scene. The ball should hit the tower within the first 3 seconds. Fill the whole browser window. Return only the code.",
+  "promptTranslations": {
+    "en": "Create a single self-contained HTML file with a beautiful, colorful 3D physics scene using Three.js (load it from https://t.co/vqULHd2mcL via an import map). No physics libraries: write the physics yourself. Scene: a tall tower of at least 40 brightly colored blocks (rainbow palette) standing on a glossy floor. A heavy chrome wrecking ball on a chain swings in from the side, smashes into the tower, and the blocks tumble, collide with each other and the floor, and come to rest realistically. Blocks must never pass through the floor or each other. Include gravity, collisions, friction, and rotation. Make it cinematic: dark gradient background, soft shadows, nice lighting, and a camera slowly orbiting the scene. The ball should hit the tower within the first 3 seconds. Fill the whole browser window. Return only the code."
+  },
+  "summary": "Claude Opus 5.5 generates a self-contained HTML file implementing a custom 3D rigid body physics simulation in Three.js without physics libraries, featuring a chrome wrecking ball colliding with a 40-block rainbow tower.",
+  "summaryEn": "3D Wrecking Ball and Tower Physics Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111109453206438101",
+    "canonicalUrl": "https://x.com/ivanainai/status/2111109453206438101",
+    "author": {
+      "username": "ivanainai",
+      "displayName": "Ivana",
+      "profileUrl": "https://x.com/ivanainai"
+    },
+    "publishedAt": "2026-10-16T14:58:10.000Z",
+    "collectedAt": "2026-10-16T16:16:17.192Z",
+    "language": "en",
+    "originalText": "GPT-6 Astra just beat Opus 5.5 at physics. And it was cheaper.\n\nSame prompt. One shot each. A wrecking ball vs a 40-block tower, physics written from scratch.\n\nAstra: blocks scatter, land and settle like real objects. $0.63.\nOpus: prettier lighting, then the ball just hangs inside the pile. $0.85.\n\nOpus spent 42K tokens thinking to lose to 12.5K 💀",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ivanainai/status/2111109453206438101",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111109339599503360/img/wycRt7IgnVQi5dRQ.jpg",
+        "analysisUrl": "https://x.com/ivanainai/status/2111109453206438101"
+      }
+    ],
+    "metrics": {
+      "likeCount": 8,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 1,
+      "viewCount": 263
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ivanainai/status/2111110105835941933",
+        "text": "Prompt: Create a single self-contained HTML file with a beautiful, colorful 3D physics scene using Three.js (load it from https://t.co/vqULHd2mcL via an import map). No physics libraries: write the physics yourself. Scene: a tall tower of at least 40 brightly colored blocks (rainbow palette) standing on a glossy floor. A heavy chrome wrecking ball on a chain swings in from the side, smashes into the tower, and the blocks tumble, collide with each other and the floor, and come to rest realistically. Blocks must never pass through the floor or each other. Include gravity, collisions, friction, and rotation. Make it cinematic: dark gradient background, soft shadows, nice lighting, and a camera slowly orbiting the scene. The ball should hit the tower within the first 3 seconds. Fill the whole browser window. Return only the code.",
+        "author": "ivanainai"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/vqULHd2mcL"
+    ]
+  },
+  "xUrl": "https://x.com/ivanainai/status/2111109453206438101",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111109339599503360/img/wycRt7IgnVQi5dRQ.jpg",
+  "coverPath": "data/covers/2111109453206438101-wide.jpg",
+  "gifPath": "data/gifs/2111109453206438101.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111109339599503360",
+    "x-post:2111109453206438101"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "3D Wrecking Ball and Tower Physics Simulation",
+      "summary": "Claude Opus 5.5 generates a self-contained HTML file implementing a custom 3D rigid body physics simulation in Three.js without physics libraries, featuring a chrome wrecking ball colliding with a 40-block rainbow tower.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "GPT-6 Astra just beat Opus 5.5 at physics. And it was cheaper. Same prompt. One shot each."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create a single self-contained HTML file with a beautiful, colorful 3D physics scene using Three.js (load it from https://t.co/vqULHd2mcL via an import map). No physics libraries: write the physics yourself. Scene: a tall tower of at least 40 brightly colored blocks (rainbow palette) standing on a glossy floor. A heavy chrome wrecking ball on a chain swings in from the side, smashes into the tower, and the blocks tumble, collide with each other and the floor, and come to rest realistically. Blocks must never pass through the floor or each other. Include gravity, collisions, friction, and rotation. Make it cinematic: dark gradient background, soft shadows, nice lighting, and a camera slowly orbiting the scene. The ball should hit the tower within the first 3 seconds. Fill the whole browser window. Return only the code.",
+        "englishText": "Create a single self-contained HTML file with a beautiful, colorful 3D physics scene using Three.js (load it from https://t.co/vqULHd2mcL via an import map). No physics libraries: write the physics yourself. Scene: a tall tower of at least 40 brightly colored blocks (rainbow palette) standing on a glossy floor. A heavy chrome wrecking ball on a chain swings in from the side, smashes into the tower, and the blocks tumble, collide with each other and the floor, and come to rest realistically. Blocks must never pass through the floor or each other. Include gravity, collisions, friction, and rotation. Make it cinematic: dark gradient background, soft shadows, nice lighting, and a camera slowly orbiting the scene. The ball should hit the tower within the first 3 seconds. Fill the whole browser window. Return only the code.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows the rendered Three.js output with a rainbow block tower on a glossy floor smashed by a swinging chrome wrecking ball on a chain within the first 3 seconds, illuminated with colored rim lighting and orbiting camera.",
+        "textualResultQuote": "Opus: prettier lighting, then the ball just hangs inside the pile. $0.85."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "Create a single self-contained HTML file with a beautiful, colorful 3D physics scene using Three.js (load it from https://t.co/vqULHd2mcL via an import map).",
+          "sourceUrl": "https://x.com/ivanainai/status/2111110105835941933",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Wrecking Ball vs Block Tower 3D Physics Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "physics",
+          "simulation",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Generates the complete HTML, styling, Three.js scene setup, and custom JavaScript rigid body physics engine from scratch.",
+      "outputSource": "Web browser executing the self-contained HTML file and rendering through WebGL / Three.js.",
+      "divisionEvidence": "Claude Opus 5.5 was prompted to 'Return only the code' and 'write the physics yourself', with the browser rendering the resulting Three.js code.",
+      "video": {
+        "shots": "Single orbiting perspective camera view",
+        "duration": "15s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Direct author-demonstrated Claude Opus 5.5 video generation case featuring complete original instructions, confirmed model version, and side-by-side screen recording of the resulting 3D simulation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/ivanainai/status/2111110105835941933",
+        "start": 8,
+        "end": 837
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/ivanainai/status/2111109453206438101",
+        "author": "ivanainai",
+        "postId": "2111109453206438101",
+        "publishedAt": "2026-10-16T14:58:10.000Z"
+      },
+      "checkedAt": "2026-10-16T16:19:05.528Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ivanainai/status/2111110105835941933",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generates a self-contained HTML file implementing a custom 3D rigid body physics simulation in Three.js without physics libraries, featuring a chrome wrecking ball colliding with a 40-block rainbow tower.",
+    "summaryEn": "3D Wrecking Ball and Tower Physics Simulation",
+    "originalPrompt": "Create a single self-contained HTML file with a beautiful, colorful 3D physics scene using Three.js (load it from https://t.co/vqULHd2mcL via an import map). No physics libraries: write the physics yourself. Scene: a tall tower of at least 40 brightly colored blocks (rainbow palette) standing on a glossy floor. A heavy chrome wrecking ball on a chain swings in from the side, smashes into the tower, and the blocks tumble, collide with each other and the floor, and come to rest realistically. Blocks must never pass through the floor or each other. Include gravity, collisions, friction, and rotation. Make it cinematic: dark gradient background, soft shadows, nice lighting, and a camera slowly orbiting the scene. The ball should hit the tower within the first 3 seconds. Fill the whole browser window. Return only the code.",
+    "sourceRange": {
+      "start": 8,
+      "end": 837
+    },
+    "translations": {
+      "zh": "Create a single self-contained HTML file with a beautiful, colorful 3D physics scene using Three.js (load it from https://t.co/vqULHd2mcL via an import map). No physics libraries: write the physics yourself. Scene: a tall tower of at least 40 brightly colored blocks (rainbow palette) standing on a glossy floor. A heavy chrome wrecking ball on a chain swings in from the side, smashes into the tower, and the blocks tumble, collide with each other and the floor, and come to rest realistically. Blocks must never pass through the floor or each other. Include gravity, collisions, friction, and rotation. Make it cinematic: dark gradient background, soft shadows, nice lighting, and a camera slowly orbiting the scene. The ball should hit the tower within the first 3 seconds. Fill the whole browser window. Return only the code.",
+      "en": "Create a single self-contained HTML file with a beautiful, colorful 3D physics scene using Three.js (load it from https://t.co/vqULHd2mcL via an import map). No physics libraries: write the physics yourself. Scene: a tall tower of at least 40 brightly colored blocks (rainbow palette) standing on a glossy floor. A heavy chrome wrecking ball on a chain swings in from the side, smashes into the tower, and the blocks tumble, collide with each other and the floor, and come to rest realistically. Blocks must never pass through the floor or each other. Include gravity, collisions, friction, and rotation. Make it cinematic: dark gradient background, soft shadows, nice lighting, and a camera slowly orbiting the scene. The ball should hit the tower within the first 3 seconds. Fill the whole browser window. Return only the code."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Wrecking Ball vs Block Tower 3D Physics Simulation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows the rendered Three.js output with a rainbow block tower on a glossy floor smashed by a swinging chrome wrecking ball on a chain within the first 3 seconds, illuminated with colored rim lighting and orbiting camera."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

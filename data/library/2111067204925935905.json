@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T17:02:09.284Z",
+  "model": "opus5.5",
+  "prompt": "a 3D mechanical watch movement in one HTML file. a gear train that meshes, an escapement, a balance wheel at 4 Hz, real time on the hands and a button for an exploded view",
+  "promptTranslations": {
+    "en": "a 3D mechanical watch movement in one HTML file. a gear train that meshes, an escapement, a balance wheel at 4 Hz, real time on the hands and a button for an exploded view"
+  },
+  "summary": "Claude Opus 5.5 generated a self-contained single-file HTML 3D mechanical watch movement featuring a meshing gear train, escapement, 4 Hz balance wheel, real-time clock hands, and an interactive exploded view.",
+  "summaryEn": "Interactive 3D Mechanical Watch Movement in HTML",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111067204925935905",
+    "canonicalUrl": "https://x.com/arixxbt/status/2111067204925935905",
+    "author": {
+      "username": "arixxbt",
+      "displayName": "Arix",
+      "profileUrl": "https://x.com/arixxbt"
+    },
+    "publishedAt": "2026-10-16T12:10:18.000Z",
+    "collectedAt": "2026-10-16T16:16:17.192Z",
+    "language": "en",
+    "originalText": "FREE DEEPSEEK V4.1 FLASH THOUGHT FOR 32,000 TOKENS AND WROTE ZERO LINES. TWICE. THEN I FOUND THE SWITCH\n\nthe prompt: a 3D mechanical watch movement in one HTML file. a gear train that meshes, an escapement, a balance wheel at 4 Hz, real time on the hands and a button for an exploded view\n\nDeepSeek V4.1 Flash is free in OpenCode right now. on default settings it spent its whole 32K budget thinking, both runs, about 4 minutes each, and never wrote a file\n\non the third run i set thinking to low. 7 minutes, 885 lines, and it fixed its own screw positions halfway through. the exploded view works and every layer stays in frame\n\nOpus 5.5 got the same prompt for about 16 cents of output. 461 lines, striped gold bridges, blued screws, a mainspring you can see. but its camera sits too close and the exploded layers fly out of the shot\n\non a build like this the free model is close. the catch is one setting. on big one-file builds put DeepSeek on low thinking, or it burns the whole budget before line one\n\n0 lines, 0 lines, 885 lines. the $0 model just needed to be told to think less",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/arixxbt/status/2111067204925935905",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111067126031073280/img/1XcaZRqZVEoFfTCV.jpg",
+        "analysisUrl": "https://x.com/arixxbt/status/2111067204925935905"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 313
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/arixxbt/status/2111074241122877612",
+        "text": "@semichenkko it built the nicer watch for sure. deepseek still won the camera though, and it cost $0",
+        "author": "arixxbt"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/arixxbt/status/2111067204925935905",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111067126031073280/img/1XcaZRqZVEoFfTCV.jpg",
+  "coverPath": "data/covers/2111067204925935905-wide.jpg",
+  "gifPath": "data/gifs/2111067204925935905.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111067126031073280",
+    "x-post:2111067204925935905"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Mechanical Watch Movement in HTML",
+      "summary": "Claude Opus 5.5 generated a self-contained single-file HTML 3D mechanical watch movement featuring a meshing gear train, escapement, 4 Hz balance wheel, real-time clock hands, and an interactive exploded view.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 got the same prompt for about 16 cents of output. 461 lines, striped gold bridges, blued screws, a mainspring you can see."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "a 3D mechanical watch movement in one HTML file. a gear train that meshes, an escapement, a balance wheel at 4 Hz, real time on the hands and a button for an exploded view",
+        "englishText": "a 3D mechanical watch movement in one HTML file. a gear train that meshes, an escapement, a balance wheel at 4 Hz, real time on the hands and a button for an exploded view",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording compares the generated 3D watch movements side by side. In the Opus 5.5 segment, the 3D watch movement is rendered with striped gold bridges, blued screws, working balance wheel, real-time clock hands, and triggers an exploded view animation when clicking the Assemble/Exploded View button.",
+        "textualResultQuote": "461 lines, striped gold bridges, blued screws, a mainspring you can see. but its camera sits too close and the exploded layers fly out of the shot"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web Browser / WebGL Canvas",
+          "role": "Renders and executes the single-file HTML/JavaScript 3D scene code generated by Claude Opus 5.5",
+          "evidence": "a 3D mechanical watch movement in one HTML file.",
+          "status": "inferred",
+          "sourceUrl": "https://x.com/arixxbt/status/2111067204925935905"
+        }
+      ],
+      "purpose": {
+        "label": "3D mechanical watch movement simulation with exploded view",
+        "topic": "3d-scenes",
+        "tags": [
+          "3d-scenes",
+          "canvas-interactive",
+          "mechanical-watch",
+          "webgl",
+          "html"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 authored the complete 461-line standalone HTML/WebGL application script simulating the watch movement and exploded view.",
+      "outputSource": "Web browser executing the HTML/WebGL code generated by Claude Opus 5.5.",
+      "divisionEvidence": "Claude Opus 5.5 wrote the single-file HTML application code ('Opus 5.5 got the same prompt for about 16 cents of output. 461 lines'), which was subsequently loaded and recorded in a browser.",
+      "video": {
+        "shots": "Side-by-side comparison screen recording showing real-time interactive 3D rotation and exploded view actuation",
+        "duration": "13s",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "The post provides the complete verbatim prompt given to Claude Opus 5.5, explicit model version attribution, and a screen recording showing the resulting 3D canvas interactive animation running in real-time.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/arixxbt/status/2111067204925935905",
+        "start": 117,
+        "end": 288
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/arixxbt/status/2111067204925935905",
+        "author": "arixxbt",
+        "postId": "2111067204925935905",
+        "publishedAt": "2026-10-16T12:10:18.000Z"
+      },
+      "checkedAt": "2026-10-16T16:30:45.494Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/arixxbt/status/2111067204925935905",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated a self-contained single-file HTML 3D mechanical watch movement featuring a meshing gear train, escapement, 4 Hz balance wheel, real-time clock hands, and an interactive exploded view.",
+    "summaryEn": "Interactive 3D Mechanical Watch Movement in HTML",
+    "originalPrompt": "a 3D mechanical watch movement in one HTML file. a gear train that meshes, an escapement, a balance wheel at 4 Hz, real time on the hands and a button for an exploded view",
+    "sourceRange": {
+      "start": 117,
+      "end": 288
+    },
+    "translations": {
+      "zh": "a 3D mechanical watch movement in one HTML file. a gear train that meshes, an escapement, a balance wheel at 4 Hz, real time on the hands and a button for an exploded view",
+      "en": "a 3D mechanical watch movement in one HTML file. a gear train that meshes, an escapement, a balance wheel at 4 Hz, real time on the hands and a button for an exploded view"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "3D mechanical watch movement simulation with exploded view",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The screen recording compares the generated 3D watch movements side by side. In the Opus 5.5 segment, the 3D watch movement is rendered with striped gold bridges, blued screws, working balance wheel, real-time clock hands, and triggers an exploded view animation when clicking the Assemble/Exploded View button."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

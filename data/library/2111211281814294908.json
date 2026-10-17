@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T05:44:43.232Z",
+  "model": "opus5.5",
+  "prompt": "Build a Rube Goldberg machine.",
+  "promptTranslations": {
+    "en": "Build a Rube Goldberg machine."
+  },
+  "summary": "Comparison of single-shot Rube Goldberg machine animations generated across multiple models, highlighting Claude Opus 5.5 creating a 13-stage 3D workshop chain reaction ending with a rocket liftoff.",
+  "summaryEn": "Rube Goldberg Machine Benchmark Comparison",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111211281814294908",
+    "canonicalUrl": "https://x.com/mkeremturhan/status/2111211281814294908",
+    "author": {
+      "username": "mkeremturhan",
+      "displayName": "Kerem — road to $100k",
+      "profileUrl": "https://x.com/mkeremturhan"
+    },
+    "publishedAt": "2026-10-16T21:42:48.000Z",
+    "collectedAt": "2026-10-17T05:30:44.390Z",
+    "language": "en",
+    "originalText": "Same prompt. Build a Rube Goldberg machine. One shot.\n\nOpus 5.5: full 3D workshop, 13 stages, rocket liftoff finale. 21 min.\nGrok 4.7: pretty 2D gold tracks. Needed the full 60 minutes.\nSpace Bunny: a labeled blueprint. Nice diagram, not a machine.\nNVIDIA Nemotron: frozen until I fixed the null error. GPT-3 level in 2026.\n\nThere's Opus 5.5, and there's everyone else.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/mkeremturhan/status/2111211281814294908",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111210289639153664/img/pZevkfukyzX5dSX9.jpg",
+        "analysisUrl": "https://x.com/mkeremturhan/status/2111211281814294908"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 153
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/mkeremturhan/status/2111213401762394195",
+        "text": "@broIMxd Spot on. It’s definitely more about spatial 'taste' than just raw code logic. Opus actually gets what a machine is.",
+        "author": "mkeremturhan"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/mkeremturhan/status/2111211281814294908",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111210289639153664/img/pZevkfukyzX5dSX9.jpg",
+  "coverPath": "data/covers/2111211281814294908-wide.jpg",
+  "gifPath": "data/gifs/2111211281814294908.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111210289639153664",
+    "x-post:2111211281814294908"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Rube Goldberg Machine Benchmark Comparison",
+      "summary": "Comparison of single-shot Rube Goldberg machine animations generated across multiple models, highlighting Claude Opus 5.5 creating a 13-stage 3D workshop chain reaction ending with a rocket liftoff.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5: full 3D workshop, 13 stages, rocket liftoff finale. 21 min."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Build a Rube Goldberg machine.",
+        "englishText": "Build a Rube Goldberg machine.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full benchmark prompt text",
+          "System instructions",
+          "Renderer and runtime environment constraints"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The top-left panel of the video shows Opus 5.5's generated 3D workshop scene executing a continuous multi-stage Rube Goldberg chain reaction culminating in a rocket liftoff finale with fireworks.",
+        "textualResultQuote": "Opus 5.5: full 3D workshop, 13 stages, rocket liftoff finale. 21 min."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [],
+      "purpose": {
+        "label": "Rube Goldberg Chain Reaction Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "rube-goldberg",
+          "physics-simulation",
+          "3d-animation",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Generates complete 3D simulation and animation code for the multi-stage machine.",
+      "outputSource": "Web canvas / WebGL runtime environment executing the generated script.",
+      "divisionEvidence": "The author contrasts Opus 5.5's code logic and spatial output with other LLMs, noting Opus took 21 minutes to generate the machine.",
+      "video": {
+        "shots": "1",
+        "duration": "29s",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic video demonstration of Opus 5.5 generating an animated 3D interactive physics simulation scene.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/mkeremturhan/status/2111211281814294908",
+        "start": 13,
+        "end": 43
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/mkeremturhan/status/2111211281814294908",
+        "author": "mkeremturhan",
+        "postId": "2111211281814294908",
+        "publishedAt": "2026-10-16T21:42:48.000Z"
+      },
+      "checkedAt": "2026-10-17T05:33:54.102Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/mkeremturhan/status/2111211281814294908",
+        "evidence": ""
+      }
+    },
+    "summary": "Comparison of single-shot Rube Goldberg machine animations generated across multiple models, highlighting Claude Opus 5.5 creating a 13-stage 3D workshop chain reaction ending with a rocket liftoff.",
+    "summaryEn": "Rube Goldberg Machine Benchmark Comparison",
+    "originalPrompt": "Build a Rube Goldberg machine.",
+    "sourceRange": {
+      "start": 13,
+      "end": 43
+    },
+    "translations": {
+      "zh": "Build a Rube Goldberg machine.",
+      "en": "Build a Rube Goldberg machine."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Rube Goldberg Chain Reaction Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full benchmark prompt text",
+        "System instructions",
+        "Renderer and runtime environment constraints"
+      ],
+      "evidence": "The top-left panel of the video shows Opus 5.5's generated 3D workshop scene executing a continuous multi-stage Rube Goldberg chain reaction culminating in a rocket liftoff finale with fireworks."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

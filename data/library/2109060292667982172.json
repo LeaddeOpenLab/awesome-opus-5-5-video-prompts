@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T17:02:10.276Z",
+  "model": "opus5.5",
+  "prompt": "can you create a really trippy visual for me using three.js and webgpu to show off your 3d capabilities? whatever fantastical and whimsical thing comes to mind...you can put it in https://t.co/QLGn7mQK6h",
+  "promptTranslations": {
+    "en": "can you create a really trippy visual for me using three.js and webgpu to show off your 3d capabilities? whatever fantastical and whimsical thing comes to mind...you can put it in https://t.co/QLGn7mQK6h"
+  },
+  "summary": "Demonstration of Claude Opus 5.5 generating an interactive 3D WebGPU visualization featuring fantastical jellyfish and flowers.",
+  "summaryEn": "Interactive 3D Moon Garden with Three.js and WebGPU",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2109060292667982172",
+    "canonicalUrl": "https://x.com/ashebytes/status/2109060292667982172",
+    "author": {
+      "username": "ashebytes",
+      "displayName": "ashe",
+      "profileUrl": "https://x.com/ashebytes"
+    },
+    "publishedAt": "2026-10-10T23:15:32.000Z",
+    "collectedAt": "2026-10-16T16:16:17.192Z",
+    "language": "en",
+    "originalText": "reminder: when using astra or opus 5.5 for visualizations, prompt it to use three.js / webgpu\n\nwill make a world of difference in what it 1 shots\n\nprompt: \"can you create a really trippy visual for me using three.js and webgpu to show off your 3d capabilities? whatever fantastical and whimsical thing comes to mind...you can put it in https://t.co/QLGn7mQK6h\"",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ashebytes/status/2109060292667982172",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2109059434899247104/img/uyUL0rvIraxz5YTk.jpg",
+        "analysisUrl": "https://x.com/ashebytes/status/2109060292667982172"
+      }
+    ],
+    "metrics": {
+      "likeCount": 317,
+      "repostCount": 12,
+      "replyCount": 16,
+      "quoteCount": 1,
+      "viewCount": 11924
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ashebytes/status/2109068910352007177",
+        "text": "@DanielZambrini not sure what context your opus 5.5 is pulling from..\n\nall these 1 shots of 3d visuals will look better if you steer it with \"use three.js/webgpu where it makes sense\"\n\nand for products I like throwing in \"use shadcn where you can\"",
+        "author": "ashebytes"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ashebytes/status/2109068032299729085",
+        "text": "@shin86dev didn't realize that the models don't reflexively go for it with 3d visualizing.. \n\nvery key to steer it to use three.js",
+        "author": "ashebytes"
+      },
+      {
+        "url": "https://ashe.ai/explainers/",
+        "text": "Ashe Magalhaes",
+        "kind": "linked_public_material",
+        "author": "ashebytes"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/ashebytes/status/2109060292667982172",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2109059434899247104/img/uyUL0rvIraxz5YTk.jpg",
+  "coverPath": "data/covers/2109060292667982172-wide.jpg",
+  "gifPath": "data/gifs/2109060292667982172.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2109059434899247104",
+    "x-post:2109060292667982172"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Moon Garden with Three.js and WebGPU",
+      "summary": "Demonstration of Claude Opus 5.5 generating an interactive 3D WebGPU visualization featuring fantastical jellyfish and flowers.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "reminder: when using astra or opus 5.5 for visualizations... not sure what context your opus 5.5 is pulling from.. all these 1 shots of 3d visuals will look better if you steer it with \"use three.js/webgpu where it makes sense\""
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "can you create a really trippy visual for me using three.js and webgpu to show off your 3d capabilities? whatever fantastical and whimsical thing comes to mind...you can put it in https://t.co/QLGn7mQK6h",
+        "englishText": "can you create a really trippy visual for me using three.js and webgpu to show off your 3d capabilities? whatever fantastical and whimsical thing comes to mind...you can put it in https://t.co/QLGn7mQK6h",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates an interactive WebGPU 3D scene 'The Moon Garden' with floating glowing jellyfish and interactive controls.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "target_url",
+          "description": "Deployment endpoint / playground site",
+          "available": true,
+          "evidence": "you can put it in https://t.co/QLGn7mQK6h",
+          "sourceUrl": "https://t.co/QLGn7mQK6h",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D scene creation and rendering framework",
+          "evidence": "prompt it to use three.js / webgpu",
+          "sourceUrl": "https://x.com/ashebytes/status/2109060292667982172",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "can you create a really trippy visual for me using three.js and webgpu to show off your 3d capabilities?",
+          "sourceUrl": "https://x.com/ashebytes/status/2109060292667982172",
+          "status": "required"
+        },
+        {
+          "name": "WebGPU",
+          "role": "Graphics rendering API backend",
+          "evidence": "prompt it to use three.js / webgpu",
+          "sourceUrl": "https://x.com/ashebytes/status/2109060292667982172",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "WebGPU",
+          "role": "GPU rendering API",
+          "evidence": "can you create a really trippy visual for me using three.js and webgpu to show off your 3d capabilities?",
+          "sourceUrl": "https://x.com/ashebytes/status/2109060292667982172",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Web Scene",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgpu",
+          "creative-coding",
+          "interactive"
+        ]
+      },
+      "targetModelRole": "Interactive code generation for 3D visualization",
+      "outputSource": "Web browser executing generated Three.js/WebGPU script",
+      "divisionEvidence": "prompt: \"can you create a really trippy visual for me using three.js and webgpu to show off your 3d capabilities?\"",
+      "video": {
+        "shots": "Single continuous screen capture",
+        "duration": "00:29",
+        "aspectRatio": "1.87:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Clear demonstration of Claude Opus 5.5 generating an interactive 3D WebGPU application with full prompt and screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/ashebytes/status/2109060292667982172",
+        "start": 156,
+        "end": 359
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/ashebytes/status/2109060292667982172",
+        "author": "ashebytes",
+        "postId": "2109060292667982172",
+        "publishedAt": "2026-10-10T23:15:32.000Z"
+      },
+      "checkedAt": "2026-10-16T16:53:15.207Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ashebytes/status/2109060292667982172",
+        "evidence": ""
+      }
+    },
+    "summary": "Demonstration of Claude Opus 5.5 generating an interactive 3D WebGPU visualization featuring fantastical jellyfish and flowers.",
+    "summaryEn": "Interactive 3D Moon Garden with Three.js and WebGPU",
+    "originalPrompt": "can you create a really trippy visual for me using three.js and webgpu to show off your 3d capabilities? whatever fantastical and whimsical thing comes to mind...you can put it in https://t.co/QLGn7mQK6h",
+    "sourceRange": {
+      "start": 156,
+      "end": 359
+    },
+    "translations": {
+      "zh": "can you create a really trippy visual for me using three.js and webgpu to show off your 3d capabilities? whatever fantastical and whimsical thing comes to mind...you can put it in https://t.co/QLGn7mQK6h",
+      "en": "can you create a really trippy visual for me using three.js and webgpu to show off your 3d capabilities? whatever fantastical and whimsical thing comes to mind...you can put it in https://t.co/QLGn7mQK6h"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Web Scene",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Screen recording demonstrates an interactive WebGPU 3D scene 'The Moon Garden' with floating glowing jellyfish and interactive controls."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

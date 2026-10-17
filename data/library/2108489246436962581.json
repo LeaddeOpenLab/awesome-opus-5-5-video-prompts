@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T17:02:09.781Z",
+  "model": "opus5.5",
+  "prompt": "Build a single-file interactive WebGPU page called \"Plush Hammerhead\".\n\nPage: an editorial layout with a big two-line title \"Plush / Hammerhead.\", a warm studio-grey background, a control panel on the right, live readouts and collapsible technical notes. English UI.\n\nThe toy: a plush hammerhead shark. It has a wide, flat hammer-shaped head (cephalofoil) whose ends sweep back a little, with a shallow notch at the middle of the front edge. A glass eye sits on each tip of the hammer, looking out sideways. It has a tall sickle-shaped dorsal fin, two pectoral fins and a tail with a long upper lobe and a small lower one. A cream belly panel is sewn on below a seam along each flank, with embroidered gill lines. A smiling mouth is cut in under the hammer, lined with felt and set with soft white felt teeth; its lower jaw swings open on a hinge.\n\nSimulation:\n- Body, hammer and fins are one signed distance field filled with a soft-body XPBD lattice: shape-matched hexahedral cells and tetrahedral volume preservation. It is skinned to a high-res surface-nets mesh.\n- It swims with a travelling S-wave that bends the cells' rest shapes side to side, more toward the tail, and steers by turning its head, the body curving into each turn.\n- Fur is drawn as alpha-to-coverage shells over minky pile. The pile lags behind each jiggle on a spring and can be combed.\n\nBehaviour:\n- It circles its space.\n- Scan: it sweeps its hammer side to side over the floor the way real hammerheads hunt. It also does this on its own now and then, and a little while hunting.\n- Feed drops in a felt fish: it turns, closes in faster, opens wide and snaps it up.\n- Dash is a burst of fast tail beats; Chomp opens the mouth and snaps it shut.\n- Grab it by the tail and it thrashes; let go and it shoots off.\n- Boop the middle of the hammer with the finger and it wriggles and blushes.\n\nTools: Hand, Finger, Comb.\n\nControls:\n- Buttons: Feed, Dash, Scan, Chomp, Smooth fur, Reset, Pause.\n- Toggles: Circle, quarter speed, Mesh.\n- Sliders: Stuffing, Pile, Tail beat.\n- Three fabrics: Bronze, Lagoon, Sunset.\n- Readouts: mass, volume, beats per minute, fish eaten.\n- Phone layout with a stacked panel.",
+  "promptTranslations": {
+    "en": "Build a single-file interactive WebGPU page called \"Plush Hammerhead\".\n\nPage: an editorial layout with a big two-line title \"Plush / Hammerhead.\", a warm studio-grey background, a control panel on the right, live readouts and collapsible technical notes. English UI.\n\nThe toy: a plush hammerhead shark. It has a wide, flat hammer-shaped head (cephalofoil) whose ends sweep back a little, with a shallow notch at the middle of the front edge. A glass eye sits on each tip of the hammer, looking out sideways. It has a tall sickle-shaped dorsal fin, two pectoral fins and a tail with a long upper lobe and a small lower one. A cream belly panel is sewn on below a seam along each flank, with embroidered gill lines. A smiling mouth is cut in under the hammer, lined with felt and set with soft white felt teeth; its lower jaw swings open on a hinge.\n\nSimulation:\n- Body, hammer and fins are one signed distance field filled with a soft-body XPBD lattice: shape-matched hexahedral cells and tetrahedral volume preservation. It is skinned to a high-res surface-nets mesh.\n- It swims with a travelling S-wave that bends the cells' rest shapes side to side, more toward the tail, and steers by turning its head, the body curving into each turn.\n- Fur is drawn as alpha-to-coverage shells over minky pile. The pile lags behind each jiggle on a spring and can be combed.\n\nBehaviour:\n- It circles its space.\n- Scan: it sweeps its hammer side to side over the floor the way real hammerheads hunt. It also does this on its own now and then, and a little while hunting.\n- Feed drops in a felt fish: it turns, closes in faster, opens wide and snaps it up.\n- Dash is a burst of fast tail beats; Chomp opens the mouth and snaps it shut.\n- Grab it by the tail and it thrashes; let go and it shoots off.\n- Boop the middle of the hammer with the finger and it wriggles and blushes.\n\nTools: Hand, Finger, Comb.\n\nControls:\n- Buttons: Feed, Dash, Scan, Chomp, Smooth fur, Reset, Pause.\n- Toggles: Circle, quarter speed, Mesh.\n- Sliders: Stuffing, Pile, Tail beat.\n- Three fabrics: Bronze, Lagoon, Sunset.\n- Readouts: mass, volume, beats per minute, fish eaten.\n- Phone layout with a stacked panel."
+  },
+  "summary": "Claude Opus 5.5 generated a single-file interactive WebGPU simulation of a plush hammerhead shark with XPBD physics, fur rendering, and controls.",
+  "summaryEn": "Plush Hammerhead Interactive WebGPU Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2108489246436962581",
+    "canonicalUrl": "https://x.com/karanC_12/status/2108489246436962581",
+    "author": {
+      "username": "karanC_12",
+      "displayName": "KC",
+      "profileUrl": "https://x.com/karanC_12"
+    },
+    "publishedAt": "2026-10-09T09:26:24.000Z",
+    "collectedAt": "2026-10-16T16:16:17.192Z",
+    "language": "en",
+    "originalText": "Claude Opus 5.5 vs GPT-6 Astra 🦈\n\nSame prompt. Two VERY different sharks.\n\nWhich one actually nailed the prompt—and which one completely missed the mark? 👀🔥 https://t.co/bDQHuqeZjJ",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/karanC_12/status/2108489246436962581",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2108486509724643328/img/w202qd8ZFYYWzC1f.jpg",
+        "analysisUrl": "https://x.com/karanC_12/status/2108489246436962581"
+      }
+    ],
+    "metrics": {
+      "likeCount": 34,
+      "repostCount": 3,
+      "replyCount": 16,
+      "quoteCount": 0,
+      "viewCount": 1784
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/karanC_12/status/2108855446987849782",
+        "text": "@ka1manov PROMPT \nBuild a single-file interactive WebGPU page called \"Plush Hammerhead\".\n\nPage: an editorial layout with a big two-line title \"Plush / Hammerhead.\", a warm studio-grey background, a control panel on the right, live readouts and collapsible technical notes. English UI.\n\nThe toy: a plush hammerhead shark. It has a wide, flat hammer-shaped head (cephalofoil) whose ends sweep back a little, with a shallow notch at the middle of the front edge. A glass eye sits on each tip of the hammer, looking out sideways. It has a tall sickle-shaped dorsal fin, two pectoral fins and a tail with a long upper lobe and a small lower one. A cream belly panel is sewn on below a seam along each flank, with embroidered gill lines. A smiling mouth is cut in under the hammer, lined with felt and set with soft white felt teeth; its lower jaw swings open on a hinge.\n\nSimulation:\n- Body, hammer and fins are one signed distance field filled with a soft-body XPBD lattice: shape-matched hexahedral cells and tetrahedral volume preservation. It is skinned to a high-res surface-nets mesh.\n- It swims with a travelling S-wave that bends the cells' rest shapes side to side, more toward the tail, and steers by turning its head, the body curving into each turn.\n- Fur is drawn as alpha-to-coverage shells over minky pile. The pile lags behind each jiggle on a spring and can be combed.\n\nBehaviour:\n- It circles its space.\n- Scan: it sweeps its hammer side to side over the floor the way real hammerheads hunt. It also does this on its own now and then, and a little while hunting.\n- Feed drops in a felt fish: it turns, closes in faster, opens wide and snaps it up.\n- Dash is a burst of fast tail beats; Chomp opens the mouth and snaps it shut.\n- Grab it by the tail and it thrashes; let go and it shoots off.\n- Boop the middle of the hammer with the finger and it wriggles and blushes.\n\nTools: Hand, Finger, Comb.\n\nControls:\n- Buttons: Feed, Dash, Scan, Chomp, Smooth fur, Reset, Pause.\n- Toggles: Circle, quarter speed, Mesh.\n- Sliders: Stuffing, Pile, Tail beat.\n- Three fabrics: Bronze, Lagoon, Sunset.\n- Readouts: mass, volume, beats per minute, fish eaten.\n- Phone layout with a stacked panel.",
+        "author": "karanC_12"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/karanC_12/status/2108568235931242828",
+        "text": "@octoberry Opus is goatee",
+        "author": "karanC_12"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/karanC_12/status/2108568149738323997",
+        "text": "@kawaidgaf Luna",
+        "author": "karanC_12"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/karanC_12/status/2108503347070472344",
+        "text": "@maker_evan What to start?",
+        "author": "karanC_12"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/karanC_12/status/2108496611919945789",
+        "text": "@VulKan42069 😂😭",
+        "author": "karanC_12"
+      },
+      {
+        "url": "https://x.com/vib3coded/status/2108486895344767283",
+        "text": "Vib3Coded on X: \"Astra, how did you turn ANOTHER shark into a meme?! 😂🦈\n\nClaude Opus 5.5 vs GPT-6 Astra - same prompt, two very different hammerheads\n\nOpus made a shark. Astra made a character\n\nThose giant eyes and that ridiculous grin are something else. It looks completely unhinged, but honestl… / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nVib3Coded on X: \"Astra, how did you turn ANOTHER shark into a meme?! 😂🦈\n\nClaude Opus 5.5 vs GPT-6 Astra - same prompt, two very different hammerheads\n\nOpus made a shark. Astra made a character\n\nThose giant eyes and that ridiculous grin are something else. It looks completely unhinged, but honestly? I’d take it home. Astra wins for me this time\n\nOpus: $6.90\nAstra: $9.08\n\nPaid $2.18 extra for a shark with way too much personality\n\nWhich one are you taking home? 💀\"\n\n\n\nVib3Coded\n\n@vib3coded\n\n\n\n\nAstra, how did you turn ANOTHER shark into a meme?! 😂🦈\n\nClaude Opus 5.5 vs GPT-6 Astra - same prompt, two very different hammerheads\n\nOpus made a shark. Astra made a character\n\nThose giant eyes and that ridiculous grin are something else. It looks completely unhinged, but honestly? I’d take it home. Astra wins for me this time\n\nOpus: $6.90\nAstra: $9.08\n\nPaid $2.18 extra for a shark with way too much personality\n\nWhich one are you taking home? 💀\n\n\n00:00\n\n\n\n\n\n\n\n\n9:17 AM · Oct 9, 2026·15.2K\nViews\n\n\n\n22\n26\n289\n109\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nVib3Coded@vib3codedFollow\nBuilding with AI - everything here is vibe-coded\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVib3Coded\n\n@vib3coded\n\n\n\n\nAstra, how did you turn ANOTHER shark into a meme?! 😂🦈\n\nClaude Opus 5.5 vs GPT-6 Astra - same prompt, two very different hammerheads\n\nOpus made a shark. Astra made a character\n\nThose giant eyes and that ridiculous grin are something else. It looks completely unhinged, but honestly? I’d take it home. Astra wins for me this time\n\nOpus: $6.90\nAstra: $9.08\n\nPaid $2.18 extra for a shark with way too much personality\n\nWhich one are you taking home? 💀\n\n\n00:00\n\n\n\n\n\n\n\n\n9:17 AM · Oct 9, 2026·15.2K\nViews\n\n\n\n22\n26\n289\n109\n\n\n\n\n\n\n\n\n\nVib3Coded\n\n@vib3coded\nOct 9\n\n\nPROMPT \nBuild a single-file interactive WebGPU page called \"Plush Hammerhead\".\n\nPage: an editorial layout with a big two-line title \"Plush / Hammerhead.\", a warm studio-grey background, a control panel on the right, live readouts and collapsible technical notes. English UI.\n\nThe Show more\n\n\n\n\n11\n728\n\n\n\n\n\n\n\n\n\n\n\nVib3Coded\n\n@vib3coded\nOct 9\n\n\nChatGPT-6 Astra plush-hammerhead-astra.vercel.app\nOpus 5.5 claude.ai/artifact/7zG6y…\n\n\n\n\n\n4\n1.2K\n\n\n\n\n\n\n\n\n\n\n\nPifagor\n\n@0xPifagor\nOct 9\n\n\nopus belongs in the ocean. astra belongs on my couch\n\n\n1\n\n1\n169\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "karanC_12"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/karanC_12/status/2108489246436962581",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2108486509724643328/img/w202qd8ZFYYWzC1f.jpg",
+  "coverPath": "data/covers/2108489246436962581-wide.jpg",
+  "gifPath": "data/gifs/2108489246436962581.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2108486509724643328",
+    "x-post:2108489246436962581"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Plush Hammerhead Interactive WebGPU Simulation",
+      "summary": "Claude Opus 5.5 generated a single-file interactive WebGPU simulation of a plush hammerhead shark with XPBD physics, fur rendering, and controls.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Artifacts",
+        "authorUseConfirmed": true,
+        "evidence": "\"Claude Opus 5.5 vs GPT-6 Astra\" and \"Opus 5.5 claude.ai/artifact/7zG6y…\""
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build a single-file interactive WebGPU page called \"Plush Hammerhead\".\n\nPage: an editorial layout with a big two-line title \"Plush / Hammerhead.\", a warm studio-grey background, a control panel on the right, live readouts and collapsible technical notes. English UI.\n\nThe toy: a plush hammerhead shark. It has a wide, flat hammer-shaped head (cephalofoil) whose ends sweep back a little, with a shallow notch at the middle of the front edge. A glass eye sits on each tip of the hammer, looking out sideways. It has a tall sickle-shaped dorsal fin, two pectoral fins and a tail with a long upper lobe and a small lower one. A cream belly panel is sewn on below a seam along each flank, with embroidered gill lines. A smiling mouth is cut in under the hammer, lined with felt and set with soft white felt teeth; its lower jaw swings open on a hinge.\n\nSimulation:\n- Body, hammer and fins are one signed distance field filled with a soft-body XPBD lattice: shape-matched hexahedral cells and tetrahedral volume preservation. It is skinned to a high-res surface-nets mesh.\n- It swims with a travelling S-wave that bends the cells' rest shapes side to side, more toward the tail, and steers by turning its head, the body curving into each turn.\n- Fur is drawn as alpha-to-coverage shells over minky pile. The pile lags behind each jiggle on a spring and can be combed.\n\nBehaviour:\n- It circles its space.\n- Scan: it sweeps its hammer side to side over the floor the way real hammerheads hunt. It also does this on its own now and then, and a little while hunting.\n- Feed drops in a felt fish: it turns, closes in faster, opens wide and snaps it up.\n- Dash is a burst of fast tail beats; Chomp opens the mouth and snaps it shut.\n- Grab it by the tail and it thrashes; let go and it shoots off.\n- Boop the middle of the hammer with the finger and it wriggles and blushes.\n\nTools: Hand, Finger, Comb.\n\nControls:\n- Buttons: Feed, Dash, Scan, Chomp, Smooth fur, Reset, Pause.\n- Toggles: Circle, quarter speed, Mesh.\n- Sliders: Stuffing, Pile, Tail beat.\n- Three fabrics: Bronze, Lagoon, Sunset.\n- Readouts: mass, volume, beats per minute, fish eaten.\n- Phone layout with a stacked panel.",
+        "englishText": "Build a single-file interactive WebGPU page called \"Plush Hammerhead\".\n\nPage: an editorial layout with a big two-line title \"Plush / Hammerhead.\", a warm studio-grey background, a control panel on the right, live readouts and collapsible technical notes. English UI.\n\nThe toy: a plush hammerhead shark. It has a wide, flat hammer-shaped head (cephalofoil) whose ends sweep back a little, with a shallow notch at the middle of the front edge. A glass eye sits on each tip of the hammer, looking out sideways. It has a tall sickle-shaped dorsal fin, two pectoral fins and a tail with a long upper lobe and a small lower one. A cream belly panel is sewn on below a seam along each flank, with embroidered gill lines. A smiling mouth is cut in under the hammer, lined with felt and set with soft white felt teeth; its lower jaw swings open on a hinge.\n\nSimulation:\n- Body, hammer and fins are one signed distance field filled with a soft-body XPBD lattice: shape-matched hexahedral cells and tetrahedral volume preservation. It is skinned to a high-res surface-nets mesh.\n- It swims with a travelling S-wave that bends the cells' rest shapes side to side, more toward the tail, and steers by turning its head, the body curving into each turn.\n- Fur is drawn as alpha-to-coverage shells over minky pile. The pile lags behind each jiggle on a spring and can be combed.\n\nBehaviour:\n- It circles its space.\n- Scan: it sweeps its hammer side to side over the floor the way real hammerheads hunt. It also does this on its own now and then, and a little while hunting.\n- Feed drops in a felt fish: it turns, closes in faster, opens wide and snaps it up.\n- Dash is a burst of fast tail beats; Chomp opens the mouth and snaps it shut.\n- Grab it by the tail and it thrashes; let go and it shoots off.\n- Boop the middle of the hammer with the finger and it wriggles and blushes.\n\nTools: Hand, Finger, Comb.\n\nControls:\n- Buttons: Feed, Dash, Scan, Chomp, Smooth fur, Reset, Pause.\n- Toggles: Circle, quarter speed, Mesh.\n- Sliders: Stuffing, Pile, Tail beat.\n- Three fabrics: Bronze, Lagoon, Sunset.\n- Readouts: mass, volume, beats per minute, fish eaten.\n- Phone layout with a stacked panel.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates the rendered plush hammerhead swimming in 3D with fabric textures and interactive controls matching the prompt requirements.",
+        "textualResultQuote": "Opus made a shark. Astra made a character"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "WebGPU",
+          "role": "GPU rendering API",
+          "evidence": "Build a single-file interactive WebGPU page called \"Plush Hammerhead\".",
+          "sourceUrl": "https://x.com/karanC_12/status/2108855446987849782",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Plush Hammerhead WebGPU Demo",
+        "topic": "3d-scenes",
+        "tags": [
+          "webgpu",
+          "interactive-3d",
+          "simulation",
+          "soft-body"
+        ]
+      },
+      "targetModelRole": "Generates complete self-contained HTML/JS/WebGPU code.",
+      "outputSource": "WebGPU canvas executed in modern web browser.",
+      "divisionEvidence": "\"Build a single-file interactive WebGPU page called 'Plush Hammerhead'.\"",
+      "video": {
+        "shots": "Single continuous interactive screen recording",
+        "duration": "17s",
+        "aspectRatio": "1280:1620",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Provides full verbatim prompt, clear Claude Opus 5.5 attribution, and a screen recording of the generated interactive 3D WebGPU scene.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/karanC_12/status/2108855446987849782",
+        "start": 18,
+        "end": 2194
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/karanC_12/status/2108489246436962581",
+        "author": "karanC_12",
+        "postId": "2108489246436962581",
+        "publishedAt": "2026-10-09T09:26:24.000Z"
+      },
+      "checkedAt": "2026-10-16T16:41:05.356Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/karanC_12/status/2108855446987849782",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated a single-file interactive WebGPU simulation of a plush hammerhead shark with XPBD physics, fur rendering, and controls.",
+    "summaryEn": "Plush Hammerhead Interactive WebGPU Simulation",
+    "originalPrompt": "Build a single-file interactive WebGPU page called \"Plush Hammerhead\".\n\nPage: an editorial layout with a big two-line title \"Plush / Hammerhead.\", a warm studio-grey background, a control panel on the right, live readouts and collapsible technical notes. English UI.\n\nThe toy: a plush hammerhead shark. It has a wide, flat hammer-shaped head (cephalofoil) whose ends sweep back a little, with a shallow notch at the middle of the front edge. A glass eye sits on each tip of the hammer, looking out sideways. It has a tall sickle-shaped dorsal fin, two pectoral fins and a tail with a long upper lobe and a small lower one. A cream belly panel is sewn on below a seam along each flank, with embroidered gill lines. A smiling mouth is cut in under the hammer, lined with felt and set with soft white felt teeth; its lower jaw swings open on a hinge.\n\nSimulation:\n- Body, hammer and fins are one signed distance field filled with a soft-body XPBD lattice: shape-matched hexahedral cells and tetrahedral volume preservation. It is skinned to a high-res surface-nets mesh.\n- It swims with a travelling S-wave that bends the cells' rest shapes side to side, more toward the tail, and steers by turning its head, the body curving into each turn.\n- Fur is drawn as alpha-to-coverage shells over minky pile. The pile lags behind each jiggle on a spring and can be combed.\n\nBehaviour:\n- It circles its space.\n- Scan: it sweeps its hammer side to side over the floor the way real hammerheads hunt. It also does this on its own now and then, and a little while hunting.\n- Feed drops in a felt fish: it turns, closes in faster, opens wide and snaps it up.\n- Dash is a burst of fast tail beats; Chomp opens the mouth and snaps it shut.\n- Grab it by the tail and it thrashes; let go and it shoots off.\n- Boop the middle of the hammer with the finger and it wriggles and blushes.\n\nTools: Hand, Finger, Comb.\n\nControls:\n- Buttons: Feed, Dash, Scan, Chomp, Smooth fur, Reset, Pause.\n- Toggles: Circle, quarter speed, Mesh.\n- Sliders: Stuffing, Pile, Tail beat.\n- Three fabrics: Bronze, Lagoon, Sunset.\n- Readouts: mass, volume, beats per minute, fish eaten.\n- Phone layout with a stacked panel.",
+    "sourceRange": {
+      "start": 18,
+      "end": 2194
+    },
+    "translations": {
+      "zh": "Build a single-file interactive WebGPU page called \"Plush Hammerhead\".\n\nPage: an editorial layout with a big two-line title \"Plush / Hammerhead.\", a warm studio-grey background, a control panel on the right, live readouts and collapsible technical notes. English UI.\n\nThe toy: a plush hammerhead shark. It has a wide, flat hammer-shaped head (cephalofoil) whose ends sweep back a little, with a shallow notch at the middle of the front edge. A glass eye sits on each tip of the hammer, looking out sideways. It has a tall sickle-shaped dorsal fin, two pectoral fins and a tail with a long upper lobe and a small lower one. A cream belly panel is sewn on below a seam along each flank, with embroidered gill lines. A smiling mouth is cut in under the hammer, lined with felt and set with soft white felt teeth; its lower jaw swings open on a hinge.\n\nSimulation:\n- Body, hammer and fins are one signed distance field filled with a soft-body XPBD lattice: shape-matched hexahedral cells and tetrahedral volume preservation. It is skinned to a high-res surface-nets mesh.\n- It swims with a travelling S-wave that bends the cells' rest shapes side to side, more toward the tail, and steers by turning its head, the body curving into each turn.\n- Fur is drawn as alpha-to-coverage shells over minky pile. The pile lags behind each jiggle on a spring and can be combed.\n\nBehaviour:\n- It circles its space.\n- Scan: it sweeps its hammer side to side over the floor the way real hammerheads hunt. It also does this on its own now and then, and a little while hunting.\n- Feed drops in a felt fish: it turns, closes in faster, opens wide and snaps it up.\n- Dash is a burst of fast tail beats; Chomp opens the mouth and snaps it shut.\n- Grab it by the tail and it thrashes; let go and it shoots off.\n- Boop the middle of the hammer with the finger and it wriggles and blushes.\n\nTools: Hand, Finger, Comb.\n\nControls:\n- Buttons: Feed, Dash, Scan, Chomp, Smooth fur, Reset, Pause.\n- Toggles: Circle, quarter speed, Mesh.\n- Sliders: Stuffing, Pile, Tail beat.\n- Three fabrics: Bronze, Lagoon, Sunset.\n- Readouts: mass, volume, beats per minute, fish eaten.\n- Phone layout with a stacked panel.",
+      "en": "Build a single-file interactive WebGPU page called \"Plush Hammerhead\".\n\nPage: an editorial layout with a big two-line title \"Plush / Hammerhead.\", a warm studio-grey background, a control panel on the right, live readouts and collapsible technical notes. English UI.\n\nThe toy: a plush hammerhead shark. It has a wide, flat hammer-shaped head (cephalofoil) whose ends sweep back a little, with a shallow notch at the middle of the front edge. A glass eye sits on each tip of the hammer, looking out sideways. It has a tall sickle-shaped dorsal fin, two pectoral fins and a tail with a long upper lobe and a small lower one. A cream belly panel is sewn on below a seam along each flank, with embroidered gill lines. A smiling mouth is cut in under the hammer, lined with felt and set with soft white felt teeth; its lower jaw swings open on a hinge.\n\nSimulation:\n- Body, hammer and fins are one signed distance field filled with a soft-body XPBD lattice: shape-matched hexahedral cells and tetrahedral volume preservation. It is skinned to a high-res surface-nets mesh.\n- It swims with a travelling S-wave that bends the cells' rest shapes side to side, more toward the tail, and steers by turning its head, the body curving into each turn.\n- Fur is drawn as alpha-to-coverage shells over minky pile. The pile lags behind each jiggle on a spring and can be combed.\n\nBehaviour:\n- It circles its space.\n- Scan: it sweeps its hammer side to side over the floor the way real hammerheads hunt. It also does this on its own now and then, and a little while hunting.\n- Feed drops in a felt fish: it turns, closes in faster, opens wide and snaps it up.\n- Dash is a burst of fast tail beats; Chomp opens the mouth and snaps it shut.\n- Grab it by the tail and it thrashes; let go and it shoots off.\n- Boop the middle of the hammer with the finger and it wriggles and blushes.\n\nTools: Hand, Finger, Comb.\n\nControls:\n- Buttons: Feed, Dash, Scan, Chomp, Smooth fur, Reset, Pause.\n- Toggles: Circle, quarter speed, Mesh.\n- Sliders: Stuffing, Pile, Tail beat.\n- Three fabrics: Bronze, Lagoon, Sunset.\n- Readouts: mass, volume, beats per minute, fish eaten.\n- Phone layout with a stacked panel."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Plush Hammerhead WebGPU Demo",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Screen recording demonstrates the rendered plush hammerhead swimming in 3D with fabric textures and interactive controls matching the prompt requirements."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

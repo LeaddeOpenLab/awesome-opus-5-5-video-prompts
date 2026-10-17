@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T05:44:44.067Z",
+  "model": "opus5.5",
+  "prompt": "Build a single self-contained HTML file using Three.js: an interactive 3D deep-sea bioluminescent jellyfish simulation with squishy soft-body physics. \nRequirements:\n- Visuals: Dark abyss environment with glowing suspended marine snow particles. The jellyfish bell must use a translucent, refractive shader with subsurface scattering (SSS) and pulsing neon emissive veins.\n- Physics: When the user clicks/drags the jellyfish bell, it should deform elastically like soft jelly with satisfying wobble and spring-back damping. Tentacles should follow realistically using a verlet or chain-physics solver.\n- Interaction: Click-drag to pull and bounce the jellyfish; mouse move controls the camera orbit. Include a minimal HUD overlay showing swim velocity and a toggle for wireframe/glow intensity.\n- Single file only, no external 3D models or textures, 60 FPS performance.",
+  "promptTranslations": {
+    "en": "Build a single self-contained HTML file using Three.js: an interactive 3D deep-sea bioluminescent jellyfish simulation with squishy soft-body physics. \nRequirements:\n- Visuals: Dark abyss environment with glowing suspended marine snow particles. The jellyfish bell must use a translucent, refractive shader with subsurface scattering (SSS) and pulsing neon emissive veins.\n- Physics: When the user clicks/drags the jellyfish bell, it should deform elastically like soft jelly with satisfying wobble and spring-back damping. Tentacles should follow realistically using a verlet or chain-physics solver.\n- Interaction: Click-drag to pull and bounce the jellyfish; mouse move controls the camera orbit. Include a minimal HUD overlay showing swim velocity and a toggle for wireframe/glow intensity.\n- Single file only, no external 3D models or textures, 60 FPS performance."
+  },
+  "summary": "Claude Opus 5.5 generates a self-contained Three.js simulation of a bioluminescent deep-sea jellyfish featuring soft-body squish physics, volumetric fog, and pulsing emissive shaders.",
+  "summaryEn": "Interactive 3D Bioluminescent Jellyfish in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111153785229693202",
+    "canonicalUrl": "https://x.com/olezhavich/status/2111153785229693202",
+    "author": {
+      "username": "olezhavich",
+      "displayName": "Olezhka",
+      "profileUrl": "https://x.com/olezhavich"
+    },
+    "publishedAt": "2026-10-16T17:54:20.000Z",
+    "collectedAt": "2026-10-17T05:30:44.390Z",
+    "language": "en",
+    "originalText": "Same prompt, one shot: an interactive 3D bioluminescent jellyfish with soft-body squish physics in Three.js.\n\nClaude Opus 5.5: 17m 31s | ~2.3M tokens | $3.65\nGPT-6.1 Sol: 12m 43s | ~2.4M tokens | $0.82\n\nCosts are estimated API prices.\n\nSol built a clean interactive page with sleek typography and subtle glow. But Opus went all-in on the organism: dense volumetric fog, glowing emissive veins and actual jet propulsion pushing it forward on every pulse.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/olezhavich/status/2111153785229693202",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111152261762035712/img/Pjxl3NOgL-UiBJ1j.jpg",
+        "analysisUrl": "https://x.com/olezhavich/status/2111153785229693202"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 0,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 339
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/olezhavich/status/2111194291540291654",
+        "text": "@GreatAlexs23 Here:\nBuild a single self-contained HTML file using Three.js: an interactive 3D deep-sea bioluminescent jellyfish simulation with squishy soft-body physics. \nRequirements:\n- Visuals: Dark abyss environment with glowing suspended marine snow particles. The jellyfish bell must use a translucent, refractive shader with subsurface scattering (SSS) and pulsing neon emissive veins.\n- Physics: When the user clicks/drags the jellyfish bell, it should deform elastically like soft jelly with satisfying wobble and spring-back damping. Tentacles should follow realistically using a verlet or chain-physics solver.\n- Interaction: Click-drag to pull and bounce the jellyfish; mouse move controls the camera orbit. Include a minimal HUD overlay showing swim velocity and a toggle for wireframe/glow intensity.\n- Single file only, no external 3D models or textures, 60 FPS performance.",
+        "author": "olezhavich"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/olezhavich/status/2111193875809223076",
+        "text": "@keydol123 Agreed, both delivered solid results",
+        "author": "olezhavich"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/olezhavich/status/2111184278352486774",
+        "text": "@theaidesk_ Yeah, that neon palette and minimalist UI look so clean",
+        "author": "olezhavich"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/olezhavich/status/2111153785229693202",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111152261762035712/img/Pjxl3NOgL-UiBJ1j.jpg",
+  "coverPath": "data/covers/2111153785229693202-wide.jpg",
+  "gifPath": "data/gifs/2111153785229693202.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111152261762035712",
+    "x-post:2111153785229693202"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Bioluminescent Jellyfish in Three.js",
+      "summary": "Claude Opus 5.5 generates a self-contained Three.js simulation of a bioluminescent deep-sea jellyfish featuring soft-body squish physics, volumetric fog, and pulsing emissive shaders.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5: 17m 31s | ~2.3M tokens | $3.65"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build a single self-contained HTML file using Three.js: an interactive 3D deep-sea bioluminescent jellyfish simulation with squishy soft-body physics. \nRequirements:\n- Visuals: Dark abyss environment with glowing suspended marine snow particles. The jellyfish bell must use a translucent, refractive shader with subsurface scattering (SSS) and pulsing neon emissive veins.\n- Physics: When the user clicks/drags the jellyfish bell, it should deform elastically like soft jelly with satisfying wobble and spring-back damping. Tentacles should follow realistically using a verlet or chain-physics solver.\n- Interaction: Click-drag to pull and bounce the jellyfish; mouse move controls the camera orbit. Include a minimal HUD overlay showing swim velocity and a toggle for wireframe/glow intensity.\n- Single file only, no external 3D models or textures, 60 FPS performance.",
+        "englishText": "Build a single self-contained HTML file using Three.js: an interactive 3D deep-sea bioluminescent jellyfish simulation with squishy soft-body physics. \nRequirements:\n- Visuals: Dark abyss environment with glowing suspended marine snow particles. The jellyfish bell must use a translucent, refractive shader with subsurface scattering (SSS) and pulsing neon emissive veins.\n- Physics: When the user clicks/drags the jellyfish bell, it should deform elastically like soft jelly with satisfying wobble and spring-back damping. Tentacles should follow realistically using a verlet or chain-physics solver.\n- Interaction: Click-drag to pull and bounce the jellyfish; mouse move controls the camera orbit. Include a minimal HUD overlay showing swim velocity and a toggle for wireframe/glow intensity.\n- Single file only, no external 3D models or textures, 60 FPS performance.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows the rendered interactive 3D jellyfish exhibiting pulsating motion, emissive veins, and responsive deformation corresponding to the prompt instructions.",
+        "textualResultQuote": "Opus went all-in on the organism: dense volumetric fog, glowing emissive veins and actual jet propulsion pushing it forward on every pulse."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "Build a single self-contained HTML file using Three.js: an interactive 3D deep-sea bioluminescent jellyfish simulation with squishy soft-body physics.",
+          "sourceUrl": "https://x.com/olezhavich/status/2111194291540291654",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Bioluminescent Jellyfish",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "interactive",
+          "soft-body",
+          "shaders",
+          "physics"
+        ]
+      },
+      "targetModelRole": "Code generation of the complete self-contained HTML and Three.js application script",
+      "outputSource": "Web browser executing the Claude Opus 5.5 generated HTML/Three.js code",
+      "divisionEvidence": "Claude Opus 5.5 was prompted to build a single self-contained HTML file using Three.js, which is then rendered directly in a web browser environment.",
+      "video": {
+        "shots": "Single split-screen view demonstrating real-time interactive simulation",
+        "duration": "0:24",
+        "aspectRatio": "3:4",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Complete original prompt provided with verified Claude Opus 5.5 model usage, explicit tool definitions, and a screen recording displaying the generated interactive WebGL scene.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/olezhavich/status/2111194291540291654",
+        "start": 20,
+        "end": 889
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/olezhavich/status/2111153785229693202",
+        "author": "olezhavich",
+        "postId": "2111153785229693202",
+        "publishedAt": "2026-10-16T17:54:20.000Z"
+      },
+      "checkedAt": "2026-10-17T05:44:10.548Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/olezhavich/status/2111194291540291654",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generates a self-contained Three.js simulation of a bioluminescent deep-sea jellyfish featuring soft-body squish physics, volumetric fog, and pulsing emissive shaders.",
+    "summaryEn": "Interactive 3D Bioluminescent Jellyfish in Three.js",
+    "originalPrompt": "Build a single self-contained HTML file using Three.js: an interactive 3D deep-sea bioluminescent jellyfish simulation with squishy soft-body physics. \nRequirements:\n- Visuals: Dark abyss environment with glowing suspended marine snow particles. The jellyfish bell must use a translucent, refractive shader with subsurface scattering (SSS) and pulsing neon emissive veins.\n- Physics: When the user clicks/drags the jellyfish bell, it should deform elastically like soft jelly with satisfying wobble and spring-back damping. Tentacles should follow realistically using a verlet or chain-physics solver.\n- Interaction: Click-drag to pull and bounce the jellyfish; mouse move controls the camera orbit. Include a minimal HUD overlay showing swim velocity and a toggle for wireframe/glow intensity.\n- Single file only, no external 3D models or textures, 60 FPS performance.",
+    "sourceRange": {
+      "start": 20,
+      "end": 889
+    },
+    "translations": {
+      "zh": "Build a single self-contained HTML file using Three.js: an interactive 3D deep-sea bioluminescent jellyfish simulation with squishy soft-body physics. \nRequirements:\n- Visuals: Dark abyss environment with glowing suspended marine snow particles. The jellyfish bell must use a translucent, refractive shader with subsurface scattering (SSS) and pulsing neon emissive veins.\n- Physics: When the user clicks/drags the jellyfish bell, it should deform elastically like soft jelly with satisfying wobble and spring-back damping. Tentacles should follow realistically using a verlet or chain-physics solver.\n- Interaction: Click-drag to pull and bounce the jellyfish; mouse move controls the camera orbit. Include a minimal HUD overlay showing swim velocity and a toggle for wireframe/glow intensity.\n- Single file only, no external 3D models or textures, 60 FPS performance.",
+      "en": "Build a single self-contained HTML file using Three.js: an interactive 3D deep-sea bioluminescent jellyfish simulation with squishy soft-body physics. \nRequirements:\n- Visuals: Dark abyss environment with glowing suspended marine snow particles. The jellyfish bell must use a translucent, refractive shader with subsurface scattering (SSS) and pulsing neon emissive veins.\n- Physics: When the user clicks/drags the jellyfish bell, it should deform elastically like soft jelly with satisfying wobble and spring-back damping. Tentacles should follow realistically using a verlet or chain-physics solver.\n- Interaction: Click-drag to pull and bounce the jellyfish; mouse move controls the camera orbit. Include a minimal HUD overlay showing swim velocity and a toggle for wireframe/glow intensity.\n- Single file only, no external 3D models or textures, 60 FPS performance."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Bioluminescent Jellyfish",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows the rendered interactive 3D jellyfish exhibiting pulsating motion, emissive veins, and responsive deformation corresponding to the prompt instructions."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

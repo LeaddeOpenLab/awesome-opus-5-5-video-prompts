@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T05:44:42.647Z",
+  "model": "opus5.5",
+  "prompt": "a bowl of jelly you can poke, pull, and scoop with a spoon. Single HTML file, three.js only.",
+  "promptTranslations": {
+    "en": "a bowl of jelly you can poke, pull, and scoop with a spoon. Single HTML file, three.js only."
+  },
+  "summary": "Claude Opus 5.5 generated a standalone single-file HTML/Three.js interactive web demo simulating a soft-body 3D jelly bowl that can be poked, pulled, and scooped with a spoon.",
+  "summaryEn": "Interactive 3D Jelly Bowl in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111272683375853662",
+    "canonicalUrl": "https://x.com/realsunsiyuan/status/2111272683375853662",
+    "author": {
+      "username": "realsunsiyuan",
+      "displayName": "Miles Sun",
+      "profileUrl": "https://x.com/realsunsiyuan"
+    },
+    "publishedAt": "2026-10-17T01:46:47.000Z",
+    "collectedAt": "2026-10-17T05:30:44.390Z",
+    "language": "en",
+    "originalText": "Same prompt, two models: a bowl of jelly you can poke, pull, and scoop with a spoon. Single HTML file, three.js only.\n\nTop: Claude Opus 5.5, $23.72\nBottom: GPT-6.1-sol, $0.94\n\nOpus cost 25x more. Which bowl would you eat? https://t.co/4DM2jg5lkV",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/realsunsiyuan/status/2111272683375853662",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111271624091869184/img/1FK3qQ4jItQUhpG3.jpg",
+        "analysisUrl": "https://x.com/realsunsiyuan/status/2111272683375853662"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 14
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/realsunsiyuan/status/2111272683375853662",
+        "text": "Miles Sun on X: \"Same prompt, two models: a bowl of jelly you can poke, pull, and scoop with a spoon. Single HTML file, three.js only.\n\nTop: Claude Opus 5.5, $23.72\nBottom: GPT-6.1-sol, $0.94\n\nOpus cost 25x more. Which bowl would you eat?\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nMiles Sun on X: \"Same prompt, two models: a bowl of jelly you can poke, pull, and scoop with a spoon. Single HTML file, three.js only.\n\nTop: Claude Opus 5.5, $23.72\nBottom: GPT-6.1-sol, $0.94\n\nOpus cost 25x more. Which bowl would you eat?\"\n\n\n\nMiles Sun\n@realsunsiyuan\n\n\n\n\nSame prompt, two models: a bowl of jelly you can poke, pull, and scoop with a spoon. Single HTML file, three.js only.\n\nTop: Claude Opus 5.5, $23.72\nBottom: GPT-6.1-sol, $0.94\n\nOpus cost 25x more. Which bowl would you eat?\n\n\n00:00\n\n\n\n\n\n\n\n\n1:46 AM · Oct 17, 2026·14\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nMiles Sun@realsunsiyuanFollow\n🔨 Builder 👨‍💻 Entrepreneur\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMiles Sun\n@realsunsiyuan\n\n\n\n\nSame prompt, two models: a bowl of jelly you can poke, pull, and scoop with a spoon. Single HTML file, three.js only.\n\nTop: Claude Opus 5.5, $23.72\nBottom: GPT-6.1-sol, $0.94\n\nOpus cost 25x more. Which bowl would you eat?\n\n\n00:00\n\n\n\n\n\n\n\n\n1:46 AM · Oct 17, 2026·14\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "realsunsiyuan"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/realsunsiyuan/status/2111272683375853662",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111271624091869184/img/1FK3qQ4jItQUhpG3.jpg",
+  "coverPath": "data/covers/2111272683375853662-wide.jpg",
+  "gifPath": "data/gifs/2111272683375853662.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111271624091869184",
+    "x-post:2111272683375853662"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Jelly Bowl in Three.js",
+      "summary": "Claude Opus 5.5 generated a standalone single-file HTML/Three.js interactive web demo simulating a soft-body 3D jelly bowl that can be poked, pulled, and scooped with a spoon.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Top: Claude Opus 5.5, $23.72"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "a bowl of jelly you can poke, pull, and scoop with a spoon. Single HTML file, three.js only.",
+        "englishText": "a bowl of jelly you can poke, pull, and scoop with a spoon. Single HTML file, three.js only.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact system prompt or full conversation instructions",
+          "Detailed UI layout and styling directives",
+          "Soft-body physics and deformation implementation parameters"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a side-by-side screen recording comparing the interactive Three.js jelly bowl generated by Claude Opus 5.5 against GPT-6.1-sol, demonstrating deformation, poking, and scooping interactions.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "Single HTML file, three.js only.",
+          "sourceUrl": "https://x.com/realsunsiyuan/status/2111272683375853662",
+          "status": "required"
+        },
+        {
+          "name": "Web Browser",
+          "role": "Runtime environment rendering the interactive canvas and UI controls",
+          "evidence": "Single HTML file, three.js only.",
+          "status": "required",
+          "sourceUrl": "https://x.com/realsunsiyuan/status/2111272683375853662"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Jelly Simulation",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "interactive",
+          "webgl",
+          "creative-coding",
+          "soft-body-physics"
+        ]
+      },
+      "targetModelRole": "Writing the complete single-file HTML, JavaScript, and Three.js code implementing the 3D jelly simulation and interaction logic.",
+      "outputSource": "Web browser executing the generated Three.js HTML file",
+      "divisionEvidence": "Claude Opus 5.5 generated the code ('Single HTML file, three.js only'), while the browser and Three.js rendered the interactive 3D simulation shown in the screen recording.",
+      "video": {
+        "shots": "1 continuous split-screen comparison recording",
+        "duration": "0:38",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates an interactive 3D canvas demo generated by Claude Opus 5.5 with confirmed author model version and corresponding screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/realsunsiyuan/status/2111272683375853662",
+        "start": 25,
+        "end": 117
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/realsunsiyuan/status/2111272683375853662",
+        "author": "realsunsiyuan",
+        "postId": "2111272683375853662",
+        "publishedAt": "2026-10-17T01:46:47.000Z"
+      },
+      "checkedAt": "2026-10-17T05:35:08.777Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/realsunsiyuan/status/2111272683375853662",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated a standalone single-file HTML/Three.js interactive web demo simulating a soft-body 3D jelly bowl that can be poked, pulled, and scooped with a spoon.",
+    "summaryEn": "Interactive 3D Jelly Bowl in Three.js",
+    "originalPrompt": "a bowl of jelly you can poke, pull, and scoop with a spoon. Single HTML file, three.js only.",
+    "sourceRange": {
+      "start": 25,
+      "end": 117
+    },
+    "translations": {
+      "zh": "a bowl of jelly you can poke, pull, and scoop with a spoon. Single HTML file, three.js only.",
+      "en": "a bowl of jelly you can poke, pull, and scoop with a spoon. Single HTML file, three.js only."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Jelly Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact system prompt or full conversation instructions",
+        "Detailed UI layout and styling directives",
+        "Soft-body physics and deformation implementation parameters"
+      ],
+      "evidence": "The video shows a side-by-side screen recording comparing the interactive Three.js jelly bowl generated by Claude Opus 5.5 against GPT-6.1-sol, demonstrating deformation, poking, and scooping interactions."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

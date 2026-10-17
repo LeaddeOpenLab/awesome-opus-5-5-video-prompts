@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T17:02:08.790Z",
+  "model": "opus5.5",
+  "prompt": "an interactive first-person spaceship cockpit with an Earth-to-Mars warp jump in Three.js.",
+  "promptTranslations": {
+    "en": "an interactive first-person spaceship cockpit with an Earth-to-Mars warp jump in Three.js."
+  },
+  "summary": "Olezhka compares Claude Opus 5.5 against GPT-6.1 Sol generating an interactive first-person spaceship cockpit featuring an Earth-to-Mars warp jump rendered in Three.js.",
+  "summaryEn": "Interactive Three.js Spaceship Cockpit Warp Jump Comparison",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111085252592415232",
+    "canonicalUrl": "https://x.com/olezhavich/status/2111085252592415232",
+    "author": {
+      "username": "olezhavich",
+      "displayName": "Olezhka",
+      "profileUrl": "https://x.com/olezhavich"
+    },
+    "publishedAt": "2026-10-16T13:22:00.000Z",
+    "collectedAt": "2026-10-16T16:16:17.192Z",
+    "language": "en",
+    "originalText": "Same prompt, one shot: an interactive first-person spaceship cockpit with an Earth-to-Mars warp jump in Three.js.\n\n- Claude Opus 5.5: 41m 18s | ~23.6M tokens | $11.77\n- GPT-6.1 Sol: 23m 40s | ~9.6M tokens | $2.15\n\nCosts are estimated API prices.\n\nSol went for a clean, hard sci-fi aesthetic with sharp vector telemetry and a classic hyperspace starfield. But Opus turned the cockpit into a full sci-fi cockpit with warm interior lighting, animated holo-radar, and a chromatic warp tunnel.\n\nA 5.5x price difference. Which warp jump feels more immersive to you?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/olezhavich/status/2111085252592415232",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111085163702575104/img/tAHhvBvEF0AendJg.jpg",
+        "analysisUrl": "https://x.com/olezhavich/status/2111085252592415232"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 84
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/olezhavich/status/2111085252592415232",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111085163702575104/img/tAHhvBvEF0AendJg.jpg",
+  "coverPath": "data/covers/2111085252592415232-wide.jpg",
+  "gifPath": "data/gifs/2111085252592415232.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111085163702575104",
+    "x-post:2111085252592415232"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive Three.js Spaceship Cockpit Warp Jump Comparison",
+      "summary": "Olezhka compares Claude Opus 5.5 against GPT-6.1 Sol generating an interactive first-person spaceship cockpit featuring an Earth-to-Mars warp jump rendered in Three.js.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "API",
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5: 41m 18s | ~23.6M tokens | $11.77"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "an interactive first-person spaceship cockpit with an Earth-to-Mars warp jump in Three.js.",
+        "englishText": "an interactive first-person spaceship cockpit with an Earth-to-Mars warp jump in Three.js.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "verbatim system prompt instructions",
+          "detailed cockpit layout constraints",
+          "specific asset and shader specifications"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording demonstrates the split-screen view comparing both Sol 6.1 and Opus 5.5 executing an interactive cockpit view with holo-radar, instruments, and an Earth-to-Mars warp jump in Three.js.",
+        "textualResultQuote": "Opus turned the cockpit into a full sci-fi cockpit with warm interior lighting, animated holo-radar, and a chromatic warp tunnel."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "WebGL 3D graphics library and interactive scene renderer",
+          "evidence": "in Three.js.",
+          "sourceUrl": "https://x.com/olezhavich/status/2111085252592415232",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "an interactive first-person spaceship cockpit with an Earth-to-Mars warp jump in Three.js.",
+          "sourceUrl": "https://x.com/olezhavich/status/2111085252592415232",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Spaceship Cockpit Warp Jump",
+        "topic": "3d-scenes",
+        "tags": [
+          "three.js",
+          "webgl",
+          "interactive",
+          "sci-fi",
+          "cockpit",
+          "warp-jump"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 acted as the code-generating agent, writing the interactive 3D WebGL implementation in Three.js.",
+      "outputSource": "Three.js / WebGL browser canvas screen recording",
+      "divisionEvidence": "Same prompt, one shot: an interactive first-person spaceship cockpit with an Earth-to-Mars warp jump in Three.js. ... Opus turned the cockpit into a full sci-fi cockpit with warm interior lighting, animated holo-radar, and a chromatic warp tunnel.",
+      "video": {
+        "shots": "Split-screen side-by-side comparison recording (top: Sol 6.1, bottom: Opus 5.5)",
+        "duration": "33s",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 interactive 3D WebGL screen recording demonstrating an interactive Three.js spaceship cockpit scene.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/olezhavich/status/2111085252592415232",
+        "start": 23,
+        "end": 113
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/olezhavich/status/2111085252592415232",
+        "author": "olezhavich",
+        "postId": "2111085252592415232",
+        "publishedAt": "2026-10-16T13:22:00.000Z"
+      },
+      "checkedAt": "2026-10-16T16:17:11.733Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/olezhavich/status/2111085252592415232",
+        "evidence": ""
+      }
+    },
+    "summary": "Olezhka compares Claude Opus 5.5 against GPT-6.1 Sol generating an interactive first-person spaceship cockpit featuring an Earth-to-Mars warp jump rendered in Three.js.",
+    "summaryEn": "Interactive Three.js Spaceship Cockpit Warp Jump Comparison",
+    "originalPrompt": "an interactive first-person spaceship cockpit with an Earth-to-Mars warp jump in Three.js.",
+    "sourceRange": {
+      "start": 23,
+      "end": 113
+    },
+    "translations": {
+      "zh": "an interactive first-person spaceship cockpit with an Earth-to-Mars warp jump in Three.js.",
+      "en": "an interactive first-person spaceship cockpit with an Earth-to-Mars warp jump in Three.js."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Spaceship Cockpit Warp Jump",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "verbatim system prompt instructions",
+        "detailed cockpit layout constraints",
+        "specific asset and shader specifications"
+      ],
+      "evidence": "The screen recording demonstrates the split-screen view comparing both Sol 6.1 and Opus 5.5 executing an interactive cockpit view with holo-radar, instruments, and an Earth-to-Mars warp jump in Three.js."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

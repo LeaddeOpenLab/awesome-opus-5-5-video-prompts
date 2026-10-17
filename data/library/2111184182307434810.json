@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T05:44:43.513Z",
+  "model": "opus5.5",
+  "prompt": "Create a complete, single-file three.js demo (HTML + JS) that recreates the viral “Tesla Roadster flying over a collapsing bridge” concept, and make it **play automatically like a video**.\n\n**Requirements:**\n\n1. **Auto-play like a video**\n   - The entire sequence should start automatically when the page loads (no click required to begin).\n   - Cinematic camera path that follows the action smoothly from start to finish.\n   - After the sequence ends, show a “Replay” button.\n\n2. **Scene**\n   - Scenic bridge over a river with forested hills in the background.\n   - Clear daytime lighting with good shadows.\n\n3. **Bridge Collapse**\n   - The bridge dramatically collapses in the middle while the car is driving on it.\n   - Use either physics (Cannon.js or Rapier) or a well-timed animation sequence.\n\n4. **Car**\n   - Simple but recognizable Tesla Roadster / Cybertruck-style car.\n   - When the bridge starts collapsing, the car activates thrusters and flies over the gap.\n   - Blue thruster glow + particle effects.\n   - Smooth flight animation, then lands safely on the other side.\n\n5. **Camera**\n   - Fully cinematic, pre-scripted camera that moves for dramatic angles (starts behind the car, then shifts during the flight).\n   - No free camera control during the sequence (so it feels like watching a video).\n\n6. **Polish**\n   - Clean modern three.js code (r160+).\n   - “Replay” button that restarts the full sequence.\n   - Responsive and runs smoothly in the browser.\n   - Add basic ambient + directional lighting, fog, and a sky.\n\n7. **Output**\n   - Provide the full single HTML file I can copy and open directly in a browser.\n   - Comment the important parts of the code.\n\nMake it visually impressive and as close as possible to the concept of a flying Tesla saving itself from a collapsing bridge, while playing automatically like a short video.",
+  "promptTranslations": {
+    "en": "Create a complete, single-file three.js demo (HTML + JS) that recreates the viral “Tesla Roadster flying over a collapsing bridge” concept, and make it **play automatically like a video**.\n\n**Requirements:**\n\n1. **Auto-play like a video**\n   - The entire sequence should start automatically when the page loads (no click required to begin).\n   - Cinematic camera path that follows the action smoothly from start to finish.\n   - After the sequence ends, show a “Replay” button.\n\n2. **Scene**\n   - Scenic bridge over a river with forested hills in the background.\n   - Clear daytime lighting with good shadows.\n\n3. **Bridge Collapse**\n   - The bridge dramatically collapses in the middle while the car is driving on it.\n   - Use either physics (Cannon.js or Rapier) or a well-timed animation sequence.\n\n4. **Car**\n   - Simple but recognizable Tesla Roadster / Cybertruck-style car.\n   - When the bridge starts collapsing, the car activates thrusters and flies over the gap.\n   - Blue thruster glow + particle effects.\n   - Smooth flight animation, then lands safely on the other side.\n\n5. **Camera**\n   - Fully cinematic, pre-scripted camera that moves for dramatic angles (starts behind the car, then shifts during the flight).\n   - No free camera control during the sequence (so it feels like watching a video).\n\n6. **Polish**\n   - Clean modern three.js code (r160+).\n   - “Replay” button that restarts the full sequence.\n   - Responsive and runs smoothly in the browser.\n   - Add basic ambient + directional lighting, fog, and a sky.\n\n7. **Output**\n   - Provide the full single HTML file I can copy and open directly in a browser.\n   - Comment the important parts of the code.\n\nMake it visually impressive and as close as possible to the concept of a flying Tesla saving itself from a collapsing bridge, while playing automatically like a short video."
+  },
+  "summary": "Davey prompts Claude Opus 5.5 to generate a self-playing single-file Three.js simulation of a Tesla Roadster escaping a collapsing bridge using thrusters, comparing the output against GLM.",
+  "summaryEn": "Tesla Roadster Collapsing Bridge Escape 3D Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111184182307434810",
+    "canonicalUrl": "https://x.com/daveeyyy_/status/2111184182307434810",
+    "author": {
+      "username": "daveeyyy_",
+      "displayName": "Davey",
+      "profileUrl": "https://x.com/daveeyyy_"
+    },
+    "publishedAt": "2026-10-16T19:55:07.000Z",
+    "collectedAt": "2026-10-17T05:30:44.390Z",
+    "language": "en",
+    "originalText": "I couldn’t help myself 🙂‍↔️\n\nso I prompted my own 3D web simulation of a Tesla Roadster escaping a collapsing bridge, powered by Three.js.\n\nOpus 5.5 vs GLM\n\nGLM cost: $0 👀\n\nwho did it better? (prompt in cs) https://t.co/bpOo11dxuD",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/daveeyyy_/status/2111184182307434810",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111184136224276480/img/NijzopUGVgAu_4Ye.jpg",
+        "analysisUrl": "https://x.com/daveeyyy_/status/2111184182307434810"
+      }
+    ],
+    "metrics": {
+      "likeCount": 12,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 590
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/daveeyyy_/status/2111184235294019826",
+        "text": "@threejs Prompt:\n\nCreate a complete, single-file three.js demo (HTML + JS) that recreates the viral “Tesla Roadster flying over a collapsing bridge” concept, and make it **play automatically like a video**.\n\n**Requirements:**\n\n1. **Auto-play like a video**\n   - The entire sequence should start automatically when the page loads (no click required to begin).\n   - Cinematic camera path that follows the action smoothly from start to finish.\n   - After the sequence ends, show a “Replay” button.\n\n2. **Scene**\n   - Scenic bridge over a river with forested hills in the background.\n   - Clear daytime lighting with good shadows.\n\n3. **Bridge Collapse**\n   - The bridge dramatically collapses in the middle while the car is driving on it.\n   - Use either physics (Cannon.js or Rapier) or a well-timed animation sequence.\n\n4. **Car**\n   - Simple but recognizable Tesla Roadster / Cybertruck-style car.\n   - When the bridge starts collapsing, the car activates thrusters and flies over the gap.\n   - Blue thruster glow + particle effects.\n   - Smooth flight animation, then lands safely on the other side.\n\n5. **Camera**\n   - Fully cinematic, pre-scripted camera that moves for dramatic angles (starts behind the car, then shifts during the flight).\n   - No free camera control during the sequence (so it feels like watching a video).\n\n6. **Polish**\n   - Clean modern three.js code (r160+).\n   - “Replay” button that restarts the full sequence.\n   - Responsive and runs smoothly in the browser.\n   - Add basic ambient + directional lighting, fog, and a sky.\n\n7. **Output**\n   - Provide the full single HTML file I can copy and open directly in a browser.\n   - Comment the important parts of the code.\n\nMake it visually impressive and as close as possible to the concept of a flying Tesla saving itself from a collapsing bridge, while playing automatically like a short video.",
+        "author": "daveeyyy_"
+      },
+      {
+        "url": "https://x.com/daveeyyy_/status/2111184182307434810",
+        "text": "Davey on X: \"I couldn’t help myself 🙂‍↔️\n\nso I prompted my own 3D web simulation of a Tesla Roadster escaping a collapsing bridge, powered by Three.js.\n\nOpus 5.5 vs GLM\n\nGLM cost: $0 👀\n\nwho did it better? (prompt in cs)\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nDavey on X: \"I couldn’t help myself 🙂‍↔️\n\nso I prompted my own 3D web simulation of a Tesla Roadster escaping a collapsing bridge, powered by Three.js.\n\nOpus 5.5 vs GLM\n\nGLM cost: $0 👀\n\nwho did it better? (prompt in cs)\"\n\n\n\nDavey\n\n@daveeyyy_\n\n\n\n\nI couldn’t help myself 🙂‍↔️\n\nso I prompted my own 3D web simulation of a Tesla Roadster escaping a collapsing bridge, powered by Three.js.\n\nOpus 5.5 vs GLM\n\nGLM cost: $0 👀\n\nwho did it better? (prompt in cs)\n\n\n00:00\n\n\n\n\n\n\n\nThree.js\n\n7:55 PM · Oct 16, 2026·590\nViews\n\n\n\n1\n\n12\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nDavey@daveeyyy_Follow\nSI | Sharing workflows\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThree.js@threejsFollow\nMaking 3D easier since 2010.\n\n\n\n\n\n\n\n\nDavey\n\n@daveeyyy_\n\n\n\n\nI couldn’t help myself 🙂‍↔️\n\nso I prompted my own 3D web simulation of a Tesla Roadster escaping a collapsing bridge, powered by Three.js.\n\nOpus 5.5 vs GLM\n\nGLM cost: $0 👀\n\nwho did it better? (prompt in cs)\n\n\n00:00\n\n\n\n\n\n\n\nThree.js\n\n7:55 PM · Oct 16, 2026·590\nViews\n\n\n\n1\n\n12\n2\n\n\n\n\n\n\n\n\n\nDavey\n\n@daveeyyy_\n9h\n\n\nPrompt:\n\nCreate a complete, single-file three.js demo (HTML + JS) that recreates the viral “Tesla Roadster flying over a collapsing bridge” concept, and make it **play automatically like a video**.\n\n**Requirements:**\n\n1. **Auto-play like a video**\n   - The entire sequence should Show more\n\n\n\n\n\n131\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "daveeyyy_"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/daveeyyy_/status/2111184182307434810",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111184136224276480/img/NijzopUGVgAu_4Ye.jpg",
+  "coverPath": "data/covers/2111184182307434810-wide.jpg",
+  "gifPath": "data/gifs/2111184182307434810.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111184136224276480",
+    "x-post:2111184182307434810"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Tesla Roadster Collapsing Bridge Escape 3D Simulation",
+      "summary": "Davey prompts Claude Opus 5.5 to generate a self-playing single-file Three.js simulation of a Tesla Roadster escaping a collapsing bridge using thrusters, comparing the output against GLM.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "\"Opus 5.5 vs GLM\""
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create a complete, single-file three.js demo (HTML + JS) that recreates the viral “Tesla Roadster flying over a collapsing bridge” concept, and make it **play automatically like a video**.\n\n**Requirements:**\n\n1. **Auto-play like a video**\n   - The entire sequence should start automatically when the page loads (no click required to begin).\n   - Cinematic camera path that follows the action smoothly from start to finish.\n   - After the sequence ends, show a “Replay” button.\n\n2. **Scene**\n   - Scenic bridge over a river with forested hills in the background.\n   - Clear daytime lighting with good shadows.\n\n3. **Bridge Collapse**\n   - The bridge dramatically collapses in the middle while the car is driving on it.\n   - Use either physics (Cannon.js or Rapier) or a well-timed animation sequence.\n\n4. **Car**\n   - Simple but recognizable Tesla Roadster / Cybertruck-style car.\n   - When the bridge starts collapsing, the car activates thrusters and flies over the gap.\n   - Blue thruster glow + particle effects.\n   - Smooth flight animation, then lands safely on the other side.\n\n5. **Camera**\n   - Fully cinematic, pre-scripted camera that moves for dramatic angles (starts behind the car, then shifts during the flight).\n   - No free camera control during the sequence (so it feels like watching a video).\n\n6. **Polish**\n   - Clean modern three.js code (r160+).\n   - “Replay” button that restarts the full sequence.\n   - Responsive and runs smoothly in the browser.\n   - Add basic ambient + directional lighting, fog, and a sky.\n\n7. **Output**\n   - Provide the full single HTML file I can copy and open directly in a browser.\n   - Comment the important parts of the code.\n\nMake it visually impressive and as close as possible to the concept of a flying Tesla saving itself from a collapsing bridge, while playing automatically like a short video.",
+        "englishText": "Create a complete, single-file three.js demo (HTML + JS) that recreates the viral “Tesla Roadster flying over a collapsing bridge” concept, and make it **play automatically like a video**.\n\n**Requirements:**\n\n1. **Auto-play like a video**\n   - The entire sequence should start automatically when the page loads (no click required to begin).\n   - Cinematic camera path that follows the action smoothly from start to finish.\n   - After the sequence ends, show a “Replay” button.\n\n2. **Scene**\n   - Scenic bridge over a river with forested hills in the background.\n   - Clear daytime lighting with good shadows.\n\n3. **Bridge Collapse**\n   - The bridge dramatically collapses in the middle while the car is driving on it.\n   - Use either physics (Cannon.js or Rapier) or a well-timed animation sequence.\n\n4. **Car**\n   - Simple but recognizable Tesla Roadster / Cybertruck-style car.\n   - When the bridge starts collapsing, the car activates thrusters and flies over the gap.\n   - Blue thruster glow + particle effects.\n   - Smooth flight animation, then lands safely on the other side.\n\n5. **Camera**\n   - Fully cinematic, pre-scripted camera that moves for dramatic angles (starts behind the car, then shifts during the flight).\n   - No free camera control during the sequence (so it feels like watching a video).\n\n6. **Polish**\n   - Clean modern three.js code (r160+).\n   - “Replay” button that restarts the full sequence.\n   - Responsive and runs smoothly in the browser.\n   - Add basic ambient + directional lighting, fog, and a sky.\n\n7. **Output**\n   - Provide the full single HTML file I can copy and open directly in a browser.\n   - Comment the important parts of the code.\n\nMake it visually impressive and as close as possible to the concept of a flying Tesla saving itself from a collapsing bridge, while playing automatically like a short video.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording displays side-by-side outputs with Opus 5.5 on the left executing the Three.js code: a Tesla car drives on a bridge over water with hills, the bridge collapses, the car triggers thruster particles and leaps across the gap, lands safely, displays 'TOUCHDOWN CONFIRMED', and ends with an overlay 'REPLAY' button.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "Create a complete, single-file three.js demo (HTML + JS) that recreates the viral “Tesla Roadster flying over a collapsing bridge” concept, and make it **play automatically like a video**.",
+          "sourceUrl": "https://x.com/daveeyyy_/status/2111184235294019826",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Tesla Roadster Collapsing Bridge Three.js Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "simulation",
+          "interactive",
+          "tesla"
+        ]
+      },
+      "targetModelRole": "Code generation agent writing single-file HTML/JavaScript Three.js 3D animation code",
+      "outputSource": "Web browser executing the Claude-generated Three.js script",
+      "divisionEvidence": "\"so I prompted my own 3D web simulation of a Tesla Roadster escaping a collapsing bridge, powered by Three.js. Opus 5.5 vs GLM\"",
+      "video": {
+        "shots": "Single continuous cinematic tracking camera shot",
+        "duration": "0:20",
+        "aspectRatio": "3:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Explicit author confirmation of Claude Opus 5.5 writing Three.js code, complete verbatim original prompt provided in the author thread, and corresponding screen recording verifying accurate video-like simulation execution.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/daveeyyy_/status/2111184235294019826",
+        "start": 18,
+        "end": 1870
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/daveeyyy_/status/2111184182307434810",
+        "author": "daveeyyy_",
+        "postId": "2111184182307434810",
+        "publishedAt": "2026-10-16T19:55:07.000Z"
+      },
+      "checkedAt": "2026-10-17T05:32:37.231Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/daveeyyy_/status/2111184235294019826",
+        "evidence": ""
+      }
+    },
+    "summary": "Davey prompts Claude Opus 5.5 to generate a self-playing single-file Three.js simulation of a Tesla Roadster escaping a collapsing bridge using thrusters, comparing the output against GLM.",
+    "summaryEn": "Tesla Roadster Collapsing Bridge Escape 3D Simulation",
+    "originalPrompt": "Create a complete, single-file three.js demo (HTML + JS) that recreates the viral “Tesla Roadster flying over a collapsing bridge” concept, and make it **play automatically like a video**.\n\n**Requirements:**\n\n1. **Auto-play like a video**\n   - The entire sequence should start automatically when the page loads (no click required to begin).\n   - Cinematic camera path that follows the action smoothly from start to finish.\n   - After the sequence ends, show a “Replay” button.\n\n2. **Scene**\n   - Scenic bridge over a river with forested hills in the background.\n   - Clear daytime lighting with good shadows.\n\n3. **Bridge Collapse**\n   - The bridge dramatically collapses in the middle while the car is driving on it.\n   - Use either physics (Cannon.js or Rapier) or a well-timed animation sequence.\n\n4. **Car**\n   - Simple but recognizable Tesla Roadster / Cybertruck-style car.\n   - When the bridge starts collapsing, the car activates thrusters and flies over the gap.\n   - Blue thruster glow + particle effects.\n   - Smooth flight animation, then lands safely on the other side.\n\n5. **Camera**\n   - Fully cinematic, pre-scripted camera that moves for dramatic angles (starts behind the car, then shifts during the flight).\n   - No free camera control during the sequence (so it feels like watching a video).\n\n6. **Polish**\n   - Clean modern three.js code (r160+).\n   - “Replay” button that restarts the full sequence.\n   - Responsive and runs smoothly in the browser.\n   - Add basic ambient + directional lighting, fog, and a sky.\n\n7. **Output**\n   - Provide the full single HTML file I can copy and open directly in a browser.\n   - Comment the important parts of the code.\n\nMake it visually impressive and as close as possible to the concept of a flying Tesla saving itself from a collapsing bridge, while playing automatically like a short video.",
+    "sourceRange": {
+      "start": 18,
+      "end": 1870
+    },
+    "translations": {
+      "zh": "Create a complete, single-file three.js demo (HTML + JS) that recreates the viral “Tesla Roadster flying over a collapsing bridge” concept, and make it **play automatically like a video**.\n\n**Requirements:**\n\n1. **Auto-play like a video**\n   - The entire sequence should start automatically when the page loads (no click required to begin).\n   - Cinematic camera path that follows the action smoothly from start to finish.\n   - After the sequence ends, show a “Replay” button.\n\n2. **Scene**\n   - Scenic bridge over a river with forested hills in the background.\n   - Clear daytime lighting with good shadows.\n\n3. **Bridge Collapse**\n   - The bridge dramatically collapses in the middle while the car is driving on it.\n   - Use either physics (Cannon.js or Rapier) or a well-timed animation sequence.\n\n4. **Car**\n   - Simple but recognizable Tesla Roadster / Cybertruck-style car.\n   - When the bridge starts collapsing, the car activates thrusters and flies over the gap.\n   - Blue thruster glow + particle effects.\n   - Smooth flight animation, then lands safely on the other side.\n\n5. **Camera**\n   - Fully cinematic, pre-scripted camera that moves for dramatic angles (starts behind the car, then shifts during the flight).\n   - No free camera control during the sequence (so it feels like watching a video).\n\n6. **Polish**\n   - Clean modern three.js code (r160+).\n   - “Replay” button that restarts the full sequence.\n   - Responsive and runs smoothly in the browser.\n   - Add basic ambient + directional lighting, fog, and a sky.\n\n7. **Output**\n   - Provide the full single HTML file I can copy and open directly in a browser.\n   - Comment the important parts of the code.\n\nMake it visually impressive and as close as possible to the concept of a flying Tesla saving itself from a collapsing bridge, while playing automatically like a short video.",
+      "en": "Create a complete, single-file three.js demo (HTML + JS) that recreates the viral “Tesla Roadster flying over a collapsing bridge” concept, and make it **play automatically like a video**.\n\n**Requirements:**\n\n1. **Auto-play like a video**\n   - The entire sequence should start automatically when the page loads (no click required to begin).\n   - Cinematic camera path that follows the action smoothly from start to finish.\n   - After the sequence ends, show a “Replay” button.\n\n2. **Scene**\n   - Scenic bridge over a river with forested hills in the background.\n   - Clear daytime lighting with good shadows.\n\n3. **Bridge Collapse**\n   - The bridge dramatically collapses in the middle while the car is driving on it.\n   - Use either physics (Cannon.js or Rapier) or a well-timed animation sequence.\n\n4. **Car**\n   - Simple but recognizable Tesla Roadster / Cybertruck-style car.\n   - When the bridge starts collapsing, the car activates thrusters and flies over the gap.\n   - Blue thruster glow + particle effects.\n   - Smooth flight animation, then lands safely on the other side.\n\n5. **Camera**\n   - Fully cinematic, pre-scripted camera that moves for dramatic angles (starts behind the car, then shifts during the flight).\n   - No free camera control during the sequence (so it feels like watching a video).\n\n6. **Polish**\n   - Clean modern three.js code (r160+).\n   - “Replay” button that restarts the full sequence.\n   - Responsive and runs smoothly in the browser.\n   - Add basic ambient + directional lighting, fog, and a sky.\n\n7. **Output**\n   - Provide the full single HTML file I can copy and open directly in a browser.\n   - Comment the important parts of the code.\n\nMake it visually impressive and as close as possible to the concept of a flying Tesla saving itself from a collapsing bridge, while playing automatically like a short video."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Tesla Roadster Collapsing Bridge Three.js Simulation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The screen recording displays side-by-side outputs with Opus 5.5 on the left executing the Three.js code: a Tesla car drives on a bridge over water with hills, the bridge collapses, the car triggers thruster particles and leaps across the gap, lands safely, displays 'TOUCHDOWN CONFIRMED', and ends with an overlay 'REPLAY' button."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

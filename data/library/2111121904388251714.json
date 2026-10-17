@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T17:02:08.051Z",
+  "model": "opus5.5",
+  "prompt": "Create a game in three js that has extreme juice, fun to play and player can't put down",
+  "promptTranslations": {
+    "en": "Create a game in three js that has extreme juice, fun to play and player can't put down"
+  },
+  "summary": "Sky prompts Claude Opus 5.5 with medium reasoning via t3 codes to generate a complete interactive Three.js arena game ('Splat Knight') featuring combat, combo counters, upgrade choices, and juice effects.",
+  "summaryEn": "Three.js Splat Knight Game with Extreme Juice",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111121904388251714",
+    "canonicalUrl": "https://x.com/code_coded/status/2111121904388251714",
+    "author": {
+      "username": "code_coded",
+      "displayName": "Sky",
+      "profileUrl": "https://x.com/code_coded"
+    },
+    "publishedAt": "2026-10-16T15:47:39.000Z",
+    "collectedAt": "2026-10-17T05:30:44.390Z",
+    "language": "en",
+    "originalText": "One sentence with opus 5.5 medium reasoning , to my Mac via t3 codes just before falling asleep\n\n“Create a game in three js that has extreme juice, fun to play and player can't put down” https://t.co/BCLu5jYaAS",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/code_coded/status/2111121904388251714",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111121734581854208/img/I4bfqkF1mGj6yHlj.jpg",
+        "analysisUrl": "https://x.com/code_coded/status/2111121904388251714"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 100
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ]
+  },
+  "xUrl": "https://x.com/code_coded/status/2111121904388251714",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111121734581854208/img/I4bfqkF1mGj6yHlj.jpg",
+  "coverPath": "data/covers/2111121904388251714-wide.jpg",
+  "gifPath": "data/gifs/2111121904388251714.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111121734581854208",
+    "x-post:2111121904388251714"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Three.js Splat Knight Game with Extreme Juice",
+      "summary": "Sky prompts Claude Opus 5.5 with medium reasoning via t3 codes to generate a complete interactive Three.js arena game ('Splat Knight') featuring combat, combo counters, upgrade choices, and juice effects.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "t3 codes",
+        "authorUseConfirmed": true,
+        "evidence": "One sentence with opus 5.5 medium reasoning , to my Mac via t3 codes just before falling asleep"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create a game in three js that has extreme juice, fun to play and player can't put down",
+        "englishText": "Create a game in three js that has extreme juice, fun to play and player can't put down",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video displays active gameplay of 'Splat Knight' featuring vibrant particle splats, combo multipliers, screen shake, and roguelite level-up upgrade cards rendered in Three.js.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "t3 codes",
+          "role": "Agent orchestration and local execution client",
+          "evidence": "to my Mac via t3 codes just before falling asleep",
+          "sourceUrl": "https://x.com/code_coded/status/2111121904388251714",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D/2D WebGL rendering engine and game loop",
+          "evidence": "Create a game in three js that has extreme juice, fun to play and player can't put down",
+          "sourceUrl": "https://x.com/code_coded/status/2111121904388251714",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Three.js Action Game",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "game-dev",
+          "interactive",
+          "game-juice",
+          "splat-knight"
+        ]
+      },
+      "targetModelRole": "Interactive game architecture, gameplay mechanics, visual effects, and UI code generation",
+      "outputSource": "Three.js WebGL canvas",
+      "divisionEvidence": "Claude Opus 5.5 authored the code and reasoning ('opus 5.5 medium reasoning'), t3 codes delivered it to the Mac, and Three.js handled runtime graphics execution.",
+      "video": {
+        "shots": "Single continuous screen recording of mobile interactive gameplay",
+        "duration": "00:22",
+        "aspectRatio": "19.5:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Provides full verbatim author prompt and screen recording evidence of an interactive game produced with Claude Opus 5.5.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/code_coded/status/2111121904388251714",
+        "start": 98,
+        "end": 185
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/code_coded/status/2111121904388251714",
+        "author": "code_coded",
+        "postId": "2111121904388251714",
+        "publishedAt": "2026-10-16T15:47:39.000Z"
+      },
+      "checkedAt": "2026-10-16T16:20:33.886Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/code_coded/status/2111121904388251714",
+        "evidence": ""
+      }
+    },
+    "summary": "Sky prompts Claude Opus 5.5 with medium reasoning via t3 codes to generate a complete interactive Three.js arena game ('Splat Knight') featuring combat, combo counters, upgrade choices, and juice effects.",
+    "summaryEn": "Three.js Splat Knight Game with Extreme Juice",
+    "originalPrompt": "Create a game in three js that has extreme juice, fun to play and player can't put down",
+    "sourceRange": {
+      "start": 98,
+      "end": 185
+    },
+    "translations": {
+      "zh": "Create a game in three js that has extreme juice, fun to play and player can't put down",
+      "en": "Create a game in three js that has extreme juice, fun to play and player can't put down"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Three.js Action Game",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video displays active gameplay of 'Splat Knight' featuring vibrant particle splats, combo multipliers, screen shake, and roguelite level-up upgrade cards rendered in Three.js."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

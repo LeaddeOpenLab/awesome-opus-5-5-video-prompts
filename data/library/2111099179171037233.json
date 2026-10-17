@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T17:02:09.525Z",
+  "model": "opus5.5",
+  "prompt": "gummy bears you can grab, stretch, squash, throw and pour by the hundreds.",
+  "promptTranslations": {
+    "en": "gummy bears you can grab, stretch, squash, throw and pour by the hundreds."
+  },
+  "summary": "Claude Opus 5.5 generates a self-contained Three.js interactive physics demo featuring deformable gummy bears.",
+  "summaryEn": "Interactive 3D Gummy Bear Physics Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111099179171037233",
+    "canonicalUrl": "https://x.com/realsunsiyuan/status/2111099179171037233",
+    "author": {
+      "username": "realsunsiyuan",
+      "displayName": "Miles Sun",
+      "profileUrl": "https://x.com/realsunsiyuan"
+    },
+    "publishedAt": "2026-10-16T14:17:21.000Z",
+    "collectedAt": "2026-10-16T16:16:17.192Z",
+    "language": "en",
+    "originalText": "Gummy bear challenge: Claude or GPT?\n\nSame prompt: gummy bears you can grab, stretch, squash, throw and pour by the hundreds.\n\nTop: Claude Opus 5.5, 52 min, $9.81\nBottom: GPT-6.1-sol, 23 min, $0.98\n\nBoth recorded by the same script, same moves.\n\nWhich side are you on? https://t.co/eYS8FGLtMb",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/realsunsiyuan/status/2111099179171037233",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111097996570181632/img/NLl6QFPhPCU4dgjS.jpg",
+        "analysisUrl": "https://x.com/realsunsiyuan/status/2111099179171037233"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 35
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/realsunsiyuan/status/2111101133649551803",
+        "text": "Miles Sun on X: \"@semichenkko The full prompt (one self-contained HTML file, three.js from a CDN):\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nMiles Sun on X: \"@semichenkko The full prompt (one self-contained HTML file, three.js from a CDN):\"\n\n\n\nMiles Sun\n@realsunsiyuan\n\n\n\n\nThe full prompt (one self-contained HTML file, three.js from a CDN):\n\n\n\n\n\n2:25 PM · Oct 16, 2026·26\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nMiles Sun@realsunsiyuanFollow\n🔨 Builder 👨‍💻 Entrepreneur\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSemichenko@semichenkkoFollow\nTesting what AI can actually build. 3D, agents, AI vs AI\n\n\n\n\n\n\n\n\nMiles Sun\n@realsunsiyuan\n2h\n\n\nGummy bear challenge: Claude or GPT?\n\nSame prompt: gummy bears you can grab, stretch, squash, throw and pour by the hundreds.\n\nTop: Claude Opus 5.5, 52 min, $9.81\nBottom: GPT-6.1-sol, 23 min, $0.98\n\nBoth recorded by the same script, same moves.\n\nWhich side are you on?\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n\n35\n\n\n\n\n\n\n\n\n\n\nMiles Sun\n@realsunsiyuan\n2h\n\n\nPrompt idea from @semichenkko&#x27;s Opus vs Gemini run. Ours adds chibi proportions and a hold-to-pour button. Made by me, more at \n\n\nultramotion — open-source motion graphics templates for AI agents\n\n\nFrom ultramotion.ai\n\n\n\n1\n\n1\n20\n\n\n\n\n\n\n\n\n\n\nMiles Sun\n@realsunsiyuan\n\n\n\n\nThe full prompt (one self-contained HTML file, three.js from a CDN):\n\n\n\n\n\n2:25 PM · Oct 16, 2026·26\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "realsunsiyuan"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/realsunsiyuan/status/2111099536433434843",
+        "text": "Prompt idea from @semichenkko's Opus vs Gemini run. Ours adds chibi proportions and a hold-to-pour button. Made by me, more at https://t.co/euXP3S915d",
+        "author": "realsunsiyuan"
+      },
+      {
+        "url": "https://x.com/realsunsiyuan/status/2111099179171037233",
+        "text": "Miles Sun on X: \"Gummy bear challenge: Claude or GPT?\n\nSame prompt: gummy bears you can grab, stretch, squash, throw and pour by the hundreds.\n\nTop: Claude Opus 5.5, 52 min, $9.81\nBottom: GPT-6.1-sol, 23 min, $0.98\n\nBoth recorded by the same script, same moves.\n\nWhich side are you on?\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nMiles Sun on X: \"Gummy bear challenge: Claude or GPT?\n\nSame prompt: gummy bears you can grab, stretch, squash, throw and pour by the hundreds.\n\nTop: Claude Opus 5.5, 52 min, $9.81\nBottom: GPT-6.1-sol, 23 min, $0.98\n\nBoth recorded by the same script, same moves.\n\nWhich side are you on?\"\n\n\n\nMiles Sun\n@realsunsiyuan\n\n\n\n\nGummy bear challenge: Claude or GPT?\n\nSame prompt: gummy bears you can grab, stretch, squash, throw and pour by the hundreds.\n\nTop: Claude Opus 5.5, 52 min, $9.81\nBottom: GPT-6.1-sol, 23 min, $0.98\n\nBoth recorded by the same script, same moves.\n\nWhich side are you on?\n\n\n00:00\n\n\n\n\n\n\n\n\n2:17 PM · Oct 16, 2026·35\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nMiles Sun@realsunsiyuanFollow\n🔨 Builder 👨‍💻 Entrepreneur\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMiles Sun\n@realsunsiyuan\n\n\n\n\nGummy bear challenge: Claude or GPT?\n\nSame prompt: gummy bears you can grab, stretch, squash, throw and pour by the hundreds.\n\nTop: Claude Opus 5.5, 52 min, $9.81\nBottom: GPT-6.1-sol, 23 min, $0.98\n\nBoth recorded by the same script, same moves.\n\nWhich side are you on?\n\n\n00:00\n\n\n\n\n\n\n\n\n2:17 PM · Oct 16, 2026·35\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\nMiles Sun\n@realsunsiyuan\n2h\n\n\nPrompt idea from @semichenkko&#x27;s Opus vs Gemini run. Ours adds chibi proportions and a hold-to-pour button. Made by me, more at \n\n\nultramotion — open-source motion graphics templates for AI agents\n\n\nFrom ultramotion.ai\n\n\n\n1\n\n1\n20\n\n\n\n\n\n\n\n\n\nMiles Sun\n@realsunsiyuan\n2h\n\n\nThe full prompt (one self-contained HTML file, three.js from a CDN):\n\n\n\n\n\n\n\n\n\n\n26\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "realsunsiyuan"
+      },
+      {
+        "url": "https://ultramotion.ai/",
+        "text": "\n\n\nultramotion — motion graphics templates, finished from one prompt\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMotion graphics, finished from one prompt.\nOpen source. Works in Claude Code and Codex, music included.\nnpx skills add sunsiyuan/ultramotion\nWant the finished video, or better tools? →\n\n\n\n\n\n\n\nProduct & Brand\nLaunches, logos and app features.\n\nLiquid Glass App FeatureInk in Water Logo RevealParticle Logo & Product RevealMilk Pour Coffee LoopGlitch Streetwear DropParticle City Model RevealGlitch Product Launch\n\nData & News\nRankings, maps and charts that show what happened.\n\nBar Chart Race3D Election Night MapIf You Had Bought It Then3D Map Disaster ReplayStacked Area Chart AnimationWhere the Money Goes InfographicPlayoff Bracket ReplayIf It Were 100 People InfographicAnimated Chart Over the YearsMarket Crash Replay\n\nTitles & Intros\nOpeners for films, shows and streams.\n\nCinematic Opening CreditsCinematic Podcast OpenerGlitch Title CardGlitch Podcast IntroPaper Cut Storybook IntroSaul Bass Style Title SequencePixel Art Stream Starting Soon Screen\n\nExplainers\nOne idea, on a chalkboard, in flat animation, or over a talking head.\n\nFlat Animation ExplainerChalkboard AnimationHand-drawn Whiteboard ExplainerVariety Show Captions\n\nLyrics & Music\nWords that land on the beat, sung or rapped.\n\nLyric VideoFluid Light Music TeaserRap Lyric VideoKTV Karaoke Backing TrackBallpark Sing-Along Video BoardVHS Glitch Lyric VideoNeon Single Cover\n\nSigns & Posters\nNeon that flickers on, type that won’t sit still.\n\nRetro Motel Neon SignKinetic Typography PosterGlitch Club Night PosterPixel Art Tournament TrailerNeon Sign on Your Shopfront PhotoKinetic Type CountdownPixel Art Cafe Menu BoardKinetic Type Quote\n\nArt in Motion\nFamous paintings and ink wash, moving.\n\nVan Gogh Painting AnimationPaper Marbling AnimationMonet Painting AnimationInk Wash Animation from a PictureInk Wash Seasons\n\nGreetings & Moments\nBirthdays, new year, a save-the-date, a trip.\n\nBirthday Song CardPop-up Card Save the DatePixel Art Birthday Level UpParticle New Year GreetingPaper Cut Chinese New Year GreetingPixel Art Travel Route Map\n\n\n\n\nultramotionClaude MotionAfter Effects alternativeRemotion alternativeHyperFrames alternativeLiquid Glass generatorGitHub\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "realsunsiyuan"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/realsunsiyuan/status/2111099179171037233",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111097996570181632/img/NLl6QFPhPCU4dgjS.jpg",
+  "coverPath": "data/covers/2111099179171037233-wide.jpg",
+  "gifPath": "data/gifs/2111099179171037233.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111097996570181632",
+    "x-post:2111099179171037233"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Gummy Bear Physics Simulation",
+      "summary": "Claude Opus 5.5 generates a self-contained Three.js interactive physics demo featuring deformable gummy bears.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Top: Claude Opus 5.5, 52 min, $9.81"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "gummy bears you can grab, stretch, squash, throw and pour by the hundreds.",
+        "englishText": "gummy bears you can grab, stretch, squash, throw and pour by the hundreds.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Complete HTML setup instructions",
+          "Three.js physics parameters and UI specification"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Split-screen video captures real-time grabbing, stretching, squashing, and mass pouring of 3D gummy bears.",
+        "textualResultQuote": "Top: Claude Opus 5.5, 52 min, $9.81"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D graphics rendering and simulation",
+          "evidence": "one self-contained HTML file, three.js from a CDN",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/realsunsiyuan/status/2111101133649551803"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Gummy Bear Physics",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "physics",
+          "interactive-3d",
+          "webgl"
+        ]
+      },
+      "targetModelRole": "Code generation for interactive 3D HTML application",
+      "outputSource": "Web browser rendering of generated Three.js code",
+      "divisionEvidence": "Claude Opus 5.5 wrote the application code, while Three.js rendered the interactive scene.",
+      "video": {
+        "shots": "Single continuous interactive split-screen demo",
+        "duration": "37s",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Author confirms Claude Opus 5.5 wrote the interactive 3D Three.js scene accompanied by screen-recording footage.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/realsunsiyuan/status/2111099179171037233",
+        "start": 51,
+        "end": 125
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/realsunsiyuan/status/2111099179171037233",
+        "author": "realsunsiyuan",
+        "postId": "2111099179171037233",
+        "publishedAt": "2026-10-16T14:17:21.000Z"
+      },
+      "checkedAt": "2026-10-16T16:34:35.435Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/realsunsiyuan/status/2111099179171037233",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generates a self-contained Three.js interactive physics demo featuring deformable gummy bears.",
+    "summaryEn": "Interactive 3D Gummy Bear Physics Simulation",
+    "originalPrompt": "gummy bears you can grab, stretch, squash, throw and pour by the hundreds.",
+    "sourceRange": {
+      "start": 51,
+      "end": 125
+    },
+    "translations": {
+      "zh": "gummy bears you can grab, stretch, squash, throw and pour by the hundreds.",
+      "en": "gummy bears you can grab, stretch, squash, throw and pour by the hundreds."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Gummy Bear Physics",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Complete HTML setup instructions",
+        "Three.js physics parameters and UI specification"
+      ],
+      "evidence": "Split-screen video captures real-time grabbing, stretching, squashing, and mass pouring of 3D gummy bears."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

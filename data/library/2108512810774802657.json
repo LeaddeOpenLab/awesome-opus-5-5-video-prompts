@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "storedAt": "2026-10-09T11:58:02.298Z",
+  "storedAt": "2026-10-16T17:02:10.031Z",
   "model": "opus5.5",
   "prompt": "a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.",
   "promptTranslations": {
     "en": "a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural."
   },
-  "summary": "Claude Opus 5.5 orchestrated Claude Haiku 5.5 to procedurally generate a 30-second cinematic 3D Formula 1 pit stop animation in Three.js featuring an 8-person crew, tyre change sequence, multi-angle camera cuts, and synthesized audio.",
-  "summaryEn": "Cinematic F1 Pit Stop in Three.js",
+  "summary": "Rubens Soto shares a 30-second procedural 3D F1 pit stop animation in Three.js with synthesized audio, orchestrated by Claude Opus 5.5 and executed by Claude Haiku 5.5.",
+  "summaryEn": "Procedural 3D F1 Pit Stop in Three.js",
   "post": {
     "postKind": "original",
     "repostOf": null,
@@ -20,7 +20,7 @@
       "profileUrl": "https://x.com/rubenssoto_ai"
     },
     "publishedAt": "2026-10-09T11:00:03.000Z",
-    "collectedAt": "2026-10-09T11:14:23.213Z",
+    "collectedAt": "2026-10-16T16:16:17.192Z",
     "language": "en",
     "originalText": "🚨Opus 5.5 + Haiku 5.5 are Amazing for 3D Design🚨\n\none-shot prompt: a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.\n\nClaude Opus 5.5 (orchestrator) + Claude Haiku 5.5\n\n🔊 Turn up the volume! https://t.co/gLbVasAlys",
     "media": [
@@ -32,19 +32,133 @@
       }
     ],
     "metrics": {
-      "likeCount": 4,
+      "likeCount": 43,
       "repostCount": 0,
-      "replyCount": 1,
+      "replyCount": 21,
       "quoteCount": 0,
-      "viewCount": 30
+      "viewCount": 1027
     },
     "matchedRuleIds": [
-      "group:opus:en:Latest"
+      "group:opus:en:Top:part1:tasks"
     ],
     "sourceMaterials": [
       {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108604161067819276",
+        "text": "@DrstaOne Thank you so much.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108604134593052986",
+        "text": "@kepochnik Yes, the result was pretty impressive.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108604096794034397",
+        "text": "@neerajjj6785 Thank you, man. Really appreciate it.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108604043795091916",
+        "text": "@jpshrodinger Yeah man, anthropic models are very good at design.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108604000597635340",
+        "text": "@mardavsj Yes, that was the total cost to have the video ready.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108603934466081070",
+        "text": "@anduraio Yes, the details are pretty nice.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108603884981919746",
+        "text": "@IndependentEco I also love Formula One.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108603840501264847",
+        "text": "@Leapofcode Yeah, was an expensive post and I was expecting more views to be honest. Hahahaha.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108603752693498274",
+        "text": "@Saas_addy Thank you, really appreciate.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108603720519016602",
+        "text": "@sergeo_n Yeah, the new generations of openweight models, is going to need to bring some innovation.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108603567062077813",
+        "text": "@Talu_Tek Yes, great result, right?",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108603512645210380",
+        "text": "@federicodonaton I agree 100%. I am completely incapable to do something like that by my own.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108603420261454003",
+        "text": "@VulKan42069 It is completely possible man. I think 2D games are faster than 3D. If you really want to create a game.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108603264551780509",
+        "text": "@sashikantsingh_ Thank you, man.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108603231400346006",
+        "text": "@Ionkosm Man, I forgot measuring the usage quota, but in dollars were 90 something.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108603034712592667",
+        "text": "@VP_code_n_lift Yeah, the output is really good.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108603000541347922",
+        "text": "@JamesMalsawm Yes, it is a powerful combination.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108602906249506960",
+        "text": "@niuniu_dev I think we have a long path in 3D design for LLMs, but the first results are pretty great.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2108602668407201943",
+        "text": "@alwayspriyesh Thank you so much. I'm loving to create tests like that. Happy to know that you liked.",
+        "author": "rubenssoto_ai"
+      },
+      {
         "url": "https://x.com/rubenssoto_ai/status/2108512810774802657",
-        "text": "Rubens Soto | AI & SaaS on X: \"🚨Opus 5.5 + Haiku 5.5 are Amazing for 3D Design🚨\n\none-shot prompt: a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.\n\nClaude Opus 5.5 (orchestrator) + Claude Haiku 5.5\n\n🔊 Turn up the volu… / X\n\nPost\n\nLog inSign up\n\nPost\n\n\nLog inSign up\n\n\n\nRubens Soto | AI & SaaS on X: \"🚨Opus 5.5 + Haiku 5.5 are Amazing for 3D Design🚨\n\none-shot prompt: a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.\n\nClaude Opus 5.5 (orchestrator) + Claude Haiku 5.5\n\n🔊 Turn up the volume!\"\n\n\n\nRubens Soto | AI & SaaS\n\n@rubenssoto_ai\n\n\n\n\n🚨Opus 5.5 + Haiku 5.5 are Amazing for 3D Design🚨\n\none-shot prompt: a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.\n\nClaude Opus 5.5 (orchestrator) + Claude Haiku 5.5\n\n🔊 Turn up the volume!\n\n\n00:00\n\n\n\n\n\n\n\n\n11:00 AM · Oct 9, 2026·131\nViews\n\n\n\n3\n\n5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nRubens Soto | AI & SaaS@rubenssoto_aiFollow\n17 yrs in tech. DBA & data engineer background.\nBuilding AI/SaaS from scratch.\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRubens Soto | AI & SaaS\n\n@rubenssoto_ai\n\n\n\n\n🚨Opus 5.5 + Haiku 5.5 are Amazing for 3D Design🚨\n\none-shot prompt: a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.\n\nClaude Opus 5.5 (orchestrator) + Claude Haiku 5.5\n\n🔊 Turn up the volume!\n\n\n00:00\n\n\n\n\n\n\n\n\n11:00 AM · Oct 9, 2026·131\nViews\n\n\n\n3\n\n5\n\n\n\n\n\n\n\n\n\n\nMardav\n\n@mardavsj\n15m\n\n\nis this total cost to make this video 😶\n\n\n\n\n\n4\n\n\n\n\n\n\n\n\n\n\n\nJames Malsawm\n\n@JamesMalsawm\n17m\n\n\nthis is absolutely amazing. Both opus 5.5 and Haiku 5.5 are the best when they work together\n\n\n\n\n\n7\n\n\n\n\n\n\n\n\n\n\n\nIon\n\n@Ionkosm\n22m\n\n\nWhat was the cost for this? I mean how much rate limit of your weekly did it burn?\n\n\n\n\n\n6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "text": "Rubens Soto | AI & SaaS on X: \"🚨Opus 5.5 + Haiku 5.5 are Amazing for 3D Design🚨\n\none-shot prompt: a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.\n\nClaude Opus 5.5 (orchestrator) + Claude Haiku 5.5\n\n🔊 Turn up the volu… / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nRubens Soto | AI & SaaS on X: \"🚨Opus 5.5 + Haiku 5.5 are Amazing for 3D Design🚨\n\none-shot prompt: a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.\n\nClaude Opus 5.5 (orchestrator) + Claude Haiku 5.5\n\n🔊 Turn up the volume!\"\n\n\n\nRubens Soto | AI & SaaS\n\n@rubenssoto_ai\n\n\n\n\n🚨Opus 5.5 + Haiku 5.5 are Amazing for 3D Design🚨\n\none-shot prompt: a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.\n\nClaude Opus 5.5 (orchestrator) + Claude Haiku 5.5\n\n🔊 Turn up the volume!\n\n\n00:00\n\n\n\n\n\n\n\n\n11:00 AM · Oct 9, 2026·1,027\nViews\n\n\n\n21\n\n43\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nRubens Soto | AI & SaaS@rubenssoto_aiFollow\n17 yrs in tech. DBA & data engineer background.\nBuilding AI/SaaS from scratch.\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRubens Soto | AI & SaaS\n\n@rubenssoto_ai\n\n\n\n\n🚨Opus 5.5 + Haiku 5.5 are Amazing for 3D Design🚨\n\none-shot prompt: a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.\n\nClaude Opus 5.5 (orchestrator) + Claude Haiku 5.5\n\n🔊 Turn up the volume!\n\n\n00:00\n\n\n\n\n\n\n\n\n11:00 AM · Oct 9, 2026·1,027\nViews\n\n\n\n21\n\n43\n3\n\n\n\n\n\n\n\n\n\nkepo\n\n@kepochnik\nOct 9\n\n\nfor me it looks pretty good mate\n\n\n1\n\n1\n27\n\n\n\n\n\n\n\n\n\n\n\nEco\n\n@IndependentEco\nOct 9\n\n\nThis is such a cool test I’m a big fan of F1\n\n\n1\n\n1\n25\n\n\n\n\n\n\n\n\n\n\n\nVulKan\n\n@VulKan42069\nOct 9\n\n\nspend a weekend on this and it will become a full game xD\n\n\n1\n\n1\n15\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
         "kind": "linked_public_material",
         "author": "rubenssoto_ai"
       }
@@ -64,20 +178,19 @@
   "modelStatus": "identified",
   "mediaCategory": "video",
   "mediaFingerprints": [
-    "https://video-s.twimg.com/amplify_video/2108359989618151424/vid/avc1/600x270/oOUsgjcnwtv4l7xj.mp4?tag=29",
     "x-video:2108359989618151424",
     "x-post:2108512810774802657"
   ],
   "analysis": {
     "caseEvidence": {
       "group": "opus",
-      "title": "Cinematic F1 Pit Stop in Three.js",
-      "summary": "Claude Opus 5.5 orchestrated Claude Haiku 5.5 to procedurally generate a 30-second cinematic 3D Formula 1 pit stop animation in Three.js featuring an 8-person crew, tyre change sequence, multi-angle camera cuts, and synthesized audio.",
+      "title": "Procedural 3D F1 Pit Stop in Three.js",
+      "summary": "Rubens Soto shares a 30-second procedural 3D F1 pit stop animation in Three.js with synthesized audio, orchestrated by Claude Opus 5.5 and executed by Claude Haiku 5.5.",
       "sourceRelation": "original",
       "model": {
-        "name": "Claude Opus 5.5",
+        "name": "Claude Opus",
         "version": "5.5",
-        "platform": null,
+        "platform": "Anthropic API",
         "authorUseConfirmed": true,
         "evidence": "Claude Opus 5.5 (orchestrator) + Claude Haiku 5.5"
       },
@@ -88,57 +201,65 @@
         "complete": true,
         "reproducible": false,
         "missing": [
-          "orchestration framework / agent loop script",
-          "system prompts for Opus 5.5 orchestrator and Haiku 5.5 executor"
+          "orchestrator agent harness code",
+          "exact multi-agent system prompt"
         ]
       },
       "result": {
         "kind": "video",
         "consistent": true,
-        "evidence": "The video displays a 30-second 3D animation of a red F1 car entering the pit box, lifted on jacks while an 8-person crew swaps all four tyres, followed by the car accelerating down the pit lane with dynamic camera transitions and synthesized engine/drill sound effects.",
-        "textualResultQuote": ""
+        "evidence": "The attached 30-second video showcases a procedural Three.js scene of an F1 pit stop with a detailed car, pit crew animations changing tires, dynamic camera angles, and synthesized sound.",
+        "textualResultQuote": "one-shot prompt: a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural."
       },
       "inputs": [],
       "inputsDocumented": true,
       "tools": [
         {
           "name": "Claude Haiku 5.5",
-          "role": "Execution sub-agent for code generation",
+          "role": "Sub-agent code execution and generation",
           "evidence": "EXECUTED BY Claude Haiku 5.5",
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2108512810774802657",
           "status": "author_confirmed"
         },
         {
           "name": "Three.js",
-          "role": "3D graphics rendering engine and procedural scene setup",
-          "evidence": "one-shot prompt: a 30s cinematic F1 pit stop in Three.js.",
-          "status": "author_confirmed",
-          "sourceUrl": "https://x.com/rubenssoto_ai/status/2108512810774802657"
+          "role": "Procedural 3D scene rendering and animation runtime",
+          "evidence": "a 30s cinematic F1 pit stop in Three.js.",
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2108512810774802657",
+          "status": "required"
+        },
+        {
+          "name": "Web Audio API",
+          "role": "Synthesized procedural audio generation",
+          "evidence": "synthesized audio, fully procedural.",
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2108512810774802657",
+          "status": "inferred"
         }
       ],
       "purpose": {
-        "label": "Cinematic 3D F1 Pit Stop",
+        "label": "Procedural 3D F1 Pit Stop Animation",
         "topic": "3d-scenes",
         "tags": [
           "threejs",
           "webgl",
           "procedural-animation",
-          "agent-orchestration",
-          "f1",
+          "formula-1",
+          "multi-agent",
           "audio-synthesis"
         ]
       },
-      "targetModelRole": "High-level agent orchestrator directing code generation and scene composition",
-      "outputSource": "Procedural WebGL / Three.js canvas recording with Web Audio API sound synthesis",
+      "targetModelRole": "High-level agent orchestrator planning scene layout, camera cuts, timing, and delegating procedural Three.js implementation tasks.",
+      "outputSource": "Three.js rendering engine executing generated JavaScript code",
       "divisionEvidence": "Claude Opus 5.5 (orchestrator) + Claude Haiku 5.5",
       "video": {
-        "shots": "multi-shot (overhead pit entry, rear low-angle, high isometric pit box, rear follow tracking, side tracking profile, and straight perspective)",
+        "shots": "multi-shot",
         "duration": "30s",
-        "aspectRatio": "2.22:1",
+        "aspectRatio": "20:9",
         "referenceMaterials": []
       },
       "task": "canvas-interactive",
       "suitable": true,
-      "reason": "Direct showcase of Claude Opus 5.5 acting as an orchestrator to generate a complex procedural 3D animation video in Three.js with full prompt disclosure, model confirmation, and matching video output.",
+      "reason": "Clear demonstration of Claude Opus 5.5 acting as an orchestrator model generating a fully procedural 3D Three.js cinematic video animation complete with audio.",
       "isAdvertisement": false,
       "promptSource": {
         "url": "https://x.com/rubenssoto_ai/status/2108512810774802657",
@@ -152,7 +273,7 @@
         "postId": "2108512810774802657",
         "publishedAt": "2026-10-09T11:00:03.000Z"
       },
-      "checkedAt": "2026-10-09T11:35:33.876Z",
+      "checkedAt": "2026-10-16T16:41:39.137Z",
       "checkMethod": "video",
       "publication": {
         "tier": "reference",
@@ -173,8 +294,8 @@
         "evidence": ""
       }
     },
-    "summary": "Claude Opus 5.5 orchestrated Claude Haiku 5.5 to procedurally generate a 30-second cinematic 3D Formula 1 pit stop animation in Three.js featuring an 8-person crew, tyre change sequence, multi-angle camera cuts, and synthesized audio.",
-    "summaryEn": "Cinematic F1 Pit Stop in Three.js",
+    "summary": "Rubens Soto shares a 30-second procedural 3D F1 pit stop animation in Three.js with synthesized audio, orchestrated by Claude Opus 5.5 and executed by Claude Haiku 5.5.",
+    "summaryEn": "Procedural 3D F1 Pit Stop in Three.js",
     "originalPrompt": "a 30s cinematic F1 pit stop in Three.js. Detailed car, 8-person crew changing all 4 tyres, synthesized audio, fully procedural.",
     "sourceRange": {
       "start": 69,
@@ -188,7 +309,7 @@
       "opus5.5"
     ],
     "category": "canvas-interactive",
-    "useCase": "Cinematic 3D F1 Pit Stop",
+    "useCase": "Procedural 3D F1 Pit Stop Animation",
     "hasReusablePrompt": false,
     "promptResultConsistency": 1,
     "mediaReview": "automated",
@@ -197,10 +318,10 @@
       "reproducible": false,
       "matchesMedia": true,
       "missingElements": [
-        "orchestration framework / agent loop script",
-        "system prompts for Opus 5.5 orchestrator and Haiku 5.5 executor"
+        "orchestrator agent harness code",
+        "exact multi-agent system prompt"
       ],
-      "evidence": "The video displays a 30-second 3D animation of a red F1 car entering the pit box, lifted on jacks while an 8-person crew swaps all four tyres, followed by the car accelerating down the pit lane with dynamic camera transitions and synthesized engine/drill sound effects."
+      "evidence": "The attached 30-second video showcases a procedural Three.js scene of an F1 pit stop with a detailed car, pit crew animations changing tires, dynamic camera angles, and synthesized sound."
     },
     "isAdvertisement": false,
     "riskFlags": {

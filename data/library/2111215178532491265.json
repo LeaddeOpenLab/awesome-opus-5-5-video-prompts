@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T05:44:42.911Z",
+  "model": "opus5.5",
+  "prompt": "Create a hyper-realistic Tetris game in the style of RDR2, all in a single HTML file using HTML/CSS/Three.js.",
+  "promptTranslations": {
+    "en": "Create a hyper-realistic Tetris game in the style of RDR2, all in a single HTML file using HTML/CSS/Three.js."
+  },
+  "summary": "Simonas shares a one-shot 3D Tetris game created with Claude Opus 5.5, rendered via Three.js in a single HTML file styled after Red Dead Redemption 2.",
+  "summaryEn": "Red Dead Redemption 2 Themed 3D Tetris Game",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111215178532491265",
+    "canonicalUrl": "https://x.com/SimonasLTU1/status/2111215178532491265",
+    "author": {
+      "username": "SimonasLTU1",
+      "displayName": "Simonas",
+      "profileUrl": "https://x.com/SimonasLTU1"
+    },
+    "publishedAt": "2026-10-16T21:58:17.000Z",
+    "collectedAt": "2026-10-17T05:30:44.390Z",
+    "language": "en",
+    "originalText": "Okay, you guys might be getting tired of my Tetris games by now, but Opus 5.5 is just exceptionally good at making them. Here's a one-shot result from this prompt: 'Create a hyper-realistic Tetris game in the style of RDR2, all in a single HTML file using HTML/CSS/Three.js.' Usage? Just 1% for ~30 minutes of Opus 5.5 High (the video is sped up 2x).",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/SimonasLTU1/status/2111215178532491265",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111215049146540032/img/C8bWqF6igbIKXIyK.jpg",
+        "analysisUrl": "https://x.com/SimonasLTU1/status/2111215178532491265"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 367
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/SimonasLTU1/status/2111215178532491265",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111215049146540032/img/C8bWqF6igbIKXIyK.jpg",
+  "coverPath": "data/covers/2111215178532491265-wide.jpg",
+  "gifPath": "data/gifs/2111215178532491265.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111215049146540032",
+    "x-post:2111215178532491265"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Red Dead Redemption 2 Themed 3D Tetris Game",
+      "summary": "Simonas shares a one-shot 3D Tetris game created with Claude Opus 5.5, rendered via Three.js in a single HTML file styled after Red Dead Redemption 2.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5 is just exceptionally good at making them. Here's a one-shot result from this prompt: ... Usage? Just 1% for ~30 minutes of Opus 5.5 High"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create a hyper-realistic Tetris game in the style of RDR2, all in a single HTML file using HTML/CSS/Three.js.",
+        "englishText": "Create a hyper-realistic Tetris game in the style of RDR2, all in a single HTML file using HTML/CSS/Three.js.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording demonstrates an interactive western-themed 3D Tetris game titled 'Red Dead Tetris' with custom wooden/desert assets, chapter transitions ('Colter', 'Horseshoe Overlook'), RDR2 HUD elements, and 3D blocks matching the requested Three.js single-file implementation.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML/CSS",
+          "role": "DOM structure and styling container for the single-file game",
+          "evidence": "all in a single HTML file using HTML/CSS/Three.js.",
+          "sourceUrl": "https://x.com/SimonasLTU1/status/2111215178532491265",
+          "status": "required"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "Create a hyper-realistic Tetris game in the style of RDR2, all in a single HTML file using HTML/CSS/Three.js.",
+          "sourceUrl": "https://x.com/SimonasLTU1/status/2111215178532491265",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "RDR2 Themed 3D Tetris Game",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "tetris",
+          "interactive",
+          "webgl",
+          "game-dev"
+        ]
+      },
+      "targetModelRole": "Generates the complete single-file HTML, CSS, and Three.js code implementing the game logic, western aesthetics, and rendering pipeline in a single shot.",
+      "outputSource": "Web browser rendering the generated HTML/CSS/Three.js code",
+      "divisionEvidence": "Claude Opus 5.5 authored the single HTML file, while Three.js and the browser runtime render and execute the interactive gameplay.",
+      "video": {
+        "shots": "Single continuous screen recording capture of gameplay",
+        "duration": "00:58",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Clear author evidence of Claude Opus 5.5 generating code for an interactive 3D web game, accompanied by a complete verbatim prompt and an authentic screen recording of the resulting gameplay.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/SimonasLTU1/status/2111215178532491265",
+        "start": 165,
+        "end": 274
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/SimonasLTU1/status/2111215178532491265",
+        "author": "SimonasLTU1",
+        "postId": "2111215178532491265",
+        "publishedAt": "2026-10-16T21:58:17.000Z"
+      },
+      "checkedAt": "2026-10-17T05:33:52.834Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/SimonasLTU1/status/2111215178532491265",
+        "evidence": ""
+      }
+    },
+    "summary": "Simonas shares a one-shot 3D Tetris game created with Claude Opus 5.5, rendered via Three.js in a single HTML file styled after Red Dead Redemption 2.",
+    "summaryEn": "Red Dead Redemption 2 Themed 3D Tetris Game",
+    "originalPrompt": "Create a hyper-realistic Tetris game in the style of RDR2, all in a single HTML file using HTML/CSS/Three.js.",
+    "sourceRange": {
+      "start": 165,
+      "end": 274
+    },
+    "translations": {
+      "zh": "Create a hyper-realistic Tetris game in the style of RDR2, all in a single HTML file using HTML/CSS/Three.js.",
+      "en": "Create a hyper-realistic Tetris game in the style of RDR2, all in a single HTML file using HTML/CSS/Three.js."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "RDR2 Themed 3D Tetris Game",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The screen recording demonstrates an interactive western-themed 3D Tetris game titled 'Red Dead Tetris' with custom wooden/desert assets, chapter transitions ('Colter', 'Horseshoe Overlook'), RDR2 HUD elements, and 3D blocks matching the requested Three.js single-file implementation."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

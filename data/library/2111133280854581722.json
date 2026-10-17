@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T05:44:44.924Z",
+  "model": "opus5.5",
+  "prompt": "300 wooden dominoes in a spiral, a steel ball knocks over the first one, the wave runs to the center and drops a tiny red flag. Real 3D, 15 seconds.",
+  "promptTranslations": {
+    "en": "300 wooden dominoes in a spiral, a steel ball knocks over the first one, the wave runs to the center and drops a tiny red flag. Real 3D, 15 seconds."
+  },
+  "summary": "Comparison between Claude Opus 5.5 and Haiku 5.5 generating a 15-second 3D animation of 300 wooden dominoes falling in a spiral triggered by a steel ball, dropping a tiny red flag at the center.",
+  "summaryEn": "300 Wooden Dominoes in a Spiral Comparison",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111133280854581722",
+    "canonicalUrl": "https://x.com/buzzhive_ai/status/2111133280854581722",
+    "author": {
+      "username": "buzzhive_ai",
+      "displayName": "Buzz",
+      "profileUrl": "https://x.com/buzzhive_ai"
+    },
+    "publishedAt": "2026-10-16T16:32:51.000Z",
+    "collectedAt": "2026-10-17T05:30:44.390Z",
+    "language": "en",
+    "originalText": "Claude Opus 5.5 and Haiku 5.5 got the same prompt: 300 wooden dominoes in a spiral, a steel ball knocks over the first one, the wave runs to the center and drops a tiny red flag. Real 3D, 15 seconds.\n\nOpus: $0.88, 7 minutes.\nHaiku: 3 cents, 5 minutes.\n\nOne shot each, zero edits.\n\nOpus built chunky wooden tiles with grain and real shadows, kept the camera low inside the wave and let the flag fall at the very end.\n\nHaiku drew a thin line of dominoes seen from far above. The wave runs, you just have to squint to see it.\n\n28x the price. Top or bottom?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/buzzhive_ai/status/2111133280854581722",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111133233907675136/img/Qz2tpJ4n26gLAA_g.jpg",
+        "analysisUrl": "https://x.com/buzzhive_ai/status/2111133280854581722"
+      }
+    ],
+    "metrics": {
+      "likeCount": 7,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 153
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/buzzhive_ai/status/2111133280854581722",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111133233907675136/img/Qz2tpJ4n26gLAA_g.jpg",
+  "coverPath": "data/covers/2111133280854581722-wide.jpg",
+  "gifPath": "data/gifs/2111133280854581722.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111133233907675136",
+    "x-post:2111133280854581722"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "300 Wooden Dominoes in a Spiral Comparison",
+      "summary": "Comparison between Claude Opus 5.5 and Haiku 5.5 generating a 15-second 3D animation of 300 wooden dominoes falling in a spiral triggered by a steel ball, dropping a tiny red flag at the center.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 and Haiku 5.5 got the same prompt: 300 wooden dominoes in a spiral, a steel ball knocks over the first one, the wave runs to the center and drops a tiny red flag. Real 3D, 15 seconds."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "300 wooden dominoes in a spiral, a steel ball knocks over the first one, the wave runs to the center and drops a tiny red flag. Real 3D, 15 seconds.",
+        "englishText": "300 wooden dominoes in a spiral, a steel ball knocks over the first one, the wave runs to the center and drops a tiny red flag. Real 3D, 15 seconds.",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "code execution environment / 3D engine details"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The top half of the video shows the Claude Opus 5.5 output featuring chunky wooden dominoes falling sequentially in a spiral until a red flag falls at the center, exactly matching the prompt.",
+        "textualResultQuote": "Opus built chunky wooden tiles with grain and real shadows, kept the camera low inside the wave and let the flag fall at the very end."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "3D Renderer / Engine",
+          "role": "Renders the 3D scene and physics animation scripted by the language model",
+          "evidence": "Real 3D, 15 seconds.",
+          "status": "inferred",
+          "sourceUrl": "https://x.com/buzzhive_ai/status/2111133280854581722"
+        }
+      ],
+      "purpose": {
+        "label": "Domino Spiral Physics Animation",
+        "topic": "3d-scenes",
+        "tags": [
+          "dominoes",
+          "physics",
+          "3d-animation",
+          "simulation",
+          "opus-5-5"
+        ]
+      },
+      "targetModelRole": "Code/scene generation for 3D physics simulation",
+      "outputSource": "Rendered 3D animation based on model code",
+      "divisionEvidence": "Claude Opus 5.5 and Haiku 5.5 got the same prompt... Opus built chunky wooden tiles with grain and real shadows, kept the camera low inside the wave and let the flag fall at the very end.",
+      "video": {
+        "shots": "Single shot with close, dynamic perspective",
+        "duration": "15s",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Author provides the verbatim prompt used with Claude Opus 5.5, explicit version evidence, and a corresponding video recording of the resulting 3D animation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/buzzhive_ai/status/2111133280854581722",
+        "start": 51,
+        "end": 199
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/buzzhive_ai/status/2111133280854581722",
+        "author": "buzzhive_ai",
+        "postId": "2111133280854581722",
+        "publishedAt": "2026-10-16T16:32:51.000Z"
+      },
+      "checkedAt": "2026-10-17T05:42:43.095Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/buzzhive_ai/status/2111133280854581722",
+        "evidence": ""
+      }
+    },
+    "summary": "Comparison between Claude Opus 5.5 and Haiku 5.5 generating a 15-second 3D animation of 300 wooden dominoes falling in a spiral triggered by a steel ball, dropping a tiny red flag at the center.",
+    "summaryEn": "300 Wooden Dominoes in a Spiral Comparison",
+    "originalPrompt": "300 wooden dominoes in a spiral, a steel ball knocks over the first one, the wave runs to the center and drops a tiny red flag. Real 3D, 15 seconds.",
+    "sourceRange": {
+      "start": 51,
+      "end": 199
+    },
+    "translations": {
+      "zh": "300 wooden dominoes in a spiral, a steel ball knocks over the first one, the wave runs to the center and drops a tiny red flag. Real 3D, 15 seconds.",
+      "en": "300 wooden dominoes in a spiral, a steel ball knocks over the first one, the wave runs to the center and drops a tiny red flag. Real 3D, 15 seconds."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Domino Spiral Physics Animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "code execution environment / 3D engine details"
+      ],
+      "evidence": "The top half of the video shows the Claude Opus 5.5 output featuring chunky wooden dominoes falling sequentially in a spiral until a red flag falls at the center, exactly matching the prompt."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-16T17:02:08.295Z",
+  "model": "opus5.5",
+  "prompt": "Build a single self-contained HTML file (canvas or WebGL, no external assets) on a fixed 1080x1080 square canvas showing a garden spider building a full orb web between two blurred twigs at sunrise, running at 60 fps.",
+  "promptTranslations": {
+    "en": "Build a single self-contained HTML file (canvas or WebGL, no external assets) on a fixed 1080x1080 square canvas showing a garden spider building a full orb web between two blurred twigs at sunrise, running at 60 fps."
+  },
+  "summary": "Claude Opus 5.5 generates a self-contained HTML/canvas animation depicting a garden spider constructing an orb web between twigs at dawn.",
+  "summaryEn": "Orb Weaver Spider Spinning Web at Sunrise",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111125520788107511",
+    "canonicalUrl": "https://x.com/jeffbruchado/status/2111125520788107511",
+    "author": {
+      "username": "jeffbruchado",
+      "displayName": "Jeff Bruchado",
+      "profileUrl": "https://x.com/jeffbruchado"
+    },
+    "publishedAt": "2026-10-16T16:02:01.000Z",
+    "collectedAt": "2026-10-17T05:30:44.390Z",
+    "language": "en",
+    "originalText": "Opus 5.5 vs Sonnet 5.5, same prompt: Dewline: an orb weaver spins at dawn\n\none HTML file, no assets\n\nOpus 5.5: 47m 10s, 1,005 lines, $20.29\nSonnet 5.5: 40m 40s, 751 lines, $11.02\n\ntop is Opus 5.5, bottom is Sonnet 5.5. costs are estimated API prices https://t.co/QlV1hiPHPw",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/jeffbruchado/status/2111125520788107511",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111125473853865984/img/2yvDV9OuGD2mRQLR.jpg",
+        "analysisUrl": "https://x.com/jeffbruchado/status/2111125520788107511"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 42
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/jeffbruchado/status/2111125544557559825",
+        "text": "Prompt (excerpt): \"Build a single self-contained HTML file (canvas or WebGL, no external assets) on a fixed 1080x1080 square canvas showing a garden spider building a full orb web between two blurred twigs at sunrise, running at 60 fps.\"",
+        "author": "jeffbruchado"
+      },
+      {
+        "url": "https://x.com/jeffbruchado/status/2111125520788107511",
+        "text": "Jeff Bruchado on X: \"Opus 5.5 vs Sonnet 5.5, same prompt: Dewline: an orb weaver spins at dawn\n\none HTML file, no assets\n\nOpus 5.5: 47m 10s, 1,005 lines, $20.29\nSonnet 5.5: 40m 40s, 751 lines, $11.02\n\ntop is Opus 5.5, bottom is Sonnet 5.5. costs are estimated API prices\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nJeff Bruchado on X: \"Opus 5.5 vs Sonnet 5.5, same prompt: Dewline: an orb weaver spins at dawn\n\none HTML file, no assets\n\nOpus 5.5: 47m 10s, 1,005 lines, $20.29\nSonnet 5.5: 40m 40s, 751 lines, $11.02\n\ntop is Opus 5.5, bottom is Sonnet 5.5. costs are estimated API prices\"\n\n\n\nJeff Bruchado\n\n@jeffbruchado\n\n\n\n\nOpus 5.5 vs Sonnet 5.5, same prompt: Dewline: an orb weaver spins at dawn\n\none HTML file, no assets\n\nOpus 5.5: 47m 10s, 1,005 lines, $20.29\nSonnet 5.5: 40m 40s, 751 lines, $11.02\n\ntop is Opus 5.5, bottom is Sonnet 5.5. costs are estimated API prices\n\n\n00:00\n\n\n\n\n\n\n\n\n4:02 PM · Oct 16, 2026·42\nViews\n\n\n\n2\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nJeff Bruchado@jeffbruchadoFollow\nSoftware engineer building products with AI. Sharing code, decisions, and real lessons from shipping products.\n🕹️ PlayTokenEater.com\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJeff Bruchado\n\n@jeffbruchado\n\n\n\n\nOpus 5.5 vs Sonnet 5.5, same prompt: Dewline: an orb weaver spins at dawn\n\none HTML file, no assets\n\nOpus 5.5: 47m 10s, 1,005 lines, $20.29\nSonnet 5.5: 40m 40s, 751 lines, $11.02\n\ntop is Opus 5.5, bottom is Sonnet 5.5. costs are estimated API prices\n\n\n00:00\n\n\n\n\n\n\n\n\n4:02 PM · Oct 16, 2026·42\nViews\n\n\n\n2\n\n1\n\n\n\n\n\n\n\n\n\n\nJeff Bruchado\n\n@jeffbruchado\n13h\n\n\nPrompt (excerpt): \"Build a single self-contained HTML file (canvas or WebGL, no external assets) on a fixed 1080x1080 square canvas showing a garden spider building a full orb web between two blurred twigs at sunrise, running at 60 fps.\"\n\n\n\n\n\n187\n\n\n\n\n\n\n\n\n\n\n\nNITO\n\n@Nitocnt\n13h\n\n\nopus spent more and wrote more for roughly the same orb\ncurious which one actually looks better when you open the html\n\n\n\n\n\n157\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "jeffbruchado"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/jeffbruchado/status/2111125520788107511",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111125473853865984/img/2yvDV9OuGD2mRQLR.jpg",
+  "coverPath": "data/covers/2111125520788107511-wide.jpg",
+  "gifPath": "data/gifs/2111125520788107511.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111125473853865984",
+    "x-post:2111125520788107511"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Orb Weaver Spider Spinning Web at Sunrise",
+      "summary": "Claude Opus 5.5 generates a self-contained HTML/canvas animation depicting a garden spider constructing an orb web between twigs at dawn.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic API",
+        "authorUseConfirmed": true,
+        "evidence": "\"Opus 5.5 vs Sonnet 5.5, same prompt: Dewline: an orb weaver spins at dawn\\n\\none HTML file, no assets\\n\\nOpus 5.5: 47m 10s, 1,005 lines, $20.29\""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Build a single self-contained HTML file (canvas or WebGL, no external assets) on a fixed 1080x1080 square canvas showing a garden spider building a full orb web between two blurred twigs at sunrise, running at 60 fps.",
+        "englishText": "Build a single self-contained HTML file (canvas or WebGL, no external assets) on a fixed 1080x1080 square canvas showing a garden spider building a full orb web between two blurred twigs at sunrise, running at 60 fps.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Remaining prompt text omitted from the author-labeled excerpt"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a side-by-side screen capture comparing Opus 5.5 (top) and Sonnet 5.5 (bottom), each rendering an animated garden spider progressively constructing an intricate orb web between twigs in front of a warm sunrise bokeh background.",
+        "textualResultQuote": "Opus 5.5: 47m 10s, 1,005 lines, $20.29\nSonnet 5.5: 40m 40s, 751 lines, $11.02\n\ntop is Opus 5.5, bottom is Sonnet 5.5."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "HTML5 Canvas / WebGL",
+          "role": "Client-side rendering engine executing the generated single-file animation",
+          "evidence": "Build a single self-contained HTML file (canvas or WebGL, no external assets) on a fixed 1080x1080 square canvas",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/jeffbruchado/status/2111125544557559825"
+        }
+      ],
+      "purpose": {
+        "label": "Orb Weaver Sunrise Canvas Animation",
+        "topic": "motion-graphics",
+        "tags": [
+          "html5-canvas",
+          "creative-coding",
+          "procedural-animation",
+          "webgl"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 wrote the self-contained HTML/JavaScript code (1,005 lines) that executes the animated spider web generation in a browser canvas.",
+      "outputSource": "Web browser executing the HTML/canvas code generated by Claude Opus 5.5.",
+      "divisionEvidence": "\"one HTML file, no assets\\n\\nOpus 5.5: 47m 10s, 1,005 lines, $20.29\"",
+      "video": {
+        "shots": "Single continuous programmatic scene",
+        "duration": "8s",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 video production case demonstrating autonomous code generation for a 60 fps canvas animation, supported by side-by-side comparison video footage and prompt excerpt.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/jeffbruchado/status/2111125544557559825",
+        "start": 19,
+        "end": 236
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/jeffbruchado/status/2111125520788107511",
+        "author": "jeffbruchado",
+        "postId": "2111125520788107511",
+        "publishedAt": "2026-10-16T16:02:01.000Z"
+      },
+      "checkedAt": "2026-10-17T05:41:50.087Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/jeffbruchado/status/2111125544557559825",
+        "evidence": "Build a single self-contained HTML file (canvas or WebGL, no external assets) on a fixed 1080x1080 square canvas showing a garden spider building a full orb web between two blurred twigs at sunrise, running at 60 fps.",
+        "noSuppliedAssets": true,
+        "inputSummary": "No external assets required by the prompt"
+      }
+    },
+    "summary": "Claude Opus 5.5 generates a self-contained HTML/canvas animation depicting a garden spider constructing an orb web between twigs at dawn.",
+    "summaryEn": "Orb Weaver Spider Spinning Web at Sunrise",
+    "originalPrompt": "Build a single self-contained HTML file (canvas or WebGL, no external assets) on a fixed 1080x1080 square canvas showing a garden spider building a full orb web between two blurred twigs at sunrise, running at 60 fps.",
+    "sourceRange": {
+      "start": 19,
+      "end": 236
+    },
+    "translations": {
+      "zh": "Build a single self-contained HTML file (canvas or WebGL, no external assets) on a fixed 1080x1080 square canvas showing a garden spider building a full orb web between two blurred twigs at sunrise, running at 60 fps.",
+      "en": "Build a single self-contained HTML file (canvas or WebGL, no external assets) on a fixed 1080x1080 square canvas showing a garden spider building a full orb web between two blurred twigs at sunrise, running at 60 fps."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Orb Weaver Sunrise Canvas Animation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Remaining prompt text omitted from the author-labeled excerpt"
+      ],
+      "evidence": "The video shows a side-by-side screen capture comparing Opus 5.5 (top) and Sonnet 5.5 (bottom), each rendering an animated garden spider progressively constructing an intricate orb web between twigs in front of a warm sunrise bokeh background."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
