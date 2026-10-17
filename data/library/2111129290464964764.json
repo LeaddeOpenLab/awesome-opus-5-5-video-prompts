@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T05:47:16.655Z",
+  "model": "opus5.5",
+  "prompt": "stop drawing the cartoon and render the actual math",
+  "promptTranslations": {
+    "en": "stop drawing the cartoon and render the actual math"
+  },
+  "summary": "Otto demonstrates an interactive scientific simulation created with Claude Opus 5.5 showing probability currents in hydrogen atom orbitals under the Pauli equation.",
+  "summaryEn": "Hydrogen Atom Pauli Probability Current Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111129290464964764",
+    "canonicalUrl": "https://x.com/ottollm/status/2111129290464964764",
+    "author": {
+      "username": "ottollm",
+      "displayName": "Otto",
+      "profileUrl": "https://x.com/ottollm"
+    },
+    "publishedAt": "2026-10-16T16:17:00.000Z",
+    "collectedAt": "2026-10-17T05:30:44.390Z",
+    "language": "en",
+    "originalText": "every textbook draws the hydrogen atom as a fuzzy ball sitting perfectly still.\n\nthe ball is right. the \"still\" part isn't. even in the ground state, the calmest an atom can ever be, something inside that cloud keeps flowing, and this video shows exactly where it goes, orbital by orbital, in colors your textbook never printed.\n\ni asked Claude to stop drawing the cartoon and render the actual math. Opus 5.5 built me the whole simulation.\n\nok ok ok how to read it:\n\nthe little circle in the corner is the orbital you memorized in school\nthe big cloud is the probability current, where the \"chance of finding the electron\" flows\norange: counterclockwise\nblue: clockwise\nwhite: almost still\n\n1s, 2p, 3d. three orbitals. zero of them sitting still.\n\nwait.\n\nin plain Schrödinger, the 1s wave function is real, so its current is exactly zero. that's your static ball.\n\nadd spin with the Pauli equation and a new term shows up. spin ALONE makes the probability circulate. same density, same cloud, but now it's turning on the inside.\n\nlike a lake that looks frozen from the shore while the water underneath keeps moving.\n\nand watch 3d. orange and blue in the same orbital. the orbital motion pulls one way, the spin pulls the other.\n\nhonest part, because physics twitter will come for me: the electron is NOT orbiting like a tiny planet. nothing flies around a track. what flows is probability. and the textbook isn't lying, it shows you the density and skips the current.\n\nthat current is how the math writes the atom's magnetism.\n\nthe textbook gave you a photo. the equation was always a video.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ottollm/status/2111129290464964764",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111128928148480000/img/Uag_lCMGBM1N8063.jpg",
+        "analysisUrl": "https://x.com/ottollm/status/2111129290464964764"
+      }
+    ],
+    "metrics": {
+      "likeCount": 8,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 167
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ottollm/status/2111129292801282543",
+        "text": "made it interactive so you can spin it yourself. switch orbitals, watch the current move:\nhttps://t.co/oIwnH9BUuP",
+        "author": "ottollm"
+      },
+      {
+        "url": "https://ottollm.pages.dev/atom/",
+        "text": "\n\n\n\n\nElectron Never Sits Still\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "ottollm"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/ottollm/status/2111129290464964764",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111128928148480000/img/Uag_lCMGBM1N8063.jpg",
+  "coverPath": "data/covers/2111129290464964764-wide.jpg",
+  "gifPath": "data/gifs/2111129290464964764.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111128928148480000",
+    "x-post:2111129290464964764"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Hydrogen Atom Pauli Probability Current Simulation",
+      "summary": "Otto demonstrates an interactive scientific simulation created with Claude Opus 5.5 showing probability currents in hydrogen atom orbitals under the Pauli equation.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "i asked Claude to stop drawing the cartoon and render the actual math. Opus 5.5 built me the whole simulation."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "stop drawing the cartoon and render the actual math",
+        "englishText": "stop drawing the cartoon and render the actual math",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "complete simulation prompt and technical specifications",
+          "numerical calculation setup for hydrogen wave functions and Pauli current",
+          "visualization and rendering shader/canvas implementation code"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video demonstrates dynamic circulation of probability currents across orbitals (1s, 2p, 3d, 4f, 5g, 6p) with HUD labels and color-coded direction indicators matching the author's explanation.",
+        "textualResultQuote": "the big cloud is the probability current, where the 'chance of finding the electron' flows\norange: counterclockwise\nblue: clockwise\nwhite: almost still\n\n1s, 2p, 3d. three orbitals. zero of them sitting still."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "WebGL / HTML Canvas",
+          "role": "Interactive simulation frontend renderer",
+          "evidence": "made it interactive so you can spin it yourself. switch orbitals, watch the current move: https://ottollm.pages.dev/atom/",
+          "sourceUrl": "https://x.com/ottollm/status/2111129292801282543",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Quantum Physics Probability Current Visualizer",
+        "topic": "explainers",
+        "tags": [
+          "quantum-mechanics",
+          "physics-simulation",
+          "interactive",
+          "webgl",
+          "canvas-interactive"
+        ]
+      },
+      "targetModelRole": "Code generator and simulator designer for the physics math and interactive visualization",
+      "outputSource": "Web-based interactive simulation executed in browser and captured as video",
+      "divisionEvidence": "i asked Claude to stop drawing the cartoon and render the actual math. Opus 5.5 built me the whole simulation.",
+      "video": {
+        "shots": "Sequence of animated orbital views (1s, 2p, 3d, 4f, 5g, 6p)",
+        "duration": "00:56",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 creative coding/interactive simulation case producing scientific motion graphics/animation of quantum probability flow, supported by video demonstration and interactive web deployment.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/ottollm/status/2111129290464964764",
+        "start": 348,
+        "end": 399
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/ottollm/status/2111129290464964764",
+        "author": "ottollm",
+        "postId": "2111129290464964764",
+        "publishedAt": "2026-10-16T16:17:00.000Z"
+      },
+      "checkedAt": "2026-10-17T05:42:12.064Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ottollm/status/2111129290464964764",
+        "evidence": ""
+      }
+    },
+    "summary": "Otto demonstrates an interactive scientific simulation created with Claude Opus 5.5 showing probability currents in hydrogen atom orbitals under the Pauli equation.",
+    "summaryEn": "Hydrogen Atom Pauli Probability Current Simulation",
+    "originalPrompt": "stop drawing the cartoon and render the actual math",
+    "sourceRange": {
+      "start": 348,
+      "end": 399
+    },
+    "translations": {
+      "zh": "stop drawing the cartoon and render the actual math",
+      "en": "stop drawing the cartoon and render the actual math"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Quantum Physics Probability Current Visualizer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "complete simulation prompt and technical specifications",
+        "numerical calculation setup for hydrogen wave functions and Pauli current",
+        "visualization and rendering shader/canvas implementation code"
+      ],
+      "evidence": "The video demonstrates dynamic circulation of probability currents across orbitals (1s, 2p, 3d, 4f, 5g, 6p) with HUD labels and color-coded direction indicators matching the author's explanation."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
