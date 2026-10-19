@@ -7,18 +7,27 @@
 <strong>Mountainside Car Chase Previs</strong><br>
 <sub>Use: Car Chase Previs<br>Inputs: User inputs not specified by the author<br>Tools: Blender / Blender MCP</sub><br>
 <sub><a href="https://x.com/tonysurix/status/2108230699224596746">Original post ↗</a> · <a href="../../prompts/2108230699224596746.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip</strong><br><code>in blender make a previs of a car driving thru a mountainside with a another car chasing. record a video and show me here when its done.</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2107848117584543896.md"><img src="../../https:/pbs.twimg.com/amplify_video_thumb/2107847267323654144/img/-JOReq4-fsa1TJvf.jpg" alt="Pre-Computer Civilization Music Video via Multi-Tool Agent Orchestration" width="256" height="144" /></a><br>
 <strong>Pre-Computer Civilization Music Video via Multi-Tool Agent Orche…</strong><br>
 <sub>Use: AI Music Video Orchestration<br>Inputs: User inputs not specified by the author<br>Tools: Blender / ComfyUI / LTX-2.5 / Miniax H3 / YuE2</sub><br>
 <sub><a href="https://x.com/mikumiku_aloha/status/2107848117584543896">Original post ↗</a> · <a href="../../prompts/2107848117584543896.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip</strong><br><code>Blender</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2105077715510714439.md"><img src="../gifs/2105077715510714439.gif" alt="Agency Promo Motion Design Video" width="256" height="144" /></a><br>
 <strong>Agency Promo Motion Design Video</strong><br>
 <sub>Use: Motion graphics / showreel<br>Inputs: User inputs not specified by the author<br>Tools: Blender</sub><br>
 <sub><a href="https://x.com/motion_conquest/status/2105077715510714439">Original post ↗</a> · <a href="../../prompts/2105077715510714439.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip</strong><br><code>Blender</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
+<!-- pro-tip:end -->
 </td>
 </tr>
 <tr>
@@ -27,18 +36,27 @@
 <strong>FLIP CLASH Game UI Redesign with Blender Backgrounds</strong><br>
 <sub>Use: Game UI Redesign &amp; 3D Backgrounds<br>Inputs: FLIP CLASH game source code and original settings interface<br>Tools: Blender</sub><br>
 <sub><a href="https://x.com/hii_studio_jp/status/2105051697525686340">Original post ↗</a> · <a href="../../prompts/2105051697525686340.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip</strong><br><code>Make the menu stylish and easy to understand. Make the background realistic and cool.</code>: Specify content hierarchy, state changes and real data for the interface rather than static decoration.</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2104953406708175097.md"><img src="../gifs/2104953406708175097.gif" alt="Procedural Rube Goldberg Machine via Blender MCP" width="256" height="144" /></a><br>
 <strong>Procedural Rube Goldberg Machine via Blender MCP</strong><br>
 <sub>Use: Procedural Rube Goldberg Machine in Blender<br>Inputs: User inputs not specified by the author<br>Tools: Blender / Blender MCP / Cursor</sub><br>
 <sub><a href="https://x.com/Kwazikot/status/2104953406708175097">Original post ↗</a> · <a href="../../prompts/2104953406708175097.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip</strong><br><code>inspect the scene after each major step</code>: Inspect the scene after each major step so geometry errors surface before the final render.</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2110705871755878728.md"><img src="../gifs/2110705871755878728.gif" alt="Glim - 3D Animated Short via Blender Python Scripts" width="256" height="144" /></a><br>
 <strong>Glim - 3D Animated Short via Blender Python Scripts</strong><br>
 <sub>Use: Character &amp; Environment 3D Animation Short<br>Inputs: User inputs not specified by the author<br>Tools: Blender 5.1 / Python</sub><br>
 <sub><a href="https://x.com/Reena_Lin/status/2110705871755878728">Original post ↗</a> · <a href="../../prompts/2110705871755878728.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip</strong><br><code>No text</code>: Use explicit exclusions to prevent unwanted text, UI or interactions.</blockquote>
+<!-- pro-tip:end -->
 </td>
 </tr>
 <tr>
@@ -47,18 +65,27 @@
 <strong>Opus 5.5 Blender 3D Pirate Ship Animation and CAD Blueprint</strong><br>
 <sub>Use: Procedural 3D Galleon Modeling and Sunset Animation<br>Inputs: User inputs not specified by the author<br>Tools: Blender</sub><br>
 <sub><a href="https://x.com/Ayu_AI_0912/status/2110578363069006331">Original post ↗</a> · <a href="../../prompts/2110578363069006331.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip</strong><br><code>Blender</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2109523901105500260.md"><img src="../gifs/2109523901105500260.gif" alt="3D Paradise Island Scene with Three.js and Blender" width="256" height="144" /></a><br>
 <strong>3D Paradise Island Scene with Three.js and Blender</strong><br>
 <sub>Use: Interactive 3D Paradise Island Demo<br>Inputs: User inputs not specified by the author<br>Tools: Blender / Three.js</sub><br>
 <sub><a href="https://x.com/badboyfoxy/status/2109523901105500260">Original post ↗</a> · <a href="../../prompts/2109523901105500260.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip</strong><br><code>make me a paradise island in</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2105091868149354753.md"><img src="../gifs/2105091868149354753.gif" alt="3D Animated Music Video Produced with Claude Opus 5.5 and Blender" width="256" height="144" /></a><br>
 <strong>3D Animated Music Video Produced and Blender</strong><br>
 <sub>Use: 3D Animation / Music Video<br>Inputs: Original musical composition created by the author; Storyboards and directorial instructions created by the author<br>Tools: Blender / three.js</sub><br>
 <sub><a href="https://x.com/LugiAXETomXV/status/2105091868149354753">Original post ↗</a> · <a href="../../prompts/2105091868149354753.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip</strong><br><code>&quot;Camera work here should be like this&quot; &quot;This light isn&#x27;t needed&quot; &quot;Depth of field should be</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
+<!-- pro-tip:end -->
 </td>
 </tr>
 <tr>
@@ -67,12 +94,18 @@
 <strong>Tokyo Station 3D Architectural Breakdown</strong><br>
 <sub>Use: 3D visualization dissecting Tokyo Station's multi-layered layout generated via Claude Code / Opus 5.5 scripting Blender.<br>Inputs: User inputs not specified by the author<br>Tools: Blender</sub><br>
 <sub><a href="https://x.com/yktgch/status/2104525642121519401">Original post ↗</a> · <a href="../../prompts/2104525642121519401.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip</strong><br><code>I want to try Opus 5.5, so write a prompt for Blender to create a &#x27;Tokyo Station anatomy video&#x27; (starting from Marunouchi building to Yaesu side).</code>: Name the implementation or rendering tool and prepare its environment; a tool name alone is not a complete workflow.</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
 <a href="../../prompts/2102466523164274839.md"><img src="../gifs/2102466523164274839.gif" alt="1906 San Francisco Market Street Blender Reconstruction" width="256" height="144" /></a><br>
 <strong>1906 San Francisco Market Street Blender Reconstruction</strong><br>
 <sub>Use: Historical 3D reconstruction<br>Inputs: User inputs not specified by the author<br>Tools: Blender</sub><br>
 <sub><a href="https://x.com/alexalbert__/status/2102466523164274839">Original post ↗</a> · <a href="../../prompts/2102466523164274839.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip</strong><br><code>Before modeling anything, build a source file</code>: Build a historical source file before modeling so architectural details can be checked against evidence.</blockquote>
+<!-- pro-tip:end -->
 </td><td></td>
 </tr>
 </table>
