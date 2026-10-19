@@ -10,14 +10,14 @@ library; records may appear in multiple categories. Search covers all records.
 `prompts/<id>.md` files. Cards use existing covers, author, purpose, tools and
 prompt status. Latest means records stored on the date in `data/latest-update.json`.
 Non-selected cases link to the existing GitHub prompt rather than generating new
-detail pages. Homepage picks now include three recent additions, with twelve detail pages retained in total.
+detail pages. Homepage picks now include three recent additions, with fifteen detail pages retained in total.
 
 Three editable templates reuse their existing posters and MP4 previews, linking
 to their GitHub directories and Chinese guides. Pages rebuilds also watch template,
 category, cover and latest-update changes. Updates pushed with GITHUB_TOKEN still
 need an explicit deployment trigger, as described below.
 
-这是 `awesome-opus-5-5-video-prompts` 的轻量内容站。沿用 Leadde 的紫色、Logo、白底和深灰文字，以作品和使用信息为主。首页、三个专题、十二个案例共 16 个可索引页面；另有 404 页面。
+这是 `awesome-opus-5-5-video-prompts` 的轻量内容站。沿用 Leadde 的紫色、Logo、白底和深灰文字，以作品和使用信息为主。首页、三个专题、十五个案例共 19 个可索引页面；另有 404 页面。
 
 ## 本地预览
 
@@ -60,7 +60,7 @@ GitHub 项目站位于子路径，子路径下的 robots.txt 无法控制域名�
 
 ## 内容维护
 
-- `site/selection.json`：十二个详情案例（首页选取九个）、页面路径、编辑后的标题、简短介绍和使用建议。
+- `site/selection.json`：十五个详情案例（首页选取九个）、页面路径、编辑后的标题、简短介绍和使用建议。
 - `data/library/<id>.json`：原作者、原文提示词、来源和模型说明。构建时直接读取，不另建一份提示词数据库。
 - `site/build.py`：生成完整静态 HTML、独立 metadata、canonical、Open Graph、WebPage/CollectionPage 结构化数据与 sitemap。
 - `site/assets/site.css`、`site.js`：响应式样式、筛选、搜索、复制提示词和预览弹窗。
@@ -95,3 +95,22 @@ Google 提供的 `google9ddda4d9c22709a6.html` 保存在 `site/public/`，每次
 事件：`preview_play`（实际开始播放，每页面同一案例同一位置只计一次）、`prompt_copy`（剪贴板写入成功）、`github_click`、`leadde_click`。事件包含位置 `placement`，播放和复制包含 `prompt_id`，首屏播放标注 `autoplay`。不发送提示词正文或搜索输入。可以在 GA4 DebugView / 实时报告验证接收；需要按案例和位置分析时，将对应参数注册为自定义维度。
 
 作品区第一张主推卡进入可视区域后静音循环播放，可手动暂停；其他卡片在支持鼠标悬停的设备上悬停播放、移出暂停并恢复封面。移出可视区域、切换后台、筛选隐藏或打开弹窗时暂停。视频按需加载；触屏仍使用点击预览，减少动态效果设置下默认不自动播放。播放统计位置新增 `spotlight` 和 `hover`。
+
+## 2026-10-19：精选与仓库导流
+
+首页首屏及前三个精选更新为东京雨夜、15 秒 Showreel、Three.js 魔方。旧详情页保持原网址；新页面有独立标题、canonical 和 sitemap 条目。新增 MP4 复用仓库 GIF 短预览，保留原作者比较画面与标注，不代表完整视频或本站复现。README 前三个精选与本地 `prompt-pipeline/src/local-admin/curated-layout.ts` 生成配置同步更新；自动发布流程应使用更新后的生成配置。
+
+`github_click` 沿用原事件名，新增事件参数：
+
+| 参数 | 用途 |
+| --- | --- |
+| `repo_target` | `collection` 为本仓库，`external` 为其他 GitHub 仓库 |
+| `prompt_id` | 作品 ID；模板入口使用模板 slug；全站入口无此参数 |
+| `placement` | `hero-prompt`、`selected-card`、`preview-prompt`、`detail-prompt`、`detail-source`、`category-library`、`catalog-prompt`、`template-get` 等位置 |
+| `link_type` | `prompt`、`category`、`template`、`repository`、`star`；`star` 仅表示点击 Star 引导，不表示成功收藏 |
+
+上线后在 GA4 管理 → 自定义定义，将以上四个参数注册为事件范围的自定义维度（已有的无需重复创建）。本地验证只确认 dataLayer 事件，不等于 GA4 已接收或自定义维度已配置。
+
+最小探索报表：筛选 `event_name = github_click` 且 `repo_target = collection`；按「会话来源 / 媒介」查看总用户数、事件数，再用 `prompt_id` 和 `placement` 分解。用 GA4 内置会话来源，不新增自制来源追踪。对比全体与排除 `github.com / referral` 的用户，后者只作站外来源导流近似值，不能声称首次访问仓库。direct 仍是来源未知。GitHub Insights 的独立访客数单独观察，不能与站外点击做精确用户匹配。
+
+复制率与播放另看 `prompt_copy`、`preview_play`；自动播放（hero/spotlight）、悬停播放（hover）和主动预览（preview/detail）分别分析。

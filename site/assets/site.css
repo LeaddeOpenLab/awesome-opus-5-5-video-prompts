@@ -1342,3 +1342,7 @@ html[lang="zh-CN"] .hero h1 {
   .showcase-grid .catalog-card p { display: block !important; }
   .catalog-card .card-bottom { font-size: 12px !important; }
 }
+
+/* Repository actions stay readable alongside copy controls on narrow screens. */
+.prompt-header { flex-wrap: wrap; }
+.hero-caption > a { white-space: normal; }

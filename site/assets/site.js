@@ -14,14 +14,27 @@ if (analyticsId) {
 function track(name, params = {}) {
   window.gtag("event", name, { page_path: location.pathname, ...params });
 }
+const repositoryUrl = document.querySelector('meta[name="repository-url"]')?.content;
 document.addEventListener("click", (event) => {
   const link = event.target.closest("a[href]");
   if (!link) return;
   const url = new URL(link.href);
   if (url.hostname === "github.com" || url.hostname === "leadde.ai") {
+    const ownRepository = repositoryUrl && (url.origin + url.pathname === repositoryUrl ||
+      (url.origin + url.pathname).startsWith(repositoryUrl + "/"));
+    const promptId = link.closest("[data-prompt-id]")?.dataset.promptId ||
+      url.pathname.match(/\/prompts\/(\d+)\.md$/)?.[1];
+    const linkType = link.dataset.linkType || (url.pathname.includes("/prompts/") ? "prompt" :
+      url.pathname.includes("/data/categories/") ? "category" :
+      url.pathname.includes("/templates/") ? "template" : "repository");
     track(url.hostname === "github.com" ? "github_click" : "leadde_click", {
       link_url: url.href,
-      placement: link.dataset.placement || (link.closest("header") ? "header" : link.closest("footer") ? "footer" : "content"),
+      placement: link.closest("[data-placement]")?.dataset.placement || (link.closest("header") ? "header" : link.closest("footer") ? "footer" : "content"),
+      ...(url.hostname === "github.com" ? {
+        repo_target: ownRepository ? "collection" : "external",
+        link_type: linkType,
+        ...(promptId ? { prompt_id: promptId } : {}),
+      } : {}),
     });
   }
 });
@@ -105,6 +118,7 @@ if (dialog) {
   document.querySelectorAll("[data-preview]").forEach((button) =>
     button.addEventListener("click", () => {
       dialog.dataset.title = button.dataset.title;
+      dialog.dataset.promptId = button.dataset.promptId;
       dialog.querySelector("h2").textContent = t(button.dataset.title);
       const prompt = dialog.querySelector("#preview-prompt");
       prompt.textContent = window.sitePrompts[button.dataset.promptId];
@@ -115,6 +129,7 @@ if (dialog) {
       copy.textContent = t("Copy prompt");
       video.dataset.promptId = button.dataset.promptId;
       dialog.querySelector("[data-preview-link]").href = button.dataset.link;
+      dialog.querySelector("[data-preview-repo-link]").href = button.dataset.repoLink;
       video.poster = button.dataset.poster;
       video.src = button.dataset.preview;
       dialog.showModal();

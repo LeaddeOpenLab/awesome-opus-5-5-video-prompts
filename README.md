@@ -58,33 +58,24 @@ Read the prompt here on GitHub, or watch the preview and check setup notes on th
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/remotion-motion-design-showreel/"><img src="data/gifs/2103449416325890146.gif" alt="Motion Designer Résumé Showreel with Claude Opus 5.5 and Remotion" width="100%" /></a><br>
-<strong>Motion Designer Résumé Showreel and Remotion</strong><br>
+<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/threejs-tokyo-rainy-night-prompt/"><img src="data/gifs/2110107260751884639.gif" alt="Night Tokyo: Rainy Vending Machine 3D Diorama" width="100%" /></a><br>
+<strong>Night Tokyo: Rainy Vending Machine 3D Diorama</strong><br>
 
-<sub><a href="prompts/2103449416325890146.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/remotion-motion-design-showreel/">Watch preview · Website ↗</a> · <a href="https://x.com/ajith_io/status/2103449416325890146">Original post ↗</a></sub>
-<!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip</strong><br><code>dynamic 15-second motion graphics video</code>: Specify duration and motion format together to turn a broad request into a focused 15-second showreel.</blockquote>
-<!-- pro-tip:end -->
+<sub><a href="prompts/2110107260751884639.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/threejs-tokyo-rainy-night-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/sprinntt/status/2110107260751884639">Original post ↗</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/starry-night-3d-cats-prompt/"><img src="data/gifs/2103802923465768972.gif" alt="Vincent's Cats: 3D Starry Night Game" width="100%" /></a><br>
-<strong>Vincent's Cats: 3D Starry Night Game</strong><br>
+<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/claude-motion-designer-showreel-prompt/"><img src="data/gifs/2110476412213686723.gif" alt="Claude Motion Designer Showreel" width="100%" /></a><br>
+<strong>Claude Motion Designer Showreel</strong><br>
 
-<sub><a href="prompts/2103802923465768972.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/starry-night-3d-cats-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/MandelDuck/status/2103802923465768972">Original post ↗</a></sub>
-<!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip</strong><br><code>walk around and spot cats inside of a van gogh painting</code>: Tie the painting style to a concrete activity: walking around and finding cats.</blockquote>
-<!-- pro-tip:end -->
+<sub><a href="prompts/2110476412213686723.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/claude-motion-designer-showreel-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/0node0/status/2110476412213686723">Original post ↗</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/looping-ui-motion-prompt/"><img src="data/gifs/2103273003555402193.gif" alt="Code-Driven Looping UI Motion Graphics with Claude Opus 5.5" width="100%" /></a><br>
-<strong>Code-Driven Looping UI Motion Graphics</strong><br>
+<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/threejs-rubiks-cube-animation-prompt/"><img src="data/gifs/2110588980718940283.gif" alt="Three.js Rubik's Cube Scramble and Solve Animation" width="100%" /></a><br>
+<strong>Three.js Rubik's Cube Scramble and Solve Animation</strong><br>
 
-<sub><a href="prompts/2103273003555402193.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/looping-ui-motion-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/twoclipping/status/2103273003555402193">Original post ↗</a></sub>
-<!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip</strong><br><code>One shape, never cut</code>: Transform one shape continuously between UI states to avoid disconnected slide-like transitions.</blockquote>
-<!-- pro-tip:end -->
+<sub><a href="prompts/2110588980718940283.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/threejs-rubiks-cube-animation-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/dayvanxd/status/2110588980718940283">Original post ↗</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/manim-derivatives-explainer/"><img src="https://pbs.twimg.com/amplify_video_thumb/2103128124305309696/img/xFafXqUq1tPUkuVE.jpg" alt="Opus 5.5 and Manim Educational Video Explaining Derivatives" width="100%" /></a><br>

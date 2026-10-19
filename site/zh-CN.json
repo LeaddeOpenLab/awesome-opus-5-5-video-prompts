@@ -156,7 +156,13 @@
     "Replace your product screenshot, copy and brand color.": "替换产品截图、文案和品牌色。",
     "Show a problem, the workflow and a clear result.": "展示问题、操作流程和明确结果。",
     "Introduce your product and three key benefits.": "介绍产品及三个核心卖点。",
-    "Selected previews here; every library entry links to its prompt and original creator.": "这里提供精选预览；完整案例均链接提示词和原作者。"
+    "Selected previews here; every library entry links to its prompt and original creator.": "这里提供精选预览；完整案例均链接提示词和原作者。",
+    "View prompt on GitHub ↗": "在 GitHub 查看提示词 ↗",
+    "Browse this category on GitHub ↗": "在 GitHub 浏览此分类 ↗",
+    "Browse all prompts on GitHub ↗": "在 GitHub 浏览全部提示词 ↗",
+    "Read the Tokyo rainy night prompt": "阅读东京雨夜提示词",
+    "A rainy Tokyo vending-machine diorama, shown in the creator’s model comparison": "作者模型对比中的东京雨夜售货机场景",
+    "Claude · Renderer unspecified": "Claude · 渲染器未说明"
   },
   "categories": {
     "motion-graphics": {
@@ -313,6 +319,42 @@
         "录制或分享前核对标注、机械行为和数值。"
       ],
       "note": "预览展示多种机械；所附提示词针对涡扇案例，并非生成所有机械的独立指令。本站尚未独立验证物理正确性或复现。"
+    },
+    "2110107260751884639": {
+      "title": "Three.js 东京雨夜场景",
+      "seo_title": "Claude Code Three.js 提示词：东京雨夜场景",
+      "description": "雨夜东京自动售货机微缩场景，包含湿地倒影、饮料交互与程序化音效。查看完整 Claude Code 提示词。",
+      "inputs": "Claude Code 或其他编程智能体、浏览器，以及从 CDN 加载 Three.js 的网络连接。提示词不要求外部媒体素材。",
+      "steps": [
+        "将完整提示词复制给编程智能体，生成要求的 index.html 文件。",
+        "打开场景，测试售货按钮、相机控制和交互后的声音。",
+        "调整灯光和雨效；需要视频时录制浏览器场景。"
+      ],
+      "note": "作者预览并排比较 Claude Opus 和 GPT 的结果。此处为已有预览的短片段，并非本站独立复现。"
+    },
+    "2110476412213686723": {
+      "title": "15 秒动效设计师作品集",
+      "seo_title": "Claude 动效提示词：15 秒设计师作品集",
+      "description": "用 Claude 生成包含字体、图形和粒子的动效作品集。获取作者短提示词，并选择自己的渲染工具。",
+      "inputs": "编程智能体及自行选择的动画与渲染环境。作者未披露渲染器或制作环境。",
+      "steps": [
+        "复制作者提示词，指定你希望使用的动画工具和输出格式。",
+        "生成 15 秒动画，检查字体、节奏与转场。",
+        "使用选定工具渲染并迭代；短提示词没有记录作者的完整制作流程。"
+      ],
+      "note": "作者明确使用 Claude Opus，但未说明 Remotion 或其他渲染器。预览为短片段，本站未复现结果。"
+    },
+    "2110588980718940283": {
+      "title": "Three.js 魔方动画",
+      "seo_title": "Claude Three.js 魔方动画提示词",
+      "description": "使用 Three.js 在单个 HTML 文件中制作魔方打乱与还原动画。获取原文提示词、时间安排和使用说明。",
+      "inputs": "编程智能体、浏览器，以及提示词指定的 Three.js r160。不要求自备模型或图片。",
+      "steps": [
+        "复制提示词，让编程智能体生成使用 Three.js r160 的单个 HTML 文件。",
+        "预览动画，检查各层能否旋转、最终颜色是否回到还原状态。",
+        "调整相机和灯光；需要 MP4 时录制或渲染浏览器动画。"
+      ],
+      "note": "作者预览比较四个模型的结果。提示词允许逆序撤销打乱动作，并非通用魔方求解算法。本站未复现结果。"
     }
   }
 }

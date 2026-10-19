@@ -44,7 +44,7 @@ def build_catalog(root, out, repo, selected):
             media = f'<img src="./assets/catalog/{ident}.jpg" alt="" width="800" height="450" loading="lazy">'
         label = ' · '.join(GROUPS[g] for g in groups) or 'Creative coding'
         search = ' '.join([title, purpose, author, tool, label]).lower()
-        cards.append(f'''<article class="card catalog-card" data-card data-category="{E(' '.join(groups))}" data-mode="catalog" data-new="{str(new).lower()}" data-search="{E(search)}" hidden>
+        cards.append(f'''<article class="card catalog-card" data-prompt-id="{ident}" data-placement="catalog-prompt" data-card data-category="{E(' '.join(groups))}" data-mode="catalog" data-new="{str(new).lower()}" data-search="{E(search)}" hidden>
 <div class="card-media"><a href="{E(target)}" tabindex="-1" aria-hidden="true">{media}</a></div>
 <div class="card-info"><div class="card-top"><span>{E(label)}</span>{'<span class="new-badge">New</span>' if new else ''}</div>
 <h3><a href="{E(target)}">{E(title)}</a></h3><p>{E(purpose)}</p><p class="catalog-meta">{E(tool)}</p><p class="catalog-meta"><span>{status}</span> · <span>Added</span> <time>{E(date)}</time></p>
@@ -61,5 +61,5 @@ def template_section(root, out, repo):
         for file in ['poster.jpg', 'example.mp4']:
             shutil.copyfile(root / 'templates' / slug / file, dest / file)
         url = repo + '/tree/main/templates/' + slug
-        cards.append(f'''<article class="card"><video class="template-video" controls playsinline preload="none" poster="./assets/templates/{slug}/poster.jpg" src="./assets/templates/{slug}/example.mp4" data-prompt-id="{slug}" aria-label="{name} template preview"></video><div class="card-info"><div class="kicker">Editable template</div><h3>{name}</h3><p>{description}</p><div class="card-bottom"><a href="{url}" data-placement="template-get">Get template →</a><a href="{repo}/blob/main/templates/{slug}/README.zh-CN.md">中文说明 ↗</a></div></div></article>''')
+        cards.append(f'''<article class="card" data-prompt-id="{slug}" data-placement="template-get"><video class="template-video" controls playsinline preload="none" poster="./assets/templates/{slug}/poster.jpg" src="./assets/templates/{slug}/example.mp4" data-prompt-id="{slug}" aria-label="{name} template preview"></video><div class="card-info"><div class="kicker">Editable template</div><h3>{name}</h3><p>{description}</p><div class="card-bottom"><a href="{url}" data-placement="template-get">Get template →</a><a href="{repo}/blob/main/templates/{slug}/README.zh-CN.md">中文说明 ↗</a></div></div></article>''')
     return '<section class="collection templates" id="templates"><div class="section-heading"><div><div class="kicker">Make it yours</div><h2>Start with a 15-second template.</h2><p>Original templates by Leadde Open Lab. Edit the config, preview, then export your MP4.</p><p class="catalog-meta">15 seconds · 1080p · MIT · Export: Node.js + Playwright + FFmpeg</p></div></div><div class="grid">' + ''.join(cards) + '</div></section>'

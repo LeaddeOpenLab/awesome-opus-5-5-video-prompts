@@ -187,5 +187,53 @@
       "Check labels, mechanical behavior and numerical claims before recording or sharing."
     ],
     "note": "The preview showcases multiple machines. The shared prompt is the turbofan example, not a standalone instruction for every machine shown. This repository has not independently validated the physics or reproduced the result."
+  },
+  {
+    "id": "2110107260751884639",
+    "slug": "threejs-tokyo-rainy-night-prompt",
+    "category": "3d-worlds",
+    "title": "Three.js Tokyo Rainy Night",
+    "seo_title": "Claude Code Three.js Prompt: Tokyo Rainy Night Scene",
+    "description": "A rainy Tokyo vending-machine diorama with wet reflections, interactive drinks and procedural sound. Read the full Claude Code prompt.",
+    "tool": "Claude Code · Three.js",
+    "inputs": "Claude Code or another coding agent, a browser and network access to load Three.js from a CDN. The prompt requires no external media assets.",
+    "steps": [
+      "Copy the full prompt into your coding agent and ask for the requested index.html file.",
+      "Open the generated scene and test the vending buttons, camera controls and sound after interaction.",
+      "Refine lighting and rain, then record the browser scene if you need a video."
+    ],
+    "note": "The creator preview compares Claude Opus and GPT results side by side. This is a short excerpt of the existing preview, not an independently reproduced demo."
+  },
+  {
+    "id": "2110476412213686723",
+    "slug": "claude-motion-designer-showreel-prompt",
+    "category": "motion-graphics",
+    "title": "15-Second Motion Designer Showreel",
+    "seo_title": "Claude Motion Graphics Prompt: 15-Second Designer Showreel",
+    "description": "A Claude-generated motion design showreel with typography, shapes and particles. Get the creator’s short prompt and choose your own renderer.",
+    "tool": "Claude · Renderer unspecified",
+    "inputs": "A coding agent and an animation/rendering environment of your choice. The author did not disclose the renderer or production setup.",
+    "steps": [
+      "Copy the creator’s prompt and specify your preferred animation tool and output format.",
+      "Ask for a 15-second composition, then review typography, pacing and transitions.",
+      "Render with your chosen tool and iterate; the short prompt does not document the creator’s full workflow."
+    ],
+    "note": "The author names Claude Opus but does not identify Remotion or another renderer. The preview is a short excerpt; the repository has not reproduced the result."
+  },
+  {
+    "id": "2110588980718940283",
+    "slug": "threejs-rubiks-cube-animation-prompt",
+    "category": "3d-worlds",
+    "title": "Three.js Rubik’s Cube Animation",
+    "seo_title": "Three.js Rubik’s Cube Animation Prompt for Claude",
+    "description": "Animate a 3D Rubik’s cube scrambling and solving in one HTML file with Three.js. Get the shared prompt, timing and setup notes.",
+    "tool": "Three.js · HTML",
+    "inputs": "A coding agent, a browser and Three.js r160 as specified in the prompt. No custom models or images are requested.",
+    "steps": [
+      "Copy the prompt and ask your coding agent for a single HTML file using Three.js r160.",
+      "Preview the animation and check that cube layers rotate and the final colors return to the solved state.",
+      "Adjust the camera and lighting, then record or render the browser animation for an MP4."
+    ],
+    "note": "The creator preview compares four model outputs. The prompt allows reversing the scramble; it is not a general-purpose cube-solving algorithm. This repository has not reproduced the result."
   }
 ]
