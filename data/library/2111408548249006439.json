@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T18:17:57.279Z",
+  "model": "opus5.5",
+  "prompt": "a 3D jelly fruit website you can cut, squish and shake",
+  "promptTranslations": {
+    "en": "a 3D jelly fruit website you can cut, squish and shake"
+  },
+  "summary": "Side-by-side screen recording comparing interactive 3D jelly fruit websites coded by Opus 5.5 and Gemini 4 Argon.",
+  "summaryEn": "3D Jelly Fruit Interactive Website",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111408548249006439",
+    "canonicalUrl": "https://x.com/0xEver4k/status/2111408548249006439",
+    "author": {
+      "username": "0xEver4k",
+      "displayName": "Ever4k",
+      "profileUrl": "https://x.com/0xEver4k"
+    },
+    "publishedAt": "2026-10-17T10:46:40.000Z",
+    "collectedAt": "2026-10-17T16:49:41.927Z",
+    "language": "en",
+    "originalText": "Gemini 4 Argon beat Opus 5.5 \n\nSame prompt: a 3D jelly fruit website you can cut, squish and shake\n\nGemini's jelly actually explodes into pieces. Opus barely cuts https://t.co/6CHQKkBz1X",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/0xEver4k/status/2111408548249006439",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111408391167840256/img/XAfPDf7RtgiHnBbm.jpg",
+        "analysisUrl": "https://x.com/0xEver4k/status/2111408548249006439"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 73
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/0xEver4k/status/2111410801063932088",
+        "text": "@IndependentEco Thank you",
+        "author": "0xEver4k"
+      },
+      {
+        "url": "https://x.com/0xEver4k/status/2111408548249006439",
+        "text": "Ever4k on X: \"Gemini 4 Argon beat Opus 5.5 \n\nSame prompt: a 3D jelly fruit website you can cut, squish and shake\n\nGemini&#x27;s jelly actually explodes into pieces. Opus barely cuts\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nEver4k on X: \"Gemini 4 Argon beat Opus 5.5 \n\nSame prompt: a 3D jelly fruit website you can cut, squish and shake\n\nGemini&#x27;s jelly actually explodes into pieces. Opus barely cuts\"\n\n\n\nEver4k\n\n@0xEver4k\n\n\n\n\nGemini 4 Argon beat Opus 5.5 \n\nSame prompt: a 3D jelly fruit website you can cut, squish and shake\n\nGemini&#x27;s jelly actually explodes into pieces. Opus barely cuts\n\n\n00:00\n\n\n\n\n\n\n\n\n10:46 AM · Oct 17, 2026·73\nViews\n\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nEver4k@0xEver4kFollow\nI keep track of everything that&#x27;s in the world\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEver4k\n\n@0xEver4k\n\n\n\n\nGemini 4 Argon beat Opus 5.5 \n\nSame prompt: a 3D jelly fruit website you can cut, squish and shake\n\nGemini&#x27;s jelly actually explodes into pieces. Opus barely cuts\n\n\n00:00\n\n\n\n\n\n\n\n\n10:46 AM · Oct 17, 2026·73\nViews\n\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\nEco\n\n@IndependentEco\n6h\n\n\nThis is a cool test\n\n\n1\n\n1\n7\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "0xEver4k"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/0xEver4k/status/2111408548249006439",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111408391167840256/img/XAfPDf7RtgiHnBbm.jpg",
+  "coverPath": "data/covers/2111408548249006439-wide.jpg",
+  "gifPath": "data/gifs/2111408548249006439.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111408391167840256",
+    "x-post:2111408548249006439"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "3D Jelly Fruit Interactive Website",
+      "summary": "Side-by-side screen recording comparing interactive 3D jelly fruit websites coded by Opus 5.5 and Gemini 4 Argon.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Gemini 4 Argon beat Opus 5.5 \n\nSame prompt: a 3D jelly fruit website you can cut, squish and shake"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "a 3D jelly fruit website you can cut, squish and shake",
+        "englishText": "a 3D jelly fruit website you can cut, squish and shake",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "System instructions",
+          "Interactive physics parameters",
+          "Code boilerplate"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates the interactive jelly interface cutting, squishing, and shaking as prompted.",
+        "textualResultQuote": "Gemini's jelly actually explodes into pieces. Opus barely cuts"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js / WebGL",
+          "role": "Interactive 3D rendering and soft-body physics engine",
+          "evidence": "Visible interactive 3D meshes with real-time slicing and deformation controls in the browser.",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Jelly Garden Web Demo",
+        "topic": "3d-scenes",
+        "tags": [
+          "interactive",
+          "threejs",
+          "webgl",
+          "soft-body",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Generates interactive web application code and soft-body simulation logic.",
+      "outputSource": "Web browser running code generated by Opus 5.5.",
+      "divisionEvidence": "Screen recording captures browser-rendered interactive WebGL canvas generated from Claude's code output.",
+      "video": {
+        "shots": "Single split-screen view",
+        "duration": "00:41",
+        "aspectRatio": "1:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Direct screen recording of interactive 3D graphics generated from an explicit prompt using Opus 5.5.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/0xEver4k/status/2111408548249006439",
+        "start": 44,
+        "end": 98
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/0xEver4k/status/2111408548249006439",
+        "author": "0xEver4k",
+        "postId": "2111408548249006439",
+        "publishedAt": "2026-10-17T10:46:40.000Z"
+      },
+      "checkedAt": "2026-10-17T17:05:11.210Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/0xEver4k/status/2111408548249006439",
+        "evidence": ""
+      }
+    },
+    "summary": "Side-by-side screen recording comparing interactive 3D jelly fruit websites coded by Opus 5.5 and Gemini 4 Argon.",
+    "summaryEn": "3D Jelly Fruit Interactive Website",
+    "originalPrompt": "a 3D jelly fruit website you can cut, squish and shake",
+    "sourceRange": {
+      "start": 44,
+      "end": 98
+    },
+    "translations": {
+      "zh": "a 3D jelly fruit website you can cut, squish and shake",
+      "en": "a 3D jelly fruit website you can cut, squish and shake"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Jelly Garden Web Demo",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "System instructions",
+        "Interactive physics parameters",
+        "Code boilerplate"
+      ],
+      "evidence": "Screen recording demonstrates the interactive jelly interface cutting, squishing, and shaking as prompted."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
