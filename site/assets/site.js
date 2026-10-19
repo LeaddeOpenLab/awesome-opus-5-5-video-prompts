@@ -94,7 +94,7 @@ document.querySelectorAll("[data-copy]").forEach((button) =>
     const code = document.getElementById(button.dataset.copy);
     try {
       await navigator.clipboard.writeText(code.textContent);
-      track("prompt_copy", { prompt_id: button.dataset.promptId, placement: button.closest("dialog") ? "preview" : "detail" });
+      track("prompt_copy", { prompt_id: button.dataset.promptId, placement: button.closest("[data-placement]")?.dataset.placement || (button.closest("dialog") ? "preview" : "detail") });
       button.textContent = t("Copied ✓");
       const hint = document.querySelector(`[data-star-hint="${button.dataset.copy}"]`);
       if (hint) hint.hidden = false;

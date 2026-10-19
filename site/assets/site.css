@@ -1346,3 +1346,20 @@ html[lang="zh-CN"] .hero h1 {
 /* Repository actions stay readable alongside copy controls on narrow screens. */
 .prompt-header { flex-wrap: wrap; }
 .hero-caption > a { white-space: normal; }
+
+/* Copyable homepage examples reuse the preview and prompt controls. */
+.hero h1 { font-size: clamp(34px, 3.2vw, 46px); }
+.prompt-examples { border-top: 1px solid var(--line); }
+.prompt-examples .grid { align-items: start; }
+.prompt-examples .card-info > p { min-height: 92px; }
+.prompt-examples .prompt-block { margin-top: 18px; }
+.prompt-examples .prompt-header { padding: 12px; gap: 8px; font-size: 12px; }
+.prompt-examples pre { height: 230px; padding: 16px; font-size: 12px; line-height: 1.7; }
+.prompt-examples .card-info > .prompt-credit { min-height: 0; margin: 14px 0; font-size: 12px; }
+.prompt-examples .dialog-actions { gap: 10px 18px; }
+.examples-note { margin: 24px 0 12px; font-size: 13px; }
+@media (max-width: 760px) {
+  .prompt-examples .grid { grid-template-columns: 1fr; }
+  .prompt-examples .card-info > p { min-height: 0; }
+  .prompt-examples pre { height: auto; max-height: 230px; }
+}
