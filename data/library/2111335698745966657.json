@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-19T02:19:51.277Z",
+  "model": "opus5.5",
+  "prompt": "Vertical 9:16 ultra-fast sci-fi action gameplay, Unreal Engine 5 high-fidelity render. Cyberpunk-ancient ruin aesthetic. Player in sleek glowing exosuit grapples and wall-runs across the armor plates of a sleeping colossal bio-mechanical titan. Kinetic grappling hook physics, neon energy sparks, air-dashing over massive dormant exhaust vents. Dynamic mobile gaming HUD: combo multiplier (x50 OVERDRIVE), grappling cooldown, lock-on warning reticles. Fast whip-pan camera, radial motion blur, 60fps intense speed.",
+  "promptTranslations": {
+    "en": "Vertical 9:16 ultra-fast sci-fi action gameplay, Unreal Engine 5 high-fidelity render. Cyberpunk-ancient ruin aesthetic. Player in sleek glowing exosuit grapples and wall-runs across the armor plates of a sleeping colossal bio-mechanical titan. Kinetic grappling hook physics, neon energy sparks, air-dashing over massive dormant exhaust vents. Dynamic mobile gaming HUD: combo multiplier (x50 OVERDRIVE), grappling cooldown, lock-on warning reticles. Fast whip-pan camera, radial motion blur, 60fps intense speed."
+  },
+  "summary": "Sci-fi action game mockup directed with Claude Code Opus 5.5 and rendered via Seedance 2.5.",
+  "summaryEn": "TITAN AWAKENING Sci-Fi Action Concept",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111335698745966657",
+    "canonicalUrl": "https://x.com/HimazinProducer/status/2111335698745966657",
+    "author": {
+      "username": "HimazinProducer",
+      "displayName": "テンペ",
+      "profileUrl": "https://x.com/HimazinProducer"
+    },
+    "publishedAt": "2026-10-17T05:57:11.000Z",
+    "collectedAt": "2026-10-17T16:49:41.927Z",
+    "language": "ja",
+    "originalText": "架空の超高速アクション『TITAN AWAKENING』、映像の疾走感がヤバすぎる。\n\n眠り続ける古代バイオメカ巨神の装甲をワイヤーと反重力ダッシュで駆け抜けるゲーム画面、完全に次世代AAAタイトルの風格。\n\n〜『TITAN AWAKENING』制作スタッフ〜\n・企画/世界観設計：0円（Google 4 Argon）\n・監督/編集：Claude Code（Opus 5.5）\n・メカ/キャラ設計：14円（GPT Image 2.5 Sunburst）\n・動画：115円（Seedance 2.5）\n・BGM：0円（ElevenLabs Music v2.5）\n\n☑制作費用 129円\n☑制作時間 2分\n\n（※実際に通した9:16用プロンプトはツリーに記載👇）",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/HimazinProducer/status/2111335698745966657",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111335526267858946/img/C9N7a2x_FFRZ8m57.jpg",
+        "analysisUrl": "https://x.com/HimazinProducer/status/2111335698745966657"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 571
+    },
+    "matchedRuleIds": [
+      "group:opus:ja:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/HimazinProducer/status/2111335700897649102",
+        "text": "Vertical 9:16 ultra-fast sci-fi action gameplay, Unreal Engine 5 high-fidelity render. Cyberpunk-ancient ruin aesthetic. Player in sleek glowing exosuit grapples and wall-runs across the armor plates of a sleeping colossal bio-mechanical titan. Kinetic grappling hook physics, neon energy sparks, air-dashing over massive dormant exhaust vents. Dynamic mobile gaming HUD: combo multiplier (x50 OVERDRIVE), grappling cooldown, lock-on warning reticles. Fast whip-pan camera, radial motion blur, 60fps intense speed.",
+        "author": "HimazinProducer"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/HimazinProducer/status/2111335698745966657",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111335526267858946/img/C9N7a2x_FFRZ8m57.jpg",
+  "coverPath": "data/covers/2111335698745966657-wide.jpg",
+  "gifPath": "data/gifs/2111335698745966657.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111335526267858946",
+    "x-post:2111335698745966657"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "TITAN AWAKENING Sci-Fi Action Concept",
+      "summary": "Sci-fi action game mockup directed with Claude Code Opus 5.5 and rendered via Seedance 2.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Code",
+        "authorUseConfirmed": true,
+        "evidence": "監督/編集：Claude Code（Opus 5.5）"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Vertical 9:16 ultra-fast sci-fi action gameplay, Unreal Engine 5 high-fidelity render. Cyberpunk-ancient ruin aesthetic. Player in sleek glowing exosuit grapples and wall-runs across the armor plates of a sleeping colossal bio-mechanical titan. Kinetic grappling hook physics, neon energy sparks, air-dashing over massive dormant exhaust vents. Dynamic mobile gaming HUD: combo multiplier (x50 OVERDRIVE), grappling cooldown, lock-on warning reticles. Fast whip-pan camera, radial motion blur, 60fps intense speed.",
+        "englishText": "Vertical 9:16 ultra-fast sci-fi action gameplay, Unreal Engine 5 high-fidelity render. Cyberpunk-ancient ruin aesthetic. Player in sleek glowing exosuit grapples and wall-runs across the armor plates of a sleeping colossal bio-mechanical titan. Kinetic grappling hook physics, neon energy sparks, air-dashing over massive dormant exhaust vents. Dynamic mobile gaming HUD: combo multiplier (x50 OVERDRIVE), grappling cooldown, lock-on warning reticles. Fast whip-pan camera, radial motion blur, 60fps intense speed.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Claude Code orchestration instructions",
+          "Full pipeline execution commands"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Video shows vertical 9:16 sci-fi action with an exosuit character grappling titan armor and HUD elements displaying x50 OVERDRIVE.",
+        "textualResultQuote": "眠り続ける古代バイオメカ巨神の装甲をワイヤーと反重力ダッシュで駆け抜けるゲーム画面"
+      },
+      "inputs": [
+        {
+          "kind": "concept_design",
+          "description": "Worldbuilding and planning text from Google 4 Argon.",
+          "available": false,
+          "evidence": "企画/世界観設計：0円（Google 4 Argon）",
+          "origin": "generated",
+          "sourceUrl": "https://x.com/HimazinProducer/status/2111335698745966657"
+        },
+        {
+          "kind": "character_mecha_assets",
+          "description": "Visual designs generated with GPT Image 2.5 Sunburst.",
+          "available": false,
+          "evidence": "メカ/キャラ設計：14円（GPT Image 2.5 Sunburst）",
+          "origin": "generated",
+          "sourceUrl": "https://x.com/HimazinProducer/status/2111335698745966657"
+        },
+        {
+          "kind": "audio_track",
+          "description": "BGM track created with ElevenLabs Music v2.5.",
+          "available": true,
+          "evidence": "BGM：0円（ElevenLabs Music v2.5）",
+          "origin": "generated",
+          "sourceUrl": "https://x.com/HimazinProducer/status/2111335698745966657"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Claude Code (Opus 5.5)",
+          "role": "Direction and video editing orchestration.",
+          "evidence": "監督/編集：Claude Code（Opus 5.5）",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/HimazinProducer/status/2111335698745966657"
+        },
+        {
+          "name": "ElevenLabs Music v2.5",
+          "role": "Audio asset generation.",
+          "evidence": "BGM：0円（ElevenLabs Music v2.5）",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/HimazinProducer/status/2111335698745966657"
+        },
+        {
+          "name": "GPT Image 2.5 Sunburst",
+          "role": "Asset generation for characters and mecha.",
+          "evidence": "メカ/キャラ設計：14円（GPT Image 2.5 Sunburst）",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/HimazinProducer/status/2111335698745966657"
+        },
+        {
+          "name": "Seedance 2.5",
+          "role": "Video generation rendering engine.",
+          "evidence": "動画：115円（Seedance 2.5）",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/HimazinProducer/status/2111335698745966657"
+        }
+      ],
+      "purpose": {
+        "label": "Action Game Showcase",
+        "topic": "games-interactive",
+        "tags": [
+          "sci-fi",
+          "gameplay-mockup",
+          "seedance",
+          "external-video-model"
+        ]
+      },
+      "targetModelRole": "Direction and editing coordination across external AI generation tools.",
+      "outputSource": "Seedance 2.5",
+      "divisionEvidence": "監督/編集：Claude Code（Opus 5.5） / 動画：115円（Seedance 2.5）",
+      "video": {
+        "shots": "Continuous fast-paced tracking shot following player grappling on titan armor.",
+        "duration": "0:09",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "external-video-model",
+      "suitable": true,
+      "reason": "Demonstrates Opus 5.5 orchestrating external video generation for game gameplay mockups.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/HimazinProducer/status/2111335700897649102",
+        "start": 0,
+        "end": 514
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/HimazinProducer/status/2111335698745966657",
+        "author": "HimazinProducer",
+        "postId": "2111335698745966657",
+        "publishedAt": "2026-10-17T05:57:11.000Z"
+      },
+      "checkedAt": "2026-10-17T17:15:48.228Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/HimazinProducer/status/2111335700897649102",
+        "evidence": ""
+      }
+    },
+    "summary": "Sci-fi action game mockup directed with Claude Code Opus 5.5 and rendered via Seedance 2.5.",
+    "summaryEn": "TITAN AWAKENING Sci-Fi Action Concept",
+    "originalPrompt": "Vertical 9:16 ultra-fast sci-fi action gameplay, Unreal Engine 5 high-fidelity render. Cyberpunk-ancient ruin aesthetic. Player in sleek glowing exosuit grapples and wall-runs across the armor plates of a sleeping colossal bio-mechanical titan. Kinetic grappling hook physics, neon energy sparks, air-dashing over massive dormant exhaust vents. Dynamic mobile gaming HUD: combo multiplier (x50 OVERDRIVE), grappling cooldown, lock-on warning reticles. Fast whip-pan camera, radial motion blur, 60fps intense speed.",
+    "sourceRange": {
+      "start": 0,
+      "end": 514
+    },
+    "translations": {
+      "zh": "Vertical 9:16 ultra-fast sci-fi action gameplay, Unreal Engine 5 high-fidelity render. Cyberpunk-ancient ruin aesthetic. Player in sleek glowing exosuit grapples and wall-runs across the armor plates of a sleeping colossal bio-mechanical titan. Kinetic grappling hook physics, neon energy sparks, air-dashing over massive dormant exhaust vents. Dynamic mobile gaming HUD: combo multiplier (x50 OVERDRIVE), grappling cooldown, lock-on warning reticles. Fast whip-pan camera, radial motion blur, 60fps intense speed.",
+      "en": "Vertical 9:16 ultra-fast sci-fi action gameplay, Unreal Engine 5 high-fidelity render. Cyberpunk-ancient ruin aesthetic. Player in sleek glowing exosuit grapples and wall-runs across the armor plates of a sleeping colossal bio-mechanical titan. Kinetic grappling hook physics, neon energy sparks, air-dashing over massive dormant exhaust vents. Dynamic mobile gaming HUD: combo multiplier (x50 OVERDRIVE), grappling cooldown, lock-on warning reticles. Fast whip-pan camera, radial motion blur, 60fps intense speed."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "external-video-model",
+    "useCase": "Action Game Showcase",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Claude Code orchestration instructions",
+        "Full pipeline execution commands"
+      ],
+      "evidence": "Video shows vertical 9:16 sci-fi action with an exosuit character grappling titan armor and HUD elements displaying x50 OVERDRIVE."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

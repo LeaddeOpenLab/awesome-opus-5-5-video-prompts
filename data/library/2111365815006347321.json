@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-19T02:19:51.574Z",
+  "model": "opus5.5",
+  "prompt": "Make a video for me",
+  "promptTranslations": {
+    "en": "Make a video for me"
+  },
+  "summary": "Motion graphic explainer illustrating Claude Opus 5.5 as a black box generating visual animation, code, and music.",
+  "summaryEn": "Claude Opus 5.5 Code-Generated Black Box Explainer",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111365815006347321",
+    "canonicalUrl": "https://x.com/AIProductHub_CN/status/2111365815006347321",
+    "author": {
+      "username": "AIProductHub_CN",
+      "displayName": "陌路遥｜AIProductHub",
+      "profileUrl": "https://x.com/AIProductHub_CN"
+    },
+    "publishedAt": "2026-10-17T07:56:52.000Z",
+    "collectedAt": "2026-10-17T16:49:41.927Z",
+    "language": "zh",
+    "originalText": "用Claude做视频，就像是黑盒子一样\n\n你不知道电是怎么来的，但你每天开灯。\n你不知道因特网是怎么连起来的，但你每天上网。\n你不知道这条视频是怎么做出来的，但你正在看。\n\n我只跟 Opus 5.5 说了一句\"帮我做一个视频\"。\n\n画面、动画、配乐，全是它写代码一帧一帧生成的。没有剪辑软件，没有素材，也没有现成音乐。\n\n它就像一个黑盒子。\n\n我们看不见里面，于是有人叫它神，有人叫它工具。\n\n可是说真的，你开灯之前，也没搞懂过电。\n\n#AI #Claude #Opus55 #ClaudeCode #AI视频 #动态设计 #AIGC #黑盒子",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AIProductHub_CN/status/2111365815006347321",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111365026040958976/img/QnM_uSheK66Jixqy.jpg",
+        "analysisUrl": "https://x.com/AIProductHub_CN/status/2111365815006347321"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 44
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/AIProductHub_CN/status/2111365815006347321",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111365026040958976/img/QnM_uSheK66Jixqy.jpg",
+  "coverPath": "data/covers/2111365815006347321-wide.jpg",
+  "gifPath": "data/gifs/2111365815006347321.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111365026040958976",
+    "x-post:2111365815006347321"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Claude Opus 5.5 Code-Generated Black Box Explainer",
+      "summary": "Motion graphic explainer illustrating Claude Opus 5.5 as a black box generating visual animation, code, and music.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "我只跟 Opus 5.5 说了一句\"帮我做一个视频\"。画面、动画、配乐，全是它写代码一帧一帧生成的。"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "帮我做一个视频",
+        "englishText": "Make a video for me",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Animation framework instructions",
+          "Audio synthesis code specifications",
+          "Full system and task instructions"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Video presents animated 2D graphics, typography, synchronized audio, and conceptual narrative matching the post.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "Code-generated motion graphic explainer",
+        "topic": "motion-graphics",
+        "tags": [
+          "creative-coding",
+          "motion-graphics",
+          "explainer",
+          "black-box"
+        ]
+      },
+      "targetModelRole": "Writing code to generate visuals, animations, and synthesized audio.",
+      "outputSource": "Custom code execution environment",
+      "divisionEvidence": "画面、动画、配乐，全是它写代码一帧一帧生成的。没有剪辑软件，没有素材，也没有现成音乐。",
+      "video": {
+        "shots": "Multi-scene 2D animated motion graphics",
+        "duration": "0:29",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "motion-graphics",
+      "suitable": true,
+      "reason": "Authentic demonstration of Claude Opus 5.5 orchestrating code-driven motion graphics and audio.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/AIProductHub_CN/status/2111365815006347321",
+        "start": 105,
+        "end": 112
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/AIProductHub_CN/status/2111365815006347321",
+        "author": "AIProductHub_CN",
+        "postId": "2111365815006347321",
+        "publishedAt": "2026-10-17T07:56:52.000Z"
+      },
+      "checkedAt": "2026-10-17T16:59:36.780Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/AIProductHub_CN/status/2111365815006347321",
+        "evidence": ""
+      }
+    },
+    "summary": "Motion graphic explainer illustrating Claude Opus 5.5 as a black box generating visual animation, code, and music.",
+    "summaryEn": "Claude Opus 5.5 Code-Generated Black Box Explainer",
+    "originalPrompt": "帮我做一个视频",
+    "sourceRange": {
+      "start": 105,
+      "end": 112
+    },
+    "translations": {
+      "zh": "帮我做一个视频",
+      "en": "Make a video for me"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "motion-graphics",
+    "useCase": "Code-generated motion graphic explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Animation framework instructions",
+        "Audio synthesis code specifications",
+        "Full system and task instructions"
+      ],
+      "evidence": "Video presents animated 2D graphics, typography, synchronized audio, and conceptual narrative matching the post."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

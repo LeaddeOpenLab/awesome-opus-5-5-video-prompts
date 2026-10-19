@@ -1,0 +1,252 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-19T02:19:53.258Z",
+  "model": "opus5.5",
+  "prompt": "# Task: Create a product promo video for \"Gouo Canvas\"\n\n## Background\nGouo is my AI image platform (GitHub: zhs1234/gouo-canvas) featuring three workspaces: Image Generation, Infinite Canvas, and Creative Agent. Clone the repo and inspect src/components/landing/ (LandingPage.tsx, landing.css) and docs/zh-CN/user-guide.md before starting.\n\n## Specs\n- 16:9, 1920x1080, 30fps, ~60s, MP4 (H.264)\n- No voiceover or BGM; subtle interaction SFX only\n\n## Assets (Important)\n- All generated images must use real landing preview files: public/landing/preview-{1..3}-{1..4}.webp\n  - Set 1: Steak product shot\n  - Set 2: Embroidered bird and flower illustration\n  - Set 3: Rainy night city street\n- Display real prompts verbatim; do not fabricate\n- Disallow public/inspiration images and docs sketch screenshots\n- Do not fake unrendered outputs (e.g. inpainting shows brush only)\n- Add disclaimer text: \"UI simulated · Images genuinely generated with Gouo\"\n\n## Visual Style\n- Intro/Outro: Warm fluid gradient fog with film grain; title reveals from mask; floating framed cards\n- Product sections: HTML re-creation of dark UI (sidebar, credits, inputs, canvas, Agent chat)\n- Palette: Paper #faf8f3, Ink #171719, Accent #c26855; ease cubic-bezier(0.23, 1, 0.32, 1)\n- Progressive image reveal animation\n- Glassmorphism caption card in lower-left\n\n## Simulated Cursor\n- Smooth movement, click squash with ripple, hover states, drag-and-drop targeting dynamic element positions\n\n## Storyboard\n1. Intro (0-6s): Landing hero, \"From Inspiration / To Image\", click CTA\n2. Image Generation (6-27s): Type steak prompt, select 4 images, send, progressive reveal, favorite, launch inpainting brush\n3. Infinite Canvas (27-41s): Connect text node to config node, generate 2 embroidery images, zoom out to minimap\n4. Creative Agent (41-55s): Prompt agent for rainy night city, tool execution cards stream, canvas updates with new nodes\n5. Outro (55-63s): Fog background, closing tagline, CTA click\nCredits balance decrements accurately throughout.\n\n## Sound Design\n- Synthesized procedural SFX (subtle clicks, light typing, soft tonal chimes, breath transitions, ending chord); peak ~ -15 dBFS\n\n## Implementation\n- Single HTML page + deterministic timeline: render(t)\n- Playwright frame-by-frame capture, ffmpeg encoding\n- Python (numpy/scipy) audio synthesis merged into final video",
+  "promptTranslations": {
+    "en": "# Task: Create a product promo video for \"Gouo Canvas\"\n\n## Background\nGouo is my AI image platform (GitHub: zhs1234/gouo-canvas) featuring three workspaces: Image Generation, Infinite Canvas, and Creative Agent. Clone the repo and inspect src/components/landing/ (LandingPage.tsx, landing.css) and docs/zh-CN/user-guide.md before starting.\n\n## Specs\n- 16:9, 1920x1080, 30fps, ~60s, MP4 (H.264)\n- No voiceover or BGM; subtle interaction SFX only\n\n## Assets (Important)\n- All generated images must use real landing preview files: public/landing/preview-{1..3}-{1..4}.webp\n  - Set 1: Steak product shot\n  - Set 2: Embroidered bird and flower illustration\n  - Set 3: Rainy night city street\n- Display real prompts verbatim; do not fabricate\n- Disallow public/inspiration images and docs sketch screenshots\n- Do not fake unrendered outputs (e.g. inpainting shows brush only)\n- Add disclaimer text: \"UI simulated · Images genuinely generated with Gouo\"\n\n## Visual Style\n- Intro/Outro: Warm fluid gradient fog with film grain; title reveals from mask; floating framed cards\n- Product sections: HTML re-creation of dark UI (sidebar, credits, inputs, canvas, Agent chat)\n- Palette: Paper #faf8f3, Ink #171719, Accent #c26855; ease cubic-bezier(0.23, 1, 0.32, 1)\n- Progressive image reveal animation\n- Glassmorphism caption card in lower-left\n\n## Simulated Cursor\n- Smooth movement, click squash with ripple, hover states, drag-and-drop targeting dynamic element positions\n\n## Storyboard\n1. Intro (0-6s): Landing hero, \"From Inspiration / To Image\", click CTA\n2. Image Generation (6-27s): Type steak prompt, select 4 images, send, progressive reveal, favorite, launch inpainting brush\n3. Infinite Canvas (27-41s): Connect text node to config node, generate 2 embroidery images, zoom out to minimap\n4. Creative Agent (41-55s): Prompt agent for rainy night city, tool execution cards stream, canvas updates with new nodes\n5. Outro (55-63s): Fog background, closing tagline, CTA click\nCredits balance decrements accurately throughout.\n\n## Sound Design\n- Synthesized procedural SFX (subtle clicks, light typing, soft tonal chimes, breath transitions, ending chord); peak ~ -15 dBFS\n\n## Implementation\n- Single HTML page + deterministic timeline: render(t)\n- Playwright frame-by-frame capture, ffmpeg encoding\n- Python (numpy/scipy) audio synthesis merged into final video"
+  },
+  "summary": "Programmatic generation of a 60-second product demo video and synthesized UI audio via deterministic web animation.",
+  "summaryEn": "Gouo Canvas UI Product Promo Video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111475108514849068",
+    "canonicalUrl": "https://x.com/xgouoo/status/2111475108514849068",
+    "author": {
+      "username": "xgouoo",
+      "displayName": "XGOUO",
+      "profileUrl": "https://x.com/xgouoo"
+    },
+    "publishedAt": "2026-10-17T15:11:09.000Z",
+    "collectedAt": "2026-10-17T16:49:41.927Z",
+    "language": "zh",
+    "originalText": "破 500 粉了 🎉\n\n三天前我还是个 30 粉的小号，说要一周涨到 200，结果第二天就超了，今天晚上过了 500。谢谢每个来评论区聊天的朋友，真的没想到。\n\n纪念一下，送大家一个我自己觉得挺有用的东西。\n\n前几天我让 Claude Opus 5.5 给我自己做的网站剪了一条 60 秒的宣传片，就是下面这个视频。全程没开剪辑软件，也没录屏，画面、鼠标操作、音效全是它写代码生成的。\n\n几个我觉得最关键的地方：\n· 素材只准用真实生成的图，提示词也必须是真的，不让它编\n· 界面用 HTML 重新搭，不直接贴截图，所以画面很干净\n· 鼠标要实时对准元素，不写死坐标，动作才自然\n· 用确定性时间轴逐帧渲染，音效用程序合成，画面和声音能精确对上\n\n完整提示词放评论区了👇 大家可以照着改成自己的产品",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/xgouoo/status/2111475108514849068",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111474927551598592/img/nKHjEMMF-KUdmEi0.jpg",
+        "analysisUrl": "https://x.com/xgouoo/status/2111475108514849068"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 77
+    },
+    "matchedRuleIds": [
+      "group:opus:zh:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/xgouoo/status/2111475234171937230",
+        "text": "# 任务：为「光构 Gouo Canvas」制作产品宣传视频\n\n## 背景\n光构是我做的 AI 图片创作平台（GitHub：zhs1234/gouo-canvas），有三个工作区：生成图片、无限画布、创作 Agent。请先 clone 仓库，阅读首页源码 src/components/landing/（LandingPage.tsx、landing.css）和用户指南 docs/zh-CN/user-guide.md，再开始制作。\n\n## 规格\n- 16:9，1920×1080，30fps，约 60 秒，MP4（H.264）\n- 无配音、无背景音乐，只有轻柔的交互音效\n\n## 素材（重要）\n- 片中所有出图只用首页的真实生成图：public/landing/preview-{1..3}-{1..4}.webp\n  - 第 1 组 牛排：「黑金质感的牛排商品图，雪花纹理特写，高级餐厅风格」\n  - 第 2 组 刺绣花鸟：「立体刺绣风格的花鸟插画，米白底色，柔和配色」\n  - 第 3 组 雨夜街角：「雨后的城市街角，霓虹倒影，电影感」\n- 片中打出的提示词必须是这些图的真实提示词，不能编造\n- 不使用 public/inspiration 里的灵感库图片（第三方示例图，商用许可未核实）\n- 不使用 docs 里的截图作品（文档手绘示意图）\n- 没有真实素材的效果不伪造（例如局部重绘只演示涂抹操作，不展示修改后结果）\n- 画面角落加小字：「界面为演示动画 · 图片均为光构真实生成」\n\n## 视觉风格（沿用首页动效）\n- 开场与收尾：首页暖色流体彩雾（7 团模糊色块缓慢漂移）+ 颗粒噪点；白色大字逐行从遮罩中升起；作品卡片白边、倾斜、轻微浮动\n- 功能段：用 HTML 重建光构深色产品界面（侧栏、余额、输入框、画布、Agent 对话），不直接贴截图\n- 配色：纸色 #faf8f3、墨色 #171719、强调色 #c26855；缓动 cubic-bezier(0.23, 1, 0.32, 1)\n- 出图动效沿用首页的「显影」：从模糊、低饱和逐张变清晰\n- 左下角玻璃质感字幕卡：编号 + 功能名 + 一句标题 + 一句说明\n\n## 模拟鼠标\n全程由一个模拟鼠标操作：平滑移动、点击时缩小并出现涟漪、悬停反馈、按住拖拽。鼠标位置要实时对准目标元素，不写死坐标。\n\n## 分镜\n1. 开场（0–6s）：首页首屏，「把灵感 / 构造成图像」升起，鼠标点「开始创作」进入产品\n2. 生成图片（6–27s）\n   - 点输入框，逐字打出牛排提示词；点「自定义参数」选 4 张，预计扣费同步变为 80 积分\n   - 点发送，4 张牛排依次显影，提示「生成完成，已保存到作品库」\n   - 悬停一张，点 ♥ 收藏（出现提示条），点「编辑输出」，缩略图飞入参考图位\n   - 打开遮罩编辑器，蓝色画笔涂抹背景，保存后输入「把遮罩区域换成白色大理石台面」\n3. 无限画布（27–41s）\n   - 切换到画布；工具栏添加文本节点「米白底色，柔和配色」，再添加生成配置节点「立体刺绣风格的花鸟插画」\n   - 从文本节点拖线连到配置节点（显示「已连接 1 段文本」），张数改为 2，点生成\n   - 两张刺绣花鸟作为结果节点从右侧连出并显影\n   - 镜头拉远，旁边是「作品库 · 牛排商品图」分组，小地图亮起\n4. 创作 Agent（41–55s）\n   - 点「Agent」进入对话，输入「想要一张雨后城市夜景，霓虹倒影，有电影感」\n   - Agent 流式回复，说明已整理出提示词「雨后的城市街角，霓虹倒影，电影感」\n   - 依次出现工具卡：读取画布 → 生成图片（已提交 → 已生成 2 张，显影雨夜街角）→ 修改画布\n   - 切回画布，「Agent · 雨夜街角」分组出现，提示「Agent 已在画布中添加 2 个节点」\n5. 收尾（55–63s）：浅色彩雾 + 点阵，「从一句话 / 开始。」，三个功能标签、logo、「开始创作」按钮（鼠标点击）\n全片余额随每次生成递减，与预计扣费一致。\n\n## 音效（要优雅、轻柔、克制）\n- 无背景音乐、无铺底和弦\n- 点击：低频、缓起、重低通，几乎只剩一点触感\n- 打字：极轻的触感声\n- 图片显影：慢起的柔和单音，同一调性（C 大调），不要清脆或「叮」的感觉\n- 生成完成：一声很轻的浮现音，不用双音提示\n- 转场：柔和气息声，不用噪声风声\n- 收尾：一个舒展的和弦，音量也要克制\n- 整体音量偏低（峰值约 -15 dBFS），所有声音与画面动作精确对齐\n- 音效全部用程序合成，不使用外部素材\n\n## 技术实现\n- 单个 HTML 页面 + 确定性时间轴：render(t) 只根据时间 t 计算每个元素的状态\n- Playwright 逐帧截图，ffmpeg 编码，可分段并行渲染后拼接\n- 音效用 Python（numpy/scipy）合成为 wav，再与视频合并\n- 先渲染关键帧截图检查对位，再出全片",
+        "author": "xgouoo"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/xgouoo/status/2111475108514849068",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111474927551598592/img/nKHjEMMF-KUdmEi0.jpg",
+  "coverPath": "data/covers/2111475108514849068-wide.jpg",
+  "gifPath": "data/gifs/2111475108514849068.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111474927551598592",
+    "x-post:2111475108514849068"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Gouo Canvas UI Product Promo Video",
+      "summary": "Programmatic generation of a 60-second product demo video and synthesized UI audio via deterministic web animation.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "前几天我让 Claude Opus 5.5 给我自己做的网站剪了一条 60 秒的宣传片"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "# 任务：为「光构 Gouo Canvas」制作产品宣传视频\n\n## 背景\n光构是我做的 AI 图片创作平台（GitHub：zhs1234/gouo-canvas），有三个工作区：生成图片、无限画布、创作 Agent。请先 clone 仓库，阅读首页源码 src/components/landing/（LandingPage.tsx、landing.css）和用户指南 docs/zh-CN/user-guide.md，再开始制作。\n\n## 规格\n- 16:9，1920×1080，30fps，约 60 秒，MP4（H.264）\n- 无配音、无背景音乐，只有轻柔的交互音效\n\n## 素材（重要）\n- 片中所有出图只用首页的真实生成图：public/landing/preview-{1..3}-{1..4}.webp\n  - 第 1 组 牛排：「黑金质感的牛排商品图，雪花纹理特写，高级餐厅风格」\n  - 第 2 组 刺绣花鸟：「立体刺绣风格的花鸟插画，米白底色，柔和配色」\n  - 第 3 组 雨夜街角：「雨后的城市街角，霓虹倒影，电影感」\n- 片中打出的提示词必须是这些图的真实提示词，不能编造\n- 不使用 public/inspiration 里的灵感库图片（第三方示例图，商用许可未核实）\n- 不使用 docs 里的截图作品（文档手绘示意图）\n- 没有真实素材的效果不伪造（例如局部重绘只演示涂抹操作，不展示修改后结果）\n- 画面角落加小字：「界面为演示动画 · 图片均为光构真实生成」\n\n## 视觉风格（沿用首页动效）\n- 开场与收尾：首页暖色流体彩雾（7 团模糊色块缓慢漂移）+ 颗粒噪点；白色大字逐行从遮罩中升起；作品卡片白边、倾斜、轻微浮动\n- 功能段：用 HTML 重建光构深色产品界面（侧栏、余额、输入框、画布、Agent 对话），不直接贴截图\n- 配色：纸色 #faf8f3、墨色 #171719、强调色 #c26855；缓动 cubic-bezier(0.23, 1, 0.32, 1)\n- 出图动效沿用首页的「显影」：从模糊、低饱和逐张变清晰\n- 左下角玻璃质感字幕卡：编号 + 功能名 + 一句标题 + 一句说明\n\n## 模拟鼠标\n全程由一个模拟鼠标操作：平滑移动、点击时缩小并出现涟漪、悬停反馈、按住拖拽。鼠标位置要实时对准目标元素，不写死坐标。\n\n## 分镜\n1. 开场（0–6s）：首页首屏，「把灵感 / 构造成图像」升起，鼠标点「开始创作」进入产品\n2. 生成图片（6–27s）\n   - 点输入框，逐字打出牛排提示词；点「自定义参数」选 4 张，预计扣费同步变为 80 积分\n   - 点发送，4 张牛排依次显影，提示「生成完成，已保存到作品库」\n   - 悬停一张，点 ♥ 收藏（出现提示条），点「编辑输出」，缩略图飞入参考图位\n   - 打开遮罩编辑器，蓝色画笔涂抹背景，保存后输入「把遮罩区域换成白色大理石台面」\n3. 无限画布（27–41s）\n   - 切换到画布；工具栏添加文本节点「米白底色，柔和配色」，再添加生成配置节点「立体刺绣风格的花鸟插画」\n   - 从文本节点拖线连到配置节点（显示「已连接 1 段文本」），张数改为 2，点生成\n   - 两张刺绣花鸟作为结果节点从右侧连出并显影\n   - 镜头拉远，旁边是「作品库 · 牛排商品图」分组，小地图亮起\n4. 创作 Agent（41–55s）\n   - 点「Agent」进入对话，输入「想要一张雨后城市夜景，霓虹倒影，有电影感」\n   - Agent 流式回复，说明已整理出提示词「雨后的城市街角，霓虹倒影，电影感」\n   - 依次出现工具卡：读取画布 → 生成图片（已提交 → 已生成 2 张，显影雨夜街角）→ 修改画布\n   - 切回画布，「Agent · 雨夜街角」分组出现，提示「Agent 已在画布中添加 2 个节点」\n5. 收尾（55–63s）：浅色彩雾 + 点阵，「从一句话 / 开始。」，三个功能标签、logo、「开始创作」按钮（鼠标点击）\n全片余额随每次生成递减，与预计扣费一致。\n\n## 音效（要优雅、轻柔、克制）\n- 无背景音乐、无铺底和弦\n- 点击：低频、缓起、重低通，几乎只剩一点触感\n- 打字：极轻的触感声\n- 图片显影：慢起的柔和单音，同一调性（C 大调），不要清脆或「叮」的感觉\n- 生成完成：一声很轻的浮现音，不用双音提示\n- 转场：柔和气息声，不用噪声风声\n- 收尾：一个舒展的和弦，音量也要克制\n- 整体音量偏低（峰值约 -15 dBFS），所有声音与画面动作精确对齐\n- 音效全部用程序合成，不使用外部素材\n\n## 技术实现\n- 单个 HTML 页面 + 确定性时间轴：render(t) 只根据时间 t 计算每个元素的状态\n- Playwright 逐帧截图，ffmpeg 编码，可分段并行渲染后拼接\n- 音效用 Python（numpy/scipy）合成为 wav，再与视频合并\n- 先渲染关键帧截图检查对位，再出全片",
+        "englishText": "# Task: Create a product promo video for \"Gouo Canvas\"\n\n## Background\nGouo is my AI image platform (GitHub: zhs1234/gouo-canvas) featuring three workspaces: Image Generation, Infinite Canvas, and Creative Agent. Clone the repo and inspect src/components/landing/ (LandingPage.tsx, landing.css) and docs/zh-CN/user-guide.md before starting.\n\n## Specs\n- 16:9, 1920x1080, 30fps, ~60s, MP4 (H.264)\n- No voiceover or BGM; subtle interaction SFX only\n\n## Assets (Important)\n- All generated images must use real landing preview files: public/landing/preview-{1..3}-{1..4}.webp\n  - Set 1: Steak product shot\n  - Set 2: Embroidered bird and flower illustration\n  - Set 3: Rainy night city street\n- Display real prompts verbatim; do not fabricate\n- Disallow public/inspiration images and docs sketch screenshots\n- Do not fake unrendered outputs (e.g. inpainting shows brush only)\n- Add disclaimer text: \"UI simulated · Images genuinely generated with Gouo\"\n\n## Visual Style\n- Intro/Outro: Warm fluid gradient fog with film grain; title reveals from mask; floating framed cards\n- Product sections: HTML re-creation of dark UI (sidebar, credits, inputs, canvas, Agent chat)\n- Palette: Paper #faf8f3, Ink #171719, Accent #c26855; ease cubic-bezier(0.23, 1, 0.32, 1)\n- Progressive image reveal animation\n- Glassmorphism caption card in lower-left\n\n## Simulated Cursor\n- Smooth movement, click squash with ripple, hover states, drag-and-drop targeting dynamic element positions\n\n## Storyboard\n1. Intro (0-6s): Landing hero, \"From Inspiration / To Image\", click CTA\n2. Image Generation (6-27s): Type steak prompt, select 4 images, send, progressive reveal, favorite, launch inpainting brush\n3. Infinite Canvas (27-41s): Connect text node to config node, generate 2 embroidery images, zoom out to minimap\n4. Creative Agent (41-55s): Prompt agent for rainy night city, tool execution cards stream, canvas updates with new nodes\n5. Outro (55-63s): Fog background, closing tagline, CTA click\nCredits balance decrements accurately throughout.\n\n## Sound Design\n- Synthesized procedural SFX (subtle clicks, light typing, soft tonal chimes, breath transitions, ending chord); peak ~ -15 dBFS\n\n## Implementation\n- Single HTML page + deterministic timeline: render(t)\n- Playwright frame-by-frame capture, ffmpeg encoding\n- Python (numpy/scipy) audio synthesis merged into final video",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Local asset files from repo zhs1234/gouo-canvas (public/landing/preview-*.webp)",
+          "Source implementation scripts generated by Claude Opus 5.5"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The attached 63-second 1080p video matches the timeline, UI steps, text prompts, visual styling, procedural cursor motion, and subtle audio cues described.",
+        "textualResultQuote": "全程没开剪辑软件，也没录屏，画面、鼠标操作、音效全是它写代码生成的。"
+      },
+      "inputs": [
+        {
+          "kind": "repository",
+          "description": "Gouo Canvas frontend codebase containing landing page code, docs, and generated asset images.",
+          "available": false,
+          "evidence": "GitHub：zhs1234/gouo-canvas",
+          "sourceUrl": "https://github.com/zhs1234/gouo-canvas",
+          "origin": "user"
+        },
+        {
+          "kind": "image",
+          "description": "Preview WebP images of steak, embroidery, and city street.",
+          "available": false,
+          "evidence": "public/landing/preview-{1..3}-{1..4}.webp",
+          "origin": "user",
+          "sourceUrl": "https://x.com/xgouoo/status/2111475234171937230"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "FFmpeg",
+          "role": "Encoding captured PNG sequence into MP4 video and multiplexing procedural audio.",
+          "evidence": "Playwright 逐帧截图，ffmpeg 编码，可分段并行渲染后拼接",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/xgouoo/status/2111475234171937230"
+        },
+        {
+          "name": "HTML/CSS/JS",
+          "role": "DOM-based UI reproduction and deterministic timeline animation engine render(t).",
+          "evidence": "单个 HTML 页面 + 确定性时间轴：render(t) 只根据时间 t 计算每个元素的状态",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/xgouoo/status/2111475234171937230"
+        },
+        {
+          "name": "NumPy",
+          "role": "Audio / numerical analysis",
+          "evidence": "- 音效用 Python（numpy/scipy）合成为 wav，再与视频合并",
+          "sourceUrl": "https://x.com/xgouoo/status/2111475234171937230",
+          "status": "required"
+        },
+        {
+          "name": "Playwright",
+          "role": "Frame-by-frame browser screenshot capture based on deterministic timeline t.",
+          "evidence": "Playwright 逐帧截图，ffmpeg 编码，可分段并行渲染后拼接",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/xgouoo/status/2111475234171937230"
+        },
+        {
+          "name": "Python (numpy/scipy)",
+          "role": "Programmatic procedural synthesis of interaction sound effects.",
+          "evidence": "音效用 Python（numpy/scipy）合成为 wav，再与视频合并",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/xgouoo/status/2111475234171937230"
+        }
+      ],
+      "purpose": {
+        "label": "Gouo Canvas UI Product Promo",
+        "topic": "motion-graphics",
+        "tags": [
+          "promo",
+          "ui-demo",
+          "code-generated-video",
+          "procedural-audio"
+        ]
+      },
+      "targetModelRole": "Code generation for DOM-based animated timeline, Playwright frame capture script, and Python audio synthesis.",
+      "outputSource": "Playwright headless browser rendering piped to FFmpeg with procedural audio.",
+      "divisionEvidence": "Claude Opus 5.5 generated the code while the browser runtime and Python scripts rendered the media: '画面、鼠标操作、音效全是它写代码生成的' and 'Playwright 逐帧截图，ffmpeg 编码 ... 音效用 Python（numpy/scipy）合成'.",
+      "video": {
+        "shots": "5 sequential sections: Intro, Text-to-Image workflow, Canvas node workflow, Agent workflow, and Outro.",
+        "duration": "63s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": [
+          "public/landing/preview-{1..3}-{1..4}.webp",
+          "src/components/landing/LandingPage.tsx",
+          "src/components/landing/landing.css"
+        ]
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Complete prompt instructing Claude Opus 5.5 to write deterministic HTML/JS video rendering and Python audio synthesis scripts, paired with final video output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/xgouoo/status/2111475234171937230",
+        "start": 0,
+        "end": 2086
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/xgouoo/status/2111475108514849068",
+        "author": "xgouoo",
+        "postId": "2111475108514849068",
+        "publishedAt": "2026-10-17T15:11:09.000Z"
+      },
+      "checkedAt": "2026-10-17T17:02:30.861Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/xgouoo/status/2111475234171937230",
+        "evidence": ""
+      }
+    },
+    "summary": "Programmatic generation of a 60-second product demo video and synthesized UI audio via deterministic web animation.",
+    "summaryEn": "Gouo Canvas UI Product Promo Video",
+    "originalPrompt": "# 任务：为「光构 Gouo Canvas」制作产品宣传视频\n\n## 背景\n光构是我做的 AI 图片创作平台（GitHub：zhs1234/gouo-canvas），有三个工作区：生成图片、无限画布、创作 Agent。请先 clone 仓库，阅读首页源码 src/components/landing/（LandingPage.tsx、landing.css）和用户指南 docs/zh-CN/user-guide.md，再开始制作。\n\n## 规格\n- 16:9，1920×1080，30fps，约 60 秒，MP4（H.264）\n- 无配音、无背景音乐，只有轻柔的交互音效\n\n## 素材（重要）\n- 片中所有出图只用首页的真实生成图：public/landing/preview-{1..3}-{1..4}.webp\n  - 第 1 组 牛排：「黑金质感的牛排商品图，雪花纹理特写，高级餐厅风格」\n  - 第 2 组 刺绣花鸟：「立体刺绣风格的花鸟插画，米白底色，柔和配色」\n  - 第 3 组 雨夜街角：「雨后的城市街角，霓虹倒影，电影感」\n- 片中打出的提示词必须是这些图的真实提示词，不能编造\n- 不使用 public/inspiration 里的灵感库图片（第三方示例图，商用许可未核实）\n- 不使用 docs 里的截图作品（文档手绘示意图）\n- 没有真实素材的效果不伪造（例如局部重绘只演示涂抹操作，不展示修改后结果）\n- 画面角落加小字：「界面为演示动画 · 图片均为光构真实生成」\n\n## 视觉风格（沿用首页动效）\n- 开场与收尾：首页暖色流体彩雾（7 团模糊色块缓慢漂移）+ 颗粒噪点；白色大字逐行从遮罩中升起；作品卡片白边、倾斜、轻微浮动\n- 功能段：用 HTML 重建光构深色产品界面（侧栏、余额、输入框、画布、Agent 对话），不直接贴截图\n- 配色：纸色 #faf8f3、墨色 #171719、强调色 #c26855；缓动 cubic-bezier(0.23, 1, 0.32, 1)\n- 出图动效沿用首页的「显影」：从模糊、低饱和逐张变清晰\n- 左下角玻璃质感字幕卡：编号 + 功能名 + 一句标题 + 一句说明\n\n## 模拟鼠标\n全程由一个模拟鼠标操作：平滑移动、点击时缩小并出现涟漪、悬停反馈、按住拖拽。鼠标位置要实时对准目标元素，不写死坐标。\n\n## 分镜\n1. 开场（0–6s）：首页首屏，「把灵感 / 构造成图像」升起，鼠标点「开始创作」进入产品\n2. 生成图片（6–27s）\n   - 点输入框，逐字打出牛排提示词；点「自定义参数」选 4 张，预计扣费同步变为 80 积分\n   - 点发送，4 张牛排依次显影，提示「生成完成，已保存到作品库」\n   - 悬停一张，点 ♥ 收藏（出现提示条），点「编辑输出」，缩略图飞入参考图位\n   - 打开遮罩编辑器，蓝色画笔涂抹背景，保存后输入「把遮罩区域换成白色大理石台面」\n3. 无限画布（27–41s）\n   - 切换到画布；工具栏添加文本节点「米白底色，柔和配色」，再添加生成配置节点「立体刺绣风格的花鸟插画」\n   - 从文本节点拖线连到配置节点（显示「已连接 1 段文本」），张数改为 2，点生成\n   - 两张刺绣花鸟作为结果节点从右侧连出并显影\n   - 镜头拉远，旁边是「作品库 · 牛排商品图」分组，小地图亮起\n4. 创作 Agent（41–55s）\n   - 点「Agent」进入对话，输入「想要一张雨后城市夜景，霓虹倒影，有电影感」\n   - Agent 流式回复，说明已整理出提示词「雨后的城市街角，霓虹倒影，电影感」\n   - 依次出现工具卡：读取画布 → 生成图片（已提交 → 已生成 2 张，显影雨夜街角）→ 修改画布\n   - 切回画布，「Agent · 雨夜街角」分组出现，提示「Agent 已在画布中添加 2 个节点」\n5. 收尾（55–63s）：浅色彩雾 + 点阵，「从一句话 / 开始。」，三个功能标签、logo、「开始创作」按钮（鼠标点击）\n全片余额随每次生成递减，与预计扣费一致。\n\n## 音效（要优雅、轻柔、克制）\n- 无背景音乐、无铺底和弦\n- 点击：低频、缓起、重低通，几乎只剩一点触感\n- 打字：极轻的触感声\n- 图片显影：慢起的柔和单音，同一调性（C 大调），不要清脆或「叮」的感觉\n- 生成完成：一声很轻的浮现音，不用双音提示\n- 转场：柔和气息声，不用噪声风声\n- 收尾：一个舒展的和弦，音量也要克制\n- 整体音量偏低（峰值约 -15 dBFS），所有声音与画面动作精确对齐\n- 音效全部用程序合成，不使用外部素材\n\n## 技术实现\n- 单个 HTML 页面 + 确定性时间轴：render(t) 只根据时间 t 计算每个元素的状态\n- Playwright 逐帧截图，ffmpeg 编码，可分段并行渲染后拼接\n- 音效用 Python（numpy/scipy）合成为 wav，再与视频合并\n- 先渲染关键帧截图检查对位，再出全片",
+    "sourceRange": {
+      "start": 0,
+      "end": 2086
+    },
+    "translations": {
+      "zh": "# 任务：为「光构 Gouo Canvas」制作产品宣传视频\n\n## 背景\n光构是我做的 AI 图片创作平台（GitHub：zhs1234/gouo-canvas），有三个工作区：生成图片、无限画布、创作 Agent。请先 clone 仓库，阅读首页源码 src/components/landing/（LandingPage.tsx、landing.css）和用户指南 docs/zh-CN/user-guide.md，再开始制作。\n\n## 规格\n- 16:9，1920×1080，30fps，约 60 秒，MP4（H.264）\n- 无配音、无背景音乐，只有轻柔的交互音效\n\n## 素材（重要）\n- 片中所有出图只用首页的真实生成图：public/landing/preview-{1..3}-{1..4}.webp\n  - 第 1 组 牛排：「黑金质感的牛排商品图，雪花纹理特写，高级餐厅风格」\n  - 第 2 组 刺绣花鸟：「立体刺绣风格的花鸟插画，米白底色，柔和配色」\n  - 第 3 组 雨夜街角：「雨后的城市街角，霓虹倒影，电影感」\n- 片中打出的提示词必须是这些图的真实提示词，不能编造\n- 不使用 public/inspiration 里的灵感库图片（第三方示例图，商用许可未核实）\n- 不使用 docs 里的截图作品（文档手绘示意图）\n- 没有真实素材的效果不伪造（例如局部重绘只演示涂抹操作，不展示修改后结果）\n- 画面角落加小字：「界面为演示动画 · 图片均为光构真实生成」\n\n## 视觉风格（沿用首页动效）\n- 开场与收尾：首页暖色流体彩雾（7 团模糊色块缓慢漂移）+ 颗粒噪点；白色大字逐行从遮罩中升起；作品卡片白边、倾斜、轻微浮动\n- 功能段：用 HTML 重建光构深色产品界面（侧栏、余额、输入框、画布、Agent 对话），不直接贴截图\n- 配色：纸色 #faf8f3、墨色 #171719、强调色 #c26855；缓动 cubic-bezier(0.23, 1, 0.32, 1)\n- 出图动效沿用首页的「显影」：从模糊、低饱和逐张变清晰\n- 左下角玻璃质感字幕卡：编号 + 功能名 + 一句标题 + 一句说明\n\n## 模拟鼠标\n全程由一个模拟鼠标操作：平滑移动、点击时缩小并出现涟漪、悬停反馈、按住拖拽。鼠标位置要实时对准目标元素，不写死坐标。\n\n## 分镜\n1. 开场（0–6s）：首页首屏，「把灵感 / 构造成图像」升起，鼠标点「开始创作」进入产品\n2. 生成图片（6–27s）\n   - 点输入框，逐字打出牛排提示词；点「自定义参数」选 4 张，预计扣费同步变为 80 积分\n   - 点发送，4 张牛排依次显影，提示「生成完成，已保存到作品库」\n   - 悬停一张，点 ♥ 收藏（出现提示条），点「编辑输出」，缩略图飞入参考图位\n   - 打开遮罩编辑器，蓝色画笔涂抹背景，保存后输入「把遮罩区域换成白色大理石台面」\n3. 无限画布（27–41s）\n   - 切换到画布；工具栏添加文本节点「米白底色，柔和配色」，再添加生成配置节点「立体刺绣风格的花鸟插画」\n   - 从文本节点拖线连到配置节点（显示「已连接 1 段文本」），张数改为 2，点生成\n   - 两张刺绣花鸟作为结果节点从右侧连出并显影\n   - 镜头拉远，旁边是「作品库 · 牛排商品图」分组，小地图亮起\n4. 创作 Agent（41–55s）\n   - 点「Agent」进入对话，输入「想要一张雨后城市夜景，霓虹倒影，有电影感」\n   - Agent 流式回复，说明已整理出提示词「雨后的城市街角，霓虹倒影，电影感」\n   - 依次出现工具卡：读取画布 → 生成图片（已提交 → 已生成 2 张，显影雨夜街角）→ 修改画布\n   - 切回画布，「Agent · 雨夜街角」分组出现，提示「Agent 已在画布中添加 2 个节点」\n5. 收尾（55–63s）：浅色彩雾 + 点阵，「从一句话 / 开始。」，三个功能标签、logo、「开始创作」按钮（鼠标点击）\n全片余额随每次生成递减，与预计扣费一致。\n\n## 音效（要优雅、轻柔、克制）\n- 无背景音乐、无铺底和弦\n- 点击：低频、缓起、重低通，几乎只剩一点触感\n- 打字：极轻的触感声\n- 图片显影：慢起的柔和单音，同一调性（C 大调），不要清脆或「叮」的感觉\n- 生成完成：一声很轻的浮现音，不用双音提示\n- 转场：柔和气息声，不用噪声风声\n- 收尾：一个舒展的和弦，音量也要克制\n- 整体音量偏低（峰值约 -15 dBFS），所有声音与画面动作精确对齐\n- 音效全部用程序合成，不使用外部素材\n\n## 技术实现\n- 单个 HTML 页面 + 确定性时间轴：render(t) 只根据时间 t 计算每个元素的状态\n- Playwright 逐帧截图，ffmpeg 编码，可分段并行渲染后拼接\n- 音效用 Python（numpy/scipy）合成为 wav，再与视频合并\n- 先渲染关键帧截图检查对位，再出全片",
+      "en": "# Task: Create a product promo video for \"Gouo Canvas\"\n\n## Background\nGouo is my AI image platform (GitHub: zhs1234/gouo-canvas) featuring three workspaces: Image Generation, Infinite Canvas, and Creative Agent. Clone the repo and inspect src/components/landing/ (LandingPage.tsx, landing.css) and docs/zh-CN/user-guide.md before starting.\n\n## Specs\n- 16:9, 1920x1080, 30fps, ~60s, MP4 (H.264)\n- No voiceover or BGM; subtle interaction SFX only\n\n## Assets (Important)\n- All generated images must use real landing preview files: public/landing/preview-{1..3}-{1..4}.webp\n  - Set 1: Steak product shot\n  - Set 2: Embroidered bird and flower illustration\n  - Set 3: Rainy night city street\n- Display real prompts verbatim; do not fabricate\n- Disallow public/inspiration images and docs sketch screenshots\n- Do not fake unrendered outputs (e.g. inpainting shows brush only)\n- Add disclaimer text: \"UI simulated · Images genuinely generated with Gouo\"\n\n## Visual Style\n- Intro/Outro: Warm fluid gradient fog with film grain; title reveals from mask; floating framed cards\n- Product sections: HTML re-creation of dark UI (sidebar, credits, inputs, canvas, Agent chat)\n- Palette: Paper #faf8f3, Ink #171719, Accent #c26855; ease cubic-bezier(0.23, 1, 0.32, 1)\n- Progressive image reveal animation\n- Glassmorphism caption card in lower-left\n\n## Simulated Cursor\n- Smooth movement, click squash with ripple, hover states, drag-and-drop targeting dynamic element positions\n\n## Storyboard\n1. Intro (0-6s): Landing hero, \"From Inspiration / To Image\", click CTA\n2. Image Generation (6-27s): Type steak prompt, select 4 images, send, progressive reveal, favorite, launch inpainting brush\n3. Infinite Canvas (27-41s): Connect text node to config node, generate 2 embroidery images, zoom out to minimap\n4. Creative Agent (41-55s): Prompt agent for rainy night city, tool execution cards stream, canvas updates with new nodes\n5. Outro (55-63s): Fog background, closing tagline, CTA click\nCredits balance decrements accurately throughout.\n\n## Sound Design\n- Synthesized procedural SFX (subtle clicks, light typing, soft tonal chimes, breath transitions, ending chord); peak ~ -15 dBFS\n\n## Implementation\n- Single HTML page + deterministic timeline: render(t)\n- Playwright frame-by-frame capture, ffmpeg encoding\n- Python (numpy/scipy) audio synthesis merged into final video"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Gouo Canvas UI Product Promo",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Local asset files from repo zhs1234/gouo-canvas (public/landing/preview-*.webp)",
+        "Source implementation scripts generated by Claude Opus 5.5"
+      ],
+      "evidence": "The attached 63-second 1080p video matches the timeline, UI steps, text prompts, visual styling, procedural cursor motion, and subtle audio cues described."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
