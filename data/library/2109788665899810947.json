@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T18:18:00.608Z",
+  "model": "opus5.5",
+  "prompt": "Create a beautiful, interactive 3D browser artwork of a single stained-glass hibiscus flower.\n\nUse the attached leaf as a reference for material delicacy, intricate veins, translucent colours and restrained presentation. Create an original flower composition.\n\nThe flower is the entire experience. It fills most of the viewport against a quiet, near-black charcoal background.\n\nFLOWER\n\nCreate five broad, organically shaped petals with gently ruffled edges, subtle asymmetry and graceful curvature. Arrange them into a convincing three-dimensional hibiscus, with natural overlap and a clearly visible centre.\n\nEach petal is made from thin, luminous stained glass. Blend ruby pink, coral, pale peach and honey amber within the glass, with delicate marbling and fine branching veins radiating from its base.\n\nUse extremely thin antique-gold seams and a finely beveled outer edge. Preserve the delicacy of the glass. Include a slender projecting central column with tiny golden anthers, a gracefully curved stem and two small translucent green leaves.\n\nMATERIAL AND LIGHT\n\nThe glass must have visible thickness, coloured light transmission, subtle surface irregularities and crisp reflections that change with the viewing angle.\n\nOverlapping petals should remain readable. Balance illumination so the colours stay luminous and the veins remain visible throughout rotation. Avoid large white reflections that erase the detail.\n\nUse soft studio lighting with a warm backlight and a restrained rim light. Avoid excessive bloom, neon colour and heavy black outlines.\n\nMOVEMENT AND INTERACTION\n\nStart immediately with a flattering three-quarter view. Rotate slowly and smoothly so viewers can inspect the curved petals, thin edges and reverse side. Allow dragging to orbit, scrolling to zoom, and a small pause control. Keep the flower fully framed during automatic rotation.\n\nDELIVERY\n\nBuild actual 3D geometry rendered in the browser. Generate the geometry and textures in code. Deliver a working preview and a downloadable, self-contained stained-glass-flower.html with all dependencies embedded. Run the result, inspect a full rotation, and fix missing surfaces, transparency problems, clipping or washed-out lighting before finishing. Prioritize the quality of the flower over interface decoration.",
+  "promptTranslations": {
+    "en": "Create a beautiful, interactive 3D browser artwork of a single stained-glass hibiscus flower.\n\nUse the attached leaf as a reference for material delicacy, intricate veins, translucent colours and restrained presentation. Create an original flower composition.\n\nThe flower is the entire experience. It fills most of the viewport against a quiet, near-black charcoal background.\n\nFLOWER\n\nCreate five broad, organically shaped petals with gently ruffled edges, subtle asymmetry and graceful curvature. Arrange them into a convincing three-dimensional hibiscus, with natural overlap and a clearly visible centre.\n\nEach petal is made from thin, luminous stained glass. Blend ruby pink, coral, pale peach and honey amber within the glass, with delicate marbling and fine branching veins radiating from its base.\n\nUse extremely thin antique-gold seams and a finely beveled outer edge. Preserve the delicacy of the glass. Include a slender projecting central column with tiny golden anthers, a gracefully curved stem and two small translucent green leaves.\n\nMATERIAL AND LIGHT\n\nThe glass must have visible thickness, coloured light transmission, subtle surface irregularities and crisp reflections that change with the viewing angle.\n\nOverlapping petals should remain readable. Balance illumination so the colours stay luminous and the veins remain visible throughout rotation. Avoid large white reflections that erase the detail.\n\nUse soft studio lighting with a warm backlight and a restrained rim light. Avoid excessive bloom, neon colour and heavy black outlines.\n\nMOVEMENT AND INTERACTION\n\nStart immediately with a flattering three-quarter view. Rotate slowly and smoothly so viewers can inspect the curved petals, thin edges and reverse side. Allow dragging to orbit, scrolling to zoom, and a small pause control. Keep the flower fully framed during automatic rotation.\n\nDELIVERY\n\nBuild actual 3D geometry rendered in the browser. Generate the geometry and textures in code. Deliver a working preview and a downloadable, self-contained stained-glass-flower.html with all dependencies embedded. Run the result, inspect a full rotation, and fix missing surfaces, transparency problems, clipping or washed-out lighting before finishing. Prioritize the quality of the flower over interface decoration."
+  },
+  "summary": "Author compares Claude Opus 5.5 against Muse Wonder using an identical prompt to construct a standalone interactive 3D browser simulation of a delicate stained-glass hibiscus flower with custom procedural shaders and orbit controls.",
+  "summaryEn": "Interactive 3D Stained-Glass Hibiscus",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2109788665899810947",
+    "canonicalUrl": "https://x.com/ivanainai/status/2109788665899810947",
+    "author": {
+      "username": "ivanainai",
+      "displayName": "Ivana",
+      "profileUrl": "https://x.com/ivanainai"
+    },
+    "publishedAt": "2026-10-12T23:29:50.000Z",
+    "collectedAt": "2026-10-17T16:49:41.927Z",
+    "language": "en",
+    "originalText": "So is Muse Wonder better than Opus 5.5?\n\nSame prompt: a stained-glass hibiscus. https://t.co/HK71ExBAi4",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ivanainai/status/2109788665899810947",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2109788028231131136/img/Bq15awAwMgwDhAqT.jpg",
+        "analysisUrl": "https://x.com/ivanainai/status/2109788665899810947"
+      }
+    ],
+    "metrics": {
+      "likeCount": 39,
+      "repostCount": 3,
+      "replyCount": 6,
+      "quoteCount": 0,
+      "viewCount": 8607
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ivanainai/status/2109788737437913430",
+        "text": "Prompt: Create a beautiful, interactive 3D browser artwork of a single stained-glass hibiscus flower.\n\nUse the attached leaf as a reference for material delicacy, intricate veins, translucent colours and restrained presentation. Create an original flower composition.\n\nThe flower is the entire experience. It fills most of the viewport against a quiet, near-black charcoal background.\n\nFLOWER\n\nCreate five broad, organically shaped petals with gently ruffled edges, subtle asymmetry and graceful curvature. Arrange them into a convincing three-dimensional hibiscus, with natural overlap and a clearly visible centre.\n\nEach petal is made from thin, luminous stained glass. Blend ruby pink, coral, pale peach and honey amber within the glass, with delicate marbling and fine branching veins radiating from its base.\n\nUse extremely thin antique-gold seams and a finely beveled outer edge. Preserve the delicacy of the glass. Include a slender projecting central column with tiny golden anthers, a gracefully curved stem and two small translucent green leaves.\n\nMATERIAL AND LIGHT\n\nThe glass must have visible thickness, coloured light transmission, subtle surface irregularities and crisp reflections that change with the viewing angle.\n\nOverlapping petals should remain readable. Balance illumination so the colours stay luminous and the veins remain visible throughout rotation. Avoid large white reflections that erase the detail.\n\nUse soft studio lighting with a warm backlight and a restrained rim light. Avoid excessive bloom, neon colour and heavy black outlines.\n\nMOVEMENT AND INTERACTION\n\nStart immediately with a flattering three-quarter view. Rotate slowly and smoothly so viewers can inspect the curved petals, thin edges and reverse side. Allow dragging to orbit, scrolling to zoom, and a small pause control. Keep the flower fully framed during automatic rotation.\n\nDELIVERY\n\nBuild actual 3D geometry rendered in the browser. Generate the geometry and textures in code. Deliver a working preview and a downloadable, self-contained stained-glass-flower.html with all dependencies embedded. Run the result, inspect a full rotation, and fix missing surfaces, transparency problems, clipping or washed-out lighting before finishing. Prioritize the quality of the flower over interface decoration.",
+        "author": "ivanainai"
+      },
+      {
+        "url": "https://x.com/ivanainai/status/2109788665899810947",
+        "text": "Ivana on X: \"So is Muse Wonder better than Opus 5.5?\n\nSame prompt: a stained-glass hibiscus.\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nIvana on X: \"So is Muse Wonder better than Opus 5.5?\n\nSame prompt: a stained-glass hibiscus.\"\n\n\n\nIvana\n\n@ivanainai\n\n\n\n\nSo is Muse Wonder better than Opus 5.5?\n\nSame prompt: a stained-glass hibiscus.\n\n\n00:00\n\n\n\n\n\n\n\n\n11:29 PM · Oct 12, 2026·8,607\nViews\n\n\n\n6\n3\n39\n12\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nIvana@ivanainaiFollow\nSoftware Engineer | Helping you get 10x more out of AI | Daily prompts, workflows & model tests\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIvana\n\n@ivanainai\n\n\n\n\nSo is Muse Wonder better than Opus 5.5?\n\nSame prompt: a stained-glass hibiscus.\n\n\n00:00\n\n\n\n\n\n\n\n\n11:29 PM · Oct 12, 2026·8,607\nViews\n\n\n\n6\n3\n39\n12\n\n\n\n\n\n\n\n\n\nIvana\n\n@ivanainai\nOct 12\n\n\nPrompt: Create a beautiful, interactive 3D browser artwork of a single stained-glass hibiscus flower.\n\nUse the attached leaf as a reference for material delicacy, intricate veins, translucent colours and restrained presentation. Create an original flower composition.\n\nThe flower Show more\n\n\n1\n\n5\n1.6K\n\n\n\n\n\n\n\n\n\n\n\nHLEET3D\n@HLEET3D\nOct 13\n\n\nreversed flower .... interesting 🫪\n\n\n\n\n1\n197\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "ivanainai"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/ivanainai/status/2109788665899810947",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2109788028231131136/img/Bq15awAwMgwDhAqT.jpg",
+  "coverPath": "data/covers/2109788665899810947-wide.jpg",
+  "gifPath": "data/gifs/2109788665899810947.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2109788028231131136",
+    "x-post:2109788665899810947"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Stained-Glass Hibiscus",
+      "summary": "Author compares Claude Opus 5.5 against Muse Wonder using an identical prompt to construct a standalone interactive 3D browser simulation of a delicate stained-glass hibiscus flower with custom procedural shaders and orbit controls.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "So is Muse Wonder better than Opus 5.5? Same prompt: a stained-glass hibiscus."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create a beautiful, interactive 3D browser artwork of a single stained-glass hibiscus flower.\n\nUse the attached leaf as a reference for material delicacy, intricate veins, translucent colours and restrained presentation. Create an original flower composition.\n\nThe flower is the entire experience. It fills most of the viewport against a quiet, near-black charcoal background.\n\nFLOWER\n\nCreate five broad, organically shaped petals with gently ruffled edges, subtle asymmetry and graceful curvature. Arrange them into a convincing three-dimensional hibiscus, with natural overlap and a clearly visible centre.\n\nEach petal is made from thin, luminous stained glass. Blend ruby pink, coral, pale peach and honey amber within the glass, with delicate marbling and fine branching veins radiating from its base.\n\nUse extremely thin antique-gold seams and a finely beveled outer edge. Preserve the delicacy of the glass. Include a slender projecting central column with tiny golden anthers, a gracefully curved stem and two small translucent green leaves.\n\nMATERIAL AND LIGHT\n\nThe glass must have visible thickness, coloured light transmission, subtle surface irregularities and crisp reflections that change with the viewing angle.\n\nOverlapping petals should remain readable. Balance illumination so the colours stay luminous and the veins remain visible throughout rotation. Avoid large white reflections that erase the detail.\n\nUse soft studio lighting with a warm backlight and a restrained rim light. Avoid excessive bloom, neon colour and heavy black outlines.\n\nMOVEMENT AND INTERACTION\n\nStart immediately with a flattering three-quarter view. Rotate slowly and smoothly so viewers can inspect the curved petals, thin edges and reverse side. Allow dragging to orbit, scrolling to zoom, and a small pause control. Keep the flower fully framed during automatic rotation.\n\nDELIVERY\n\nBuild actual 3D geometry rendered in the browser. Generate the geometry and textures in code. Deliver a working preview and a downloadable, self-contained stained-glass-flower.html with all dependencies embedded. Run the result, inspect a full rotation, and fix missing surfaces, transparency problems, clipping or washed-out lighting before finishing. Prioritize the quality of the flower over interface decoration.",
+        "englishText": "Create a beautiful, interactive 3D browser artwork of a single stained-glass hibiscus flower.\n\nUse the attached leaf as a reference for material delicacy, intricate veins, translucent colours and restrained presentation. Create an original flower composition.\n\nThe flower is the entire experience. It fills most of the viewport against a quiet, near-black charcoal background.\n\nFLOWER\n\nCreate five broad, organically shaped petals with gently ruffled edges, subtle asymmetry and graceful curvature. Arrange them into a convincing three-dimensional hibiscus, with natural overlap and a clearly visible centre.\n\nEach petal is made from thin, luminous stained glass. Blend ruby pink, coral, pale peach and honey amber within the glass, with delicate marbling and fine branching veins radiating from its base.\n\nUse extremely thin antique-gold seams and a finely beveled outer edge. Preserve the delicacy of the glass. Include a slender projecting central column with tiny golden anthers, a gracefully curved stem and two small translucent green leaves.\n\nMATERIAL AND LIGHT\n\nThe glass must have visible thickness, coloured light transmission, subtle surface irregularities and crisp reflections that change with the viewing angle.\n\nOverlapping petals should remain readable. Balance illumination so the colours stay luminous and the veins remain visible throughout rotation. Avoid large white reflections that erase the detail.\n\nUse soft studio lighting with a warm backlight and a restrained rim light. Avoid excessive bloom, neon colour and heavy black outlines.\n\nMOVEMENT AND INTERACTION\n\nStart immediately with a flattering three-quarter view. Rotate slowly and smoothly so viewers can inspect the curved petals, thin edges and reverse side. Allow dragging to orbit, scrolling to zoom, and a small pause control. Keep the flower fully framed during automatic rotation.\n\nDELIVERY\n\nBuild actual 3D geometry rendered in the browser. Generate the geometry and textures in code. Deliver a working preview and a downloadable, self-contained stained-glass-flower.html with all dependencies embedded. Run the result, inspect a full rotation, and fix missing surfaces, transparency problems, clipping or washed-out lighting before finishing. Prioritize the quality of the flower over interface decoration.",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "attached reference image of the leaf mentioned in the prompt instructions"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording displays a rotating 3D stained-glass hibiscus flower with ruby pink and amber tones, veined translucent petals, thin gold borders, projecting stamen column, and smooth 360-degree turntable motion matching the prompt specification.",
+        "textualResultQuote": "So is Muse Wonder better than Opus 5.5? Same prompt: a stained-glass hibiscus."
+      },
+      "inputs": [
+        {
+          "kind": "image",
+          "description": "Attached reference leaf image used to guide material delicacy, intricate veins, translucent colours, and restrained presentation.",
+          "available": false,
+          "evidence": "Use the attached leaf as a reference for material delicacy, intricate veins, translucent colours and restrained presentation.",
+          "origin": "user",
+          "sourceUrl": "https://x.com/ivanainai/status/2109788737437913430"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Browser WebGL / Three.js Runtime",
+          "role": "Client-side HTML5/JavaScript 3D runtime environment executing self-contained generated code",
+          "evidence": "Build actual 3D geometry rendered in the browser. Generate the geometry and textures in code. Deliver a working preview and a downloadable, self-contained stained-glass-flower.html with all dependencies embedded.",
+          "sourceUrl": "https://x.com/ivanainai/status/2109788737437913430",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Stained-Glass Hibiscus",
+        "topic": "3d-scenes",
+        "tags": [
+          "interactive",
+          "webgl",
+          "3d-scenes",
+          "threejs",
+          "botanical"
+        ]
+      },
+      "targetModelRole": "Code generation agent writing complete self-contained HTML/WebGL code that constructs procedural geometry, shaders, lighting, and camera interaction.",
+      "outputSource": "Web browser executing the self-contained HTML/WebGL file generated by Claude Opus 5.5.",
+      "divisionEvidence": "Build actual 3D geometry rendered in the browser. Generate the geometry and textures in code. Deliver a working preview and a downloadable, self-contained stained-glass-flower.html with all dependencies embedded.",
+      "video": {
+        "shots": "1 continuous turntable rotation",
+        "duration": "40s",
+        "aspectRatio": "8:9",
+        "referenceMaterials": [
+          "attached reference image of a leaf"
+        ]
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 interactive 3D browser scene generation demonstrated with a full original prompt and accompanying side-by-side screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/ivanainai/status/2109788737437913430",
+        "start": 8,
+        "end": 2303
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/ivanainai/status/2109788665899810947",
+        "author": "ivanainai",
+        "postId": "2109788665899810947",
+        "publishedAt": "2026-10-12T23:29:50.000Z"
+      },
+      "checkedAt": "2026-10-17T17:30:12.425Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ivanainai/status/2109788737437913430",
+        "evidence": ""
+      }
+    },
+    "summary": "Author compares Claude Opus 5.5 against Muse Wonder using an identical prompt to construct a standalone interactive 3D browser simulation of a delicate stained-glass hibiscus flower with custom procedural shaders and orbit controls.",
+    "summaryEn": "Interactive 3D Stained-Glass Hibiscus",
+    "originalPrompt": "Create a beautiful, interactive 3D browser artwork of a single stained-glass hibiscus flower.\n\nUse the attached leaf as a reference for material delicacy, intricate veins, translucent colours and restrained presentation. Create an original flower composition.\n\nThe flower is the entire experience. It fills most of the viewport against a quiet, near-black charcoal background.\n\nFLOWER\n\nCreate five broad, organically shaped petals with gently ruffled edges, subtle asymmetry and graceful curvature. Arrange them into a convincing three-dimensional hibiscus, with natural overlap and a clearly visible centre.\n\nEach petal is made from thin, luminous stained glass. Blend ruby pink, coral, pale peach and honey amber within the glass, with delicate marbling and fine branching veins radiating from its base.\n\nUse extremely thin antique-gold seams and a finely beveled outer edge. Preserve the delicacy of the glass. Include a slender projecting central column with tiny golden anthers, a gracefully curved stem and two small translucent green leaves.\n\nMATERIAL AND LIGHT\n\nThe glass must have visible thickness, coloured light transmission, subtle surface irregularities and crisp reflections that change with the viewing angle.\n\nOverlapping petals should remain readable. Balance illumination so the colours stay luminous and the veins remain visible throughout rotation. Avoid large white reflections that erase the detail.\n\nUse soft studio lighting with a warm backlight and a restrained rim light. Avoid excessive bloom, neon colour and heavy black outlines.\n\nMOVEMENT AND INTERACTION\n\nStart immediately with a flattering three-quarter view. Rotate slowly and smoothly so viewers can inspect the curved petals, thin edges and reverse side. Allow dragging to orbit, scrolling to zoom, and a small pause control. Keep the flower fully framed during automatic rotation.\n\nDELIVERY\n\nBuild actual 3D geometry rendered in the browser. Generate the geometry and textures in code. Deliver a working preview and a downloadable, self-contained stained-glass-flower.html with all dependencies embedded. Run the result, inspect a full rotation, and fix missing surfaces, transparency problems, clipping or washed-out lighting before finishing. Prioritize the quality of the flower over interface decoration.",
+    "sourceRange": {
+      "start": 8,
+      "end": 2303
+    },
+    "translations": {
+      "zh": "Create a beautiful, interactive 3D browser artwork of a single stained-glass hibiscus flower.\n\nUse the attached leaf as a reference for material delicacy, intricate veins, translucent colours and restrained presentation. Create an original flower composition.\n\nThe flower is the entire experience. It fills most of the viewport against a quiet, near-black charcoal background.\n\nFLOWER\n\nCreate five broad, organically shaped petals with gently ruffled edges, subtle asymmetry and graceful curvature. Arrange them into a convincing three-dimensional hibiscus, with natural overlap and a clearly visible centre.\n\nEach petal is made from thin, luminous stained glass. Blend ruby pink, coral, pale peach and honey amber within the glass, with delicate marbling and fine branching veins radiating from its base.\n\nUse extremely thin antique-gold seams and a finely beveled outer edge. Preserve the delicacy of the glass. Include a slender projecting central column with tiny golden anthers, a gracefully curved stem and two small translucent green leaves.\n\nMATERIAL AND LIGHT\n\nThe glass must have visible thickness, coloured light transmission, subtle surface irregularities and crisp reflections that change with the viewing angle.\n\nOverlapping petals should remain readable. Balance illumination so the colours stay luminous and the veins remain visible throughout rotation. Avoid large white reflections that erase the detail.\n\nUse soft studio lighting with a warm backlight and a restrained rim light. Avoid excessive bloom, neon colour and heavy black outlines.\n\nMOVEMENT AND INTERACTION\n\nStart immediately with a flattering three-quarter view. Rotate slowly and smoothly so viewers can inspect the curved petals, thin edges and reverse side. Allow dragging to orbit, scrolling to zoom, and a small pause control. Keep the flower fully framed during automatic rotation.\n\nDELIVERY\n\nBuild actual 3D geometry rendered in the browser. Generate the geometry and textures in code. Deliver a working preview and a downloadable, self-contained stained-glass-flower.html with all dependencies embedded. Run the result, inspect a full rotation, and fix missing surfaces, transparency problems, clipping or washed-out lighting before finishing. Prioritize the quality of the flower over interface decoration.",
+      "en": "Create a beautiful, interactive 3D browser artwork of a single stained-glass hibiscus flower.\n\nUse the attached leaf as a reference for material delicacy, intricate veins, translucent colours and restrained presentation. Create an original flower composition.\n\nThe flower is the entire experience. It fills most of the viewport against a quiet, near-black charcoal background.\n\nFLOWER\n\nCreate five broad, organically shaped petals with gently ruffled edges, subtle asymmetry and graceful curvature. Arrange them into a convincing three-dimensional hibiscus, with natural overlap and a clearly visible centre.\n\nEach petal is made from thin, luminous stained glass. Blend ruby pink, coral, pale peach and honey amber within the glass, with delicate marbling and fine branching veins radiating from its base.\n\nUse extremely thin antique-gold seams and a finely beveled outer edge. Preserve the delicacy of the glass. Include a slender projecting central column with tiny golden anthers, a gracefully curved stem and two small translucent green leaves.\n\nMATERIAL AND LIGHT\n\nThe glass must have visible thickness, coloured light transmission, subtle surface irregularities and crisp reflections that change with the viewing angle.\n\nOverlapping petals should remain readable. Balance illumination so the colours stay luminous and the veins remain visible throughout rotation. Avoid large white reflections that erase the detail.\n\nUse soft studio lighting with a warm backlight and a restrained rim light. Avoid excessive bloom, neon colour and heavy black outlines.\n\nMOVEMENT AND INTERACTION\n\nStart immediately with a flattering three-quarter view. Rotate slowly and smoothly so viewers can inspect the curved petals, thin edges and reverse side. Allow dragging to orbit, scrolling to zoom, and a small pause control. Keep the flower fully framed during automatic rotation.\n\nDELIVERY\n\nBuild actual 3D geometry rendered in the browser. Generate the geometry and textures in code. Deliver a working preview and a downloadable, self-contained stained-glass-flower.html with all dependencies embedded. Run the result, inspect a full rotation, and fix missing surfaces, transparency problems, clipping or washed-out lighting before finishing. Prioritize the quality of the flower over interface decoration."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Stained-Glass Hibiscus",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "attached reference image of the leaf mentioned in the prompt instructions"
+      ],
+      "evidence": "The screen recording displays a rotating 3D stained-glass hibiscus flower with ruby pink and amber tones, veined translucent petals, thin gold borders, projecting stamen column, and smooth 360-degree turntable motion matching the prompt specification."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

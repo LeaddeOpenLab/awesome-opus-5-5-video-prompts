@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T18:18:02.281Z",
+  "model": "opus5.5",
+  "prompt": "Create a boarding pass module component that would be served by an AI when chatting with a user who asks for their ticket.\n\nI want it to contain:\n\n- All flight info (including gate, departure, and other useful information)\n- Where user is sitting in the airplane\n- Send to an iPhone button\n- Cool animations\n\nPut your effort into creating the best looking, yet the most useful and accessible design you can do.\n\nYou only have one try, so work on it until you are 100% satisfied.",
+  "promptTranslations": {
+    "en": "Create a boarding pass module component that would be served by an AI when chatting with a user who asks for their ticket.\n\nI want it to contain:\n\n- All flight info (including gate, departure, and other useful information)\n- Where user is sitting in the airplane\n- Send to an iPhone button\n- Cool animations\n\nPut your effort into creating the best looking, yet the most useful and accessible design you can do.\n\nYou only have one try, so work on it until you are 100% satisfied."
+  },
+  "summary": "Phil Pitus tests Claude Opus 5.5 across effort levels to generate an interactive boarding pass component for a chat interface, showing the animated result from the maximum effort run.",
+  "summaryEn": "Claude Opus 5.5 Boarding Pass Interactive Component",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111114362165358919",
+    "canonicalUrl": "https://x.com/pitus_/status/2111114362165358919",
+    "author": {
+      "username": "pitus_",
+      "displayName": "Phil Pitus",
+      "profileUrl": "https://x.com/pitus_"
+    },
+    "publishedAt": "2026-10-16T15:17:41.000Z",
+    "collectedAt": "2026-10-17T16:49:41.927Z",
+    "language": "en",
+    "originalText": "I ran the same prompt with 5 different effort levels. \n\nWhich generated the best UI? 🧵\n\nrules:\n- same prompt\n- one shot, no feedback\n- separate conversations (no shared context)\n\n1/ Opus 5.5 - MAX (~1h 10 minutes): https://t.co/q0WAxym41X",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/pitus_/status/2111114362165358919",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111090941507391489/img/JEhkiRpaYW75SJ_f.jpg",
+        "analysisUrl": "https://x.com/pitus_/status/2111114362165358919"
+      }
+    ],
+    "metrics": {
+      "likeCount": 79,
+      "repostCount": 3,
+      "replyCount": 5,
+      "quoteCount": 0,
+      "viewCount": 4869
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/pitus_/status/2111434922145775928",
+        "text": "@chazza 🙏 Thank you",
+        "author": "pitus_"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/pitus_/status/2111120876246577602",
+        "text": "@Tech_lary Thank you!",
+        "author": "pitus_"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/pitus_/status/2111114379294884017",
+        "text": "The prompt 👇\n\n```\nCreate a boarding pass module component that would be served by an AI when chatting with a user who asks for their ticket.\n\nI want it to contain:\n\n- All flight info (including gate, departure, and other useful information)\n- Where user is sitting in the airplane\n- Send to an iPhone button\n- Cool animations\n\nPut your effort into creating the best looking, yet the most useful and accessible design you can do.\n\nYou only have one try, so work on it until you are 100% satisfied.\n\n```",
+        "author": "pitus_"
+      },
+      {
+        "url": "https://x.com/pitus_/status/2111114376765927914",
+        "text": "Phil Pitus on X: \"4/ Opus 5.5 - LOW (~15 min):\n\nGood:\n- The size of the component is spot-on.\n\nBad:\n- Top side plane&#x27;s wings are mirrored\n- The plane itself is definitely unfinished\n- Some animations are too slow or too fast\n- Definitely the most unfinished version of all\n\nMy rating: 1.5/5\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nPhil Pitus on X: \"4/ Opus 5.5 - LOW (~15 min):\n\nGood:\n- The size of the component is spot-on.\n\nBad:\n- Top side plane&#x27;s wings are mirrored\n- The plane itself is definitely unfinished\n- Some animations are too slow or too fast\n- Definitely the most unfinished version of all\n\nMy rating: 1.5/5\"\n\n\n\nPhil Pitus\n\n@pitus_\n\n\n\n\n4/ Opus 5.5 - LOW (~15 min):\n\nGood:\n- The size of the component is spot-on.\n\nBad:\n- Top side plane&#x27;s wings are mirrored\n- The plane itself is definitely unfinished\n- Some animations are too slow or too fast\n- Definitely the most unfinished version of all\n\nMy rating: 1.5/5\n\n\n00:00\n\n\n\n\n\n\n\n\n3:17 PM · Oct 16, 2026·351\nViews\n\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nPhil Pitus@pitus_Follow\n21. Design Engineer.\n\nDesigned for 40M+ users. Clients backed by @a16z, @accel, @ycombinator\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhil Pitus\n\n@pitus_\nOct 16\n\n\nI ran the same prompt with 5 different effort levels. \n\nWhich generated the best UI? 🧵\n\nrules:\n- same prompt\n- one shot, no feedback\n- separate conversations (no shared context)\n\n1/ Opus 5.5 - MAX (~1h 10 minutes):\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n5\n3\n79\n4.8K\n\n\n\n\n\n\n\n\n\n\nPhil Pitus\n\n@pitus_\nOct 16\n\n\n2/ Opus 5.5 - EXTRA (~45 minutes)\n\nGood:\n- Clean layout\n- Nice animations\n- Plane illustration looks smooth\n\nBad:\n- Gate, Boarding, Seat and Group are pretty hard to read\n- Takes almost the entire screen height on desktop\n- Took almost an hour to generate\n\nMy rating: 4/5\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n1\n480\n\n\n\n\n\n\n\n\n\n\nPhil Pitus\n\n@pitus_\nOct 16\n\n\n2/ Opus 5.5 - HIGH (~37 minutes)\n\nGood:\n- Plane illustration looks great\n- Top half Information hierarchy is spot on\n\nBad:\n- The spacing is a bit odd at times\n- Colors could be balanced a bit better\n- The header looks a bit too vibe-coded for me\n\nMy rating: 2/5\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n2\n\n1\n370\n\n\n\n\n\n\n\n\n\n\nPhil Pitus\n\n@pitus_\nOct 16\n\n\n3/ Opus 5.5 - MEDIUM (~23 minutes)\n\nGood:\n- Pretty sleek and minimalistic color style\n- IMO best seat display out of all (except MAX)\n\nBad:\n- Buttons are just a bit too wide\n- Takes almost entire height of the screen\n- The cards on top make it look vibe-coded\n- The flip animation Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n\n327\n\n\n\n\n\n\n\n\n\n\nPhil Pitus\n\n@pitus_\n\n\n\n\n4/ Opus 5.5 - LOW (~15 min):\n\nGood:\n- The size of the component is spot-on.\n\nBad:\n- Top side plane&#x27;s wings are mirrored\n- The plane itself is definitely unfinished\n- Some animations are too slow or too fast\n- Definitely the most unfinished version of all\n\nMy rating: 1.5/5\n\n\n00:00\n\n\n\n\n\n\n\n\n3:17 PM · Oct 16, 2026·351\nViews\n\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\nPhil Pitus\n\n@pitus_\nOct 16\n\n\nThe prompt 👇\n\n```\nCreate a boarding pass module component that would be served by an AI when chatting with a user who asks for their ticket.\n\nI want it to contain:\n\n- All flight info (including gate, departure, and other useful information)\n- Where user is sitting in the Show more\n\n\n\n\n10\n358\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "pitus_"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/pitus_/status/2111114373036900501",
+        "text": "3/ Opus 5.5 - MEDIUM (~23 minutes)\n\nGood:\n- Pretty sleek and minimalistic color style\n- IMO best seat display out of all (except MAX)\n\nBad:\n- Buttons are just a bit too wide\n- Takes almost entire height of the screen\n- The cards on top make it look vibe-coded\n- The flip animation and the spacing on it look terrible\n\nMy rating: 1/5",
+        "author": "pitus_"
+      },
+      {
+        "url": "https://x.com/pitus_/status/2111114369618911237",
+        "text": "Phil Pitus on X: \"2/ Opus 5.5 - HIGH (~37 minutes)\n\nGood:\n- Plane illustration looks great\n- Top half Information hierarchy is spot on\n\nBad:\n- The spacing is a bit odd at times\n- Colors could be balanced a bit better\n- The header looks a bit too vibe-coded for me\n\nMy rating: 2/5\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nPhil Pitus on X: \"2/ Opus 5.5 - HIGH (~37 minutes)\n\nGood:\n- Plane illustration looks great\n- Top half Information hierarchy is spot on\n\nBad:\n- The spacing is a bit odd at times\n- Colors could be balanced a bit better\n- The header looks a bit too vibe-coded for me\n\nMy rating: 2/5\"\n\n\n\nPhil Pitus\n\n@pitus_\n\n\n\n\n2/ Opus 5.5 - HIGH (~37 minutes)\n\nGood:\n- Plane illustration looks great\n- Top half Information hierarchy is spot on\n\nBad:\n- The spacing is a bit odd at times\n- Colors could be balanced a bit better\n- The header looks a bit too vibe-coded for me\n\nMy rating: 2/5\n\n\n00:00\n\n\n\n\n\n\n\n\n3:17 PM · Oct 16, 2026·370\nViews\n\n\n\n2\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nPhil Pitus@pitus_Follow\n21. Design Engineer.\n\nDesigned for 40M+ users. Clients backed by @a16z, @accel, @ycombinator\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhil Pitus\n\n@pitus_\nOct 16\n\n\nI ran the same prompt with 5 different effort levels. \n\nWhich generated the best UI? 🧵\n\nrules:\n- same prompt\n- one shot, no feedback\n- separate conversations (no shared context)\n\n1/ Opus 5.5 - MAX (~1h 10 minutes):\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n5\n3\n79\n4.8K\n\n\n\n\n\n\n\n\n\n\nPhil Pitus\n\n@pitus_\nOct 16\n\n\n2/ Opus 5.5 - EXTRA (~45 minutes)\n\nGood:\n- Clean layout\n- Nice animations\n- Plane illustration looks smooth\n\nBad:\n- Gate, Boarding, Seat and Group are pretty hard to read\n- Takes almost the entire screen height on desktop\n- Took almost an hour to generate\n\nMy rating: 4/5\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n1\n480\n\n\n\n\n\n\n\n\n\n\nPhil Pitus\n\n@pitus_\n\n\n\n\n2/ Opus 5.5 - HIGH (~37 minutes)\n\nGood:\n- Plane illustration looks great\n- Top half Information hierarchy is spot on\n\nBad:\n- The spacing is a bit odd at times\n- Colors could be balanced a bit better\n- The header looks a bit too vibe-coded for me\n\nMy rating: 2/5\n\n\n00:00\n\n\n\n\n\n\n\n\n3:17 PM · Oct 16, 2026·370\nViews\n\n\n\n2\n\n1\n\n\n\n\n\n\n\n\n\n\nPhil Pitus\n\n@pitus_\nOct 16\n\n\n3/ Opus 5.5 - MEDIUM (~23 minutes)\n\nGood:\n- Pretty sleek and minimalistic color style\n- IMO best seat display out of all (except MAX)\n\nBad:\n- Buttons are just a bit too wide\n- Takes almost entire height of the screen\n- The cards on top make it look vibe-coded\n- The flip animation Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n\n327\n\n\n\n\n\n\n\n\n\nPhil Pitus\n\n@pitus_\nOct 16\n\n\n4/ Opus 5.5 - LOW (~15 min):\n\nGood:\n- The size of the component is spot-on.\n\nBad:\n- Top side plane&#x27;s wings are mirrored\n- The plane itself is definitely unfinished\n- Some animations are too slow or too fast\n- Definitely the most unfinished version of all\n\nMy rating: 1.5/5\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n1\n351\n\n\n\n\n\n\n\n\n\nPhil Pitus\n\n@pitus_\nOct 16\n\n\nThe prompt 👇\n\n```\nCreate a boarding pass module component that would be served by an AI when chatting with a user who asks for their ticket.\n\nI want it to contain:\n\n- All flight info (including gate, departure, and other useful information)\n- Where user is sitting in the Show more\n\n\n\n\n10\n358\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "pitus_"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/pitus_/status/2111114364828709268",
+        "text": "2/ Opus 5.5 - EXTRA (~45 minutes)\n\nGood:\n- Clean layout\n- Nice animations\n- Plane illustration looks smooth\n\nBad:\n- Gate, Boarding, Seat and Group are pretty hard to read\n- Takes almost the entire screen height on desktop\n- Took almost an hour to generate\n\nMy rating: 4/5 https://t.co/eCMejh7Bor",
+        "author": "pitus_"
+      },
+      {
+        "url": "https://x.com/pitus_/status/2111114362165358919",
+        "text": "Phil Pitus on X: \"I ran the same prompt with 5 different effort levels. \n\nWhich generated the best UI? 🧵\n\nrules:\n- same prompt\n- one shot, no feedback\n- separate conversations (no shared context)\n\n1/ Opus 5.5 - MAX (~1h 10 minutes):\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nPhil Pitus on X: \"I ran the same prompt with 5 different effort levels. \n\nWhich generated the best UI? 🧵\n\nrules:\n- same prompt\n- one shot, no feedback\n- separate conversations (no shared context)\n\n1/ Opus 5.5 - MAX (~1h 10 minutes):\"\n\n\n\nPhil Pitus\n\n@pitus_\n\n\n\n\nI ran the same prompt with 5 different effort levels. \n\nWhich generated the best UI? 🧵\n\nrules:\n- same prompt\n- one shot, no feedback\n- separate conversations (no shared context)\n\n1/ Opus 5.5 - MAX (~1h 10 minutes):\n\n\n00:00\n\n\n\n\n\n\n\n\n3:17 PM · Oct 16, 2026·4,870\nViews\n\n\n\n5\n3\n79\n103\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nPhil Pitus@pitus_Follow\n21. Design Engineer.\n\nDesigned for 40M+ users. Clients backed by @a16z, @accel, @ycombinator\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhil Pitus\n\n@pitus_\n\n\n\n\nI ran the same prompt with 5 different effort levels. \n\nWhich generated the best UI? 🧵\n\nrules:\n- same prompt\n- one shot, no feedback\n- separate conversations (no shared context)\n\n1/ Opus 5.5 - MAX (~1h 10 minutes):\n\n\n00:00\n\n\n\n\n\n\n\n\n3:17 PM · Oct 16, 2026·4,870\nViews\n\n\n\n5\n3\n79\n103\n\n\n\n\n\n\n\n\n\nPhil Pitus\n\n@pitus_\nOct 16\n\n\n2/ Opus 5.5 - EXTRA (~45 minutes)\n\nGood:\n- Clean layout\n- Nice animations\n- Plane illustration looks smooth\n\nBad:\n- Gate, Boarding, Seat and Group are pretty hard to read\n- Takes almost the entire screen height on desktop\n- Took almost an hour to generate\n\nMy rating: 4/5\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n1\n480\n\n\n\n\n\n\n\n\n\nPhil Pitus\n\n@pitus_\nOct 16\n\n\n2/ Opus 5.5 - HIGH (~37 minutes)\n\nGood:\n- Plane illustration looks great\n- Top half Information hierarchy is spot on\n\nBad:\n- The spacing is a bit odd at times\n- Colors could be balanced a bit better\n- The header looks a bit too vibe-coded for me\n\nMy rating: 2/5\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n2\n\n1\n370\n\n\n\n\n\n\n\n\n\nPhil Pitus\n\n@pitus_\nOct 16\n\n\n3/ Opus 5.5 - MEDIUM (~23 minutes)\n\nGood:\n- Pretty sleek and minimalistic color style\n- IMO best seat display out of all (except MAX)\n\nBad:\n- Buttons are just a bit too wide\n- Takes almost entire height of the screen\n- The cards on top make it look vibe-coded\n- The flip animation Show more\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n\n327\n\n\n\n\n\n\n\n\n\nPhil Pitus\n\n@pitus_\nOct 16\n\n\n4/ Opus 5.5 - LOW (~15 min):\n\nGood:\n- The size of the component is spot-on.\n\nBad:\n- Top side plane&#x27;s wings are mirrored\n- The plane itself is definitely unfinished\n- Some animations are too slow or too fast\n- Definitely the most unfinished version of all\n\nMy rating: 1.5/5\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n1\n\n1\n351\n\n\n\n\n\n\n\n\n\nPhil Pitus\n\n@pitus_\nOct 16\n\n\nThe prompt 👇\n\n```\nCreate a boarding pass module component that would be served by an AI when chatting with a user who asks for their ticket.\n\nI want it to contain:\n\n- All flight info (including gate, departure, and other useful information)\n- Where user is sitting in the Show more\n\n\n\n\n10\n358\n\n\n\n\n\n\n\n\n\n\n\nCharlie J\n\n@chazza\n7h\n\n\nThese look really cool! Love seeing you do travel related AI posts, very inspiring\n\n\n1\n\n1\n73\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "pitus_"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_link_limit"
+    ]
+  },
+  "xUrl": "https://x.com/pitus_/status/2111114362165358919",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111090941507391489/img/JEhkiRpaYW75SJ_f.jpg",
+  "coverPath": "data/covers/2111114362165358919-wide.jpg",
+  "gifPath": "data/gifs/2111114362165358919.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111090941507391489",
+    "x-post:2111114362165358919"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Claude Opus 5.5 Boarding Pass Interactive Component",
+      "summary": "Phil Pitus tests Claude Opus 5.5 across effort levels to generate an interactive boarding pass component for a chat interface, showing the animated result from the maximum effort run.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus 5.5",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "1/ Opus 5.5 - MAX (~1h 10 minutes):"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create a boarding pass module component that would be served by an AI when chatting with a user who asks for their ticket.\n\nI want it to contain:\n\n- All flight info (including gate, departure, and other useful information)\n- Where user is sitting in the airplane\n- Send to an iPhone button\n- Cool animations\n\nPut your effort into creating the best looking, yet the most useful and accessible design you can do.\n\nYou only have one try, so work on it until you are 100% satisfied.",
+        "englishText": "Create a boarding pass module component that would be served by an AI when chatting with a user who asks for their ticket.\n\nI want it to contain:\n\n- All flight info (including gate, departure, and other useful information)\n- Where user is sitting in the airplane\n- Send to an iPhone button\n- Cool animations\n\nPut your effort into creating the best looking, yet the most useful and accessible design you can do.\n\nYou only have one try, so work on it until you are 100% satisfied.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording demonstrates an AI chat message revealing an animated boarding pass module containing flight information, gate, departure, an airplane seating map highlighting seat 7A, an expandable QR code, and an interactive 'Send to Phone' action button.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web Browser / Frontend Component Renderer",
+          "role": "Executes and renders the interactive animated UI component code generated by Claude Opus 5.5.",
+          "evidence": "Which generated the best UI? 🧵\n\nrules:\n- same prompt\n- one shot, no feedback",
+          "sourceUrl": "https://x.com/pitus_/status/2111114362165358919",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "AI Chat Boarding Pass Interactive Component",
+        "topic": "games-interactive",
+        "tags": [
+          "ui-design",
+          "interactive-component",
+          "animation",
+          "boarding-pass",
+          "frontend"
+        ]
+      },
+      "targetModelRole": "Generates the complete frontend component code and interactive animations for the boarding pass module based on user requirements.",
+      "outputSource": "Web runtime / browser executing the interactive component code.",
+      "divisionEvidence": "I ran the same prompt with 5 different effort levels. \n\nWhich generated the best UI? 🧵\n\nrules:\n- same prompt\n- one shot, no feedback\n- separate conversations (no shared context)\n\n1/ Opus 5.5 - MAX (~1h 10 minutes):",
+      "video": {
+        "shots": "Single take screen recording showcasing chat message rendering, boarding pass card expansion, seat visualization, QR flip animation, and button interaction",
+        "duration": "15s",
+        "aspectRatio": "1.27:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Meets Opus video production criteria: verified Claude Opus 5.5 author attribution, verbatim prompt shared in thread, and screen recording demonstrating the resulting animated and interactive UI component.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/pitus_/status/2111114379294884017",
+        "start": 19,
+        "end": 497
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/pitus_/status/2111114362165358919",
+        "author": "pitus_",
+        "postId": "2111114362165358919",
+        "publishedAt": "2026-10-16T15:17:41.000Z"
+      },
+      "checkedAt": "2026-10-17T17:41:20.124Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "verified",
+        "status": "publishable",
+        "reasons": []
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/pitus_/status/2111114379294884017",
+        "evidence": ""
+      }
+    },
+    "summary": "Phil Pitus tests Claude Opus 5.5 across effort levels to generate an interactive boarding pass component for a chat interface, showing the animated result from the maximum effort run.",
+    "summaryEn": "Claude Opus 5.5 Boarding Pass Interactive Component",
+    "originalPrompt": "Create a boarding pass module component that would be served by an AI when chatting with a user who asks for their ticket.\n\nI want it to contain:\n\n- All flight info (including gate, departure, and other useful information)\n- Where user is sitting in the airplane\n- Send to an iPhone button\n- Cool animations\n\nPut your effort into creating the best looking, yet the most useful and accessible design you can do.\n\nYou only have one try, so work on it until you are 100% satisfied.",
+    "sourceRange": {
+      "start": 19,
+      "end": 497
+    },
+    "translations": {
+      "zh": "Create a boarding pass module component that would be served by an AI when chatting with a user who asks for their ticket.\n\nI want it to contain:\n\n- All flight info (including gate, departure, and other useful information)\n- Where user is sitting in the airplane\n- Send to an iPhone button\n- Cool animations\n\nPut your effort into creating the best looking, yet the most useful and accessible design you can do.\n\nYou only have one try, so work on it until you are 100% satisfied.",
+      "en": "Create a boarding pass module component that would be served by an AI when chatting with a user who asks for their ticket.\n\nI want it to contain:\n\n- All flight info (including gate, departure, and other useful information)\n- Where user is sitting in the airplane\n- Send to an iPhone button\n- Cool animations\n\nPut your effort into creating the best looking, yet the most useful and accessible design you can do.\n\nYou only have one try, so work on it until you are 100% satisfied."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "AI Chat Boarding Pass Interactive Component",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The screen recording demonstrates an AI chat message revealing an animated boarding pass module containing flight information, gate, departure, an airplane seating map highlighting seat 7A, an expandable QR code, and an interactive 'Send to Phone' action button."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

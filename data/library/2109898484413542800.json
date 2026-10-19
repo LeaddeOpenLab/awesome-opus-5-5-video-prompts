@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T18:17:58.774Z",
+  "model": "opus5.5",
+  "prompt": "Explain AWS CloudFront",
+  "promptTranslations": {
+    "en": "Explain AWS CloudFront"
+  },
+  "summary": "Numa demonstrates an interactive 3D visual explanation of AWS CloudFront cache misses and hits produced using Ask by Jig powered by Claude Opus 5.5 from the simple prompt 'Explain AWS CloudFront'.",
+  "summaryEn": "AWS CloudFront Cache Explainer with Ask by Jig and Claude Opus 5.5",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2109898484413542800",
+    "canonicalUrl": "https://x.com/numaausaumon/status/2109898484413542800",
+    "author": {
+      "username": "numaausaumon",
+      "displayName": "Numa ᯅ",
+      "profileUrl": "https://x.com/numaausaumon"
+    },
+    "publishedAt": "2026-10-13T06:46:13.000Z",
+    "collectedAt": "2026-10-17T16:49:41.927Z",
+    "language": "en",
+    "originalText": "AWS Cloudfront cache by Jig + Opus 5.5\n\nPrompt and link below 👇 https://t.co/hSdbJNJpLx",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/numaausaumon/status/2109898484413542800",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2109898106628431872/img/VIlCcHxi2pw9V15F.jpg",
+        "analysisUrl": "https://x.com/numaausaumon/status/2109898484413542800"
+      }
+    ],
+    "metrics": {
+      "likeCount": 13,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 723
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/numaausaumon/status/2109898827918614714",
+        "text": "\"Explain AWS CloudFront\", that's it 😆\n\nPlay with it here, remix it, or make your own!\n\nhttps://t.co/FghhjFULKi",
+        "author": "numaausaumon"
+      },
+      {
+        "url": "https://x.com/numaausaumon/status/2109898484413542800",
+        "text": "Numa ᯅ on X: \"AWS Cloudfront cache by Jig + Opus 5.5\n\nPrompt and link below 👇\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nNuma ᯅ on X: \"AWS Cloudfront cache by Jig + Opus 5.5\n\nPrompt and link below 👇\"\n\n\n\nNuma ᯅ\n\n@numaausaumon\n\n\n\n\nAWS Cloudfront cache by Jig + Opus 5.5\n\nPrompt and link below 👇\n\n\n00:00\n\n\n\n\n\n\n\n\n6:46 AM · Oct 13, 2026·723\nViews\n\n\n\n1\n1\n13\n7\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nNuma ᯅ@numaausaumonFollow\nCo-founder, CTO of @JigSpace            🔥ask.jig.com\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNuma ᯅ\n\n@numaausaumon\n\n\n\n\nAWS Cloudfront cache by Jig + Opus 5.5\n\nPrompt and link below 👇\n\n\n00:00\n\n\n\n\n\n\n\n\n6:46 AM · Oct 13, 2026·723\nViews\n\n\n\n1\n1\n13\n7\n\n\n\n\n\n\n\n\n\nNuma ᯅ\n\n@numaausaumon\nOct 13\n\n\n\"Explain AWS CloudFront\", that&#x27;s it 😆\n\nPlay with it here, remix it, or make your own!\n\n\n\n\nAWS CloudFront Anatomy · Ask by Jig\n\n\nFrom ask.jig.com\n\n\n\n\n\n\n166\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "numaausaumon"
+      },
+      {
+        "url": "https://ask.jig.com/j/b18q50gwPpoZ",
+        "text": "\n\n\n\n\n\nMakeMake a JigAccount\n\n\n\n\n\n\n\n© JigSpace Inc. 2026\n\n\nAWS CloudFront Anatomy · Ask by Jig\n\n\n\nAWS CloudFront Anatomy\npublicPromptShareRemix · 0.5 credit\nNBy Numa\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "numaausaumon"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/numaausaumon/status/2109898484413542800",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2109898106628431872/img/VIlCcHxi2pw9V15F.jpg",
+  "coverPath": "data/covers/2109898484413542800-wide.jpg",
+  "gifPath": "data/gifs/2109898484413542800.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2109898106628431872",
+    "x-post:2109898484413542800"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "AWS CloudFront Cache Explainer with Ask by Jig and Claude Opus 5.5",
+      "summary": "Numa demonstrates an interactive 3D visual explanation of AWS CloudFront cache misses and hits produced using Ask by Jig powered by Claude Opus 5.5 from the simple prompt 'Explain AWS CloudFront'.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Ask by Jig",
+        "authorUseConfirmed": true,
+        "evidence": "AWS Cloudfront cache by Jig + Opus 5.5"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Explain AWS CloudFront",
+        "englishText": "Explain AWS CloudFront",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a step-by-step interactive 3D isometric presentation explaining AWS CloudFront caching behavior (cache miss vs cache hit) with animated paths and interactive controls.",
+        "textualResultQuote": "First request: a cache miss\nEach shop keeps a cache: a shelf of recently used files. The first time anyone asks for this file, the shelf is empty, which is called a miss. The request travels on to a bigger regional cache, then to the origin, and the file rides all the way back."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Ask by Jig",
+          "role": "3D interactive spatial presentation renderer and runtime viewer",
+          "evidence": "AWS Cloudfront cache by Jig + Opus 5.5",
+          "sourceUrl": "https://x.com/numaausaumon/status/2109898484413542800",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D AWS CloudFront Cache Explainer",
+        "topic": "explainers",
+        "tags": [
+          "aws",
+          "cloudfront",
+          "caching",
+          "interactive-3d",
+          "explainer",
+          "jigspace"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 acts as the reasoning engine and generation agent turning the prompt into the step-by-step 3D scene data and narrative text.",
+      "outputSource": "Ask by Jig web viewer rendering interactive 3D assets and explainer cards.",
+      "divisionEvidence": "The post explicitly credits 'Jig + Opus 5.5', delineating Jig as the interactive 3D platform and Opus 5.5 as the underlying AI model.",
+      "video": {
+        "shots": "Single continuous screen walkthrough of the interactive Jig demo",
+        "duration": "0:23",
+        "aspectRatio": "1710:1326",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 video production case showcasing an interactive 3D educational scene with confirmed model version, complete prompt, and corresponding screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/numaausaumon/status/2109898827918614714",
+        "start": 1,
+        "end": 23
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/numaausaumon/status/2109898484413542800",
+        "author": "numaausaumon",
+        "postId": "2109898484413542800",
+        "publishedAt": "2026-10-13T06:46:13.000Z"
+      },
+      "checkedAt": "2026-10-17T17:24:06.300Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/numaausaumon/status/2109898827918614714",
+        "evidence": ""
+      }
+    },
+    "summary": "Numa demonstrates an interactive 3D visual explanation of AWS CloudFront cache misses and hits produced using Ask by Jig powered by Claude Opus 5.5 from the simple prompt 'Explain AWS CloudFront'.",
+    "summaryEn": "AWS CloudFront Cache Explainer with Ask by Jig and Claude Opus 5.5",
+    "originalPrompt": "Explain AWS CloudFront",
+    "sourceRange": {
+      "start": 1,
+      "end": 23
+    },
+    "translations": {
+      "zh": "Explain AWS CloudFront",
+      "en": "Explain AWS CloudFront"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D AWS CloudFront Cache Explainer",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a step-by-step interactive 3D isometric presentation explaining AWS CloudFront caching behavior (cache miss vs cache hit) with animated paths and interactive controls."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

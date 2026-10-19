@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T18:17:56.212Z",
+  "model": "opus5.5",
+  "prompt": "slime you can press, stretch, knead, and fling at the wall. Single HTML file, three.js only.",
+  "promptTranslations": {
+    "en": "slime you can press, stretch, knead, and fling at the wall. Single HTML file, three.js only."
+  },
+  "summary": "Author compares an interactive slime simulation generated in a single HTML file using Three.js by Claude Opus 5.5 against GPT-6.1-sol from the same prompt.",
+  "summaryEn": "Interactive Three.js Slime Simulation (Claude Opus 5.5 vs GPT-6.1-sol)",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111484789685735539",
+    "canonicalUrl": "https://x.com/realmilessun/status/2111484789685735539",
+    "author": {
+      "username": "realmilessun",
+      "displayName": "Miles Sun",
+      "profileUrl": "https://x.com/realmilessun"
+    },
+    "publishedAt": "2026-10-17T15:49:38.000Z",
+    "collectedAt": "2026-10-17T16:49:41.927Z",
+    "language": "en",
+    "originalText": "Same prompt, two models: slime you can press, stretch, knead, and fling at the wall. Single HTML file, three.js only.\n\nTop: Claude Opus 5.5, $28.37, 145 min\nBottom: GPT-6.1-sol, $0.89, 15 min\n\nOpus cost 32x more. Which one would you play with?\n\nMade with Claude + ultramotion https://t.co/oWOVPKd9HB",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/realmilessun/status/2111484789685735539",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111484003975086082/img/uWTaZLaCAyH0Es3o.jpg",
+        "analysisUrl": "https://x.com/realmilessun/status/2111484789685735539"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 35
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/realmilessun/status/2111484861672497357",
+        "text": "You'll notice the Opus slime keeps shimmering even when nobody touches it: its particle solver never fully settles, so the surface is rebuilt slightly differently every frame. One-prompt comparison, so both are recorded exactly as the models wrote them. No hand fixes.",
+        "author": "realmilessun"
+      },
+      {
+        "url": "https://x.com/realmilessun/status/2111484789685735539",
+        "text": "Miles Sun on X: \"Same prompt, two models: slime you can press, stretch, knead, and fling at the wall. Single HTML file, three.js only.\n\nTop: Claude Opus 5.5, $28.37, 145 min\nBottom: GPT-6.1-sol, $0.89, 15 min\n\nOpus cost 32x more. Which one would you play with?\n\nMade with Claude + ultramotion\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nMiles Sun on X: \"Same prompt, two models: slime you can press, stretch, knead, and fling at the wall. Single HTML file, three.js only.\n\nTop: Claude Opus 5.5, $28.37, 145 min\nBottom: GPT-6.1-sol, $0.89, 15 min\n\nOpus cost 32x more. Which one would you play with?\n\nMade with Claude + ultramotion\"\n\n\n\nMiles Sun\n@realmilessun\n\n\n\n\nSame prompt, two models: slime you can press, stretch, knead, and fling at the wall. Single HTML file, three.js only.\n\nTop: Claude Opus 5.5, $28.37, 145 min\nBottom: GPT-6.1-sol, $0.89, 15 min\n\nOpus cost 32x more. Which one would you play with?\n\nMade with Claude + ultramotion\n\n\n00:00\n\n\n\n\n\n\n\n\n3:49 PM · Oct 17, 2026·35\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nMiles Sun@realmilessunFollow\n🔨 Builder 👨‍💻 Entrepreneur\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMiles Sun\n@realmilessun\n\n\n\n\nSame prompt, two models: slime you can press, stretch, knead, and fling at the wall. Single HTML file, three.js only.\n\nTop: Claude Opus 5.5, $28.37, 145 min\nBottom: GPT-6.1-sol, $0.89, 15 min\n\nOpus cost 32x more. Which one would you play with?\n\nMade with Claude + ultramotion\n\n\n00:00\n\n\n\n\n\n\n\n\n3:49 PM · Oct 17, 2026·35\nViews\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\nMiles Sun\n@realmilessun\n1h\n\n\nYou&#x27;ll notice the Opus slime keeps shimmering even when nobody touches it: its particle solver never fully settles, so the surface is rebuilt slightly differently every frame. One-prompt comparison, so both are recorded exactly as the models wrote them. No hand fixes.\n\n\n\n\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "realmilessun"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/realmilessun/status/2111484789685735539",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111484003975086082/img/uWTaZLaCAyH0Es3o.jpg",
+  "coverPath": "data/covers/2111484789685735539-wide.jpg",
+  "gifPath": "data/gifs/2111484789685735539.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111484003975086082",
+    "x-post:2111484789685735539"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive Three.js Slime Simulation (Claude Opus 5.5 vs GPT-6.1-sol)",
+      "summary": "Author compares an interactive slime simulation generated in a single HTML file using Three.js by Claude Opus 5.5 against GPT-6.1-sol from the same prompt.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "ultramotion",
+        "authorUseConfirmed": true,
+        "evidence": "Top: Claude Opus 5.5, $28.37, 145 min... Made with Claude + ultramotion"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "slime you can press, stretch, knead, and fling at the wall. Single HTML file, three.js only.",
+        "englishText": "slime you can press, stretch, knead, and fling at the wall. Single HTML file, three.js only.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full verbatim user prompt instructions",
+          "System prompt or environment scaffolding parameters"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates the interactive slime being pressed, stretched, and interacted with, showing the particle solver surface rendered in Three.js.",
+        "textualResultQuote": "You'll notice the Opus slime keeps shimmering even when nobody touches it: its particle solver never fully settles, so the surface is rebuilt slightly differently every frame. One-prompt comparison, so both are recorded exactly as the models wrote them. No hand fixes."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D WebGL library used to simulate particles, surface reconstruction, and render interactive visuals",
+          "evidence": "Single HTML file, three.js only.",
+          "sourceUrl": "https://x.com/realmilessun/status/2111484789685735539",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "Single HTML file, three.js only.",
+          "sourceUrl": "https://x.com/realmilessun/status/2111484789685735539",
+          "status": "required"
+        },
+        {
+          "name": "ultramotion",
+          "role": "Tool or workflow platform used alongside Claude to generate the project",
+          "evidence": "Made with Claude + ultramotion",
+          "sourceUrl": "https://x.com/realmilessun/status/2111484789685735539",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Slime Simulation",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "physics",
+          "slime",
+          "interactive",
+          "webgl"
+        ]
+      },
+      "targetModelRole": "Code generation agent producing a complete standalone HTML/Three.js interactive simulation file",
+      "outputSource": "Web browser executing the Claude Opus 5.5-generated Three.js HTML file",
+      "divisionEvidence": "One-prompt comparison, so both are recorded exactly as the models wrote them. No hand fixes.",
+      "video": {
+        "shots": "Split-screen vertical comparison displaying interactive screen recordings",
+        "duration": "0:43",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Author provides direct original verification of Claude Opus 5.5 generating an interactive Three.js physics scene accompanied by a screen recording comparison.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/realmilessun/status/2111484789685735539",
+        "start": 25,
+        "end": 117
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/realmilessun/status/2111484789685735539",
+        "author": "realmilessun",
+        "postId": "2111484789685735539",
+        "publishedAt": "2026-10-17T15:49:38.000Z"
+      },
+      "checkedAt": "2026-10-17T16:53:41.312Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/realmilessun/status/2111484789685735539",
+        "evidence": ""
+      }
+    },
+    "summary": "Author compares an interactive slime simulation generated in a single HTML file using Three.js by Claude Opus 5.5 against GPT-6.1-sol from the same prompt.",
+    "summaryEn": "Interactive Three.js Slime Simulation (Claude Opus 5.5 vs GPT-6.1-sol)",
+    "originalPrompt": "slime you can press, stretch, knead, and fling at the wall. Single HTML file, three.js only.",
+    "sourceRange": {
+      "start": 25,
+      "end": 117
+    },
+    "translations": {
+      "zh": "slime you can press, stretch, knead, and fling at the wall. Single HTML file, three.js only.",
+      "en": "slime you can press, stretch, knead, and fling at the wall. Single HTML file, three.js only."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Slime Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full verbatim user prompt instructions",
+        "System prompt or environment scaffolding parameters"
+      ],
+      "evidence": "Screen recording demonstrates the interactive slime being pressed, stretched, and interacted with, showing the particle solver surface rendered in Three.js."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

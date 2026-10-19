@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-19T02:18:01.518Z",
+  "model": "opus5.5",
+  "prompt": "Build a cinematic 3D animation explaining how a Tesla-style electric motor works.",
+  "promptTranslations": {
+    "en": "Build a cinematic 3D animation explaining how a Tesla-style electric motor works."
+  },
+  "summary": "Adil compares Claude Opus 5.5 against DeepSeek V4.1 Flash on building a cinematic 3D technical explainer animation showing the inner workings and components of a Tesla-style electric motor.",
+  "summaryEn": "Tesla-Style Electric Motor 3D Explainer Animation Comparison",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111959819301044536",
+    "canonicalUrl": "https://x.com/Edenwoodfilm/status/2111959819301044536",
+    "author": {
+      "username": "Edenwoodfilm",
+      "displayName": "Adil",
+      "profileUrl": "https://x.com/Edenwoodfilm"
+    },
+    "publishedAt": "2026-10-18T23:17:13.000Z",
+    "collectedAt": "2026-10-19T02:09:30.177Z",
+    "language": "en",
+    "originalText": "Opus 5.5 vs DeepSeek V4.1 Flash 1017\n\nSame prompt. Same task.\n\nBuild a cinematic 3D animation explaining how a Tesla-style electric motor works.\n\nIs Opus in trouble? https://t.co/CFwy3E578e",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Edenwoodfilm/status/2111959819301044536",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111959771435663360/img/s-gaNOfNIzLknMKP.jpg",
+        "analysisUrl": "https://x.com/Edenwoodfilm/status/2111959819301044536"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 47
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/Edenwoodfilm/status/2111959819301044536",
+        "text": "Adil on X: \"Opus 5.5 vs DeepSeek V4.1 Flash 1017\n\nSame prompt. Same task.\n\nBuild a cinematic 3D animation explaining how a Tesla-style electric motor works.\n\nIs Opus in trouble?\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nAdil on X: \"Opus 5.5 vs DeepSeek V4.1 Flash 1017\n\nSame prompt. Same task.\n\nBuild a cinematic 3D animation explaining how a Tesla-style electric motor works.\n\nIs Opus in trouble?\"\n\n\n\nAdil\n\n@Edenwoodfilm\n\n\n\n\nOpus 5.5 vs DeepSeek V4.1 Flash 1017\n\nSame prompt. Same task.\n\nBuild a cinematic 3D animation explaining how a Tesla-style electric motor works.\n\nIs Opus in trouble?\n\n\n00:00\n\n\n\n\n\n\n\n\n11:17 PM · Oct 18, 2026·47\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nAdil@EdenwoodfilmFollow\n🎬 AI Movie Director & Filmmaker\ninstagram.com/edenw00d\nEmail: [email&#160;protected]\n\n#AIFilmmaking #AIMovies #Filmmaker\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdil\n\n@Edenwoodfilm\n\n\n\n\nOpus 5.5 vs DeepSeek V4.1 Flash 1017\n\nSame prompt. Same task.\n\nBuild a cinematic 3D animation explaining how a Tesla-style electric motor works.\n\nIs Opus in trouble?\n\n\n00:00\n\n\n\n\n\n\n\n\n11:17 PM · Oct 18, 2026·47\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Edenwoodfilm"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Edenwoodfilm/status/2111959819301044536",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111959771435663360/img/s-gaNOfNIzLknMKP.jpg",
+  "coverPath": "data/covers/2111959819301044536-wide.jpg",
+  "gifPath": "data/gifs/2111959819301044536.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111959771435663360",
+    "x-post:2111959819301044536"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Tesla-Style Electric Motor 3D Explainer Animation Comparison",
+      "summary": "Adil compares Claude Opus 5.5 against DeepSeek V4.1 Flash on building a cinematic 3D technical explainer animation showing the inner workings and components of a Tesla-style electric motor.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "\"Opus 5.5 vs DeepSeek V4.1 Flash 1017\\n\\nSame prompt. Same task.\\n\\nBuild a cinematic 3D animation explaining how a Tesla-style electric motor works.\""
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "Build a cinematic 3D animation explaining how a Tesla-style electric motor works.",
+        "englishText": "Build a cinematic 3D animation explaining how a Tesla-style electric motor works.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Target rendering framework/stack (e.g., Three.js, WebGL, Blender, Remotion)",
+          "Technical specifications, scene constraints, and execution script"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video features a complete multi-phase 3D explainer animation detailing the stator, rotor, magnetic fields, exploded assembly, and liquid cooling of a permanent-magnet synchronous motor.",
+        "textualResultQuote": "Permanent-Magnet Synchronous Motor ... Three-phase current creates a rotating magnetic field ... The magnetic field interacts with the rotor ... This interaction generates torque."
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Unspecified 3D rendering engine",
+          "role": "Execution and rendering of the 3D scene and animation passes",
+          "evidence": "The author provides a side-by-side comparison video of rendered 3D graphics without specifying the underlying graphics library or application.",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Cinematic 3D Electric Motor Explainer",
+        "topic": "3d-scenes",
+        "tags": [
+          "3d-scenes",
+          "explainers",
+          "electric-motor",
+          "technical-animation",
+          "opus-5-5"
+        ]
+      },
+      "targetModelRole": "Code generation or agentic design for a cinematic 3D technical animation.",
+      "outputSource": "Rendered output from an unspecified 3D animation engine.",
+      "divisionEvidence": "The post compares Opus 5.5 vs DeepSeek V4.1 Flash on the task: \"Build a cinematic 3D animation explaining how a Tesla-style electric motor works.\"",
+      "video": {
+        "shots": "Multiple technical shots including exterior casing, transparent shell, exploded assembly, cutaway section, and magnetic field visualization",
+        "duration": "00:40",
+        "aspectRatio": "1080:1376",
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "Directly relevant Claude Opus 5.5 video production case demonstrating an agent-generated cinematic 3D technical explainer animation with full accompanying video evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Edenwoodfilm/status/2111959819301044536",
+        "start": 63,
+        "end": 144
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Edenwoodfilm/status/2111959819301044536",
+        "author": "Edenwoodfilm",
+        "postId": "2111959819301044536",
+        "publishedAt": "2026-10-18T23:17:13.000Z"
+      },
+      "checkedAt": "2026-10-19T02:13:19.588Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Edenwoodfilm/status/2111959819301044536",
+        "evidence": ""
+      }
+    },
+    "summary": "Adil compares Claude Opus 5.5 against DeepSeek V4.1 Flash on building a cinematic 3D technical explainer animation showing the inner workings and components of a Tesla-style electric motor.",
+    "summaryEn": "Tesla-Style Electric Motor 3D Explainer Animation Comparison",
+    "originalPrompt": "Build a cinematic 3D animation explaining how a Tesla-style electric motor works.",
+    "sourceRange": {
+      "start": 63,
+      "end": 144
+    },
+    "translations": {
+      "zh": "Build a cinematic 3D animation explaining how a Tesla-style electric motor works.",
+      "en": "Build a cinematic 3D animation explaining how a Tesla-style electric motor works."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "3d-scenes",
+    "useCase": "Cinematic 3D Electric Motor Explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Target rendering framework/stack (e.g., Three.js, WebGL, Blender, Remotion)",
+        "Technical specifications, scene constraints, and execution script"
+      ],
+      "evidence": "The video features a complete multi-phase 3D explainer animation detailing the stator, rotor, magnetic fields, exploded assembly, and liquid cooling of a permanent-magnet synchronous motor."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

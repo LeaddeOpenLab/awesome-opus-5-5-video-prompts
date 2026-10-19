@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T18:18:02.857Z",
+  "model": "opus5.5",
+  "prompt": "explain what's /poteto-mode from @poteto",
+  "promptTranslations": {
+    "en": "explain what's /poteto-mode from @poteto"
+  },
+  "summary": "An animated explainer video covering Lauren Tan's pstack and /poteto-mode workflows, generated after asking Claude to explain the concept.",
+  "summaryEn": "Explainer video of pstack and poteto-mode generated with Claude",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111405053604999576",
+    "canonicalUrl": "https://x.com/Raizerinho/status/2111405053604999576",
+    "author": {
+      "username": "Raizerinho",
+      "displayName": "RecheDev",
+      "profileUrl": "https://x.com/Raizerinho"
+    },
+    "publishedAt": "2026-10-17T10:32:47.000Z",
+    "collectedAt": "2026-10-17T16:49:41.927Z",
+    "language": "en",
+    "originalText": "I asked Claude to explain what's /poteto-mode from @poteto and this came out (Poteto works in Grok Bot not at Cursor like the video says but w/e).\n\nQuick question: with models as good as opus 5.5 do you think we still need all of this ceremony around goals?\n\nAlso interested about what do you think Nick. @thecsguy",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Raizerinho/status/2111405053604999576",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111404210826682369/img/JVFC8X7SswPB81TP.jpg",
+        "analysisUrl": "https://x.com/Raizerinho/status/2111405053604999576"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 22
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Raizerinho/status/2111405053604999576",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111404210826682369/img/JVFC8X7SswPB81TP.jpg",
+  "coverPath": "data/covers/2111405053604999576-wide.jpg",
+  "gifPath": "data/gifs/2111405053604999576.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111404210826682369",
+    "x-post:2111405053604999576"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Explainer video of pstack and poteto-mode generated with Claude",
+      "summary": "An animated explainer video covering Lauren Tan's pstack and /poteto-mode workflows, generated after asking Claude to explain the concept.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Quick question: with models as good as opus 5.5 do you think we still need all of this ceremony around goals?"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "explain what's /poteto-mode from @poteto",
+        "englishText": "explain what's /poteto-mode from @poteto",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "verbatim user prompt instructions",
+          "motion graphics/renderer instructions or Remotion code templates",
+          "text-to-speech audio generation pipeline instructions"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a 1:36 polished motion graphics explainer with voiceover breaking down pstack, playbooks, /poteto-mode, and agent validation principles.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "concept_reference",
+          "description": "Information about /poteto-mode and pstack from Lauren Tan (@poteto)",
+          "available": true,
+          "evidence": "\"I asked Claude to explain what's /poteto-mode from @poteto and this came out\"",
+          "sourceUrl": "https://x.com/poteto",
+          "origin": "user"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "TTS Audio Synthesizer",
+          "role": "Provided voiceover narration explaining the workflow",
+          "evidence": "Clear synthetic voice narration throughout the video",
+          "status": "inferred"
+        },
+        {
+          "name": "Unknown Motion Graphics Renderer",
+          "role": "Rendered the code animations, kinetic typography, and UI slide graphics",
+          "evidence": "Video exhibits procedural UI animations, syntax highlighting, and motion graphics timed with voiceover",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "AI engineering workflow explainer",
+        "topic": "explainers",
+        "tags": [
+          "explainer",
+          "pstack",
+          "poteto-mode",
+          "cursor",
+          "motion graphics",
+          "agentic engineering"
+        ]
+      },
+      "targetModelRole": "Synthesized the concept explanation, script, and visual layout/animation instructions",
+      "outputSource": "Procedural motion graphics video with synchronized TTS voiceover",
+      "divisionEvidence": "\"I asked Claude to explain what's /poteto-mode from @poteto and this came out\"",
+      "video": {
+        "shots": "Multi-scene slide presentation with terminal views, checklists, and typography animations",
+        "duration": "01:36",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Demonstrates an AI agent producing an explainer video with motion graphics and structured software engineering concepts, even though exact tooling and prompt completeness are not fully detailed.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Raizerinho/status/2111405053604999576",
+        "start": 18,
+        "end": 58
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Raizerinho/status/2111405053604999576",
+        "author": "Raizerinho",
+        "postId": "2111405053604999576",
+        "publishedAt": "2026-10-17T10:32:47.000Z"
+      },
+      "checkedAt": "2026-10-17T17:44:43.756Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Raizerinho/status/2111405053604999576",
+        "evidence": ""
+      }
+    },
+    "summary": "An animated explainer video covering Lauren Tan's pstack and /poteto-mode workflows, generated after asking Claude to explain the concept.",
+    "summaryEn": "Explainer video of pstack and poteto-mode generated with Claude",
+    "originalPrompt": "explain what's /poteto-mode from @poteto",
+    "sourceRange": {
+      "start": 18,
+      "end": 58
+    },
+    "translations": {
+      "zh": "explain what's /poteto-mode from @poteto",
+      "en": "explain what's /poteto-mode from @poteto"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "AI engineering workflow explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "verbatim user prompt instructions",
+        "motion graphics/renderer instructions or Remotion code templates",
+        "text-to-speech audio generation pipeline instructions"
+      ],
+      "evidence": "The video shows a 1:36 polished motion graphics explainer with voiceover breaking down pstack, playbooks, /poteto-mode, and agent validation principles."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

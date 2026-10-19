@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-19T02:18:01.191Z",
+  "model": "opus5.5",
+  "prompt": "make a thinklet that displays a new kind of animation born from SVG and three.js and webgl and other effects and graphical techniques merged into a new form of animation that you can invent right now and I want animated 4 pelicans riding a single bike on top of the new tesla roadster (look it up online images of it) as the roadster is hovering with its compressed air jets. Each pelican must be dressed different according to various cultures.",
+  "promptTranslations": {
+    "en": "make a thinklet that displays a new kind of animation born from SVG and three.js and webgl and other effects and graphical techniques merged into a new form of animation that you can invent right now and I want animated 4 pelicans riding a single bike on top of the new tesla roadster (look it up online images of it) as the roadster is hovering with its compressed air jets. Each pelican must be dressed different according to various cultures."
+  },
+  "summary": "Opus 5.5 generated interactive 3D WebGL/SVG scene showing four pelicans riding a tandem bicycle atop a hovering Tesla Roadster.",
+  "summaryEn": "Culturally Dressed Pelicans Riding Tandem Bike on Hovering Roadster",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111977880939061728",
+    "canonicalUrl": "https://x.com/chrisjdimarco/status/2111977880939061728",
+    "author": {
+      "username": "chrisjdimarco",
+      "displayName": "Christopher J. DiMarco",
+      "profileUrl": "https://x.com/chrisjdimarco"
+    },
+    "publishedAt": "2026-10-19T00:29:00.000Z",
+    "collectedAt": "2026-10-19T02:09:30.177Z",
+    "language": "en",
+    "originalText": "I see your pelican tests and raise you 4 culturally specific pelicans riding on top of a Tesla Roadster made with Opus 5.5.\n\nprompt used:\n\n\"make a thinklet that displays a new kind of animation born from SVG and three.js and webgl and other effects and graphical techniques merged into a new form of animation that you can invent right now and I want animated 4 pelicans riding a single bike on top of the new tesla roadster (look it up online images of it) as the roadster is hovering with its compressed air jets. Each pelican must be dressed different according to various cultures.\"",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/chrisjdimarco/status/2111977880939061728",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111977494014246912/img/cAwvYrRDj4uUsl_1.jpg",
+        "analysisUrl": "https://x.com/chrisjdimarco/status/2111977880939061728"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 2,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 324
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/chrisjdimarco/status/2111977880939061728",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111977494014246912/img/cAwvYrRDj4uUsl_1.jpg",
+  "coverPath": "data/covers/2111977880939061728-wide.jpg",
+  "gifPath": "data/gifs/2111977880939061728.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111977494014246912",
+    "x-post:2111977880939061728"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Culturally Dressed Pelicans Riding Tandem Bike on Hovering Roadster",
+      "summary": "Opus 5.5 generated interactive 3D WebGL/SVG scene showing four pelicans riding a tandem bicycle atop a hovering Tesla Roadster.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Author states: 'made with Opus 5.5.'"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "make a thinklet that displays a new kind of animation born from SVG and three.js and webgl and other effects and graphical techniques merged into a new form of animation that you can invent right now and I want animated 4 pelicans riding a single bike on top of the new tesla roadster (look it up online images of it) as the roadster is hovering with its compressed air jets. Each pelican must be dressed different according to various cultures.",
+        "englishText": "make a thinklet that displays a new kind of animation born from SVG and three.js and webgl and other effects and graphical techniques merged into a new form of animation that you can invent right now and I want animated 4 pelicans riding a single bike on top of the new tesla roadster (look it up online images of it) as the roadster is hovering with its compressed air jets. Each pelican must be dressed different according to various cultures.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Recording exhibits 4 pelicans dressed in cultural attire riding a tandem bicycle atop a hovering vehicle with jet thrusters.",
+        "textualResultQuote": "INKVOLT : ink + halftone + volume"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "make a thinklet that displays a new kind of animation born from SVG and three.js and webgl and other effects and graphical techniques merged into a new form of animation that you can invent right now and I want animated 4 pelicans riding a single bike on top of the new tesla roadster (look it up online images of it) as the roadster is hovering with its compressed air jets.",
+          "sourceUrl": "https://x.com/chrisjdimarco/status/2111977880939061728",
+          "status": "required"
+        },
+        {
+          "name": "webgl",
+          "role": "Graphics rendering pipeline",
+          "evidence": "Prompt specifies 'SVG and three.js and webgl'",
+          "sourceUrl": "https://x.com/chrisjdimarco/status/2111977880939061728",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D WebGL Animation",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "interactive",
+          "animation",
+          "pelicans"
+        ]
+      },
+      "targetModelRole": "Generates interactive code utilizing Three.js and WebGL rendering techniques.",
+      "outputSource": "Web browser canvas executing generated JavaScript/WebGL code.",
+      "divisionEvidence": "Prompt asks Opus to 'make a thinklet that displays a new kind of animation born from SVG and three.js and webgl'.",
+      "video": {
+        "shots": "Single interactive 3D perspective camera shot",
+        "duration": "10s",
+        "aspectRatio": "1.3:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Complete prompt, verified Opus 5.5 model attribution, and matched screen recording demonstration.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/chrisjdimarco/status/2111977880939061728",
+        "start": 140,
+        "end": 585
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/chrisjdimarco/status/2111977880939061728",
+        "author": "chrisjdimarco",
+        "postId": "2111977880939061728",
+        "publishedAt": "2026-10-19T00:29:00.000Z"
+      },
+      "checkedAt": "2026-10-19T02:14:04.579Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/chrisjdimarco/status/2111977880939061728",
+        "evidence": ""
+      }
+    },
+    "summary": "Opus 5.5 generated interactive 3D WebGL/SVG scene showing four pelicans riding a tandem bicycle atop a hovering Tesla Roadster.",
+    "summaryEn": "Culturally Dressed Pelicans Riding Tandem Bike on Hovering Roadster",
+    "originalPrompt": "make a thinklet that displays a new kind of animation born from SVG and three.js and webgl and other effects and graphical techniques merged into a new form of animation that you can invent right now and I want animated 4 pelicans riding a single bike on top of the new tesla roadster (look it up online images of it) as the roadster is hovering with its compressed air jets. Each pelican must be dressed different according to various cultures.",
+    "sourceRange": {
+      "start": 140,
+      "end": 585
+    },
+    "translations": {
+      "zh": "make a thinklet that displays a new kind of animation born from SVG and three.js and webgl and other effects and graphical techniques merged into a new form of animation that you can invent right now and I want animated 4 pelicans riding a single bike on top of the new tesla roadster (look it up online images of it) as the roadster is hovering with its compressed air jets. Each pelican must be dressed different according to various cultures.",
+      "en": "make a thinklet that displays a new kind of animation born from SVG and three.js and webgl and other effects and graphical techniques merged into a new form of animation that you can invent right now and I want animated 4 pelicans riding a single bike on top of the new tesla roadster (look it up online images of it) as the roadster is hovering with its compressed air jets. Each pelican must be dressed different according to various cultures."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D WebGL Animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Recording exhibits 4 pelicans dressed in cultural attire riding a tandem bicycle atop a hovering vehicle with jet thrusters."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

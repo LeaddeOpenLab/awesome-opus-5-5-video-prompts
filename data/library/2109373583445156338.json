@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-17T18:18:01.482Z",
+  "model": "opus5.5",
+  "prompt": "> A fish you can control\n> A camera you can orbit\n> Light that moves across the seabed",
+  "promptTranslations": {
+    "en": "> A fish you can control\n> A camera you can orbit\n> Light that moves across the seabed"
+  },
+  "summary": "Claude Opus 5.5 generates code for an interactive 3D ocean scene featuring a user-controlled swimming fish, an orbitable camera, and dynamic lighting moving across the seabed.",
+  "summaryEn": "Interactive 3D Ocean with Controllable Fish and Orbit Camera",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2109373583445156338",
+    "canonicalUrl": "https://x.com/pipeline_os/status/2109373583445156338",
+    "author": {
+      "username": "pipeline_os",
+      "displayName": "Pipeline OS",
+      "profileUrl": "https://x.com/pipeline_os"
+    },
+    "publishedAt": "2026-10-11T20:00:27.000Z",
+    "collectedAt": "2026-10-17T16:49:41.927Z",
+    "language": "en",
+    "originalText": "🚨Game studios spend months building an ocean you can swim in.\n\nI gave Claude Opus 5.5 one prompt.\n\n&gt; A fish you can control\n&gt; A camera you can orbit\n&gt; Light that moves across the seabed\n\nWhich part surprised you most? https://t.co/d4eWuROsn7",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/pipeline_os/status/2109373583445156338",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2109371191500713986/img/RCd4zau9kmnMWI2I.jpg",
+        "analysisUrl": "https://x.com/pipeline_os/status/2109373583445156338"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 3,
+      "replyCount": 2,
+      "quoteCount": 1,
+      "viewCount": 1114
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/pipeline_os/status/2109373583445156338",
+        "text": "Pipeline OS on X: \"🚨Game studios spend months building an ocean you can swim in.\n\nI gave Claude Opus 5.5 one prompt.\n\n> A fish you can control\n> A camera you can orbit\n> Light that moves across the seabed\n\nWhich part surprised you most?\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nPipeline OS on X: \"🚨Game studios spend months building an ocean you can swim in.\n\nI gave Claude Opus 5.5 one prompt.\n\n> A fish you can control\n> A camera you can orbit\n> Light that moves across the seabed\n\nWhich part surprised you most?\"\n\n\n\nPipeline OS\n@pipeline_os\n\n\n\n\n🚨Game studios spend months building an ocean you can swim in.\n\nI gave Claude Opus 5.5 one prompt.\n\n> A fish you can control\n> A camera you can orbit\n> Light that moves across the seabed\n\nWhich part surprised you most?\n\n\n00:00\n\n\n\n\n\n\n\n\n8:00 PM · Oct 11, 2026·1,114\nViews\n\n\n\n2\n3\n11\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nPipeline OS@pipeline_osFollow\nExploring the future of AI & tech. ☁️\n🧠 Testing models, tracking updates (and calling out the nerfs). Welcome to the Pipeline. 🚀\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPipeline OS\n@pipeline_os\n\n\n\n\n🚨Game studios spend months building an ocean you can swim in.\n\nI gave Claude Opus 5.5 one prompt.\n\n> A fish you can control\n> A camera you can orbit\n> Light that moves across the seabed\n\nWhich part surprised you most?\n\n\n00:00\n\n\n\n\n\n\n\n\n8:00 PM · Oct 11, 2026·1,114\nViews\n\n\n\n2\n3\n11\n2\n\n\n\n\n\n\n\n\n\nEpoch\n@EpochPulse\nOct 11\n\n\nThe underwater lighting and controllable fish are such a cool touch\n\n\n\n\n2\n25\n\n\n\n\n\n\n\n\n\n\n\nParves\n\n@parves075\nOct 15\n\n\nVery good\n\n\n\n\n\n8\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "pipeline_os"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/pipeline_os/status/2109373583445156338",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2109371191500713986/img/RCd4zau9kmnMWI2I.jpg",
+  "coverPath": "data/covers/2109373583445156338-wide.jpg",
+  "gifPath": "data/gifs/2109373583445156338.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2109371191500713986",
+    "x-post:2109373583445156338"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Ocean with Controllable Fish and Orbit Camera",
+      "summary": "Claude Opus 5.5 generates code for an interactive 3D ocean scene featuring a user-controlled swimming fish, an orbitable camera, and dynamic lighting moving across the seabed.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I gave Claude Opus 5.5 one prompt."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "> A fish you can control\n> A camera you can orbit\n> Light that moves across the seabed",
+        "englishText": "> A fish you can control\n> A camera you can orbit\n> Light that moves across the seabed",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact technical constraints",
+          "Rendering framework and environment specifications",
+          "Model/rigging and animation instructions for the fish",
+          "Camera control and lighting implementation details"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording shows an interactive 3D ocean environment with a cursor steering a detailed swimming fish, orbiting the camera around the scene, and casting moving underwater caustics across the seabed.",
+        "textualResultQuote": "Claude Opus 5.5"
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "Interactive 3D Ocean Scene",
+        "topic": "games-interactive",
+        "tags": [
+          "3d-scenes",
+          "games-interactive",
+          "interactive",
+          "webgl",
+          "canvas-interactive"
+        ]
+      },
+      "targetModelRole": "Generates interactive 3D scene code based on user prompt requirements.",
+      "outputSource": "Web browser / 3D canvas rendering engine executing generated code",
+      "divisionEvidence": "\"I gave Claude Opus 5.5 one prompt.\" followed by screen recording of the running interactive 3D application.",
+      "video": {
+        "shots": "Single interactive continuous take with orbiting camera view",
+        "duration": "00:56",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates interactive 3D scene production using Claude Opus 5.5 with confirmed author model version and screen recording evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/pipeline_os/status/2109373583445156338",
+        "start": 119,
+        "end": 205
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/pipeline_os/status/2109373583445156338",
+        "author": "pipeline_os",
+        "postId": "2109373583445156338",
+        "publishedAt": "2026-10-11T20:00:27.000Z"
+      },
+      "checkedAt": "2026-10-17T17:33:22.374Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/pipeline_os/status/2109373583445156338",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generates code for an interactive 3D ocean scene featuring a user-controlled swimming fish, an orbitable camera, and dynamic lighting moving across the seabed.",
+    "summaryEn": "Interactive 3D Ocean with Controllable Fish and Orbit Camera",
+    "originalPrompt": "> A fish you can control\n> A camera you can orbit\n> Light that moves across the seabed",
+    "sourceRange": {
+      "start": 119,
+      "end": 205
+    },
+    "translations": {
+      "zh": "> A fish you can control\n> A camera you can orbit\n> Light that moves across the seabed",
+      "en": "> A fish you can control\n> A camera you can orbit\n> Light that moves across the seabed"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Ocean Scene",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact technical constraints",
+        "Rendering framework and environment specifications",
+        "Model/rigging and animation instructions for the fish",
+        "Camera control and lighting implementation details"
+      ],
+      "evidence": "Screen recording shows an interactive 3D ocean environment with a cursor steering a detailed swimming fish, orbiting the camera around the scene, and casting moving underwater caustics across the seabed."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-19T02:18:01.890Z",
+  "model": "opus5.5",
+  "prompt": "leon in half-life 2",
+  "promptTranslations": {
+    "en": "leon in half-life 2"
+  },
+  "summary": "Author prompts Opus 5.5 for Leon in Half-Life 2, resulting in gameplay with RE4 mechanics, camera, HUD, and a Salazar intro.",
+  "summaryEn": "Resident Evil 4 and Half-Life 2 Crossover Gameplay",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111936400023302564",
+    "canonicalUrl": "https://x.com/Bett0x/status/2111936400023302564",
+    "author": {
+      "username": "Bett0x",
+      "displayName": "Bett",
+      "profileUrl": "https://x.com/Bett0x"
+    },
+    "publishedAt": "2026-10-18T21:44:10.000Z",
+    "collectedAt": "2026-10-19T02:09:30.177Z",
+    "language": "en",
+    "originalText": "OPUS 5.5, WHAT THE F*CK IS THIS\n\ni asked for leon in half-life 2 and it went all in\n\nre4 camera, re4 health ring, and salazar doing the g-man intro\n\nthe civil protection cops have no idea they're in a resident evil game now https://t.co/fyppoPlEhe",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Bett0x/status/2111936400023302564",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111935912468742144/img/nRow8tfx365ovN2X.jpg",
+        "analysisUrl": "https://x.com/Bett0x/status/2111936400023302564"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 18
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/Bett0x/status/2111936400023302564",
+        "text": "Bett on X: \"OPUS 5.5, WHAT THE F*CK IS THIS\n\ni asked for leon in half-life 2 and it went all in\n\nre4 camera, re4 health ring, and salazar doing the g-man intro\n\nthe civil protection cops have no idea they&#x27;re in a resident evil game now\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nBett on X: \"OPUS 5.5, WHAT THE F*CK IS THIS\n\ni asked for leon in half-life 2 and it went all in\n\nre4 camera, re4 health ring, and salazar doing the g-man intro\n\nthe civil protection cops have no idea they&#x27;re in a resident evil game now\"\n\n\n\nBett\n\n@Bett0x\n\n\n\n\nOPUS 5.5, WHAT THE F*CK IS THIS\n\ni asked for leon in half-life 2 and it went all in\n\nre4 camera, re4 health ring, and salazar doing the g-man intro\n\nthe civil protection cops have no idea they&#x27;re in a resident evil game now\n\n\n00:00\n\n\n\n\n\n\n\n\n9:44 PM · Oct 18, 2026·18\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nBett@Bett0xFollow\nAI tinkerer | Vibe coder | Content creator\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBett\n\n@Bett0x\n\n\n\n\nOPUS 5.5, WHAT THE F*CK IS THIS\n\ni asked for leon in half-life 2 and it went all in\n\nre4 camera, re4 health ring, and salazar doing the g-man intro\n\nthe civil protection cops have no idea they&#x27;re in a resident evil game now\n\n\n00:00\n\n\n\n\n\n\n\n\n9:44 PM · Oct 18, 2026·18\nViews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "Bett0x"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Bett0x/status/2111936400023302564",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111935912468742144/img/nRow8tfx365ovN2X.jpg",
+  "coverPath": "data/covers/2111936400023302564-wide.jpg",
+  "gifPath": "data/gifs/2111936400023302564.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111935912468742144",
+    "x-post:2111936400023302564"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Resident Evil 4 and Half-Life 2 Crossover Gameplay",
+      "summary": "Author prompts Opus 5.5 for Leon in Half-Life 2, resulting in gameplay with RE4 mechanics, camera, HUD, and a Salazar intro.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "OPUS 5.5, WHAT THE F*CK IS THIS\n\ni asked for leon in half-life 2 and it went all in"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "leon in half-life 2",
+        "englishText": "leon in half-life 2",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full prompt instructions",
+          "engine configuration details",
+          "asset integration code"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Video shows Half-Life 2 gameplay with Leon, Salazar intro cutscene, RE4 third-person camera, and health ring HUD.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "Half-Life 2 Source Engine",
+          "role": "Game runtime and rendering engine",
+          "evidence": "Inferred from visible Source engine assets, UI interactions, and City 17 gameplay.",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "RE4 and HL2 Crossover",
+        "topic": "games-interactive",
+        "tags": [
+          "games-interactive",
+          "half-life-2",
+          "resident-evil",
+          "opus-5-5",
+          "gameplay"
+        ]
+      },
+      "targetModelRole": "Gameplay scripting and mod orchestration",
+      "outputSource": "Direct screen recording of gameplay",
+      "divisionEvidence": "Author states asking Opus 5.5, followed by displaying the rendered game demo.",
+      "video": {
+        "shots": "Multiple cutscenes and third-person gameplay sequences",
+        "duration": "01:00",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "games-interactive",
+      "suitable": true,
+      "reason": "Demonstrates interactive 3D gameplay implementation attributed to Opus 5.5, meeting reference criteria despite partial prompt disclosure.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Bett0x/status/2111936400023302564",
+        "start": 45,
+        "end": 64
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Bett0x/status/2111936400023302564",
+        "author": "Bett0x",
+        "postId": "2111936400023302564",
+        "publishedAt": "2026-10-18T21:44:10.000Z"
+      },
+      "checkedAt": "2026-10-19T02:12:17.715Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Bett0x/status/2111936400023302564",
+        "evidence": ""
+      }
+    },
+    "summary": "Author prompts Opus 5.5 for Leon in Half-Life 2, resulting in gameplay with RE4 mechanics, camera, HUD, and a Salazar intro.",
+    "summaryEn": "Resident Evil 4 and Half-Life 2 Crossover Gameplay",
+    "originalPrompt": "leon in half-life 2",
+    "sourceRange": {
+      "start": 45,
+      "end": 64
+    },
+    "translations": {
+      "zh": "leon in half-life 2",
+      "en": "leon in half-life 2"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "games-interactive",
+    "useCase": "RE4 and HL2 Crossover",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full prompt instructions",
+        "engine configuration details",
+        "asset integration code"
+      ],
+      "evidence": "Video shows Half-Life 2 gameplay with Leon, Salazar intro cutscene, RE4 third-person camera, and health ring HUD."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
