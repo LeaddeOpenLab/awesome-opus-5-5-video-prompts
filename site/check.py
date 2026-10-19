@@ -10,10 +10,11 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / '_site'
 class Page(HTMLParser):
     def __init__(self):
-        super().__init__(); self.links=[]; self.ids=set(); self.canonical=[]; self.description=[]; self.h1=0; self.title=False
+        super().__init__(); self.links=[]; self.ids=set(); self.canonical=[]; self.description=[]; self.h1=0; self.title=False; self.noindex=False
     def handle_starttag(self,tag,attrs):
         a=dict(attrs)
         if a.get('id'): self.ids.add(a['id'])
+        if tag=='meta' and a.get('name')=='robots' and 'noindex' in a.get('content',''):self.noindex=True
         if tag=='h1':self.h1+=1
         if tag=='title':self.title=True
         if tag=='link' and a.get('rel')=='canonical':self.canonical.append(a.get('href',''))
@@ -40,7 +41,7 @@ for file,page in pages.items():
         if not target.is_file():errors.append(f'{file.relative_to(OUT)}: missing {href}')
         elif url.fragment and target in pages and url.fragment not in pages[target].ids:
             errors.append(f'{file.relative_to(OUT)}: missing anchor {href}')
-canonicals=[p.canonical[0] for f,p in pages.items() if f.name!='404.html']
+canonicals=[p.canonical[0] for f,p in pages.items() if not p.noindex]
 if len(canonicals)!=len(set(canonicals)):errors.append('Duplicate canonicals')
 xml=ET.parse(OUT/'sitemap.xml')
 locations=[e.text for e in xml.findall('.//{*}loc')]

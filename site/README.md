@@ -114,3 +114,12 @@ Google 提供的 `google9ddda4d9c22709a6.html` 保存在 `site/public/`，每次
 最小探索报表：筛选 `event_name = github_click` 且 `repo_target = collection`；按「会话来源 / 媒介」查看总用户数、事件数，再用 `prompt_id` 和 `placement` 分解。用 GA4 内置会话来源，不新增自制来源追踪。对比全体与排除 `github.com / referral` 的用户，后者只作站外来源导流近似值，不能声称首次访问仓库。direct 仍是来源未知。GitHub Insights 的独立访客数单独观察，不能与站外点击做精确用户匹配。
 
 复制率与播放另看 `prompt_copy`、`preview_play`；自动播放（hero/spotlight）、悬停播放（hover）和主动预览（preview/detail）分别分析。
+
+
+## 2026-10-19：ORBIT 实操教程
+
+新增 `/tutorials/codex-product-launch-video/`，首页首屏文字链接及精选区前的卡片均直接进入教程。原有精选保持不变。`site/orbit.py` 在正式构建中生成页面、编辑器和 ZIP；正文在 `site/tutorials/`，中英文及样式在 `site/assets/orbit*`，源代码在 `templates/orbit-launch-15s/`。
+
+教程有独立 title、description、canonical、分享封面、WebPage / BreadcrumbList / VideoObject 结构化数据，并加入 sitemap（现共 20 个可索引页面）。编辑器明确 noindex，不加入 sitemap；检查器仍验证编辑器的元数据与资源链接。`orbit.json` 中的发布日期固定保存，不随每次构建刷新。
+
+ZIP 只包含明确列出的源码、说明、许可证和中英文复现提示词，不包含本地对话、QA 输出或开发机路径。教程明确区分 Codex 改作、虚构产品和复现提示词；本地检查涵盖播放、复制、下载、语言切换和手机布局。

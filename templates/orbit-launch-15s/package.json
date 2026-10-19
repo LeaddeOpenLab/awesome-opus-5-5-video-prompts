@@ -1,0 +1,13 @@
+{
+  "name": "orbit-codex-launch-15s",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render": "node render.mjs",
+    "check": "node check.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

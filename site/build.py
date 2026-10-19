@@ -2,6 +2,7 @@
 """Build the curated public site from repository records. Python standard library only."""
 import html
 from catalog import build_catalog, template_section
+from orbit import build_orbit
 import json
 import os
 from pathlib import Path
@@ -76,12 +77,12 @@ def prompt_example(ident, title, setup):
 <p class="prompt-credit"><a href="{E(item['source'])}">Original post by @{E(item['author'])} ↗</a></p>
 <div class="dialog-actions"><a class="text-link" href="{REPO}/blob/main/prompts/{ident}.md">View prompt on GitHub ↗</a><a class="text-link" href="./{case_url(item)}">Setup &amp; details →</a></div></div></article>'''
 
-def document(title, description, body, path='', image_id=None, noindex=False):
+def document(title, description, body, path='', image_id=None, noindex=False, image_path=None):
     prefix = '../' * len([p for p in path.split('/') if p])
     prefix = prefix or './'
     canonical = BASE + path
-    image_url = BASE + 'assets/posters/' + (image_id or '2110107260751884639') + '.jpg'
-    schema = {'@context':'https://schema.org','@type':'WebPage' if path.startswith('prompts/') else 'CollectionPage','name':title,'description':description,'url':canonical,'publisher':{'@type':'Organization','name':'Leadde Open Lab','url':'https://github.com/LeaddeOpenLab'}}
+    image_url = BASE + (image_path or ('assets/posters/' + (image_id or '2110107260751884639') + '.jpg'))
+    schema = {'@context':'https://schema.org','@type':'WebPage' if path.startswith(('prompts/', 'tutorials/')) else 'CollectionPage','name':title,'description':description,'url':canonical,'publisher':{'@type':'Organization','name':'Leadde Open Lab','url':'https://github.com/LeaddeOpenLab'}}
     verification = f'<meta name="google-site-verification" content="{E(VERIFY)}">' if VERIFY else ''
     return f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="ga-measurement-id" content="{E(GA_ID)}"><meta name="repository-url" content="{E(REPO)}">
@@ -162,6 +163,7 @@ for item in SELECTION:
 <aside class="detail-sidebar" aria-label="Setup and source notes"><section class="side-section"><h2>What you’ll need</h2><p>{E(item['inputs'])}</p></section><section class="side-section"><h2>How to try it</h2><p style="font-size:11px;margin-bottom:15px">Suggested workflow from Leadde Open Lab.</p><ol>{''.join('<li>'+E(s)+'</li>' for s in item['steps'])}</ol></section><section class="side-section"><h2>About this example</h2><div class="meta-row"><span>Creator</span><span>@{E(item['author'])}</span></div><div class="meta-row"><span>Source model</span><span>{E(item['model'])}</span></div><div class="meta-row"><span>Published</span><span>{item['published']}</span></div><div class="meta-row"><span>Our reproduction</span><span>Not tested</span></div><div class="note"><strong>A note before you start</strong><p>{E(item['note'])}</p></div></section></aside></div><section class="related"><div class="kicker">Keep exploring</div><h2>More {cat['name'].lower()}.</h2><div class="grid">{''.join(card(x,'../../') for x in related)}</div></section></div>'''
     write(path+'index.html',document(item.get('seo_title', item['title']+' — Claude prompt'),item['description']+' Copy the shared prompt and read setup notes.',body,path,item['id']))
     pages.append((path,item['modified']))
+pages.append((build_orbit(ROOT, OUT, BASE, document), None))
 # The build date is not a content-modification date. Omit lastmod rather than invent one.
 write('sitemap.xml','<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f'<url><loc>{E(BASE+p)}</loc></url>\n' for p,_ in pages)+'</urlset>\n')
 write('.nojekyll','')

@@ -1,0 +1,22 @@
+Create a 15-second product launch animation for ORBIT, a fictional note-taking and idea-organizing app, and export it as an MP4.
+
+PRODUCT
+ORBIT helps creators and knowledge workers turn scattered thoughts into something worth sharing. Its three core features are:
+• Collect: quickly capture ideas, excerpts and tasks in one place.
+• Connect: link related notes to discover themes and develop ideas.
+• Share: turn organized notes into a clean, readable sharing card.
+Its promise is to make room for your next good idea. Draw conceptual interfaces in code; you do not need to build a working app.
+
+VISUAL DIRECTION
+Use charcoal #11120F, warm white #F2EFE6 and orange #FF6938. Combine oversized sans-serif typography, rounded cards and fine orbital lines with moving dots to represent connected ideas. Keep the motion rhythmic and the text readable. Do not rely on external images, downloaded fonts, footage or music.
+
+15-SECOND STORYBOARD
+0–3s: On a dark background, reveal “Make room.” and “for the spark.”. Add an orange orbital graphic and a floating note on the right. Subtitle: “A little space for your next big idea.”
+3–4.5s: Fill the frame with orange. Show a large “ORBIT” and “Less scattered. More connected.”
+4.5–11.3s: Switch to warm white. Heading: “Ideas, in motion.” Subtitle: “From scattered thoughts to something worth sharing.” Bring in three feature cards: Collect. with stacked notes; Connect. with linked nodes; Share. with a published content card. Their captions are “Catch the thought.”, “Find the thread.” and “Put it out there.”
+11.3–15s: Use an orange shape transition to a dark closing frame. Show ORBIT, “Good ideas go places.” and a button-shaped “MAKE YOUR NEXT MOVE”. Hold long enough to read.
+
+IMPLEMENTATION AND DELIVERABLES
+Use HTML, Canvas and JavaScript. If I supply a Product Launch template, reuse its editing controls and export workflow; otherwise create a minimal runnable project.
+Keep the product name, colors, headings and feature copy in config.js. Provide a local preview with play, pause and timeline seeking. Rendering at a given time must be deterministic for frame-by-frame export.
+Use Playwright and FFmpeg to export a silent 1920×1080, 30 fps, 15-second H.264 MP4. Deliver the video, complete source, install and export commands. Check text clipping, first and last frames, and duration. Generate files locally without deploying or publishing.
