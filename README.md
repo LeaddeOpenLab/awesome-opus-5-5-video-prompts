@@ -62,12 +62,18 @@ Read the prompt here on GitHub, or watch the preview and check setup notes on th
 <strong>Night Tokyo: Rainy Vending Machine 3D Diorama</strong><br>
 
 <sub><a href="prompts/2110107260751884639.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/threejs-tokyo-rainy-night-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/sprinntt/status/2110107260751884639">Original post ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip</strong><br><code>No external assets</code>: Exclude external dependencies to reduce failures caused by missing assets, libraries or network requests.</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="50%" valign="top">
 <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/claude-motion-designer-showreel-prompt/"><img src="data/gifs/2110476412213686723.gif" alt="Claude Motion Designer Showreel" width="100%" /></a><br>
 <strong>Claude Motion Designer Showreel</strong><br>
 
 <sub><a href="prompts/2110476412213686723.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/claude-motion-designer-showreel-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/0node0/status/2110476412213686723">Original post ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip</strong><br><code>video</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
+<!-- pro-tip:end -->
 </td>
 </tr>
 <tr>
@@ -76,6 +82,9 @@ Read the prompt here on GitHub, or watch the preview and check setup notes on th
 <strong>Three.js Rubik's Cube Scramble and Solve Animation</strong><br>
 
 <sub><a href="prompts/2110588980718940283.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/threejs-rubiks-cube-animation-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/dayvanxd/status/2110588980718940283">Original post ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip</strong><br><code>single self-contained HTML file</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="50%" valign="top">
 <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/manim-derivatives-explainer/"><img src="https://pbs.twimg.com/amplify_video_thumb/2103128124305309696/img/xFafXqUq1tPUkuVE.jpg" alt="Opus 5.5 and Manim Educational Video Explaining Derivatives" width="100%" /></a><br>
