@@ -98,7 +98,7 @@ Google 提供的 `google9ddda4d9c22709a6.html` 保存在 `site/public/`，每次
 
 ## 2026-10-19：精选与仓库导流
 
-首页首屏及前三个精选更新为东京雨夜、15 秒 Showreel、Three.js 魔方。旧详情页保持原网址；新页面有独立标题、canonical 和 sitemap 条目。新增 MP4 复用仓库 GIF 短预览，保留原作者比较画面与标注，不代表完整视频或本站复现。README 前三个精选与本地 `prompt-pipeline/src/local-admin/curated-layout.ts` 生成配置同步更新；自动发布流程应使用更新后的生成配置。
+首页首屏及前三个精选更新为东京雨夜、15 秒 Showreel、像素巫师；魔方原帖不可用后已从精选移除，原详情页仍保留。旧详情页保持原网址；新页面有独立标题、canonical 和 sitemap 条目。新增 MP4 复用仓库 GIF 短预览，保留原作者比较画面与标注，不代表完整视频或本站复现。README 前三个精选与本地 `prompt-pipeline/src/local-admin/curated-layout.ts` 生成配置同步更新；自动发布流程应使用更新后的生成配置。
 
 `github_click` 沿用原事件名，新增事件参数：
 

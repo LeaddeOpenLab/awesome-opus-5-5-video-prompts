@@ -10,9 +10,8 @@ END = '<!-- runnable-templates:end -->'
 def with_template_cards(content, cards):
     section = cards.strip() + '\n\n'
     pattern = re.escape(START) + r'.*?' + re.escape(END) + r'\n*'
-    if START in content:
-        return re.sub(pattern, lambda _: section, content, count=1, flags=re.S)
-    return content.replace('## Featured creations\n', section + '## Featured creations\n', 1)
+    content = re.sub(pattern, '', content, count=1, flags=re.S)
+    return content.replace('## Start here\n', section + '## Start here\n', 1)
 
 
 if __name__ == '__main__':

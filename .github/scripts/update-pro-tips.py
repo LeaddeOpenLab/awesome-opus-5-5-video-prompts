@@ -115,10 +115,12 @@ def render_gallery(content, tips):
     original = strip_tips(content)
     def add(match):
         card = match.group(0)
+        if card.startswith('## Featured creations'):
+            return card
         ids = re.findall(r'(?:prompts/|gifs/|covers/)(\d+)', card)
         tip = next((tips[id] for id in ids if id in tips), None)
         return card.replace('</td>', card_tip(tip) + '</td>') if tip else card
-    return re.sub(r'<td\b[^>]*>.*?</td>', add, original, flags=re.S)
+    return re.sub(r'^## Featured creations\n.*?(?=^## |\Z)|<td\b[^>]*>.*?</td>', add, original, flags=re.S | re.M)
 
 
 def main():

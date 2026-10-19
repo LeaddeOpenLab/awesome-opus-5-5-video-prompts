@@ -119,7 +119,7 @@ write('assets/translations.js', 'window.siteTranslations = ' + json.dumps(transl
 write('assets/prompts.js', 'window.sitePrompts = ' + json.dumps({x['id']: x['prompt'] for x in SELECTION}, ensure_ascii=False).replace('<', chr(92)+'u003c') + ';\n')
 
 hero = BY_ID['2110107260751884639']
-ordered = [BY_ID[i] for i in ['2110107260751884639','2110476412213686723','2110588980718940283','2109782159250608604','2103629247751618782','2103802923465768972','2103499977632997524','2103273003555402193','2103128559174971663']]
+ordered = [BY_ID[i] for i in ['2110107260751884639','2110476412213686723','2102476258948927543','2109782159250608604','2103629247751618782','2103802923465768972','2103499977632997524','2103273003555402193','2103128559174971663']]
 ordered[0]['showcase'] = 'spotlight'
 for item in ordered[1:3]: item['showcase'] = 'featured'
 filters = '<button class="filter" data-filter="all" aria-pressed="true">All work</button>' + ''.join(f'<button class="filter" data-filter="{key}" aria-pressed="false">{value["name"]}</button>' for key,value in CATEGORIES.items())

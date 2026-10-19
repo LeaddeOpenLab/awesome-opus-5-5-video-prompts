@@ -58,38 +58,21 @@ if history:
     added, addition_date = history[0]['added'], history[0]['date']
 else:
     history = [{'date': addition_date, 'added': added}]
-timeline = ''
-for i, item in enumerate(reversed(history[:3])):
-    x = 66 + i * 448
-    timeline += f'<circle cx="{x}" cy="439" r="5" fill="#6E4DFC"/><text x="{x}" y="477" fill="#655D72" font-size="17">{escape(update_date(item["date"]))}</text><text x="{x}" y="516" fill="#241C35" font-size="28" font-weight="700">+{int(item["added"])} prompts updated</text>'
-# Maintainer-provided collection headline; separate from public inventory metadata.
+# Keep the collection headline while leaving room for featured work above the fold.
 headline = '2000+'
-svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="650" viewBox="0 0 1440 650" role="img" aria-labelledby="title desc">
+svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="200" viewBox="0 0 1440 200" role="img" aria-labelledby="title desc">
 <title id="title">{headline} prompts · Actively updated · Leadde Open Lab</title>
-<desc id="desc">2000+ prompts for video, animation, 3D and interactive work. Latest batch: {added} prompts updated on {escape(update_date(addition_date))}. Open the web collection for previews, prompts and setup notes.</desc>
-<rect x="1" y="1" width="1438" height="648" rx="24" fill="#FAF9FF" stroke="#E6E1F3"/>
+<desc id="desc">Video prompts and creator previews. Latest batch: {added} prompts updated on {escape(update_date(addition_date))}.</desc>
+<rect x="1" y="1" width="1438" height="198" rx="18" fill="#FAF9FF" stroke="#E6E1F3"/>
 <g font-family="Arial, Helvetica, sans-serif">
-<text x="64" y="65" fill="#241C35" font-size="25" font-weight="700">Leadde <tspan font-weight="400" fill="#756C84">/ Open Lab</tspan></text>
-<rect x="1132" y="33" width="244" height="45" rx="22" fill="#EEE8FF"/>
-<circle cx="1157" cy="55" r="5" fill="#6E4DFC"/>
-<text x="1175" y="62" fill="#6E4DFC" font-size="17" font-weight="700">ACTIVELY UPDATED</text>
-<text x="64" y="120" fill="#655D72" font-size="19" letter-spacing="1">THE OPUS VIDEO PROMPT COLLECTION · CURATED BY LEADDE</text>
-<text x="54" y="301" fill="#6E4DFC" font-size="190" font-weight="800" letter-spacing="-10">{headline}</text>
-<text x="66" y="352" fill="#241C35" font-size="31" font-weight="700" letter-spacing="7">PROMPTS TO EXPLORE</text>
-<path d="M836 160V358" stroke="#E0D8EF"/>
-<text x="900" y="192" fill="#655D72" font-size="18" font-weight="700" letter-spacing="2">LATEST CONTENT DROP</text>
-<text x="894" y="291" fill="#241C35" font-size="98" font-weight="800">+{added}</text>
-<text x="900" y="329" fill="#241C35" font-size="24">prompts updated</text>
-<text x="900" y="365" fill="#655D72" font-size="18">{escape(update_date(addition_date))}</text>
-<text x="66" y="399" fill="#655D72" font-size="19">VIDEO · MOTION GRAPHICS · EXPLAINERS · 3D · INTERACTIVE</text>
-<path d="M66 439H1335" stroke="#DAD1ED" stroke-width="2"/>
-{timeline}
-<path d="M64 548H1376" stroke="#E6E1F3"/>
-<text x="66" y="597" fill="#241C35" font-size="23" font-weight="700">See the result. Start with the prompt.</text>
-<text x="66" y="626" fill="#655D72" font-size="17">Video previews · Copyable prompts · Setup notes · English / 简体中文</text>
-<rect x="1006" y="569" width="370" height="61" rx="10" fill="#6E4DFC"/>
-<text x="1031" y="608" fill="white" font-size="23" font-weight="700">Explore the web collection</text>
-<path d="M1340 590l9 9-9 9m-13-9h22" stroke="white" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="48" y="51" fill="#241C35" font-size="25" font-weight="700">Leadde <tspan font-weight="400" fill="#756C84">/ Open Lab</tspan></text>
+<text x="48" y="111" fill="#6E4DFC" font-size="42" font-weight="700">{headline} video prompts</text>
+<text x="48" y="157" fill="#655D72" font-size="23">Motion graphics · Explainers · 3D · Interactive</text>
+<rect x="1116" y="26" width="276" height="40" rx="20" fill="#EEE8FF"/>
+<circle cx="1140" cy="46" r="5" fill="#6E4DFC"/>
+<text x="1158" y="53" fill="#6E4DFC" font-size="18" font-weight="700">ACTIVELY UPDATED</text>
+<text x="1392" y="113" text-anchor="end" fill="#241C35" font-size="26" font-weight="700">+{added} prompts updated</text>
+<text x="1392" y="157" text-anchor="end" fill="#655D72" font-size="20">{escape(update_date(addition_date))}</text>
 </g>
 </svg>
 '''
@@ -100,7 +83,7 @@ print(f'Updated {target.relative_to(root)}')
 
 # Each content batch gets a new image URL, avoiding stale raw-image caches.
 stamp = datetime.fromisoformat(addition_date.replace('Z', '+00:00')).strftime('%Y%m%d-%H%M%S') if addition_date else 'pending'
-versioned = root / f'data/banner-{stamp}-collection.svg'
+versioned = root / f'data/banner-{stamp}-compact.svg'
 versioned.write_text(svg)
 readme = root / 'README.md'
 readme.write_text(re.sub(r'\]\(data/banner[^)]*\)', f']({versioned.relative_to(root)})', readme.read_text()))

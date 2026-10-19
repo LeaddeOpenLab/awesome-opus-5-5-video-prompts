@@ -1,16 +1,52 @@
 # Awesome Opus 5.5 Video Prompts
 
-[![2000+ prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner-20261019-022540-collection.svg)](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)
+[![2000+ prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner-20261019-022540-compact.svg)](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)
 
-**Creator-shared prompts, visual previews, and practical setup notes — curated by Leadde Open Lab.** Find the original prompt and source, watch selected results, and check the tools and inputs before you try them. Return for fresh picks for your next video, animation or 3D project.
+**Creator-shared video prompts and previews, curated by Leadde Open Lab.**
+
+## Featured creations
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/threejs-tokyo-rainy-night-prompt/"><img src="data/gifs/2110107260751884639.gif" alt="Night Tokyo: Rainy Vending Machine 3D Diorama" width="100%" /></a><br>
+<strong>Tokyo after rain</strong><br>
+<sub>A rainy-night Three.js diorama.</sub><br>
+
+<sub><a href="prompts/2110107260751884639.md">View prompt</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/threejs-tokyo-rainy-night-prompt/">Watch preview ↗</a><br><a href="https://x.com/sprinntt/status/2110107260751884639">@sprinntt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/claude-motion-designer-showreel-prompt/"><img src="data/gifs/2110476412213686723.gif" alt="Claude Motion Designer Showreel" width="100%" /></a><br>
+<strong>Motion design showreel</strong><br>
+<sub>Kinetic type and animated graphics.</sub><br>
+
+<sub><a href="prompts/2110476412213686723.md">View prompt</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/claude-motion-designer-showreel-prompt/">Watch preview ↗</a><br><a href="https://x.com/0node0/status/2110476412213686723">@0node0</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/pixel-art-wizard-html-prompt/"><img src="data/gifs/2102476258948927543.gif" alt="Animated Pixel Art Wizard in Canvas 2D" width="100%" /></a><br>
+<strong>Pixel wizard</strong><br>
+<sub>A spell-casting animation in one HTML file.</sub><br>
+
+<sub><a href="prompts/2102476258948927543.md">View prompt</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/pixel-art-wizard-html-prompt/">Watch preview ↗</a><br><a href="https://x.com/majidmanzarpour/status/2102476258948927543">@majidmanzarpour</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/manim-derivatives-explainer/"><img src="https://pbs.twimg.com/amplify_video_thumb/2103128124305309696/img/xFafXqUq1tPUkuVE.jpg" alt="Opus 5.5 and Manim Educational Video Explaining Derivatives" width="100%" /></a><br>
+<strong>Derivatives, visualized</strong><br>
+<sub>A narrated lesson with Manim.</sub><br>
+
+<sub><a href="prompts/2103128559174971663.md">View prompt</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/manim-derivatives-explainer/">Watch preview ↗</a><br><a href="https://x.com/LinearUncle/status/2103128559174971663">@LinearUncle</a></sub>
+</td>
+</tr>
+</table>
+
+
+**[Open the web collection →](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)** · [Start with a prompt](#start-here) · [Browse the full repository](#browse-the-full-library) · [Latest additions](#recently-added)
+
+[Motion graphics](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/collections/motion-graphics/) · [Explainers](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/collections/explainers/) · [3D worlds](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/collections/3d-worlds/) · English / 简体中文
 
 **☆ Star this repo to keep the prompts handy for your next project.**
-
-**[Open the web collection →](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)** · Video previews, prompts & setup · English / 简体中文
-
-[Motion graphics](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/collections/motion-graphics/) · [Explainers](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/collections/explainers/) · [3D worlds](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/collections/3d-worlds/)
-
-[Browse the full repository](#browse-the-full-library) · [Start with a prompt](#start-here) · [Latest additions](#recently-added)
 
 <!-- runnable-templates:start -->
 ## Try a 15-second template
@@ -50,74 +86,6 @@ Introduce a product and three benefits.<br>
 
 Preview: open `index.html`. Export MP4: Node.js + Playwright + FFmpeg. Original code animations with fictional demo products.
 <!-- runnable-templates:end -->
-
-## Featured creations
-
-Read the prompt here on GitHub, or watch the preview and check setup notes on the website.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/threejs-tokyo-rainy-night-prompt/"><img src="data/gifs/2110107260751884639.gif" alt="Night Tokyo: Rainy Vending Machine 3D Diorama" width="100%" /></a><br>
-<strong>Night Tokyo: Rainy Vending Machine 3D Diorama</strong><br>
-
-<sub><a href="prompts/2110107260751884639.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/threejs-tokyo-rainy-night-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/sprinntt/status/2110107260751884639">Original post ↗</a></sub>
-<!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip</strong><br><code>No external assets</code>: Exclude external dependencies to reduce failures caused by missing assets, libraries or network requests.</blockquote>
-<!-- pro-tip:end -->
-</td>
-<td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/claude-motion-designer-showreel-prompt/"><img src="data/gifs/2110476412213686723.gif" alt="Claude Motion Designer Showreel" width="100%" /></a><br>
-<strong>Claude Motion Designer Showreel</strong><br>
-
-<sub><a href="prompts/2110476412213686723.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/claude-motion-designer-showreel-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/0node0/status/2110476412213686723">Original post ↗</a></sub>
-<!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip</strong><br><code>video</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
-<!-- pro-tip:end -->
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/threejs-rubiks-cube-animation-prompt/"><img src="data/gifs/2110588980718940283.gif" alt="Three.js Rubik's Cube Scramble and Solve Animation" width="100%" /></a><br>
-<strong>Three.js Rubik's Cube Scramble and Solve Animation</strong><br>
-
-<sub><a href="prompts/2110588980718940283.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/threejs-rubiks-cube-animation-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/dayvanxd/status/2110588980718940283">Original post ↗</a></sub>
-<!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip</strong><br><code>single self-contained HTML file</code>: Specify one HTML deliverable for easy browser playback; still check whether the implementation loads external dependencies.</blockquote>
-<!-- pro-tip:end -->
-</td>
-<td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/manim-derivatives-explainer/"><img src="https://pbs.twimg.com/amplify_video_thumb/2103128124305309696/img/xFafXqUq1tPUkuVE.jpg" alt="Opus 5.5 and Manim Educational Video Explaining Derivatives" width="100%" /></a><br>
-<strong>Opus 5.5 and Manim Educational Video Explaining Derivatives</strong><br>
-
-<sub><a href="prompts/2103128559174971663.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/manim-derivatives-explainer/">Watch preview · Website ↗</a> · <a href="https://x.com/LinearUncle/status/2103128559174971663">Original post ↗</a></sub>
-<!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip</strong><br><code>Use edge-tts for dubbing</code>: Assign narration to edge-tts and animation to Manim, then check that their durations align.</blockquote>
-<!-- pro-tip:end -->
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/blender-1906-san-francisco/"><img src="data/gifs/2102466523164274839.gif" alt="1906 San Francisco Market Street Blender Reconstruction" width="100%" /></a><br>
-<strong>1906 San Francisco Market Street Blender Reconstruction</strong><br>
-
-<sub><a href="prompts/2102466523164274839.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/blender-1906-san-francisco/">Watch preview · Website ↗</a> · <a href="https://x.com/alexalbert__/status/2102466523164274839">Original post ↗</a></sub>
-<!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip</strong><br><code>Before modeling anything, build a source file</code>: Build a historical source file before modeling so architectural details can be checked against evidence.</blockquote>
-<!-- pro-tip:end -->
-</td>
-<td width="50%" valign="top">
-<a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/pixel-art-wizard-html-prompt/"><img src="data/gifs/2102476258948927543.gif" alt="Animated Pixel Art Wizard in Canvas 2D" width="100%" /></a><br>
-<strong>Animated Pixel Art Wizard in Canvas 2D</strong><br>
-
-<sub><a href="prompts/2102476258948927543.md">View prompt · GitHub</a> · <a href="https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/prompts/pixel-art-wizard-html-prompt/">Watch preview · Website ↗</a> · <a href="https://x.com/majidmanzarpour/status/2102476258948927543">Original post ↗</a></sub>
-<!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip</strong><br><code>imageSmoothingEnabled = false</code>: Disable canvas interpolation and retain integer scaling and the pixel grid for crisp edges.</blockquote>
-<!-- pro-tip:end -->
-</td>
-</tr>
-</table>
-
 
 ## Start here
 
