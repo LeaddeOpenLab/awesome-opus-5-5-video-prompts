@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-20T09:07:50.618Z",
+  "model": "opus5.5",
+  "prompt": "build a sliceable jelly toy",
+  "promptTranslations": {
+    "en": "build a sliceable jelly toy"
+  },
+  "summary": "Otto compares Claude Opus 5.5 against MiniMax M3.1 Flash on building an interactive sliceable jelly toy, showcasing the resulting functional 3D jelly simulation produced by Claude Opus 5.5.",
+  "summaryEn": "Interactive Sliceable Jelly Toy Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2112309298768306299",
+    "canonicalUrl": "https://x.com/ottollm/status/2112309298768306299",
+    "author": {
+      "username": "ottollm",
+      "displayName": "Otto",
+      "profileUrl": "https://x.com/ottollm"
+    },
+    "publishedAt": "2026-10-19T22:25:56.000Z",
+    "collectedAt": "2026-10-20T08:26:02.460Z",
+    "language": "en",
+    "originalText": "first impression of MiniMax M3.1 Flash vs Claude Opus 5.5\n\non paper it's not even a fight. MiniMax is 26.7x cheaper on input and 33.3x cheaper on output. so i gave both the exact same prompt: build a sliceable jelly toy.\n\nhere's what MiniMax did with it\n\n> went full agent mode\n> thought for 10+ minutes\n> ran ~50 commands\n> decided \"cannon-es is buggy\" and started rewriting the physics engine. nobody asked\n> then died on error 50110: insufficient balance\n> jelly delivered: zero\n\nmeanwhile Claude just made the jelly. the pink one in the video. you can actually slice it.\n\nwait.\n\ntheir own numbers look great: 73.7% on DeepSWE, 91% on BabyVision, 170+ tok/s, open weights on Oct 23. all self reported, nobody has verified them yet.\n\nhonest part: this is one prompt, not a benchmark. for small scoped jobs as a subagent i'd still try it, at that price experimenting is basically free. but on anything open ended, 170 tok/s means nothing when it spends them on stuff you didn't ask for.\n\nthe cheapest model in the room ran out of money first.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ottollm/status/2112309298768306299",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2112309155235016704/img/n7en_EBBx4lb647d.jpg",
+        "analysisUrl": "https://x.com/ottollm/status/2112309298768306299"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 126
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/ottollm/status/2112312293132501126",
+        "text": "@masamunecode ok ok ok you just wrote a better metric than half the eval papers out there. cost per thing that actually works",
+        "author": "ottollm"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/ottollm/status/2112309298768306299",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2112309155235016704/img/n7en_EBBx4lb647d.jpg",
+  "coverPath": "data/covers/2112309298768306299-wide.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2112309155235016704",
+    "x-post:2112309298768306299"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive Sliceable Jelly Toy Simulation",
+      "summary": "Otto compares Claude Opus 5.5 against MiniMax M3.1 Flash on building an interactive sliceable jelly toy, showcasing the resulting functional 3D jelly simulation produced by Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "first impression of MiniMax M3.1 Flash vs Claude Opus 5.5 ... meanwhile Claude just made the jelly. the pink one in the video. you can actually slice it."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build a sliceable jelly toy",
+        "englishText": "build a sliceable jelly toy",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Subsequent feedback prompts mentioned in video footnote ('JELLY TOY BUILT WITH CLAUDE OPUS 5.5 + FEEDBACK')",
+          "Execution environment and frontend framework setup instructions"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video includes a demonstration at 00:29 showing the interactive pink jelly toy slicing in half with physics responses upon mouse or touch swiping.",
+        "textualResultQuote": "meanwhile Claude just made the jelly. the pink one in the video. you can actually slice it."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "cannon-es",
+          "role": "3D physics library for rigid body and collision calculations",
+          "evidence": "decided \"cannon-es is buggy\" and started rewriting the physics engine",
+          "sourceUrl": "https://x.com/ottollm/status/2112309298768306299",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Sliceable 3D Jelly Toy",
+        "topic": "games-interactive",
+        "tags": [
+          "interactive-demo",
+          "3d-physics",
+          "canvas-interactive",
+          "claude-opus-5.5",
+          "toy-simulation"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 generated the interactive code and physics handling to produce the interactive jelly toy demo.",
+      "outputSource": "Web canvas browser renderer",
+      "divisionEvidence": "meanwhile Claude just made the jelly. the pink one in the video. you can actually slice it. (Video footnote: 'JELLY TOY BUILT WITH CLAUDE OPUS 5.5 + FEEDBACK')",
+      "video": {
+        "shots": "Motion graphics comparison deck transitioning to an interactive web screen recording of the sliced jelly toy",
+        "duration": "32s",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates Claude Opus 5.5 generating a functional interactive 3D physics scene (sliceable jelly toy) with video verification of the working program.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/ottollm/status/2112309298768306299",
+        "start": 192,
+        "end": 219
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/ottollm/status/2112309298768306299",
+        "author": "ottollm",
+        "postId": "2112309298768306299",
+        "publishedAt": "2026-10-19T22:25:56.000Z"
+      },
+      "checkedAt": "2026-10-20T08:55:10.412Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/ottollm/status/2112309298768306299",
+        "evidence": ""
+      }
+    },
+    "summary": "Otto compares Claude Opus 5.5 against MiniMax M3.1 Flash on building an interactive sliceable jelly toy, showcasing the resulting functional 3D jelly simulation produced by Claude Opus 5.5.",
+    "summaryEn": "Interactive Sliceable Jelly Toy Simulation",
+    "originalPrompt": "build a sliceable jelly toy",
+    "sourceRange": {
+      "start": 192,
+      "end": 219
+    },
+    "translations": {
+      "zh": "build a sliceable jelly toy",
+      "en": "build a sliceable jelly toy"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Sliceable 3D Jelly Toy",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Subsequent feedback prompts mentioned in video footnote ('JELLY TOY BUILT WITH CLAUDE OPUS 5.5 + FEEDBACK')",
+        "Execution environment and frontend framework setup instructions"
+      ],
+      "evidence": "The video includes a demonstration at 00:29 showing the interactive pink jelly toy slicing in half with physics responses upon mouse or touch swiping."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
