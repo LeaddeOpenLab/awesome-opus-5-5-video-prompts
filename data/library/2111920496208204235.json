@@ -1,0 +1,290 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-21T03:39:14.012Z",
+  "model": "opus5.5",
+  "prompt": "make the most realistic water scene it could, in WebGPU, with a floating camera.",
+  "promptTranslations": {
+    "en": "make the most realistic water scene it could, in WebGPU, with a floating camera."
+  },
+  "summary": "Claude Opus 5.5 generates a zero-dependency WebGPU realistic ocean water simulation using multi-agent critique.",
+  "summaryEn": "Real-time WebGPU Ocean Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111920496208204235",
+    "canonicalUrl": "https://x.com/AmirMushich/status/2111920496208204235",
+    "author": {
+      "username": "AmirMushich",
+      "displayName": "AmirMušić",
+      "profileUrl": "https://x.com/AmirMushich"
+    },
+    "publishedAt": "2026-10-18T20:40:58.000Z",
+    "collectedAt": "2026-10-20T08:26:02.460Z",
+    "language": "en",
+    "originalText": "The ocean in a 58.5KB file.. \nClaude Opus 5.5 is sick..\n\nSwim:\nhttps://t.co/Pg50uAHENL\n\nprompt🔽by @sashikantsingh_ https://t.co/2THv9306ug",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AmirMushich/status/2111920496208204235",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111918177818927104/img/VoZtLDNPlZKCbvlu.jpg",
+        "analysisUrl": "https://x.com/AmirMushich/status/2111920496208204235"
+      }
+    ],
+    "metrics": {
+      "likeCount": 412,
+      "repostCount": 32,
+      "replyCount": 32,
+      "quoteCount": 2,
+      "viewCount": 20223
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AmirMushich/status/2112298402948268296",
+        "text": "@fahnx8 @sashikantsingh_ Been looking at them for a while, too!",
+        "author": "AmirMushich"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AmirMushich/status/2112298324115988658",
+        "text": "@LinAiDreams @sashikantsingh_ Good take",
+        "author": "AmirMushich"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AmirMushich/status/2112297773450031226",
+        "text": "@TechieBySA @sashikantsingh_ Thank you brother!",
+        "author": "AmirMushich"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AmirMushich/status/2112134724944576714",
+        "text": "@yulikay @sashikantsingh_ 🙏🙏🙏",
+        "author": "AmirMushich"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AmirMushich/status/2111936229830742400",
+        "text": "@HyperM0nkey1 @sashikantsingh_ Real time simulation sir 👀",
+        "author": "AmirMushich"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AmirMushich/status/2111936166014685397",
+        "text": "@acobp @sashikantsingh_ How exactly do you edit in claude burazer?\nCurious cuz I got some level of control over it, but not 100% there",
+        "author": "AmirMushich"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AmirMushich/status/2111926539063574930",
+        "text": "@ivandev_dev @sashikantsingh_ I agree man, this is incredible\nDid you try it in the artifact?",
+        "author": "AmirMushich"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AmirMushich/status/2111923581341032555",
+        "text": "@botrehan_ @sashikantsingh_ gm my friend\nhow is it going?",
+        "author": "AmirMushich"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AmirMushich/status/2111922841721684427",
+        "text": "@jimmyyangrz @sashikantsingh_ this is a cool idea, I agree",
+        "author": "AmirMushich"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AmirMushich/status/2111922766962147489",
+        "text": "@LillyLiCT @sashikantsingh_ where can I check it? :)",
+        "author": "AmirMushich"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AmirMushich/status/2111921555710304685",
+        "text": "@youraipulse @sashikantsingh_ can take my eyes off of it, too",
+        "author": "AmirMushich"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/AmirMushich/status/2111921281054736657",
+        "text": "@LillyLiCT @sashikantsingh_ I agree, this is so beautiful...\nare you playing around with Opus5.5 Lilly?",
+        "author": "AmirMushich"
+      },
+      {
+        "url": "https://claude.ai/artifact/XqzQjakQTaFV3Dx58GCPeT",
+        "text": "Claude Artifact\n\n\n Content is user-generated and unverified.\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "AmirMushich"
+      },
+      {
+        "url": "https://x.com/AmirMushich/status/2111920496208204235",
+        "text": "AmirMušić on X: \"The ocean in a 58.5KB file.. \nClaude Opus 5.5 is sick..\n\nSwim:\nhttps://t.co/Pg50uAHENL\n\nprompt🔽by @sashikantsingh_\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nAmirMušić on X: \"The ocean in a 58.5KB file.. \nClaude Opus 5.5 is sick..\n\nSwim:\nhttps://t.co/Pg50uAHENL\n\nprompt🔽by @sashikantsingh_\"\n\n\n\nAmirMušić\n\n@AmirMushich\n\n\n\n\nThe ocean in a 58.5KB file.. \nClaude Opus 5.5 is sick..\n\nSwim:\nclaude.ai/artifact/XqzQj…\n\nprompt🔽by @sashikantsingh_\n\n\n00:00\n\n\n\n\n\n\n\n\n8:40 PM · Oct 18, 2026·24.9K\nViews\n\n\n32\n33\n428\n295\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nAmirMušić@AmirMushichFollow\nCreative architect. Ex-Warner Music, PepsiCo, Spotify fr. designer. Fusing 10+ yr of brand & ad design with AI. Collabs: [email&#160;protected]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSashi@sashikantsingh_Follow\nI write code, Learning DSA && dev.\nDm For Collab 📩\n\n\n\n\n\n\n\n\nAmirMušić\n\n@AmirMushich\n\n\n\n\nThe ocean in a 58.5KB file.. \nClaude Opus 5.5 is sick..\n\nSwim:\nclaude.ai/artifact/XqzQj…\n\nprompt🔽by @sashikantsingh_\n\n\n00:00\n\n\n\n\n\n\n\n\n8:40 PM · Oct 18, 2026·24.9K\nViews\n\n\n32\n33\n428\n295\n\n\n\n\n\n\n\n\n\nAmirMušić\n\n@AmirMushich\nOct 18\n\n\nPrompt:\n\n\n\n\nSashi\n\n@sashikantsingh_\nOct 17\n\nReplying to @sashikantsingh_\nprompt: make the most realistic water scene it could, in WebGPU, with a floating camera. It wrote the renderer from scratch with no engine or libraries. It took screenshots of its own output and had separate subagents critique the screenshots, so it wasn&#x27;t judging its own work. Show more\n\n\n\n\n\n1\n\n11\n2.2K\n\n\n\n\n\n\n\n\n\nAmirMušić\n\n@AmirMushich\nOct 18\n\n\nUse free stuff others are still sleeping on:\n\n\n\n\nAmirMušić\n\n@AmirMushich\nOct 16\n\nF*ck PDFs - use this.\n\namirmushich.com/lab/leaf/\n\n\n\n\n00:00\n\n\n\n\n\n\n\n\n\n\n\n\n14\n1.6K\n\n\n\n\n\n\n\n\n\n\n\nJimmy Young | building LUCI\n\n@jimmyyangrz\nOct 18\n\n\nhaving separate subagents critique the screenshots is the real trick here. ask the same model to grade its own render and it&#x27;ll tell you it looks great every time\n\n\n1\n\n3\n369\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "AmirMushich"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/AmirMushich/status/2111920496208204235",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111918177818927104/img/VoZtLDNPlZKCbvlu.jpg",
+  "coverPath": "data/covers/2111920496208204235-wide.jpg",
+  "gifPath": "data/gifs/2111920496208204235.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111918177818927104",
+    "x-post:2111920496208204235"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Real-time WebGPU Ocean Simulation",
+      "summary": "Claude Opus 5.5 generates a zero-dependency WebGPU realistic ocean water simulation using multi-agent critique.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude Artifacts",
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 is sick..\n\nSwim:\nhttps://claude.ai/artifact/XqzQjakQTaFV3Dx58GCPeT"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "make the most realistic water scene it could, in WebGPU, with a floating camera.",
+        "englishText": "make the most realistic water scene it could, in WebGPU, with a floating camera.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "full system prompt",
+          "subagent feedback loop specifications",
+          "renderer implementation constraints"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Screen recording exhibits real-time animated water waves, lighting reflection, and floating camera perspective.",
+        "textualResultQuote": "The ocean in a 58.5KB file.."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "WebGPU",
+          "role": "Graphics rendering API",
+          "evidence": "It wrote the renderer from scratch with no engine or libraries... in WebGPU",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "WebGPU",
+          "role": "GPU rendering API",
+          "evidence": "make the most realistic water scene it could, in WebGPU, with a floating camera.",
+          "sourceUrl": "https://x.com/AmirMushich/status/2111920496208204235",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "WebGPU Ocean Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "webgpu",
+          "procedural-generation",
+          "claude-artifacts",
+          "water-simulation"
+        ]
+      },
+      "targetModelRole": "Code generation of custom WebGPU shader and rendering logic via subagent visual critique.",
+      "outputSource": "WebGPU canvas executed in Claude Artifacts",
+      "divisionEvidence": "It wrote the renderer from scratch with no engine or libraries. It took screenshots of its own output and had separate subagents critique the screenshots",
+      "video": {
+        "shots": "Single continuous floating camera shot",
+        "duration": "00:19",
+        "aspectRatio": "16:10",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic demonstration of Claude Opus 5.5 authoring an interactive 3D WebGPU simulation with video output.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/AmirMushich/status/2111920496208204235",
+        "start": 1425,
+        "end": 1505
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/AmirMushich/status/2111920496208204235",
+        "author": "AmirMushich",
+        "postId": "2111920496208204235",
+        "publishedAt": "2026-10-18T20:40:58.000Z"
+      },
+      "checkedAt": "2026-10-21T03:34:19.274Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/AmirMushich/status/2111920496208204235",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generates a zero-dependency WebGPU realistic ocean water simulation using multi-agent critique.",
+    "summaryEn": "Real-time WebGPU Ocean Simulation",
+    "originalPrompt": "make the most realistic water scene it could, in WebGPU, with a floating camera.",
+    "sourceRange": {
+      "start": 1425,
+      "end": 1505
+    },
+    "translations": {
+      "zh": "make the most realistic water scene it could, in WebGPU, with a floating camera.",
+      "en": "make the most realistic water scene it could, in WebGPU, with a floating camera."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "WebGPU Ocean Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "full system prompt",
+        "subagent feedback loop specifications",
+        "renderer implementation constraints"
+      ],
+      "evidence": "Screen recording exhibits real-time animated water waves, lighting reflection, and floating camera perspective."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

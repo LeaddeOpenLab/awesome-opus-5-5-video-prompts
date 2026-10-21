@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-21T03:39:14.664Z",
+  "model": "opus5.5",
+  "prompt": "Create a high-end cinematic and educational 3D animation in Three.js explaining how a Tesla-style electric motor works.\n\nThe animation must have an EXACT FIXED DURATION OF 40 SECONDS.\n\nDo not make the animation shorter or longer than 40 seconds.\n\nFinal output:\nExact duration: 40.0 seconds\nResolution: 1920x1080\nAspect ratio: 16:9\nFrame rate: 30 FPS\nTotal frames: 1200\nHigh-quality anti-aliasing\nHigh-resolution textures\nSmooth deterministic animation\nExtremely realistic visual quality\n\nThe overall visual quality should resemble a premium automotive engineering visualization or a high-end technical product commercial.\n\nBuild a detailed electric motor assembly inspired by the permanent-magnet AC motors used in modern Tesla vehicles. Do not use Tesla logos or branding.\n\nFIXED TIMELINE\n\n0–5 seconds — Hero introduction\nShow the fully assembled electric motor suspended in a dark premium studio environment.\n\nUse:\ncinematic lighting\nrealistic brushed aluminum\ncopper\nsteel\nmagnets\ninsulation\nbearings\nrealistic reflections\nambient occlusion\nrealistic shadows\nsubtle depth of field\n\nUse a slow cinematic orbit around the motor.\n\nDuring the final part of this section, make the outer housing partially transparent to reveal the internal structure.\n\n5–11 seconds — Internal components\nMove the camera closer and reveal the internal motor components.\n\nClearly show:\nstator\ncopper windings\nrotor\npermanent magnets\nmotor shaft\nbearings\nhousing\ncooling channels\nelectrical connections\n\nHighlight the important components one at a time.\n\nUse floating labels with short technical names.\n\nKeep non-highlighted components slightly darker or semi-transparent.\n\n11–19 seconds — Exploded view\nCreate a dramatic and highly detailed exploded-view animation.\n\nSeparate the motor into many individual mechanical components along the motor axis.\n\nInclude:\nouter housing\nfront cover\nrear cover\nbearings\nshaft\nrotor core\nrotor magnets\nstator core\ncopper windings\ncooling components\nseals\nelectrical connectors\nfasteners\n\nKeep every component perfectly aligned.\n\nThe viewer must clearly understand where every piece belongs.\n\nMove the camera slightly through the exploded assembly while highlighting the major components.\n\nNear the end of this section, smoothly begin reassembling the motor.\n\n19–28 seconds — Electromagnetic operation\nFinish reassembling the motor.\n\nExplain how electricity creates rotation.\n\nVisualize three-phase AC current flowing through the stator windings.\n\nUse animated electrical pulses inside the copper coils.\n\nVisualize the rotating magnetic field around the stator using elegant semi-transparent magnetic field lines, arrows, or vector effects.\n\nShow how the rotating magnetic field interacts with the permanent magnets inside the rotor.\n\nClearly visualize magnetic attraction and repulsion.\n\nThe rotor should begin rotating slowly and gradually accelerate.\n\nDisplay these short explanations:\n\n\"Three-phase current creates a rotating magnetic field.\"\n\n\"The magnetic field interacts with the rotor.\"\n\n\"This interaction generates torque.\"\n\n28–34 seconds — Technical close-up and power flow\nShow a close-up cross-section of the stator and rotor.\n\nVisualize:\nmagnetic north and south poles\nrotating stator magnetic field\nrotor magnetic field\nelectric current direction\ntorque direction\nrotor rotation direction\n\nOptionally show three small animated sine waves representing phases A, B, and C, separated by 120 degrees.\n\nThen visualize the complete energy conversion process:\n\nElectrical energy\n→ stator current\n→ rotating magnetic field\n→ electromagnetic torque\n→ rotor rotation\n→ mechanical output through the shaft.\nUse clean animated arrows to show the energy flow.\n34–38 seconds — High-speed operation\nShow the motor operating at high RPM.\nThe rotor should spin smoothly while the stator remains stationary.\nAdd subtle motion blur.\n\nShow cooling flow through the housing using translucent fluid paths.\n\nVisualize heat being removed from the stator and copper windings.\n38–40 seconds — Final hero shot\n\nTransition back to the fully assembled motor.\n\nShow a slow cinematic rotation.\n\nBriefly use a transparent cutaway so the spinning rotor can still be seen inside.\n\nFinish with the text:\n\n\"Electrical energy → Electromagnetic torque → Mechanical rotation\"\nThe animation must end exactly at 40.0 seconds.\n\nVISUAL QUALITY\n\nThe animation should be:\n\nphotorealistic\n\ncinematic\n\ntechnically believable\n\nfuturistic\n\npremium\neducational\nclean and uncluttered\nAvoid cartoon styling.\nUse realistic:\nmachining details\nbolts\nscrews\n\ncopper winding geometry\n\nsegmented magnets\nbearing geometry\ncooling channels\nmetallic surfaces\nmanufacturing details\nUse physically based materials with:\nmetallic properties\nroughness variation\nnormal maps\nrealistic reflections\n\nsubtle surface imperfections\nCAMERA\nUse only smooth cinematic camera movement:\nslow orbit shots\nmacro close-ups\ncontrolled dolly-ins\n\nexploded-view fly-throughs\n\ncross-section shots\n\ninternal motor views\nAvoid:\nshaky camera movement\nsudden cuts\nexcessive zooming\nunrealistic camera acceleration\n\nANIMATION REQUIREMENTS\nAll transitions must be smooth and deliberate.\nThe exploded-view sequence should be one of the main visual highlights.\nAll mechanical components must separate and reassemble with precise motion.\nElectrical currents, magnetic fields, torque indicators, and rotor rotation must remain synchronized.\n\nThe entire animation must use the same fixed 40-second timeline on every execution so the prompt can be used as a repeatable benchmark between different AI coding and 3D generation systems.",
+  "promptTranslations": {
+    "en": "Create a high-end cinematic and educational 3D animation in Three.js explaining how a Tesla-style electric motor works.\n\nThe animation must have an EXACT FIXED DURATION OF 40 SECONDS.\n\nDo not make the animation shorter or longer than 40 seconds.\n\nFinal output:\nExact duration: 40.0 seconds\nResolution: 1920x1080\nAspect ratio: 16:9\nFrame rate: 30 FPS\nTotal frames: 1200\nHigh-quality anti-aliasing\nHigh-resolution textures\nSmooth deterministic animation\nExtremely realistic visual quality\n\nThe overall visual quality should resemble a premium automotive engineering visualization or a high-end technical product commercial.\n\nBuild a detailed electric motor assembly inspired by the permanent-magnet AC motors used in modern Tesla vehicles. Do not use Tesla logos or branding.\n\nFIXED TIMELINE\n\n0–5 seconds — Hero introduction\nShow the fully assembled electric motor suspended in a dark premium studio environment.\n\nUse:\ncinematic lighting\nrealistic brushed aluminum\ncopper\nsteel\nmagnets\ninsulation\nbearings\nrealistic reflections\nambient occlusion\nrealistic shadows\nsubtle depth of field\n\nUse a slow cinematic orbit around the motor.\n\nDuring the final part of this section, make the outer housing partially transparent to reveal the internal structure.\n\n5–11 seconds — Internal components\nMove the camera closer and reveal the internal motor components.\n\nClearly show:\nstator\ncopper windings\nrotor\npermanent magnets\nmotor shaft\nbearings\nhousing\ncooling channels\nelectrical connections\n\nHighlight the important components one at a time.\n\nUse floating labels with short technical names.\n\nKeep non-highlighted components slightly darker or semi-transparent.\n\n11–19 seconds — Exploded view\nCreate a dramatic and highly detailed exploded-view animation.\n\nSeparate the motor into many individual mechanical components along the motor axis.\n\nInclude:\nouter housing\nfront cover\nrear cover\nbearings\nshaft\nrotor core\nrotor magnets\nstator core\ncopper windings\ncooling components\nseals\nelectrical connectors\nfasteners\n\nKeep every component perfectly aligned.\n\nThe viewer must clearly understand where every piece belongs.\n\nMove the camera slightly through the exploded assembly while highlighting the major components.\n\nNear the end of this section, smoothly begin reassembling the motor.\n\n19–28 seconds — Electromagnetic operation\nFinish reassembling the motor.\n\nExplain how electricity creates rotation.\n\nVisualize three-phase AC current flowing through the stator windings.\n\nUse animated electrical pulses inside the copper coils.\n\nVisualize the rotating magnetic field around the stator using elegant semi-transparent magnetic field lines, arrows, or vector effects.\n\nShow how the rotating magnetic field interacts with the permanent magnets inside the rotor.\n\nClearly visualize magnetic attraction and repulsion.\n\nThe rotor should begin rotating slowly and gradually accelerate.\n\nDisplay these short explanations:\n\n\"Three-phase current creates a rotating magnetic field.\"\n\n\"The magnetic field interacts with the rotor.\"\n\n\"This interaction generates torque.\"\n\n28–34 seconds — Technical close-up and power flow\nShow a close-up cross-section of the stator and rotor.\n\nVisualize:\nmagnetic north and south poles\nrotating stator magnetic field\nrotor magnetic field\nelectric current direction\ntorque direction\nrotor rotation direction\n\nOptionally show three small animated sine waves representing phases A, B, and C, separated by 120 degrees.\n\nThen visualize the complete energy conversion process:\n\nElectrical energy\n→ stator current\n→ rotating magnetic field\n→ electromagnetic torque\n→ rotor rotation\n→ mechanical output through the shaft.\nUse clean animated arrows to show the energy flow.\n34–38 seconds — High-speed operation\nShow the motor operating at high RPM.\nThe rotor should spin smoothly while the stator remains stationary.\nAdd subtle motion blur.\n\nShow cooling flow through the housing using translucent fluid paths.\n\nVisualize heat being removed from the stator and copper windings.\n38–40 seconds — Final hero shot\n\nTransition back to the fully assembled motor.\n\nShow a slow cinematic rotation.\n\nBriefly use a transparent cutaway so the spinning rotor can still be seen inside.\n\nFinish with the text:\n\n\"Electrical energy → Electromagnetic torque → Mechanical rotation\"\nThe animation must end exactly at 40.0 seconds.\n\nVISUAL QUALITY\n\nThe animation should be:\n\nphotorealistic\n\ncinematic\n\ntechnically believable\n\nfuturistic\n\npremium\neducational\nclean and uncluttered\nAvoid cartoon styling.\nUse realistic:\nmachining details\nbolts\nscrews\n\ncopper winding geometry\n\nsegmented magnets\nbearing geometry\ncooling channels\nmetallic surfaces\nmanufacturing details\nUse physically based materials with:\nmetallic properties\nroughness variation\nnormal maps\nrealistic reflections\n\nsubtle surface imperfections\nCAMERA\nUse only smooth cinematic camera movement:\nslow orbit shots\nmacro close-ups\ncontrolled dolly-ins\n\nexploded-view fly-throughs\n\ncross-section shots\n\ninternal motor views\nAvoid:\nshaky camera movement\nsudden cuts\nexcessive zooming\nunrealistic camera acceleration\n\nANIMATION REQUIREMENTS\nAll transitions must be smooth and deliberate.\nThe exploded-view sequence should be one of the main visual highlights.\nAll mechanical components must separate and reassemble with precise motion.\nElectrical currents, magnetic fields, torque indicators, and rotor rotation must remain synchronized.\n\nThe entire animation must use the same fixed 40-second timeline on every execution so the prompt can be used as a repeatable benchmark between different AI coding and 3D generation systems."
+  },
+  "summary": "Rubens Soto benchmarks Claude Opus 5.5 against DeepSeek V4.1 Flash using an identical, detailed prompt to generate a 40-second deterministic Three.js cinematic 3D animation explaining the operation of a Tesla-style electric motor.",
+  "summaryEn": "Cinematic 3D Tesla-Style Electric Motor Three.js Animation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2111513156589629941",
+    "canonicalUrl": "https://x.com/rubenssoto_ai/status/2111513156589629941",
+    "author": {
+      "username": "rubenssoto_ai",
+      "displayName": "Rubens Soto | AI & SaaS",
+      "profileUrl": "https://x.com/rubenssoto_ai"
+    },
+    "publishedAt": "2026-10-17T17:42:21.000Z",
+    "collectedAt": "2026-10-20T08:26:02.460Z",
+    "language": "en",
+    "originalText": "Opus 5.5 vs DeepSeek V4.1 Flash 1017\n\nSame prompt.  Same task. \n\nBuild a cinematic 3D animation explaining how a Tesla-style electric motor works.\n\nIs Opus in trouble? https://t.co/Oi2EPft1KR",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/rubenssoto_ai/status/2111513156589629941",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2111513090248310784/img/M1iqXKLysMP8Gscp.jpg",
+        "analysisUrl": "https://x.com/rubenssoto_ai/status/2111513156589629941"
+      }
+    ],
+    "metrics": {
+      "likeCount": 860,
+      "repostCount": 60,
+      "replyCount": 102,
+      "quoteCount": 10,
+      "viewCount": 61196
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2111987155903889789",
+        "text": "@EjMcDuffieJr nice result man, what prompt did you use?",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2111776765831967198",
+        "text": "@sepulse I used opencode",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2111776592678498312",
+        "text": "@befreeandwin 1 hour and 50 minutes",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2111776545165500900",
+        "text": "@ddpkx It is :)",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2111776490454970783",
+        "text": "@guinnessstache You need to have a good hardware hehe",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2111776373417099325",
+        "text": "@stevencheng But deepseek cost is impressive",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2111773666723713156",
+        "text": "@murphywuwu I agree my friend",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2111773604207542605",
+        "text": "@psycho_czar It is better but 16 times more expensive",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2111772567690244383",
+        "text": "@Organic_Release This time I tested using openrouter, I needed to pay",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2111772470298419435",
+        "text": "@swSalim I agree my friend",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2111772042907271664",
+        "text": "@emonuxui I agree man, deepseek seems really solid this time",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2111763270289748466",
+        "text": "@Leapofcode I agree mate",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2111622597943111728",
+        "text": "@Craft_the_web No, 100% three.js",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2111622420788638043",
+        "text": "@Foxfire1st I agree the cost was really good",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2111621966742294685",
+        "text": "@GitHunters Create a high-end cinematic and educational 3D animation in Three.js explaining how a Tesla-style electric motor works.\n\nThe animation must have an EXACT FIXED DURATION OF 40 SECONDS.\n\nDo not make the animation shorter or longer than 40 seconds.\n\nFinal output:\nExact duration: 40.0 seconds\nResolution: 1920x1080\nAspect ratio: 16:9\nFrame rate: 30 FPS\nTotal frames: 1200\nHigh-quality anti-aliasing\nHigh-resolution textures\nSmooth deterministic animation\nExtremely realistic visual quality\n\nThe overall visual quality should resemble a premium automotive engineering visualization or a high-end technical product commercial.\n\nBuild a detailed electric motor assembly inspired by the permanent-magnet AC motors used in modern Tesla vehicles. Do not use Tesla logos or branding.\n\nFIXED TIMELINE\n\n0–5 seconds — Hero introduction\nShow the fully assembled electric motor suspended in a dark premium studio environment.\n\nUse:\ncinematic lighting\nrealistic brushed aluminum\ncopper\nsteel\nmagnets\ninsulation\nbearings\nrealistic reflections\nambient occlusion\nrealistic shadows\nsubtle depth of field\n\nUse a slow cinematic orbit around the motor.\n\nDuring the final part of this section, make the outer housing partially transparent to reveal the internal structure.\n\n5–11 seconds — Internal components\nMove the camera closer and reveal the internal motor components.\n\nClearly show:\nstator\ncopper windings\nrotor\npermanent magnets\nmotor shaft\nbearings\nhousing\ncooling channels\nelectrical connections\n\nHighlight the important components one at a time.\n\nUse floating labels with short technical names.\n\nKeep non-highlighted components slightly darker or semi-transparent.\n\n11–19 seconds — Exploded view\nCreate a dramatic and highly detailed exploded-view animation.\n\nSeparate the motor into many individual mechanical components along the motor axis.\n\nInclude:\nouter housing\nfront cover\nrear cover\nbearings\nshaft\nrotor core\nrotor magnets\nstator core\ncopper windings\ncooling components\nseals\nelectrical connectors\nfasteners\n\nKeep every component perfectly aligned.\n\nThe viewer must clearly understand where every piece belongs.\n\nMove the camera slightly through the exploded assembly while highlighting the major components.\n\nNear the end of this section, smoothly begin reassembling the motor.\n\n19–28 seconds — Electromagnetic operation\nFinish reassembling the motor.\n\nExplain how electricity creates rotation.\n\nVisualize three-phase AC current flowing through the stator windings.\n\nUse animated electrical pulses inside the copper coils.\n\nVisualize the rotating magnetic field around the stator using elegant semi-transparent magnetic field lines, arrows, or vector effects.\n\nShow how the rotating magnetic field interacts with the permanent magnets inside the rotor.\n\nClearly visualize magnetic attraction and repulsion.\n\nThe rotor should begin rotating slowly and gradually accelerate.\n\nDisplay these short explanations:\n\n\"Three-phase current creates a rotating magnetic field.\"\n\n\"The magnetic field interacts with the rotor.\"\n\n\"This interaction generates torque.\"\n\n28–34 seconds — Technical close-up and power flow\nShow a close-up cross-section of the stator and rotor.\n\nVisualize:\nmagnetic north and south poles\nrotating stator magnetic field\nrotor magnetic field\nelectric current direction\ntorque direction\nrotor rotation direction\n\nOptionally show three small animated sine waves representing phases A, B, and C, separated by 120 degrees.\n\nThen visualize the complete energy conversion process:\n\nElectrical energy\n→ stator current\n→ rotating magnetic field\n→ electromagnetic torque\n→ rotor rotation\n→ mechanical output through the shaft.\nUse clean animated arrows to show the energy flow.\n34–38 seconds — High-speed operation\nShow the motor operating at high RPM.\nThe rotor should spin smoothly while the stator remains stationary.\nAdd subtle motion blur.\n\nShow cooling flow through the housing using translucent fluid paths.\n\nVisualize heat being removed from the stator and copper windings.\n38–40 seconds — Final hero shot\n\nTransition back to the fully assembled motor.\n\nShow a slow cinematic rotation.\n\nBriefly use a transparent cutaway so the spinning rotor can still be seen inside.\n\nFinish with the text:\n\n\"Electrical energy → Electromagnetic torque → Mechanical rotation\"\nThe animation must end exactly at 40.0 seconds.\n\nVISUAL QUALITY\n\nThe animation should be:\n\nphotorealistic\n\ncinematic\n\ntechnically believable\n\nfuturistic\n\npremium\neducational\nclean and uncluttered\nAvoid cartoon styling.\nUse realistic:\nmachining details\nbolts\nscrews\n\ncopper winding geometry\n\nsegmented magnets\nbearing geometry\ncooling channels\nmetallic surfaces\nmanufacturing details\nUse physically based materials with:\nmetallic properties\nroughness variation\nnormal maps\nrealistic reflections\n\nsubtle surface imperfections\nCAMERA\nUse only smooth cinematic camera movement:\nslow orbit shots\nmacro close-ups\ncontrolled dolly-ins\n\nexploded-view fly-throughs\n\ncross-section shots\n\ninternal motor views\nAvoid:\nshaky camera movement\nsudden cuts\nexcessive zooming\nunrealistic camera acceleration\n\nANIMATION REQUIREMENTS\nAll transitions must be smooth and deliberate.\nThe exploded-view sequence should be one of the main visual highlights.\nAll mechanical components must separate and reassemble with precise motion.\nElectrical currents, magnetic fields, torque indicators, and rotor rotation must remain synchronized.\n\nThe entire animation must use the same fixed 40-second timeline on every execution so the prompt can be used as a repeatable benchmark between different AI coding and 3D generation systems.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2111621899000148389",
+        "text": "@mohshehab For sure my friend:\n\nCreate a high-end cinematic and educational 3D animation in Three.js explaining how a Tesla-style electric motor works.\n\nThe animation must have an EXACT FIXED DURATION OF 40 SECONDS.\n\nDo not make the animation shorter or longer than 40 seconds.\n\nFinal output:\nExact duration: 40.0 seconds\nResolution: 1920x1080\nAspect ratio: 16:9\nFrame rate: 30 FPS\nTotal frames: 1200\nHigh-quality anti-aliasing\nHigh-resolution textures\nSmooth deterministic animation\nExtremely realistic visual quality\n\nThe overall visual quality should resemble a premium automotive engineering visualization or a high-end technical product commercial.\n\nBuild a detailed electric motor assembly inspired by the permanent-magnet AC motors used in modern Tesla vehicles. Do not use Tesla logos or branding.\n\nFIXED TIMELINE\n\n0–5 seconds — Hero introduction\nShow the fully assembled electric motor suspended in a dark premium studio environment.\n\nUse:\ncinematic lighting\nrealistic brushed aluminum\ncopper\nsteel\nmagnets\ninsulation\nbearings\nrealistic reflections\nambient occlusion\nrealistic shadows\nsubtle depth of field\n\nUse a slow cinematic orbit around the motor.\n\nDuring the final part of this section, make the outer housing partially transparent to reveal the internal structure.\n\n5–11 seconds — Internal components\nMove the camera closer and reveal the internal motor components.\n\nClearly show:\nstator\ncopper windings\nrotor\npermanent magnets\nmotor shaft\nbearings\nhousing\ncooling channels\nelectrical connections\n\nHighlight the important components one at a time.\n\nUse floating labels with short technical names.\n\nKeep non-highlighted components slightly darker or semi-transparent.\n\n11–19 seconds — Exploded view\nCreate a dramatic and highly detailed exploded-view animation.\n\nSeparate the motor into many individual mechanical components along the motor axis.\n\nInclude:\nouter housing\nfront cover\nrear cover\nbearings\nshaft\nrotor core\nrotor magnets\nstator core\ncopper windings\ncooling components\nseals\nelectrical connectors\nfasteners\n\nKeep every component perfectly aligned.\n\nThe viewer must clearly understand where every piece belongs.\n\nMove the camera slightly through the exploded assembly while highlighting the major components.\n\nNear the end of this section, smoothly begin reassembling the motor.\n\n19–28 seconds — Electromagnetic operation\nFinish reassembling the motor.\n\nExplain how electricity creates rotation.\n\nVisualize three-phase AC current flowing through the stator windings.\n\nUse animated electrical pulses inside the copper coils.\n\nVisualize the rotating magnetic field around the stator using elegant semi-transparent magnetic field lines, arrows, or vector effects.\n\nShow how the rotating magnetic field interacts with the permanent magnets inside the rotor.\n\nClearly visualize magnetic attraction and repulsion.\n\nThe rotor should begin rotating slowly and gradually accelerate.\n\nDisplay these short explanations:\n\n\"Three-phase current creates a rotating magnetic field.\"\n\n\"The magnetic field interacts with the rotor.\"\n\n\"This interaction generates torque.\"\n\n28–34 seconds — Technical close-up and power flow\nShow a close-up cross-section of the stator and rotor.\n\nVisualize:\nmagnetic north and south poles\nrotating stator magnetic field\nrotor magnetic field\nelectric current direction\ntorque direction\nrotor rotation direction\n\nOptionally show three small animated sine waves representing phases A, B, and C, separated by 120 degrees.\n\nThen visualize the complete energy conversion process:\n\nElectrical energy\n→ stator current\n→ rotating magnetic field\n→ electromagnetic torque\n→ rotor rotation\n→ mechanical output through the shaft.\nUse clean animated arrows to show the energy flow.\n34–38 seconds — High-speed operation\nShow the motor operating at high RPM.\nThe rotor should spin smoothly while the stator remains stationary.\nAdd subtle motion blur.\n\nShow cooling flow through the housing using translucent fluid paths.\n\nVisualize heat being removed from the stator and copper windings.\n38–40 seconds — Final hero shot\n\nTransition back to the fully assembled motor.\n\nShow a slow cinematic rotation.\n\nBriefly use a transparent cutaway so the spinning rotor can still be seen inside.\n\nFinish with the text:\n\n\"Electrical energy → Electromagnetic torque → Mechanical rotation\"\nThe animation must end exactly at 40.0 seconds.\n\nVISUAL QUALITY\n\nThe animation should be:\n\nphotorealistic\n\ncinematic\n\ntechnically believable\n\nfuturistic\n\npremium\neducational\nclean and uncluttered\nAvoid cartoon styling.\nUse realistic:\nmachining details\nbolts\nscrews\n\ncopper winding geometry\n\nsegmented magnets\nbearing geometry\ncooling channels\nmetallic surfaces\nmanufacturing details\nUse physically based materials with:\nmetallic properties\nroughness variation\nnormal maps\nrealistic reflections\n\nsubtle surface imperfections\nCAMERA\nUse only smooth cinematic camera movement:\nslow orbit shots\nmacro close-ups\ncontrolled dolly-ins\n\nexploded-view fly-throughs\n\ncross-section shots\n\ninternal motor views\nAvoid:\nshaky camera movement\nsudden cuts\nexcessive zooming\nunrealistic camera acceleration\n\nANIMATION REQUIREMENTS\nAll transitions must be smooth and deliberate.\nThe exploded-view sequence should be one of the main visual highlights.\nAll mechanical components must separate and reassemble with precise motion.\nElectrical currents, magnetic fields, torque indicators, and rotor rotation must remain synchronized.\n\nThe entire animation must use the same fixed 40-second timeline on every execution so the prompt can be used as a repeatable benchmark between different AI coding and 3D generation systems.",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2111596546118607267",
+        "text": "@DanielZambrini Deepseek very cost effective",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2111596411191964156",
+        "text": "@ZryMiller 1 hour and 50 minutes, it took some time",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2111591273907814481",
+        "text": "@darekgusto I dont have but it is completly possible to do...let me work on that",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2111589501541732584",
+        "text": "@AIvorax1 I agree, the opus price was not justifiable",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/rubenssoto_ai/status/2112538939433079287",
+        "text": "@CanopyWave_CW Pretty nice result man, I liked",
+        "author": "rubenssoto_ai"
+      },
+      {
+        "url": "https://x.com/rubenssoto_ai/status/2111513156589629941",
+        "text": "Rubens Soto | AI & SaaS on X: \"Opus 5.5 vs DeepSeek V4.1 Flash 1017\n\nSame prompt.  Same task. \n\nBuild a cinematic 3D animation explaining how a Tesla-style electric motor works.\n\nIs Opus in trouble?\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nRubens Soto | AI & SaaS on X: \"Opus 5.5 vs DeepSeek V4.1 Flash 1017\n\nSame prompt.  Same task. \n\nBuild a cinematic 3D animation explaining how a Tesla-style electric motor works.\n\nIs Opus in trouble?\"\n\n\n\nRubens Soto | AI & SaaS\n\n@rubenssoto_ai\n\n\n\n\nOpus 5.5 vs DeepSeek V4.1 Flash 1017\n\nSame prompt.  Same task. \n\nBuild a cinematic 3D animation explaining how a Tesla-style electric motor works.\n\nIs Opus in trouble?\n\n\n00:00\n\n\n\n\n\n\n\n\n5:42 PM · Oct 17, 2026·61.8K\nViews\n\n\n102\n60\n862\n226\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nRubens Soto | AI & SaaS@rubenssoto_aiFollow\n17 yrs in tech. DBA & data engineer background.\nBuilding AI/SaaS from scratch.\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRubens Soto | AI & SaaS\n\n@rubenssoto_ai\n\n\n\n\nOpus 5.5 vs DeepSeek V4.1 Flash 1017\n\nSame prompt.  Same task. \n\nBuild a cinematic 3D animation explaining how a Tesla-style electric motor works.\n\nIs Opus in trouble?\n\n\n00:00\n\n\n\n\n\n\n\n\n5:42 PM · Oct 17, 2026·61.8K\nViews\n\n\n102\n60\n862\n226\n\n\n\n\n\n\n\n\n\nJulien | griotta\n\n@itzs_julien\nOct 17\n\n\ndeepseek did amazing for the price\n\n\n1\n\n54\n3.1K\n\n\n\n\n\n\n\n\n\n\n\nAddy ⛩️\n\n@Saas_addy\nOct 17\n\n\nDeepSeek just delivered a cleaner Tesla motor animation for $1.25 than Opus did for $16  the premium model might need a new strategy.\n\n\n1\n\n18\n2.6K\n\n\n\n\n\n\n\n\n\n\n\nChris\n\n@manxlab\nOct 17\n\n\nI always wonder if the cheaper models can reach the same fidelity with a second pass, or if they reach a certain upper limit. Sometimes it matters, most of the time it doesn’t\n\n\n2\n\n9\n2K\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "rubenssoto_ai"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/rubenssoto_ai/status/2111513156589629941",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2111513090248310784/img/M1iqXKLysMP8Gscp.jpg",
+  "coverPath": "data/covers/2111513156589629941-wide.jpg",
+  "gifPath": "data/gifs/2111513156589629941.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2111513090248310784",
+    "x-post:2111513156589629941"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Cinematic 3D Tesla-Style Electric Motor Three.js Animation",
+      "summary": "Rubens Soto benchmarks Claude Opus 5.5 against DeepSeek V4.1 Flash using an identical, detailed prompt to generate a 40-second deterministic Three.js cinematic 3D animation explaining the operation of a Tesla-style electric motor.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "OpenRouter",
+        "authorUseConfirmed": true,
+        "evidence": "Author post title: 'Opus 5.5 vs DeepSeek V4.1 Flash 1017' and thread replies: 'This time I tested using openrouter, I needed to pay' and 'I used opencode'."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Create a high-end cinematic and educational 3D animation in Three.js explaining how a Tesla-style electric motor works.\n\nThe animation must have an EXACT FIXED DURATION OF 40 SECONDS.\n\nDo not make the animation shorter or longer than 40 seconds.\n\nFinal output:\nExact duration: 40.0 seconds\nResolution: 1920x1080\nAspect ratio: 16:9\nFrame rate: 30 FPS\nTotal frames: 1200\nHigh-quality anti-aliasing\nHigh-resolution textures\nSmooth deterministic animation\nExtremely realistic visual quality\n\nThe overall visual quality should resemble a premium automotive engineering visualization or a high-end technical product commercial.\n\nBuild a detailed electric motor assembly inspired by the permanent-magnet AC motors used in modern Tesla vehicles. Do not use Tesla logos or branding.\n\nFIXED TIMELINE\n\n0–5 seconds — Hero introduction\nShow the fully assembled electric motor suspended in a dark premium studio environment.\n\nUse:\ncinematic lighting\nrealistic brushed aluminum\ncopper\nsteel\nmagnets\ninsulation\nbearings\nrealistic reflections\nambient occlusion\nrealistic shadows\nsubtle depth of field\n\nUse a slow cinematic orbit around the motor.\n\nDuring the final part of this section, make the outer housing partially transparent to reveal the internal structure.\n\n5–11 seconds — Internal components\nMove the camera closer and reveal the internal motor components.\n\nClearly show:\nstator\ncopper windings\nrotor\npermanent magnets\nmotor shaft\nbearings\nhousing\ncooling channels\nelectrical connections\n\nHighlight the important components one at a time.\n\nUse floating labels with short technical names.\n\nKeep non-highlighted components slightly darker or semi-transparent.\n\n11–19 seconds — Exploded view\nCreate a dramatic and highly detailed exploded-view animation.\n\nSeparate the motor into many individual mechanical components along the motor axis.\n\nInclude:\nouter housing\nfront cover\nrear cover\nbearings\nshaft\nrotor core\nrotor magnets\nstator core\ncopper windings\ncooling components\nseals\nelectrical connectors\nfasteners\n\nKeep every component perfectly aligned.\n\nThe viewer must clearly understand where every piece belongs.\n\nMove the camera slightly through the exploded assembly while highlighting the major components.\n\nNear the end of this section, smoothly begin reassembling the motor.\n\n19–28 seconds — Electromagnetic operation\nFinish reassembling the motor.\n\nExplain how electricity creates rotation.\n\nVisualize three-phase AC current flowing through the stator windings.\n\nUse animated electrical pulses inside the copper coils.\n\nVisualize the rotating magnetic field around the stator using elegant semi-transparent magnetic field lines, arrows, or vector effects.\n\nShow how the rotating magnetic field interacts with the permanent magnets inside the rotor.\n\nClearly visualize magnetic attraction and repulsion.\n\nThe rotor should begin rotating slowly and gradually accelerate.\n\nDisplay these short explanations:\n\n\"Three-phase current creates a rotating magnetic field.\"\n\n\"The magnetic field interacts with the rotor.\"\n\n\"This interaction generates torque.\"\n\n28–34 seconds — Technical close-up and power flow\nShow a close-up cross-section of the stator and rotor.\n\nVisualize:\nmagnetic north and south poles\nrotating stator magnetic field\nrotor magnetic field\nelectric current direction\ntorque direction\nrotor rotation direction\n\nOptionally show three small animated sine waves representing phases A, B, and C, separated by 120 degrees.\n\nThen visualize the complete energy conversion process:\n\nElectrical energy\n→ stator current\n→ rotating magnetic field\n→ electromagnetic torque\n→ rotor rotation\n→ mechanical output through the shaft.\nUse clean animated arrows to show the energy flow.\n34–38 seconds — High-speed operation\nShow the motor operating at high RPM.\nThe rotor should spin smoothly while the stator remains stationary.\nAdd subtle motion blur.\n\nShow cooling flow through the housing using translucent fluid paths.\n\nVisualize heat being removed from the stator and copper windings.\n38–40 seconds — Final hero shot\n\nTransition back to the fully assembled motor.\n\nShow a slow cinematic rotation.\n\nBriefly use a transparent cutaway so the spinning rotor can still be seen inside.\n\nFinish with the text:\n\n\"Electrical energy → Electromagnetic torque → Mechanical rotation\"\nThe animation must end exactly at 40.0 seconds.\n\nVISUAL QUALITY\n\nThe animation should be:\n\nphotorealistic\n\ncinematic\n\ntechnically believable\n\nfuturistic\n\npremium\neducational\nclean and uncluttered\nAvoid cartoon styling.\nUse realistic:\nmachining details\nbolts\nscrews\n\ncopper winding geometry\n\nsegmented magnets\nbearing geometry\ncooling channels\nmetallic surfaces\nmanufacturing details\nUse physically based materials with:\nmetallic properties\nroughness variation\nnormal maps\nrealistic reflections\n\nsubtle surface imperfections\nCAMERA\nUse only smooth cinematic camera movement:\nslow orbit shots\nmacro close-ups\ncontrolled dolly-ins\n\nexploded-view fly-throughs\n\ncross-section shots\n\ninternal motor views\nAvoid:\nshaky camera movement\nsudden cuts\nexcessive zooming\nunrealistic camera acceleration\n\nANIMATION REQUIREMENTS\nAll transitions must be smooth and deliberate.\nThe exploded-view sequence should be one of the main visual highlights.\nAll mechanical components must separate and reassemble with precise motion.\nElectrical currents, magnetic fields, torque indicators, and rotor rotation must remain synchronized.\n\nThe entire animation must use the same fixed 40-second timeline on every execution so the prompt can be used as a repeatable benchmark between different AI coding and 3D generation systems.",
+        "englishText": "Create a high-end cinematic and educational 3D animation in Three.js explaining how a Tesla-style electric motor works.\n\nThe animation must have an EXACT FIXED DURATION OF 40 SECONDS.\n\nDo not make the animation shorter or longer than 40 seconds.\n\nFinal output:\nExact duration: 40.0 seconds\nResolution: 1920x1080\nAspect ratio: 16:9\nFrame rate: 30 FPS\nTotal frames: 1200\nHigh-quality anti-aliasing\nHigh-resolution textures\nSmooth deterministic animation\nExtremely realistic visual quality\n\nThe overall visual quality should resemble a premium automotive engineering visualization or a high-end technical product commercial.\n\nBuild a detailed electric motor assembly inspired by the permanent-magnet AC motors used in modern Tesla vehicles. Do not use Tesla logos or branding.\n\nFIXED TIMELINE\n\n0–5 seconds — Hero introduction\nShow the fully assembled electric motor suspended in a dark premium studio environment.\n\nUse:\ncinematic lighting\nrealistic brushed aluminum\ncopper\nsteel\nmagnets\ninsulation\nbearings\nrealistic reflections\nambient occlusion\nrealistic shadows\nsubtle depth of field\n\nUse a slow cinematic orbit around the motor.\n\nDuring the final part of this section, make the outer housing partially transparent to reveal the internal structure.\n\n5–11 seconds — Internal components\nMove the camera closer and reveal the internal motor components.\n\nClearly show:\nstator\ncopper windings\nrotor\npermanent magnets\nmotor shaft\nbearings\nhousing\ncooling channels\nelectrical connections\n\nHighlight the important components one at a time.\n\nUse floating labels with short technical names.\n\nKeep non-highlighted components slightly darker or semi-transparent.\n\n11–19 seconds — Exploded view\nCreate a dramatic and highly detailed exploded-view animation.\n\nSeparate the motor into many individual mechanical components along the motor axis.\n\nInclude:\nouter housing\nfront cover\nrear cover\nbearings\nshaft\nrotor core\nrotor magnets\nstator core\ncopper windings\ncooling components\nseals\nelectrical connectors\nfasteners\n\nKeep every component perfectly aligned.\n\nThe viewer must clearly understand where every piece belongs.\n\nMove the camera slightly through the exploded assembly while highlighting the major components.\n\nNear the end of this section, smoothly begin reassembling the motor.\n\n19–28 seconds — Electromagnetic operation\nFinish reassembling the motor.\n\nExplain how electricity creates rotation.\n\nVisualize three-phase AC current flowing through the stator windings.\n\nUse animated electrical pulses inside the copper coils.\n\nVisualize the rotating magnetic field around the stator using elegant semi-transparent magnetic field lines, arrows, or vector effects.\n\nShow how the rotating magnetic field interacts with the permanent magnets inside the rotor.\n\nClearly visualize magnetic attraction and repulsion.\n\nThe rotor should begin rotating slowly and gradually accelerate.\n\nDisplay these short explanations:\n\n\"Three-phase current creates a rotating magnetic field.\"\n\n\"The magnetic field interacts with the rotor.\"\n\n\"This interaction generates torque.\"\n\n28–34 seconds — Technical close-up and power flow\nShow a close-up cross-section of the stator and rotor.\n\nVisualize:\nmagnetic north and south poles\nrotating stator magnetic field\nrotor magnetic field\nelectric current direction\ntorque direction\nrotor rotation direction\n\nOptionally show three small animated sine waves representing phases A, B, and C, separated by 120 degrees.\n\nThen visualize the complete energy conversion process:\n\nElectrical energy\n→ stator current\n→ rotating magnetic field\n→ electromagnetic torque\n→ rotor rotation\n→ mechanical output through the shaft.\nUse clean animated arrows to show the energy flow.\n34–38 seconds — High-speed operation\nShow the motor operating at high RPM.\nThe rotor should spin smoothly while the stator remains stationary.\nAdd subtle motion blur.\n\nShow cooling flow through the housing using translucent fluid paths.\n\nVisualize heat being removed from the stator and copper windings.\n38–40 seconds — Final hero shot\n\nTransition back to the fully assembled motor.\n\nShow a slow cinematic rotation.\n\nBriefly use a transparent cutaway so the spinning rotor can still be seen inside.\n\nFinish with the text:\n\n\"Electrical energy → Electromagnetic torque → Mechanical rotation\"\nThe animation must end exactly at 40.0 seconds.\n\nVISUAL QUALITY\n\nThe animation should be:\n\nphotorealistic\n\ncinematic\n\ntechnically believable\n\nfuturistic\n\npremium\neducational\nclean and uncluttered\nAvoid cartoon styling.\nUse realistic:\nmachining details\nbolts\nscrews\n\ncopper winding geometry\n\nsegmented magnets\nbearing geometry\ncooling channels\nmetallic surfaces\nmanufacturing details\nUse physically based materials with:\nmetallic properties\nroughness variation\nnormal maps\nrealistic reflections\n\nsubtle surface imperfections\nCAMERA\nUse only smooth cinematic camera movement:\nslow orbit shots\nmacro close-ups\ncontrolled dolly-ins\n\nexploded-view fly-throughs\n\ncross-section shots\n\ninternal motor views\nAvoid:\nshaky camera movement\nsudden cuts\nexcessive zooming\nunrealistic camera acceleration\n\nANIMATION REQUIREMENTS\nAll transitions must be smooth and deliberate.\nThe exploded-view sequence should be one of the main visual highlights.\nAll mechanical components must separate and reassemble with precise motion.\nElectrical currents, magnetic fields, torque indicators, and rotor rotation must remain synchronized.\n\nThe entire animation must use the same fixed 40-second timeline on every execution so the prompt can be used as a repeatable benchmark between different AI coding and 3D generation systems.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video precisely matches the timeline instructions across all 40 seconds: hero introduction (0-5s), internal components (5-11s), exploded assembly view along the motor axis (11-19s), electromagnetic operation with field lines and text overlays (19-28s), torque generation and cross-section (28-34s), thermal management and high-speed operation (34-38s), and the final hero shot displaying the requested closing tagline (38-40s).",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "opencode",
+          "role": "Code execution and development environment",
+          "evidence": "@sepulse I used opencode",
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2111776765831967198",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "OpenRouter",
+          "role": "LLM API platform routing the requests to Claude Opus 5.5",
+          "evidence": "@Organic_Release This time I tested using openrouter, I needed to pay",
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2111772567690244383",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D graphics library for procedural geometry, shaders, lighting, and animation rendering",
+          "evidence": "@Craft_the_web No, 100% three.js",
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2111622597943111728",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "Create a high-end cinematic and educational 3D animation in Three.js explaining how a Tesla-style electric motor works.",
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2111621966742294685",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Cinematic 3D Electric Motor Technical Explainer",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "electric-motor",
+          "technical-animation",
+          "benchmark",
+          "educational"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 generated the complete procedural Three.js codebase, defining 3D meshes, materials, deterministic timeline sequencing, camera tracks, and UI overlays.",
+      "outputSource": "Procedural Three.js script rendered in a WebGL browser canvas and screen-recorded.",
+      "divisionEvidence": "Author confirms Opus 5.5 was prompted to write pure Three.js code ('No, 100% three.js') via opencode and OpenRouter, which then rendered the animation directly in WebGL.",
+      "video": {
+        "shots": "Seven-stage fixed timeline including 3D hero orbit, internal cutaway, axial exploded assembly, electromagnetic flux visualization, stator cross-section, high-speed thermal view, and final hero wrap-up.",
+        "duration": "40s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 video generation case using Three.js, complete with author-provided verbatim prompt, documented tooling, verified model version, and video demonstrating full prompt execution.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/rubenssoto_ai/status/2111621966742294685",
+        "start": 12,
+        "end": 5578
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/rubenssoto_ai/status/2111513156589629941",
+        "author": "rubenssoto_ai",
+        "postId": "2111513156589629941",
+        "publishedAt": "2026-10-17T17:42:21.000Z"
+      },
+      "checkedAt": "2026-10-21T03:33:03.014Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/rubenssoto_ai/status/2111621966742294685",
+        "evidence": ""
+      }
+    },
+    "summary": "Rubens Soto benchmarks Claude Opus 5.5 against DeepSeek V4.1 Flash using an identical, detailed prompt to generate a 40-second deterministic Three.js cinematic 3D animation explaining the operation of a Tesla-style electric motor.",
+    "summaryEn": "Cinematic 3D Tesla-Style Electric Motor Three.js Animation",
+    "originalPrompt": "Create a high-end cinematic and educational 3D animation in Three.js explaining how a Tesla-style electric motor works.\n\nThe animation must have an EXACT FIXED DURATION OF 40 SECONDS.\n\nDo not make the animation shorter or longer than 40 seconds.\n\nFinal output:\nExact duration: 40.0 seconds\nResolution: 1920x1080\nAspect ratio: 16:9\nFrame rate: 30 FPS\nTotal frames: 1200\nHigh-quality anti-aliasing\nHigh-resolution textures\nSmooth deterministic animation\nExtremely realistic visual quality\n\nThe overall visual quality should resemble a premium automotive engineering visualization or a high-end technical product commercial.\n\nBuild a detailed electric motor assembly inspired by the permanent-magnet AC motors used in modern Tesla vehicles. Do not use Tesla logos or branding.\n\nFIXED TIMELINE\n\n0–5 seconds — Hero introduction\nShow the fully assembled electric motor suspended in a dark premium studio environment.\n\nUse:\ncinematic lighting\nrealistic brushed aluminum\ncopper\nsteel\nmagnets\ninsulation\nbearings\nrealistic reflections\nambient occlusion\nrealistic shadows\nsubtle depth of field\n\nUse a slow cinematic orbit around the motor.\n\nDuring the final part of this section, make the outer housing partially transparent to reveal the internal structure.\n\n5–11 seconds — Internal components\nMove the camera closer and reveal the internal motor components.\n\nClearly show:\nstator\ncopper windings\nrotor\npermanent magnets\nmotor shaft\nbearings\nhousing\ncooling channels\nelectrical connections\n\nHighlight the important components one at a time.\n\nUse floating labels with short technical names.\n\nKeep non-highlighted components slightly darker or semi-transparent.\n\n11–19 seconds — Exploded view\nCreate a dramatic and highly detailed exploded-view animation.\n\nSeparate the motor into many individual mechanical components along the motor axis.\n\nInclude:\nouter housing\nfront cover\nrear cover\nbearings\nshaft\nrotor core\nrotor magnets\nstator core\ncopper windings\ncooling components\nseals\nelectrical connectors\nfasteners\n\nKeep every component perfectly aligned.\n\nThe viewer must clearly understand where every piece belongs.\n\nMove the camera slightly through the exploded assembly while highlighting the major components.\n\nNear the end of this section, smoothly begin reassembling the motor.\n\n19–28 seconds — Electromagnetic operation\nFinish reassembling the motor.\n\nExplain how electricity creates rotation.\n\nVisualize three-phase AC current flowing through the stator windings.\n\nUse animated electrical pulses inside the copper coils.\n\nVisualize the rotating magnetic field around the stator using elegant semi-transparent magnetic field lines, arrows, or vector effects.\n\nShow how the rotating magnetic field interacts with the permanent magnets inside the rotor.\n\nClearly visualize magnetic attraction and repulsion.\n\nThe rotor should begin rotating slowly and gradually accelerate.\n\nDisplay these short explanations:\n\n\"Three-phase current creates a rotating magnetic field.\"\n\n\"The magnetic field interacts with the rotor.\"\n\n\"This interaction generates torque.\"\n\n28–34 seconds — Technical close-up and power flow\nShow a close-up cross-section of the stator and rotor.\n\nVisualize:\nmagnetic north and south poles\nrotating stator magnetic field\nrotor magnetic field\nelectric current direction\ntorque direction\nrotor rotation direction\n\nOptionally show three small animated sine waves representing phases A, B, and C, separated by 120 degrees.\n\nThen visualize the complete energy conversion process:\n\nElectrical energy\n→ stator current\n→ rotating magnetic field\n→ electromagnetic torque\n→ rotor rotation\n→ mechanical output through the shaft.\nUse clean animated arrows to show the energy flow.\n34–38 seconds — High-speed operation\nShow the motor operating at high RPM.\nThe rotor should spin smoothly while the stator remains stationary.\nAdd subtle motion blur.\n\nShow cooling flow through the housing using translucent fluid paths.\n\nVisualize heat being removed from the stator and copper windings.\n38–40 seconds — Final hero shot\n\nTransition back to the fully assembled motor.\n\nShow a slow cinematic rotation.\n\nBriefly use a transparent cutaway so the spinning rotor can still be seen inside.\n\nFinish with the text:\n\n\"Electrical energy → Electromagnetic torque → Mechanical rotation\"\nThe animation must end exactly at 40.0 seconds.\n\nVISUAL QUALITY\n\nThe animation should be:\n\nphotorealistic\n\ncinematic\n\ntechnically believable\n\nfuturistic\n\npremium\neducational\nclean and uncluttered\nAvoid cartoon styling.\nUse realistic:\nmachining details\nbolts\nscrews\n\ncopper winding geometry\n\nsegmented magnets\nbearing geometry\ncooling channels\nmetallic surfaces\nmanufacturing details\nUse physically based materials with:\nmetallic properties\nroughness variation\nnormal maps\nrealistic reflections\n\nsubtle surface imperfections\nCAMERA\nUse only smooth cinematic camera movement:\nslow orbit shots\nmacro close-ups\ncontrolled dolly-ins\n\nexploded-view fly-throughs\n\ncross-section shots\n\ninternal motor views\nAvoid:\nshaky camera movement\nsudden cuts\nexcessive zooming\nunrealistic camera acceleration\n\nANIMATION REQUIREMENTS\nAll transitions must be smooth and deliberate.\nThe exploded-view sequence should be one of the main visual highlights.\nAll mechanical components must separate and reassemble with precise motion.\nElectrical currents, magnetic fields, torque indicators, and rotor rotation must remain synchronized.\n\nThe entire animation must use the same fixed 40-second timeline on every execution so the prompt can be used as a repeatable benchmark between different AI coding and 3D generation systems.",
+    "sourceRange": {
+      "start": 12,
+      "end": 5578
+    },
+    "translations": {
+      "zh": "Create a high-end cinematic and educational 3D animation in Three.js explaining how a Tesla-style electric motor works.\n\nThe animation must have an EXACT FIXED DURATION OF 40 SECONDS.\n\nDo not make the animation shorter or longer than 40 seconds.\n\nFinal output:\nExact duration: 40.0 seconds\nResolution: 1920x1080\nAspect ratio: 16:9\nFrame rate: 30 FPS\nTotal frames: 1200\nHigh-quality anti-aliasing\nHigh-resolution textures\nSmooth deterministic animation\nExtremely realistic visual quality\n\nThe overall visual quality should resemble a premium automotive engineering visualization or a high-end technical product commercial.\n\nBuild a detailed electric motor assembly inspired by the permanent-magnet AC motors used in modern Tesla vehicles. Do not use Tesla logos or branding.\n\nFIXED TIMELINE\n\n0–5 seconds — Hero introduction\nShow the fully assembled electric motor suspended in a dark premium studio environment.\n\nUse:\ncinematic lighting\nrealistic brushed aluminum\ncopper\nsteel\nmagnets\ninsulation\nbearings\nrealistic reflections\nambient occlusion\nrealistic shadows\nsubtle depth of field\n\nUse a slow cinematic orbit around the motor.\n\nDuring the final part of this section, make the outer housing partially transparent to reveal the internal structure.\n\n5–11 seconds — Internal components\nMove the camera closer and reveal the internal motor components.\n\nClearly show:\nstator\ncopper windings\nrotor\npermanent magnets\nmotor shaft\nbearings\nhousing\ncooling channels\nelectrical connections\n\nHighlight the important components one at a time.\n\nUse floating labels with short technical names.\n\nKeep non-highlighted components slightly darker or semi-transparent.\n\n11–19 seconds — Exploded view\nCreate a dramatic and highly detailed exploded-view animation.\n\nSeparate the motor into many individual mechanical components along the motor axis.\n\nInclude:\nouter housing\nfront cover\nrear cover\nbearings\nshaft\nrotor core\nrotor magnets\nstator core\ncopper windings\ncooling components\nseals\nelectrical connectors\nfasteners\n\nKeep every component perfectly aligned.\n\nThe viewer must clearly understand where every piece belongs.\n\nMove the camera slightly through the exploded assembly while highlighting the major components.\n\nNear the end of this section, smoothly begin reassembling the motor.\n\n19–28 seconds — Electromagnetic operation\nFinish reassembling the motor.\n\nExplain how electricity creates rotation.\n\nVisualize three-phase AC current flowing through the stator windings.\n\nUse animated electrical pulses inside the copper coils.\n\nVisualize the rotating magnetic field around the stator using elegant semi-transparent magnetic field lines, arrows, or vector effects.\n\nShow how the rotating magnetic field interacts with the permanent magnets inside the rotor.\n\nClearly visualize magnetic attraction and repulsion.\n\nThe rotor should begin rotating slowly and gradually accelerate.\n\nDisplay these short explanations:\n\n\"Three-phase current creates a rotating magnetic field.\"\n\n\"The magnetic field interacts with the rotor.\"\n\n\"This interaction generates torque.\"\n\n28–34 seconds — Technical close-up and power flow\nShow a close-up cross-section of the stator and rotor.\n\nVisualize:\nmagnetic north and south poles\nrotating stator magnetic field\nrotor magnetic field\nelectric current direction\ntorque direction\nrotor rotation direction\n\nOptionally show three small animated sine waves representing phases A, B, and C, separated by 120 degrees.\n\nThen visualize the complete energy conversion process:\n\nElectrical energy\n→ stator current\n→ rotating magnetic field\n→ electromagnetic torque\n→ rotor rotation\n→ mechanical output through the shaft.\nUse clean animated arrows to show the energy flow.\n34–38 seconds — High-speed operation\nShow the motor operating at high RPM.\nThe rotor should spin smoothly while the stator remains stationary.\nAdd subtle motion blur.\n\nShow cooling flow through the housing using translucent fluid paths.\n\nVisualize heat being removed from the stator and copper windings.\n38–40 seconds — Final hero shot\n\nTransition back to the fully assembled motor.\n\nShow a slow cinematic rotation.\n\nBriefly use a transparent cutaway so the spinning rotor can still be seen inside.\n\nFinish with the text:\n\n\"Electrical energy → Electromagnetic torque → Mechanical rotation\"\nThe animation must end exactly at 40.0 seconds.\n\nVISUAL QUALITY\n\nThe animation should be:\n\nphotorealistic\n\ncinematic\n\ntechnically believable\n\nfuturistic\n\npremium\neducational\nclean and uncluttered\nAvoid cartoon styling.\nUse realistic:\nmachining details\nbolts\nscrews\n\ncopper winding geometry\n\nsegmented magnets\nbearing geometry\ncooling channels\nmetallic surfaces\nmanufacturing details\nUse physically based materials with:\nmetallic properties\nroughness variation\nnormal maps\nrealistic reflections\n\nsubtle surface imperfections\nCAMERA\nUse only smooth cinematic camera movement:\nslow orbit shots\nmacro close-ups\ncontrolled dolly-ins\n\nexploded-view fly-throughs\n\ncross-section shots\n\ninternal motor views\nAvoid:\nshaky camera movement\nsudden cuts\nexcessive zooming\nunrealistic camera acceleration\n\nANIMATION REQUIREMENTS\nAll transitions must be smooth and deliberate.\nThe exploded-view sequence should be one of the main visual highlights.\nAll mechanical components must separate and reassemble with precise motion.\nElectrical currents, magnetic fields, torque indicators, and rotor rotation must remain synchronized.\n\nThe entire animation must use the same fixed 40-second timeline on every execution so the prompt can be used as a repeatable benchmark between different AI coding and 3D generation systems.",
+      "en": "Create a high-end cinematic and educational 3D animation in Three.js explaining how a Tesla-style electric motor works.\n\nThe animation must have an EXACT FIXED DURATION OF 40 SECONDS.\n\nDo not make the animation shorter or longer than 40 seconds.\n\nFinal output:\nExact duration: 40.0 seconds\nResolution: 1920x1080\nAspect ratio: 16:9\nFrame rate: 30 FPS\nTotal frames: 1200\nHigh-quality anti-aliasing\nHigh-resolution textures\nSmooth deterministic animation\nExtremely realistic visual quality\n\nThe overall visual quality should resemble a premium automotive engineering visualization or a high-end technical product commercial.\n\nBuild a detailed electric motor assembly inspired by the permanent-magnet AC motors used in modern Tesla vehicles. Do not use Tesla logos or branding.\n\nFIXED TIMELINE\n\n0–5 seconds — Hero introduction\nShow the fully assembled electric motor suspended in a dark premium studio environment.\n\nUse:\ncinematic lighting\nrealistic brushed aluminum\ncopper\nsteel\nmagnets\ninsulation\nbearings\nrealistic reflections\nambient occlusion\nrealistic shadows\nsubtle depth of field\n\nUse a slow cinematic orbit around the motor.\n\nDuring the final part of this section, make the outer housing partially transparent to reveal the internal structure.\n\n5–11 seconds — Internal components\nMove the camera closer and reveal the internal motor components.\n\nClearly show:\nstator\ncopper windings\nrotor\npermanent magnets\nmotor shaft\nbearings\nhousing\ncooling channels\nelectrical connections\n\nHighlight the important components one at a time.\n\nUse floating labels with short technical names.\n\nKeep non-highlighted components slightly darker or semi-transparent.\n\n11–19 seconds — Exploded view\nCreate a dramatic and highly detailed exploded-view animation.\n\nSeparate the motor into many individual mechanical components along the motor axis.\n\nInclude:\nouter housing\nfront cover\nrear cover\nbearings\nshaft\nrotor core\nrotor magnets\nstator core\ncopper windings\ncooling components\nseals\nelectrical connectors\nfasteners\n\nKeep every component perfectly aligned.\n\nThe viewer must clearly understand where every piece belongs.\n\nMove the camera slightly through the exploded assembly while highlighting the major components.\n\nNear the end of this section, smoothly begin reassembling the motor.\n\n19–28 seconds — Electromagnetic operation\nFinish reassembling the motor.\n\nExplain how electricity creates rotation.\n\nVisualize three-phase AC current flowing through the stator windings.\n\nUse animated electrical pulses inside the copper coils.\n\nVisualize the rotating magnetic field around the stator using elegant semi-transparent magnetic field lines, arrows, or vector effects.\n\nShow how the rotating magnetic field interacts with the permanent magnets inside the rotor.\n\nClearly visualize magnetic attraction and repulsion.\n\nThe rotor should begin rotating slowly and gradually accelerate.\n\nDisplay these short explanations:\n\n\"Three-phase current creates a rotating magnetic field.\"\n\n\"The magnetic field interacts with the rotor.\"\n\n\"This interaction generates torque.\"\n\n28–34 seconds — Technical close-up and power flow\nShow a close-up cross-section of the stator and rotor.\n\nVisualize:\nmagnetic north and south poles\nrotating stator magnetic field\nrotor magnetic field\nelectric current direction\ntorque direction\nrotor rotation direction\n\nOptionally show three small animated sine waves representing phases A, B, and C, separated by 120 degrees.\n\nThen visualize the complete energy conversion process:\n\nElectrical energy\n→ stator current\n→ rotating magnetic field\n→ electromagnetic torque\n→ rotor rotation\n→ mechanical output through the shaft.\nUse clean animated arrows to show the energy flow.\n34–38 seconds — High-speed operation\nShow the motor operating at high RPM.\nThe rotor should spin smoothly while the stator remains stationary.\nAdd subtle motion blur.\n\nShow cooling flow through the housing using translucent fluid paths.\n\nVisualize heat being removed from the stator and copper windings.\n38–40 seconds — Final hero shot\n\nTransition back to the fully assembled motor.\n\nShow a slow cinematic rotation.\n\nBriefly use a transparent cutaway so the spinning rotor can still be seen inside.\n\nFinish with the text:\n\n\"Electrical energy → Electromagnetic torque → Mechanical rotation\"\nThe animation must end exactly at 40.0 seconds.\n\nVISUAL QUALITY\n\nThe animation should be:\n\nphotorealistic\n\ncinematic\n\ntechnically believable\n\nfuturistic\n\npremium\neducational\nclean and uncluttered\nAvoid cartoon styling.\nUse realistic:\nmachining details\nbolts\nscrews\n\ncopper winding geometry\n\nsegmented magnets\nbearing geometry\ncooling channels\nmetallic surfaces\nmanufacturing details\nUse physically based materials with:\nmetallic properties\nroughness variation\nnormal maps\nrealistic reflections\n\nsubtle surface imperfections\nCAMERA\nUse only smooth cinematic camera movement:\nslow orbit shots\nmacro close-ups\ncontrolled dolly-ins\n\nexploded-view fly-throughs\n\ncross-section shots\n\ninternal motor views\nAvoid:\nshaky camera movement\nsudden cuts\nexcessive zooming\nunrealistic camera acceleration\n\nANIMATION REQUIREMENTS\nAll transitions must be smooth and deliberate.\nThe exploded-view sequence should be one of the main visual highlights.\nAll mechanical components must separate and reassemble with precise motion.\nElectrical currents, magnetic fields, torque indicators, and rotor rotation must remain synchronized.\n\nThe entire animation must use the same fixed 40-second timeline on every execution so the prompt can be used as a repeatable benchmark between different AI coding and 3D generation systems."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Cinematic 3D Electric Motor Technical Explainer",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely matches the timeline instructions across all 40 seconds: hero introduction (0-5s), internal components (5-11s), exploded assembly view along the motor axis (11-19s), electromagnetic operation with field lines and text overlays (19-28s), torque generation and cross-section (28-34s), thermal management and high-speed operation (34-38s), and the final hero shot displaying the requested closing tagline (38-40s)."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
