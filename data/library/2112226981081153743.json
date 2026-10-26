@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-26T04:07:22.112Z",
+  "model": "opus5.5",
+  "prompt": "make me a beautiful premium card to show off in society",
+  "promptTranslations": {
+    "en": "make me a beautiful premium card to show off in society"
+  },
+  "summary": "An interactive 3D holographic premium membership card component for a mobile application, generated from a prompt to Claude Opus 5.5.",
+  "summaryEn": "Interactive Premium Member Card UI Demo",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2112226981081153743",
+    "canonicalUrl": "https://x.com/aaaaaaaaaaafedb/status/2112226981081153743",
+    "author": {
+      "username": "aaaaaaaaaaafedb",
+      "displayName": "afedb",
+      "profileUrl": "https://x.com/aaaaaaaaaaafedb"
+    },
+    "publishedAt": "2026-10-19T16:58:50.000Z",
+    "collectedAt": "2026-10-26T02:57:48.703Z",
+    "language": "fr",
+    "originalText": "prompt que j'ai donné à opus 5.5 : \n\"fais moi une belle carte premium pour briller en société\"\nje n'en attendais pas moins https://t.co/jWDT7zWwQP",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/aaaaaaaaaaafedb/status/2112226981081153743",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2112226241851858945/img/AYuzw76P8_U_lQRq.jpg",
+        "analysisUrl": "https://x.com/aaaaaaaaaaafedb/status/2112226981081153743"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 61
+    },
+    "matchedRuleIds": [
+      "group:opus:fr:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/jWDT7zWwQP"
+    ]
+  },
+  "xUrl": "https://x.com/aaaaaaaaaaafedb/status/2112226981081153743",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2112226241851858945/img/AYuzw76P8_U_lQRq.jpg",
+  "coverPath": "data/covers/2112226981081153743-wide.jpg",
+  "gifPath": "data/gifs/2112226981081153743.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2112226241851858945",
+    "x-post:2112226981081153743"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive Premium Member Card UI Demo",
+      "summary": "An interactive 3D holographic premium membership card component for a mobile application, generated from a prompt to Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "prompt que j'ai donné à opus 5.5 :"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "fais moi une belle carte premium pour briller en société",
+        "englishText": "make me a beautiful premium card to show off in society",
+        "complete": true,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video demonstrates an interactive mobile interface featuring a premium membership card ('watermochi PREMIUM') with tilt and holographic shine effects when dragged.",
+        "textualResultQuote": "je n'en attendais pas moins"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web/Interactive Renderer",
+          "role": "Renders the interactive mobile UI and 3D card tilt animation",
+          "evidence": "Screen recording demonstrates interactive pointer hover and tilt physics on a mobile mockup.",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Premium Card Component",
+        "topic": "games-interactive",
+        "tags": [
+          "interactive-ui",
+          "3d-card",
+          "mobile-mockup",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Generated the code for the interactive mobile UI component and premium card styling.",
+      "outputSource": "screen_recording",
+      "divisionEvidence": "Author provided the prompt to Opus 5.5, which generated the application code rendered on screen.",
+      "video": {
+        "shots": "Single interactive view with pointer drag interaction",
+        "duration": "0:02",
+        "aspectRatio": "9:18",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Author provides explicit attribution to Opus 5.5, quotes the full original prompt used, and shares a screen recording showing the interactive UI result.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/aaaaaaaaaaafedb/status/2112226981081153743",
+        "start": 37,
+        "end": 93
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/aaaaaaaaaaafedb/status/2112226981081153743",
+        "author": "aaaaaaaaaaafedb",
+        "postId": "2112226981081153743",
+        "publishedAt": "2026-10-19T16:58:50.000Z"
+      },
+      "checkedAt": "2026-10-26T03:47:11.953Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/aaaaaaaaaaafedb/status/2112226981081153743",
+        "evidence": ""
+      }
+    },
+    "summary": "An interactive 3D holographic premium membership card component for a mobile application, generated from a prompt to Claude Opus 5.5.",
+    "summaryEn": "Interactive Premium Member Card UI Demo",
+    "originalPrompt": "fais moi une belle carte premium pour briller en société",
+    "sourceRange": {
+      "start": 37,
+      "end": 93
+    },
+    "translations": {
+      "zh": "fais moi une belle carte premium pour briller en société",
+      "en": "make me a beautiful premium card to show off in society"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Premium Card Component",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video demonstrates an interactive mobile interface featuring a premium membership card ('watermochi PREMIUM') with tilt and holographic shine effects when dragged."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
