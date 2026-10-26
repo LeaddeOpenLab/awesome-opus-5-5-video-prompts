@@ -58,6 +58,19 @@ python3 -m http.server 4173 --bind 127.0.0.1 --directory _site
 
 GitHub 项目站位于子路径，子路径下的 robots.txt 无法控制域名根目录的抓取规则，因此不生成一个无效的项目级 robots.txt；通过 Search Console 提交 sitemap 即可。
 
+### 站点地图策略（2026-10-26）
+
+- 主文件仍为 `sitemap.xml`。构建同时从同一页面列表生成 UTF-8 `sitemap.txt`，每行一个完整的规范网址，无标题和注释。TXT 仅作为 XML 持续无法抓取时的一次备用提交测试；Google 不偏好某种格式，换格式不保证解决抓取问题。
+- 只包含本站希望收录的首页、专题、精选案例和教程，不包含 404、外站仓库地址或媒体文件。当前只有 20 个页面，无需拆分 sitemap 或增加 sitemap index。
+- 继续省略无法可靠确定的 `lastmod`；不要拿构建时间、采集时间冒充页面实质更新时间。不要添加 Google 忽略的 `priority`、`changefreq`。
+- 发布后先确认 TXT 网址返回 200、内容为一行一个 URL，再在当前网址前缀资源的“站点地图”输入框填写 `sitemap.txt`（前缀已包含仓库路径）。保留原 XML 记录用于对照，不反复改名或每日重复提交。
+- sitemap 通过“站点地图”报告提交，不给 XML/TXT 文件本身“请求编入索引”。网址检查中的实时测试仅用于诊断抓取，不代表正式 sitemap 处理成功。
+- 重点 HTML 内页可以独立请求编入索引，无需等待 sitemap 成功；保留正常可抓取的站内链接。手动请求成功不保证最终收录。
+- 分开观察：sitemap 的上次读取时间、状态与已发现网页数；HTML 页的上次抓取时间、索引状态与规范网址。TXT 若也失败且实时测试通过，保留具体错误反馈给 Search Console，不据此重构站点或迁移域名。
+- 若未来能维护 `https://leaddeopenlab.github.io/robots.txt`，可在域名根目录声明完整 sitemap URL；本项目子目录下添加 robots.txt 无效，当前不为此新建根站。
+
+官方依据：[构建与提交 sitemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap)、[站点地图报告与抓取排错](https://support.google.com/webmasters/answer/7451001)、[请求重新抓取](https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl)。
+
 ## 内容维护
 
 - `site/selection.json`：十五个详情案例（首页选取九个）、页面路径、编辑后的标题、简短介绍和使用建议。

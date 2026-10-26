@@ -100,7 +100,7 @@ def document(title, description, body, path='', image_id=None, noindex=False, im
 def write(path, content):
     dest = OUT / path
     dest.parent.mkdir(parents=True, exist_ok=True)
-    dest.write_text(content)
+    dest.write_text(content, encoding='utf-8')
 
 OUT.mkdir(exist_ok=True)
 # Only replace build-owned directories; source records are never modified.
@@ -166,6 +166,9 @@ for item in SELECTION:
 pages.append((build_orbit(ROOT, OUT, BASE, document), None))
 # The build date is not a content-modification date. Omit lastmod rather than invent one.
 write('sitemap.xml','<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f'<url><loc>{E(BASE+p)}</loc></url>\n' for p,_ in pages)+'</urlset>\n')
+# Supported alternative for one-off Search Console submission troubleshooting.
+# Keep both formats on the same page list; neither format guarantees crawling.
+write('sitemap.txt', ''.join(BASE + path + '\n' for path, _ in pages))
 write('.nojekyll','')
 not_found='<div class="wrap"><section class="page-head"><div class="eyebrow">404</div><h1>This page has moved<br>out of frame.</h1><p>Return to the collection to find a prompt for your next project.</p><div class="actions"><a class="button" href="'+E(BASE)+'">Back to the collection →</a></div></section></div>'
 # Absolute asset URLs let GitHub Pages render the 404 at any missing path depth.
