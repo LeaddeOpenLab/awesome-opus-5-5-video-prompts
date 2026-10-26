@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-26T04:02:44.536Z",
+  "model": "opus5.5",
+  "prompt": "an interactive soft-body gummy eyeball in Three.js. Poke it, stretch it, throw it, swing it by the nerve.",
+  "promptTranslations": {
+    "en": "an interactive soft-body gummy eyeball in Three.js. Poke it, stretch it, throw it, swing it by the nerve."
+  },
+  "summary": "Davey benchmarks GPT-6 Astra, Kimi K3.1 Pro, and Claude Opus 5.5 on generating an interactive soft-body gummy eyeball in Three.js that can be poked, stretched, thrown, and swung by the nerve.",
+  "summaryEn": "Interactive Soft-Body Gummy Eyeball in Three.js Benchmark",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2114014158102397168",
+    "canonicalUrl": "https://x.com/daveeyyy_/status/2114014158102397168",
+    "author": {
+      "username": "daveeyyy_",
+      "displayName": "Davey",
+      "profileUrl": "https://x.com/daveeyyy_"
+    },
+    "publishedAt": "2026-10-24T15:20:26.000Z",
+    "collectedAt": "2026-10-26T02:57:48.703Z",
+    "language": "en",
+    "originalText": "GPT-6 Astra vs Kimi K3.1 Pro vs Claude Opus 5.5\n\nSame prompt: an interactive soft-body gummy eyeball in Three.js. Poke it, stretch it, throw it, swing it by the nerve.\n\n- GPT-6 Astra: 4 min, $1.07\n- Kimi K3.1 Pro: 8 min, $0.24\n- Opus 5.5: 19 min, ~$6.09\n\nKimi was about 25x cheaper than Opus. But Opus is the only one that got the whole brief: red veins, a red gummy nerve you can lift it by, and a real taffy stretch when you drag it.\n\nWhich one would you pick?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/daveeyyy_/status/2114014158102397168",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2114014049918681088/img/O4BypNr-F6A6iuT_.jpg",
+        "analysisUrl": "https://x.com/daveeyyy_/status/2114014158102397168"
+      }
+    ],
+    "metrics": {
+      "likeCount": 18,
+      "repostCount": 1,
+      "replyCount": 11,
+      "quoteCount": 0,
+      "viewCount": 1943
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/daveeyyy_/status/2114295357316145441",
+        "text": "@aimoxyz same man, waiting for Duet to replce with grokbot",
+        "author": "daveeyyy_"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/daveeyyy_/status/2114041199715926311",
+        "text": "@kepochnik Yeah, they performed preety well",
+        "author": "daveeyyy_"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/daveeyyy_/status/2114022634216145403",
+        "text": "@Octoberry real, Kimi far better for price",
+        "author": "daveeyyy_"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/daveeyyy_/status/2114014158102397168",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2114014049918681088/img/O4BypNr-F6A6iuT_.jpg",
+  "coverPath": "data/covers/2114014158102397168-wide.jpg",
+  "gifPath": "data/gifs/2114014158102397168.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2114014049918681088",
+    "x-post:2114014158102397168"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive Soft-Body Gummy Eyeball in Three.js Benchmark",
+      "summary": "Davey benchmarks GPT-6 Astra, Kimi K3.1 Pro, and Claude Opus 5.5 on generating an interactive soft-body gummy eyeball in Three.js that can be poked, stretched, thrown, and swung by the nerve.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "GPT-6 Astra vs Kimi K3.1 Pro vs Claude Opus 5.5\n\nSame prompt: an interactive soft-body gummy eyeball in Three.js. Poke it, stretch it, throw it, swing it by the nerve.\n\n- GPT-6 Astra: 4 min, $1.07\n- Kimi K3.1 Pro: 8 min, $0.24\n- Opus 5.5: 19 min, ~$6.09"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "an interactive soft-body gummy eyeball in Three.js. Poke it, stretch it, throw it, swing it by the nerve.",
+        "englishText": "an interactive soft-body gummy eyeball in Three.js. Poke it, stretch it, throw it, swing it by the nerve.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full verbatim user/system prompt text",
+          "Exact Three.js setup instructions and parameters"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a 3-way screen recording comparing GPT-6 Astra, Kimi K3.1 Pro, and Claude Opus 5.5 running interactive Three.js soft-body eyeball scenes with cursor interactions.",
+        "textualResultQuote": "Opus is the only one that got the whole brief: red veins, a red gummy nerve you can lift it by, and a real taffy stretch when you drag it."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "WebGL 3D rendering and physics visualization engine in the browser",
+          "evidence": "an interactive soft-body gummy eyeball in Three.js.",
+          "sourceUrl": "https://x.com/daveeyyy_/status/2114014158102397168",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Soft-Body Three.js Eyeball Demo",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "interactive",
+          "soft-body",
+          "creative-coding",
+          "webgl"
+        ]
+      },
+      "targetModelRole": "Generates the Three.js WebGL simulation and interactive soft-body code",
+      "outputSource": "Web browser rendering Three.js code",
+      "divisionEvidence": "Same prompt: an interactive soft-body gummy eyeball in Three.js.",
+      "video": {
+        "shots": "Single split-screen recording showing three interactive web UI panels side by side",
+        "duration": "43s",
+        "aspectRatio": "1080:1632",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic demonstration and screen recording of Claude Opus 5.5 generating an interactive Three.js soft-body simulation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/daveeyyy_/status/2114014158102397168",
+        "start": 62,
+        "end": 167
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/daveeyyy_/status/2114014158102397168",
+        "author": "daveeyyy_",
+        "postId": "2114014158102397168",
+        "publishedAt": "2026-10-24T15:20:26.000Z"
+      },
+      "checkedAt": "2026-10-26T03:59:34.617Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/daveeyyy_/status/2114014158102397168",
+        "evidence": ""
+      }
+    },
+    "summary": "Davey benchmarks GPT-6 Astra, Kimi K3.1 Pro, and Claude Opus 5.5 on generating an interactive soft-body gummy eyeball in Three.js that can be poked, stretched, thrown, and swung by the nerve.",
+    "summaryEn": "Interactive Soft-Body Gummy Eyeball in Three.js Benchmark",
+    "originalPrompt": "an interactive soft-body gummy eyeball in Three.js. Poke it, stretch it, throw it, swing it by the nerve.",
+    "sourceRange": {
+      "start": 62,
+      "end": 167
+    },
+    "translations": {
+      "zh": "an interactive soft-body gummy eyeball in Three.js. Poke it, stretch it, throw it, swing it by the nerve.",
+      "en": "an interactive soft-body gummy eyeball in Three.js. Poke it, stretch it, throw it, swing it by the nerve."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Soft-Body Three.js Eyeball Demo",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full verbatim user/system prompt text",
+        "Exact Three.js setup instructions and parameters"
+      ],
+      "evidence": "The video shows a 3-way screen recording comparing GPT-6 Astra, Kimi K3.1 Pro, and Claude Opus 5.5 running interactive Three.js soft-body eyeball scenes with cursor interactions."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

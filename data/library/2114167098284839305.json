@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-26T04:02:43.490Z",
+  "model": "opus5.5",
+  "prompt": "1. Create a 1:1 high-energy poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, keeping the original footage as one continuous, clearly recognizable image across the grid. The center ~6 cells play in sync with distinct visual treatments, while outer cells create independent variations. Fill the composition with dense, rapidly evolving effects, layered motion graphics, typography, icons, flashes and rhythmic transitions. Let the footage and music inspire every creative choice. Push visual intensity with frequent beat-driven bursts, but keep the original characters, action and scene consistently recognizable. Effects enhance the footage rather than replace it.\n\n2. Create a 1:1 high-energy poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, preserving one continuous, recognizable image across the grid. The center ~6 cells remain synchronized with distinct visual treatments. Aggressive waves of stylistic transformations spread between neighboring cells, triggering rapid chain reactions, layered effects, graphic explosions and rhythmic resets. Fill the grid with constant visual activity, inventive typography, icons and motion graphics inspired by the footage and soundtrack. Make transformations bold, frequent and visually spectacular, but temporary, always revealing the original characters and action beneath.\n\n3. Create a 1:1 high-energy temporal poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, preserving one continuous, recognizable image across the grid. The center ~6 cells follow the original action in sync while surrounding cells create intense temporal variations. Build dense rhythmic cascades of motion echoes, rapid frame repetitions, time offsets, reversals, impact freezes and layered graphic effects. Sync aggressive temporal bursts, typography, icons and transitions precisely to the music. Let the footage and soundtrack guide every creative decision. Keep the original action clearly identifiable amid the controlled visual chaos.",
+  "promptTranslations": {
+    "en": "1. Create a 1:1 high-energy poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, keeping the original footage as one continuous, clearly recognizable image across the grid. The center ~6 cells play in sync with distinct visual treatments, while outer cells create independent variations. Fill the composition with dense, rapidly evolving effects, layered motion graphics, typography, icons, flashes and rhythmic transitions. Let the footage and music inspire every creative choice. Push visual intensity with frequent beat-driven bursts, but keep the original characters, action and scene consistently recognizable. Effects enhance the footage rather than replace it.\n\n2. Create a 1:1 high-energy poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, preserving one continuous, recognizable image across the grid. The center ~6 cells remain synchronized with distinct visual treatments. Aggressive waves of stylistic transformations spread between neighboring cells, triggering rapid chain reactions, layered effects, graphic explosions and rhythmic resets. Fill the grid with constant visual activity, inventive typography, icons and motion graphics inspired by the footage and soundtrack. Make transformations bold, frequent and visually spectacular, but temporary, always revealing the original characters and action beneath.\n\n3. Create a 1:1 high-energy temporal poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, preserving one continuous, recognizable image across the grid. The center ~6 cells follow the original action in sync while surrounding cells create intense temporal variations. Build dense rhythmic cascades of motion echoes, rapid frame repetitions, time offsets, reversals, impact freezes and layered graphic effects. Sync aggressive temporal bursts, typography, icons and transitions precisely to the music. Let the footage and soundtrack guide every creative decision. Keep the original action clearly identifiable amid the controlled visual chaos."
+  },
+  "summary": "Claude Opus 5.5 was prompted to generate Python and FFmpeg scripts that process a 15-second reference animation clip and a 40-second music track into 1:1 grid-based motion graphic music videos across three stylistic approaches.",
+  "summaryEn": "Grid Effect Music Video Variations",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2114167098284839305",
+    "canonicalUrl": "https://x.com/aimikoda/status/2114167098284839305",
+    "author": {
+      "username": "aimikoda",
+      "displayName": "Kōda",
+      "profileUrl": "https://x.com/aimikoda"
+    },
+    "publishedAt": "2026-10-25T01:28:10.000Z",
+    "collectedAt": "2026-10-26T02:57:48.703Z",
+    "language": "en",
+    "originalText": "Claude Opus 5.5 - Grid Effect\n\nI tried three different versions, in order: Poster Grid, Style Infection and Temporal Mosaic. The original video was 15 seconds long, while the music was 40 seconds.\n\nPrompts:\n\n1. Create a 1:1 high-energy poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, keeping the original footage as one continuous, clearly recognizable image across the grid. The center ~6 cells play in sync with distinct visual treatments, while outer cells create independent variations. Fill the composition with dense, rapidly evolving effects, layered motion graphics, typography, icons, flashes and rhythmic transitions. Let the footage and music inspire every creative choice. Push visual intensity with frequent beat-driven bursts, but keep the original characters, action and scene consistently recognizable. Effects enhance the footage rather than replace it.\n\n2. Create a 1:1 high-energy poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, preserving one continuous, recognizable image across the grid. The center ~6 cells remain synchronized with distinct visual treatments. Aggressive waves of stylistic transformations spread between neighboring cells, triggering rapid chain reactions, layered effects, graphic explosions and rhythmic resets. Fill the grid with constant visual activity, inventive typography, icons and motion graphics inspired by the footage and soundtrack. Make transformations bold, frequent and visually spectacular, but temporary, always revealing the original characters and action beneath.\n\n3. Create a 1:1 high-energy temporal poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, preserving one continuous, recognizable image across the grid. The center ~6 cells follow the original action in sync while surrounding cells create intense temporal variations. Build dense rhythmic cascades of motion echoes, rapid frame repetitions, time offsets, reversals, impact freezes and layered graphic effects. Sync aggressive temporal bursts, typography, icons and transitions precisely to the music. Let the footage and soundtrack guide every creative decision. Keep the original action clearly identifiable amid the controlled visual chaos.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/aimikoda/status/2114167098284839305",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2114165538637086720/img/sjq2NLLvgzdV6xnr.jpg",
+        "analysisUrl": "https://x.com/aimikoda/status/2114167098284839305"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/aimikoda/status/2114167098284839305",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2114165556634931200/img/FlQznaCxRWWMn2qf.jpg",
+        "analysisUrl": "https://x.com/aimikoda/status/2114167098284839305"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/aimikoda/status/2114167098284839305",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2114165578348789760/img/lTTTlFw4hb_vAfSY.jpg",
+        "analysisUrl": "https://x.com/aimikoda/status/2114167098284839305"
+      }
+    ],
+    "metrics": {
+      "likeCount": 599,
+      "repostCount": 44,
+      "replyCount": 28,
+      "quoteCount": 2,
+      "viewCount": 19565
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2114531323033563437",
+        "text": "@mflux I’m not sure I understand what you mean. It used Python and FFmpeg to edit the reference video and music I provided according to the prompt and produced these results.",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2114474790551421129",
+        "text": "@dreamingtulpa Thanks! 🙌",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2114392943935005084",
+        "text": "@Xgoddess_visual Thank you, Goddess! 🙌😊",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2114375264310354089",
+        "text": "@RisingJake1 Thanks! You are right!",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2114355973691211816",
+        "text": "@GlennHasABeard Thanks, Glenn! It's so much fun! I definitely recommend giving it a try!",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2114309444461084968",
+        "text": "@antrospike Thanks! Glad you liked it!",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2114289121761919238",
+        "text": "@PanoramaJasmin Thank you, Thamer! 🙌",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2114283520520499694",
+        "text": "@slic_media Just python and ffmpeg",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2114279580936597681",
+        "text": "@JohnSmith_EiS Thank you, John! Glad you liked them!",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2114279448254050384",
+        "text": "@madpencil_ Thanks, mate! 🙌",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2114279345309020593",
+        "text": "@firatbilal 🙌🙌",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2114179055666790807",
+        "text": "@CopeDeeper Glad you liked!",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2114178451737329714",
+        "text": "@alessia_orbit Thank you, Alessia! You should try it!",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2114172983371780543",
+        "text": "@KintaCollective Thanks! I'm having a hard time picking a favorite myself!",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2114171728138064298",
+        "text": "@brandonperry721 😂😅😅",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2114170125003714996",
+        "text": "@Timeless_aiart Thanks, mate! Glad you liked it! 🙌",
+        "author": "aimikoda"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/aimikoda/status/2114168289723031756",
+        "text": "@IGGYsosa Thanks! 🙌",
+        "author": "aimikoda"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/aimikoda/status/2114167098284839305",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2114165538637086720/img/sjq2NLLvgzdV6xnr.jpg",
+  "coverPath": "data/covers/2114167098284839305-wide.jpg",
+  "gifPath": "data/gifs/2114167098284839305.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2114165538637086720",
+    "x-video:2114165556634931200",
+    "x-video:2114165578348789760",
+    "x-post:2114167098284839305"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Grid Effect Music Video Variations",
+      "summary": "Claude Opus 5.5 was prompted to generate Python and FFmpeg scripts that process a 15-second reference animation clip and a 40-second music track into 1:1 grid-based motion graphic music videos across three stylistic approaches.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus 5.5",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 - Grid Effect"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "1. Create a 1:1 high-energy poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, keeping the original footage as one continuous, clearly recognizable image across the grid. The center ~6 cells play in sync with distinct visual treatments, while outer cells create independent variations. Fill the composition with dense, rapidly evolving effects, layered motion graphics, typography, icons, flashes and rhythmic transitions. Let the footage and music inspire every creative choice. Push visual intensity with frequent beat-driven bursts, but keep the original characters, action and scene consistently recognizable. Effects enhance the footage rather than replace it.\n\n2. Create a 1:1 high-energy poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, preserving one continuous, recognizable image across the grid. The center ~6 cells remain synchronized with distinct visual treatments. Aggressive waves of stylistic transformations spread between neighboring cells, triggering rapid chain reactions, layered effects, graphic explosions and rhythmic resets. Fill the grid with constant visual activity, inventive typography, icons and motion graphics inspired by the footage and soundtrack. Make transformations bold, frequent and visually spectacular, but temporary, always revealing the original characters and action beneath.\n\n3. Create a 1:1 high-energy temporal poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, preserving one continuous, recognizable image across the grid. The center ~6 cells follow the original action in sync while surrounding cells create intense temporal variations. Build dense rhythmic cascades of motion echoes, rapid frame repetitions, time offsets, reversals, impact freezes and layered graphic effects. Sync aggressive temporal bursts, typography, icons and transitions precisely to the music. Let the footage and soundtrack guide every creative decision. Keep the original action clearly identifiable amid the controlled visual chaos.",
+        "englishText": "1. Create a 1:1 high-energy poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, keeping the original footage as one continuous, clearly recognizable image across the grid. The center ~6 cells play in sync with distinct visual treatments, while outer cells create independent variations. Fill the composition with dense, rapidly evolving effects, layered motion graphics, typography, icons, flashes and rhythmic transitions. Let the footage and music inspire every creative choice. Push visual intensity with frequent beat-driven bursts, but keep the original characters, action and scene consistently recognizable. Effects enhance the footage rather than replace it.\n\n2. Create a 1:1 high-energy poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, preserving one continuous, recognizable image across the grid. The center ~6 cells remain synchronized with distinct visual treatments. Aggressive waves of stylistic transformations spread between neighboring cells, triggering rapid chain reactions, layered effects, graphic explosions and rhythmic resets. Fill the grid with constant visual activity, inventive typography, icons and motion graphics inspired by the footage and soundtrack. Make transformations bold, frequent and visually spectacular, but temporary, always revealing the original characters and action beneath.\n\n3. Create a 1:1 high-energy temporal poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, preserving one continuous, recognizable image across the grid. The center ~6 cells follow the original action in sync while surrounding cells create intense temporal variations. Build dense rhythmic cascades of motion echoes, rapid frame repetitions, time offsets, reversals, impact freezes and layered graphic effects. Sync aggressive temporal bursts, typography, icons and transitions precisely to the music. Let the footage and soundtrack guide every creative decision. Keep the original action clearly identifiable amid the controlled visual chaos.",
+        "complete": true,
+        "reproducible": false,
+        "missing": [
+          "Original 15-second source video asset file",
+          "Original 40-second audio track file",
+          "Generated Python script source code"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "All three attached videos feature a 1:1 aspect ratio grid matching the 40-second audio duration, dividing anime swordsman footage into square grid cells with rhythmically synced typography, Kanji graphics, motion echoes, and stylized variations as specified in each corresponding prompt variation.",
+        "textualResultQuote": "I tried three different versions, in order: Poster Grid, Style Infection and Temporal Mosaic. The original video was 15 seconds long, while the music was 40 seconds."
+      },
+      "inputs": [
+        {
+          "kind": "video",
+          "description": "Original anime action sequence video lasting 15 seconds.",
+          "available": false,
+          "evidence": "The original video was 15 seconds long, while the music was 40 seconds.",
+          "origin": "user",
+          "sourceUrl": "https://x.com/aimikoda/status/2114167098284839305"
+        },
+        {
+          "kind": "audio",
+          "description": "Soundtrack track lasting 40 seconds.",
+          "available": false,
+          "evidence": "The original video was 15 seconds long, while the music was 40 seconds.",
+          "origin": "user",
+          "sourceUrl": "https://x.com/aimikoda/status/2114167098284839305"
+        }
+      ],
+      "inputsDocumented": false,
+      "tools": [
+        {
+          "name": "FFmpeg",
+          "role": "Media processing utility called by the Python script to render and assemble the grid video effects.",
+          "evidence": "Just python and ffmpeg",
+          "sourceUrl": "https://x.com/aimikoda/status/2114283520520499694",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Python",
+          "role": "Scripting language generated by Claude to orchestrate video manipulation and effects filters.",
+          "evidence": "It used Python and FFmpeg to edit the reference video and music I provided according to the prompt and produced these results.",
+          "sourceUrl": "https://x.com/aimikoda/status/2114531323033563437",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Poster Grid Motion Graphics Music Video",
+        "topic": "motion-graphics",
+        "tags": [
+          "grid-effect",
+          "music-video",
+          "ffmpeg",
+          "python",
+          "typography"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 served as the code generator designing the algorithmic video-editing instructions and logic implemented via Python and FFmpeg.",
+      "outputSource": "Python script using FFmpeg to composite and render grid-segmented video buffers.",
+      "divisionEvidence": "Author states: 'It used Python and FFmpeg to edit the reference video and music I provided according to the prompt and produced these results.'",
+      "video": {
+        "shots": "Single sequence composed of segmented grid cells displaying synchronized and desynchronized anime action with typography overlays.",
+        "duration": "00:40",
+        "aspectRatio": "1:1",
+        "referenceMaterials": [
+          "15-second reference animation clip",
+          "40-second reference audio track"
+        ]
+      },
+      "task": "other-animation",
+      "suitable": true,
+      "reason": "Direct author demonstration of Claude Opus 5.5 generating programmatic video transformations via Python and FFmpeg, complete with full prompts and three rendered output videos.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/aimikoda/status/2114167098284839305",
+        "start": 208,
+        "end": 2425
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/aimikoda/status/2114167098284839305",
+        "author": "aimikoda",
+        "postId": "2114167098284839305",
+        "publishedAt": "2026-10-25T01:28:10.000Z"
+      },
+      "checkedAt": "2026-10-26T03:51:04.130Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/aimikoda/status/2114167098284839305",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 was prompted to generate Python and FFmpeg scripts that process a 15-second reference animation clip and a 40-second music track into 1:1 grid-based motion graphic music videos across three stylistic approaches.",
+    "summaryEn": "Grid Effect Music Video Variations",
+    "originalPrompt": "1. Create a 1:1 high-energy poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, keeping the original footage as one continuous, clearly recognizable image across the grid. The center ~6 cells play in sync with distinct visual treatments, while outer cells create independent variations. Fill the composition with dense, rapidly evolving effects, layered motion graphics, typography, icons, flashes and rhythmic transitions. Let the footage and music inspire every creative choice. Push visual intensity with frequent beat-driven bursts, but keep the original characters, action and scene consistently recognizable. Effects enhance the footage rather than replace it.\n\n2. Create a 1:1 high-energy poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, preserving one continuous, recognizable image across the grid. The center ~6 cells remain synchronized with distinct visual treatments. Aggressive waves of stylistic transformations spread between neighboring cells, triggering rapid chain reactions, layered effects, graphic explosions and rhythmic resets. Fill the grid with constant visual activity, inventive typography, icons and motion graphics inspired by the footage and soundtrack. Make transformations bold, frequent and visually spectacular, but temporary, always revealing the original characters and action beneath.\n\n3. Create a 1:1 high-energy temporal poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, preserving one continuous, recognizable image across the grid. The center ~6 cells follow the original action in sync while surrounding cells create intense temporal variations. Build dense rhythmic cascades of motion echoes, rapid frame repetitions, time offsets, reversals, impact freezes and layered graphic effects. Sync aggressive temporal bursts, typography, icons and transitions precisely to the music. Let the footage and soundtrack guide every creative decision. Keep the original action clearly identifiable amid the controlled visual chaos.",
+    "sourceRange": {
+      "start": 208,
+      "end": 2425
+    },
+    "translations": {
+      "zh": "1. Create a 1:1 high-energy poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, keeping the original footage as one continuous, clearly recognizable image across the grid. The center ~6 cells play in sync with distinct visual treatments, while outer cells create independent variations. Fill the composition with dense, rapidly evolving effects, layered motion graphics, typography, icons, flashes and rhythmic transitions. Let the footage and music inspire every creative choice. Push visual intensity with frequent beat-driven bursts, but keep the original characters, action and scene consistently recognizable. Effects enhance the footage rather than replace it.\n\n2. Create a 1:1 high-energy poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, preserving one continuous, recognizable image across the grid. The center ~6 cells remain synchronized with distinct visual treatments. Aggressive waves of stylistic transformations spread between neighboring cells, triggering rapid chain reactions, layered effects, graphic explosions and rhythmic resets. Fill the grid with constant visual activity, inventive typography, icons and motion graphics inspired by the footage and soundtrack. Make transformations bold, frequent and visually spectacular, but temporary, always revealing the original characters and action beneath.\n\n3. Create a 1:1 high-energy temporal poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, preserving one continuous, recognizable image across the grid. The center ~6 cells follow the original action in sync while surrounding cells create intense temporal variations. Build dense rhythmic cascades of motion echoes, rapid frame repetitions, time offsets, reversals, impact freezes and layered graphic effects. Sync aggressive temporal bursts, typography, icons and transitions precisely to the music. Let the footage and soundtrack guide every creative decision. Keep the original action clearly identifiable amid the controlled visual chaos.",
+      "en": "1. Create a 1:1 high-energy poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, keeping the original footage as one continuous, clearly recognizable image across the grid. The center ~6 cells play in sync with distinct visual treatments, while outer cells create independent variations. Fill the composition with dense, rapidly evolving effects, layered motion graphics, typography, icons, flashes and rhythmic transitions. Let the footage and music inspire every creative choice. Push visual intensity with frequent beat-driven bursts, but keep the original characters, action and scene consistently recognizable. Effects enhance the footage rather than replace it.\n\n2. Create a 1:1 high-energy poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, preserving one continuous, recognizable image across the grid. The center ~6 cells remain synchronized with distinct visual treatments. Aggressive waves of stylistic transformations spread between neighboring cells, triggering rapid chain reactions, layered effects, graphic explosions and rhythmic resets. Fill the grid with constant visual activity, inventive typography, icons and motion graphics inspired by the footage and soundtrack. Make transformations bold, frequent and visually spectacular, but temporary, always revealing the original characters and action beneath.\n\n3. Create a 1:1 high-energy temporal poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, preserving one continuous, recognizable image across the grid. The center ~6 cells follow the original action in sync while surrounding cells create intense temporal variations. Build dense rhythmic cascades of motion echoes, rapid frame repetitions, time offsets, reversals, impact freezes and layered graphic effects. Sync aggressive temporal bursts, typography, icons and transitions precisely to the music. Let the footage and soundtrack guide every creative decision. Keep the original action clearly identifiable amid the controlled visual chaos."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "other-animation",
+    "useCase": "Poster Grid Motion Graphics Music Video",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Original 15-second source video asset file",
+        "Original 40-second audio track file",
+        "Generated Python script source code"
+      ],
+      "evidence": "All three attached videos feature a 1:1 aspect ratio grid matching the 40-second audio duration, dividing anime swordsman footage into square grid cells with rhythmically synced typography, Kanji graphics, motion echoes, and stylized variations as specified in each corresponding prompt variation."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

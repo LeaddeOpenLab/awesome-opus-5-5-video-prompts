@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-26T04:02:42.761Z",
+  "model": "opus5.5",
+  "prompt": "Make a stunning, highly detailed interactive 3D web scene, entirely from scratch in code: a rooftop glass swimming pool at sunset. A swimming pool with thick clear glass walls sits on the roof of a skyscraper, high above a city skyline. Floating in the pool are a detailed toy pirate ship, an inflatable pink flamingo, a glossy rubber duck, a beach ball and a swim ring. Over 30 seconds the sunset fades into a warm night.",
+  "promptTranslations": {
+    "en": "Make a stunning, highly detailed interactive 3D web scene, entirely from scratch in code: a rooftop glass swimming pool at sunset. A swimming pool with thick clear glass walls sits on the roof of a skyscraper, high above a city skyline. Floating in the pool are a detailed toy pirate ship, an inflatable pink flamingo, a glossy rubber duck, a beach ball and a swim ring. Over 30 seconds the sunset fades into a warm night."
+  },
+  "summary": "Claude Opus 5.5 generates code from scratch for an interactive 3D rooftop glass swimming pool overlooking a city skyline, featuring floating objects and a 30-second sunset to night transition.",
+  "summaryEn": "Interactive 3D Rooftop Glass Pool Sunset Scene",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2112978719069598181",
+    "canonicalUrl": "https://x.com/MrTacticalX/status/2112978719069598181",
+    "author": {
+      "username": "MrTacticalX",
+      "displayName": "Mr Tactical",
+      "profileUrl": "https://x.com/MrTacticalX"
+    },
+    "publishedAt": "2026-10-21T18:45:58.000Z",
+    "collectedAt": "2026-10-26T02:57:48.703Z",
+    "language": "en",
+    "originalText": "Claude Opus 5.5 vs Claude Opus 5 (both on High)\n\nSame prompt. An interactive 3D rooftop glass pool, built from scratch in code. \n\n- Opus 5.5: 68 min, ~$14\n- Opus 5: 128 min, ~$68\n\nLook at the buildings in the background too.\nOpus 5.5 was 2x faster, 5x cheaper... and way more detailed... \n\nJust shows how much Anthropic cooked with Opus 5.5",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/MrTacticalX/status/2112978719069598181",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2112978190071169024/img/PUUcN8yPUvX7w6IS.jpg",
+        "analysisUrl": "https://x.com/MrTacticalX/status/2112978719069598181"
+      }
+    ],
+    "metrics": {
+      "likeCount": 147,
+      "repostCount": 10,
+      "replyCount": 14,
+      "quoteCount": 2,
+      "viewCount": 11489
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/MrTacticalX/status/2112980673237545221",
+        "text": "@ziwenxu_ yeah Opus 5 is trash.",
+        "author": "MrTacticalX"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/MrTacticalX/status/2112978721736892528",
+        "text": "Prompt...\n\n\"Make a stunning, highly detailed interactive 3D web scene, entirely from scratch in code: a rooftop glass swimming pool at sunset. A swimming pool with thick clear glass walls sits on the roof of a skyscraper, high above a city skyline. Floating in the pool are a detailed toy pirate ship, an inflatable pink flamingo, a glossy rubber duck, a beach ball and a swim ring. Over 30 seconds the sunset fades into a warm night.\"",
+        "author": "MrTacticalX"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/MrTacticalX/status/2112978719069598181",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2112978190071169024/img/PUUcN8yPUvX7w6IS.jpg",
+  "coverPath": "data/covers/2112978719069598181-wide.jpg",
+  "gifPath": "data/gifs/2112978719069598181.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2112978190071169024",
+    "x-post:2112978719069598181"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Rooftop Glass Pool Sunset Scene",
+      "summary": "Claude Opus 5.5 generates code from scratch for an interactive 3D rooftop glass swimming pool overlooking a city skyline, featuring floating objects and a 30-second sunset to night transition.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 vs Claude Opus 5 (both on High) ... Opus 5.5 was 2x faster, 5x cheaper... and way more detailed... Just shows how much Anthropic cooked with Opus 5.5"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Make a stunning, highly detailed interactive 3D web scene, entirely from scratch in code: a rooftop glass swimming pool at sunset. A swimming pool with thick clear glass walls sits on the roof of a skyscraper, high above a city skyline. Floating in the pool are a detailed toy pirate ship, an inflatable pink flamingo, a glossy rubber duck, a beach ball and a swim ring. Over 30 seconds the sunset fades into a warm night.",
+        "englishText": "Make a stunning, highly detailed interactive 3D web scene, entirely from scratch in code: a rooftop glass swimming pool at sunset. A swimming pool with thick clear glass walls sits on the roof of a skyscraper, high above a city skyline. Floating in the pool are a detailed toy pirate ship, an inflatable pink flamingo, a glossy rubber duck, a beach ball and a swim ring. Over 30 seconds the sunset fades into a warm night.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a side-by-side recording of the interactive 3D rooftop scene running in browser/WebGL, displaying the clear glass pool, pirate ship, flamingo float, rubber duck, beach ball, swim ring, and the sunset transitioning into night with city lights.",
+        "textualResultQuote": "- Opus 5.5: 68 min, ~$14\n- Opus 5: 128 min, ~$68\n\nLook at the buildings in the background too.\nOpus 5.5 was 2x faster, 5x cheaper... and way more detailed..."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "WebGL / Web 3D runtime",
+          "role": "Renders the browser-based 3D scene generated by the model",
+          "evidence": "interactive 3D web scene, entirely from scratch in code",
+          "sourceUrl": "https://x.com/MrTacticalX/status/2112978721736892528",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Rooftop Glass Pool",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "interactive-3d",
+          "creative-coding",
+          "sunset"
+        ]
+      },
+      "targetModelRole": "Code generation agent writing full source code for the 3D web application",
+      "outputSource": "Web browser / 3D web canvas executing the generated code",
+      "divisionEvidence": "Claude Opus 5.5 produced the 3D scene code ('built from scratch in code'), which is executed and rendered in real-time as an interactive 3D web scene.",
+      "video": {
+        "shots": "Single camera orbit and zoom around the rooftop pool deck",
+        "duration": "00:29",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Explicitly confirmed Claude Opus 5.5 code production of an interactive 3D scene with full public prompt and corresponding side-by-side screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/MrTacticalX/status/2112978721736892528",
+        "start": 12,
+        "end": 434
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/MrTacticalX/status/2112978719069598181",
+        "author": "MrTacticalX",
+        "postId": "2112978719069598181",
+        "publishedAt": "2026-10-21T18:45:58.000Z"
+      },
+      "checkedAt": "2026-10-26T03:42:39.963Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/MrTacticalX/status/2112978721736892528",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generates code from scratch for an interactive 3D rooftop glass swimming pool overlooking a city skyline, featuring floating objects and a 30-second sunset to night transition.",
+    "summaryEn": "Interactive 3D Rooftop Glass Pool Sunset Scene",
+    "originalPrompt": "Make a stunning, highly detailed interactive 3D web scene, entirely from scratch in code: a rooftop glass swimming pool at sunset. A swimming pool with thick clear glass walls sits on the roof of a skyscraper, high above a city skyline. Floating in the pool are a detailed toy pirate ship, an inflatable pink flamingo, a glossy rubber duck, a beach ball and a swim ring. Over 30 seconds the sunset fades into a warm night.",
+    "sourceRange": {
+      "start": 12,
+      "end": 434
+    },
+    "translations": {
+      "zh": "Make a stunning, highly detailed interactive 3D web scene, entirely from scratch in code: a rooftop glass swimming pool at sunset. A swimming pool with thick clear glass walls sits on the roof of a skyscraper, high above a city skyline. Floating in the pool are a detailed toy pirate ship, an inflatable pink flamingo, a glossy rubber duck, a beach ball and a swim ring. Over 30 seconds the sunset fades into a warm night.",
+      "en": "Make a stunning, highly detailed interactive 3D web scene, entirely from scratch in code: a rooftop glass swimming pool at sunset. A swimming pool with thick clear glass walls sits on the roof of a skyscraper, high above a city skyline. Floating in the pool are a detailed toy pirate ship, an inflatable pink flamingo, a glossy rubber duck, a beach ball and a swim ring. Over 30 seconds the sunset fades into a warm night."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Rooftop Glass Pool",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a side-by-side recording of the interactive 3D rooftop scene running in browser/WebGL, displaying the clear glass pool, pirate ship, flamingo float, rubber duck, beach ball, swim ring, and the sunset transitioning into night with city lights."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

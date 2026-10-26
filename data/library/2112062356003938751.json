@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-26T04:02:40.700Z",
+  "model": "opus5.5",
+  "prompt": "build a realistic 3D Li River world in the browser, all from code, no 3D models\n\nmisty karst mountains, jade water with real reflections, an endless sea of islands, a shark and a swimmer you can play as, an underwater camera, and fish, ducks, buffalo and fireflies",
+  "promptTranslations": {
+    "en": "build a realistic 3D Li River world in the browser, all from code, no 3D models\n\nmisty karst mountains, jade water with real reflections, an endless sea of islands, a shark and a swimmer you can play as, an underwater camera, and fish, ducks, buffalo and fireflies"
+  },
+  "summary": "Claude Opus 5.5 generated an interactive 3D procedural simulation of the Li River in a single HTML file without external models or textures, featuring karst formations, dynamic water reflections, weather toggles, and interactive aquatic life.",
+  "summaryEn": "Procedural 3D Li River Browser World",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2112062356003938751",
+    "canonicalUrl": "https://x.com/BreezeOg1/status/2112062356003938751",
+    "author": {
+      "username": "BreezeOg1",
+      "displayName": "BreezeOg",
+      "profileUrl": "https://x.com/BreezeOg1"
+    },
+    "publishedAt": "2026-10-19T06:04:40.000Z",
+    "collectedAt": "2026-10-26T02:57:48.703Z",
+    "language": "en",
+    "originalText": "i asked Opus 5.5 to build a realistic 3D Li River world in the browser, all from code, no 3D models\n\nmisty karst mountains, jade water with real reflections, an endless sea of islands, a shark and a swimmer you can play as, an underwater camera, and fish, ducks, buffalo and fireflies\n\ntook 4 hours, cost $110. \n\nit tested its own work and fixed its own bugs. the characters look a bit chunky, but overall Opus is still the 3D goat 🐐\n\ntry it: https://t.co/P6uO8aBfaS",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/BreezeOg1/status/2112062356003938751",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2112061973286342657/img/T7nlNHjQ7-rJR8J2.jpg",
+        "analysisUrl": "https://x.com/BreezeOg1/status/2112062356003938751"
+      }
+    ],
+    "metrics": {
+      "likeCount": 19,
+      "repostCount": 0,
+      "replyCount": 6,
+      "quoteCount": 1,
+      "viewCount": 658
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/BreezeOg1/status/2112062372420399597",
+        "text": "I could share the prompt here but it's too fcking long, dm for it.",
+        "author": "BreezeOg1"
+      },
+      {
+        "url": "https://karst-in-the-mist-beige.vercel.app/",
+        "text": "\n\n\n\n\nKarst in the Mist\n\n\n\n\n\n\n\n\n\n\n\n  \n    \n      \n      \n    \n    Breezy\n  \n\n\n  \n\n  \n    Stone forest and river, in miniature\n\n    Mountains that grow\nout of the river.\n\n  \n\n  A study of mist and stone\n\n  Li River Bend · 24°55′ N · 110°31′ E\n\n\n  \n    Move — part the mist\n\n    Click the water — send the raft\n\n    Drag — rotate\n\n    Scroll — zoom\n\n    WASD — swim the shark\n\n    Space — burst\n\n  \n\n  \n\n\n  \n    Burst\n    Dive\n    Rise\n  \n\n\n  \n    \n      \n    \n    \n    Mist\n    Rain\n    \n    Shark\n    Swimmer\n    \n      \n      Tune\n    \n    \n    \n      \n    \n  \n\n\n  Air\n\n\n  \n    — fps\n    12:00\n  \n\n  \n    \n      Atmosphere\n\n      Mist\n\n      RainOff\n\n      Time of day\n\n    \n    \n      Water\n\n      Water color\n\n      Wave height\n\n      Ripples\n\n      Clarity\n\n      Caustics\n\n    \n    \n      Light & lens\n\n      Sun azimuth\n\n      Tilt-shift\n\n    \n  \n\n  \n    \n      \n    \n    How it's made\n\n    Everything here is generated in the browser. There are no models and no textures, only noise, a few formulas and one HTML file.\n\n    An endless sea\n\n    The world is cut into 10 × 10 chunks, and each one grows its own karst cluster, bays and islets from a seed. Chunks near you are built at full detail, farther ones at lower detail, and the most distant fade into mist so you never see one appear. Right-drag, or drag with two fingers, to drift across the river.\n\n    Stone\n\n    Each tower is a deformed cylinder with a sugarloaf profile, an undercut at the waterline and vertical flutes carved by noise. Vegetation density is baked into every vertex, so the foliage sits on green mats with bare grey cliffs between them.\n\n    Water\n\n    The scene is rendered once into an HDR target with depth. The water reads that depth to measure its own thickness, absorbs colour through it (Beer–Lambert), bends what lies beneath, and ray-marches reflections of the towers. Ripples come from a wave equation on the GPU, in a 16-unit window that travels with you.\n\n    Raft, shark and swimmer\n\n    The raft drifts around the home bay, and a click on the water sends it there. The shark swims with an S-curve that speeds up with velocity and cuts a wake with its fin. The swimmer walks the banks, jumps, wades in, does front crawl at the surface, treads water when you let go, and does breaststroke below until their air runs out.\n\n    Wildlife\n\n    Fish schools in four species turn away together when the shark or swimmer comes close. Carp leap out of the river, mallard families paddle with their ducklings in a line, water buffalo wade and drink in the shallows, turtles slide off the banks when disturbed, herons strike at fish and fly off, dragonflies dart over the shallows, and fireflies come out at dusk. Every creature is built from simple shapes and recycled ahead of you as you explore.\n\n    Underwater\n\n    Dip below the surface and the render path switches: jade fog, shafts of light, drifting motes, and a mirror-like surface with one bright Snell's window to the sky.\n\n  \n\n\n\nRaising the stone…\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "BreezeOg1"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/BreezeOg1/status/2112062356003938751",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2112061973286342657/img/T7nlNHjQ7-rJR8J2.jpg",
+  "coverPath": "data/covers/2112062356003938751-wide.jpg",
+  "gifPath": "data/gifs/2112062356003938751.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2112061973286342657",
+    "x-post:2112062356003938751"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Procedural 3D Li River Browser World",
+      "summary": "Claude Opus 5.5 generated an interactive 3D procedural simulation of the Li River in a single HTML file without external models or textures, featuring karst formations, dynamic water reflections, weather toggles, and interactive aquatic life.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "i asked Opus 5.5 to build a realistic 3D Li River world in the browser, all from code, no 3D models"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build a realistic 3D Li River world in the browser, all from code, no 3D models\n\nmisty karst mountains, jade water with real reflections, an endless sea of islands, a shark and a swimmer you can play as, an underwater camera, and fish, ducks, buffalo and fireflies",
+        "englishText": "build a realistic 3D Li River world in the browser, all from code, no 3D models\n\nmisty karst mountains, jade water with real reflections, an endless sea of islands, a shark and a swimmer you can play as, an underwater camera, and fish, ducks, buffalo and fireflies",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Full multi-turn iterative prompting session",
+          "Exact initial code generation prompt and bug fix dialogue"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The screen recording demonstrates the interactive browser application running the procedural 3D karst mountains, camera controls, real-time reflections, mist effects, wildlife, and underwater view matching the post description.",
+        "textualResultQuote": "Everything here is generated in the browser. There are no models and no textures, only noise, a few formulas and one HTML file."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Browser WebGL / Canvas",
+          "role": "Real-time client-side rendering engine executing procedural shaders and geometry",
+          "evidence": "Everything here is generated in the browser. There are no models and no textures, only noise, a few formulas and one HTML file.",
+          "sourceUrl": "https://karst-in-the-mist-beige.vercel.app/",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Procedural 3D Li River World",
+        "topic": "3d-scenes",
+        "tags": [
+          "procedural-generation",
+          "webgl",
+          "interactive-3d",
+          "creative-coding",
+          "shaders"
+        ]
+      },
+      "targetModelRole": "Autonomous software and shader development agent that generated, tested, and debugged the procedural 3D HTML application",
+      "outputSource": "Client-side WebGL canvas in modern web browser",
+      "divisionEvidence": "took 4 hours, cost $110. it tested its own work and fixed its own bugs. the characters look a bit chunky, but overall Opus is still the 3D goat",
+      "video": {
+        "shots": "Single continuous screen capture displaying real-time UI interaction, camera rotation, mist adjustment, and underwater swimming",
+        "duration": "PT1M",
+        "aspectRatio": "16:10",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic author post showcasing Claude Opus 5.5 generating a complete procedural 3D interactive WebGL browser environment accompanied by screen recording proof.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/BreezeOg1/status/2112062356003938751",
+        "start": 20,
+        "end": 284
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/BreezeOg1/status/2112062356003938751",
+        "author": "BreezeOg1",
+        "postId": "2112062356003938751",
+        "publishedAt": "2026-10-19T06:04:40.000Z"
+      },
+      "checkedAt": "2026-10-26T03:23:57.354Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/BreezeOg1/status/2112062356003938751",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated an interactive 3D procedural simulation of the Li River in a single HTML file without external models or textures, featuring karst formations, dynamic water reflections, weather toggles, and interactive aquatic life.",
+    "summaryEn": "Procedural 3D Li River Browser World",
+    "originalPrompt": "build a realistic 3D Li River world in the browser, all from code, no 3D models\n\nmisty karst mountains, jade water with real reflections, an endless sea of islands, a shark and a swimmer you can play as, an underwater camera, and fish, ducks, buffalo and fireflies",
+    "sourceRange": {
+      "start": 20,
+      "end": 284
+    },
+    "translations": {
+      "zh": "build a realistic 3D Li River world in the browser, all from code, no 3D models\n\nmisty karst mountains, jade water with real reflections, an endless sea of islands, a shark and a swimmer you can play as, an underwater camera, and fish, ducks, buffalo and fireflies",
+      "en": "build a realistic 3D Li River world in the browser, all from code, no 3D models\n\nmisty karst mountains, jade water with real reflections, an endless sea of islands, a shark and a swimmer you can play as, an underwater camera, and fish, ducks, buffalo and fireflies"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Procedural 3D Li River World",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Full multi-turn iterative prompting session",
+        "Exact initial code generation prompt and bug fix dialogue"
+      ],
+      "evidence": "The screen recording demonstrates the interactive browser application running the procedural 3D karst mountains, camera controls, real-time reflections, mist effects, wildlife, and underwater view matching the post description."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

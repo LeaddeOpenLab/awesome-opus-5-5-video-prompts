@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-26T04:02:44.963Z",
+  "model": "opus5.5",
+  "prompt": "one Three.js football field: 22 players, a ball that gets caught, a play counter",
+  "promptTranslations": {
+    "en": "one Three.js football field: 22 players, a ball that gets caught, a play counter"
+  },
+  "summary": "Wayne Lowry compares four AI models on coding an animated 3D Three.js American football field with 22 players, animated arms/legs, a thrown ball, and a play counter, showing Opus 5.5 passing all 5 criteria in 529 seconds.",
+  "summaryEn": "Three.js Football Field Simulation Vibe Coding Benchmark",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2114011532145344826",
+    "canonicalUrl": "https://x.com/wikiwayne/status/2114011532145344826",
+    "author": {
+      "username": "wikiwayne",
+      "displayName": "Wayne Lowry",
+      "profileUrl": "https://x.com/wikiwayne"
+    },
+    "publishedAt": "2026-10-24T15:10:00.000Z",
+    "collectedAt": "2026-10-26T02:57:48.703Z",
+    "language": "en",
+    "originalText": "Its Football Saturday 🏈\n\nVibe coding test. Same prompt, four models, one Three.js football field: 22 players, a ball that gets caught, a play counter.\n\n-Opus 5.5: 5 of 5. 529 s, $1.54 CLI-equivalent, not billed.\n-Kimi K3.1 Pro: 5 of 5, ball is weak. 942 s, $0.49.\n-Muse Wonder 1.0: 4 of 5, with an asterisk. Cost not reported.\n-GLM 5.3: first run failed. Second attempt, 1 of 5. Cost not reported.\n\nMock my helmet… I dare you!",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/wikiwayne/status/2114011532145344826",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2113966274271129600/img/O3Uji16mEfRI6eWO.jpg",
+        "analysisUrl": "https://x.com/wikiwayne/status/2114011532145344826"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 0,
+      "replyCount": 4,
+      "quoteCount": 1,
+      "viewCount": 287
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/wikiwayne/status/2114235312067211545",
+        "text": "@angelopald30 Touchdown some might say",
+        "author": "wikiwayne"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/wikiwayne/status/2114011532145344826",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2113966274271129600/img/O3Uji16mEfRI6eWO.jpg",
+  "coverPath": "data/covers/2114011532145344826-wide.jpg",
+  "gifPath": "data/gifs/2114011532145344826.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2113966274271129600",
+    "x-post:2114011532145344826"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Three.js Football Field Simulation Vibe Coding Benchmark",
+      "summary": "Wayne Lowry compares four AI models on coding an animated 3D Three.js American football field with 22 players, animated arms/legs, a thrown ball, and a play counter, showing Opus 5.5 passing all 5 criteria in 529 seconds.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "CLI",
+        "authorUseConfirmed": true,
+        "evidence": "-Opus 5.5: 5 of 5. 529 s, $1.54 CLI-equivalent, not billed."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "one Three.js football field: 22 players, a ball that gets caught, a play counter",
+        "englishText": "one Three.js football field: 22 players, a ball that gets caught, a play counter",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact system prompts or coding harness instructions",
+          "Exact animation loop and player movement specifications",
+          "Camera setup and rendering code parameters"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows side-by-side screen recordings of the generated 3D football fields, displaying 22 players running with swinging limbs, ball throwing/catching, and play counters advancing.",
+        "textualResultQuote": "Opus builds the whole field: stripes, yard lines, numbers, both end zones, both goal posts. 22 players... Snap. The ball is in the air and it's caught. Legs and arms swinging the whole way. Play counter ticks up. 5 for 5."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D web graphics library used to render the procedural football field, players, and ball animation.",
+          "evidence": "Same prompt, four models, one Three.js football field: 22 players, a ball that gets caught, a play counter.",
+          "sourceUrl": "https://x.com/wikiwayne/status/2114011532145344826",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Three.js Football Field Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "creative-coding",
+          "sports-simulation",
+          "vibe-coding"
+        ]
+      },
+      "targetModelRole": "Generates the procedural Three.js JavaScript / WebGL code creating the 3D scene, models, animation logic, and play counter.",
+      "outputSource": "Web browser executing the Three.js scene script generated by Opus 5.5.",
+      "divisionEvidence": "Vibe coding test. Same prompt, four models, one Three.js football field: 22 players, a ball that gets caught, a play counter.",
+      "video": {
+        "shots": "Split-screen comparison grid transitioning to full-view dynamic camera angles of each model's generated 3D field.",
+        "duration": "122s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Direct benchmark showcasing Claude Opus 5.5 generating executable Three.js interactive 3D sports animation with full visual screen recording evidence.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/wikiwayne/status/2114011532145344826",
+        "start": 70,
+        "end": 150
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/wikiwayne/status/2114011532145344826",
+        "author": "wikiwayne",
+        "postId": "2114011532145344826",
+        "publishedAt": "2026-10-24T15:10:00.000Z"
+      },
+      "checkedAt": "2026-10-26T03:59:24.533Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/wikiwayne/status/2114011532145344826",
+        "evidence": ""
+      }
+    },
+    "summary": "Wayne Lowry compares four AI models on coding an animated 3D Three.js American football field with 22 players, animated arms/legs, a thrown ball, and a play counter, showing Opus 5.5 passing all 5 criteria in 529 seconds.",
+    "summaryEn": "Three.js Football Field Simulation Vibe Coding Benchmark",
+    "originalPrompt": "one Three.js football field: 22 players, a ball that gets caught, a play counter",
+    "sourceRange": {
+      "start": 70,
+      "end": 150
+    },
+    "translations": {
+      "zh": "one Three.js football field: 22 players, a ball that gets caught, a play counter",
+      "en": "one Three.js football field: 22 players, a ball that gets caught, a play counter"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Three.js Football Field Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact system prompts or coding harness instructions",
+        "Exact animation loop and player movement specifications",
+        "Camera setup and rendering code parameters"
+      ],
+      "evidence": "The video shows side-by-side screen recordings of the generated 3D football fields, displaying 22 players running with swinging limbs, ball throwing/catching, and play counters advancing."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

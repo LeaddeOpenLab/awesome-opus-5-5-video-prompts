@@ -1,0 +1,271 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-26T04:02:39.284Z",
+  "model": "opus5.5",
+  "prompt": "PROMPT\n\nBuild a single self-contained HTML page (no build step) called \"Fluffy Pumpkin\": an interactive 3D pumpkin covered in long orange fur, rendered with WebGL using three.js r147 (UMD: https://t.co/RNs0IuB5XR) and custom ShaderMaterials. All UI text in English. Font: Onest (Google Fonts) with system fallbacks.\n\nLOOK\n- Full-screen canvas on a warm peach studio background: vertical gradient #E4B79C → #F0CAB3 (lighter band mid-screen) → #E0AD8F.\n- Pumpkin body: a sphere squashed vertically (height 0.68 of the width) with 10 lobes. Grooves between lobes pushed in ~13%, lobes slightly fuller, a deep dimple under the stem and a shallow dimple at the blossom end. Start in a gentle 3/4 view (−0.35 rad around Y, 0.06 rad tilt), camera FOV 30°, pumpkin plus stem filling ~88% of the height.\n- Stem: a thick, curved, ribbed green stem (7 twisting ridges, dark valleys #2B401A, ridges #6B803D, paling toward the tip #A3A166), flared where it meets the pumpkin, rising and bending to one side, ending in a pale beige domed cut cap (#CCC799) with a star of fibres.\n- One directional light from upper-left-front: wrap diffuse, Kajiya-Kay anisotropic highlight along the hair tangent, darker roots and darker grooves (occlusion), slight per-hair brightness variation, a soft warm rim.\n\nFUR (must look crisp, never blurry)\n- Fur length 0.2 units. Hairs grow along the normal, then comb from the stem down each lobe and PART along every groove (hair on each side leans toward its own lobe), plus gravity, so on the underside the fur spreads out like a star from the centre.\n- Colours: skin #8F3612, roots #BD4F1F, body #FF8C47, tips #FFB375. Each hair takes one colour from root to tip.\n- Undercoat: ~64 instanced shells of the body mesh. Procedural hair cells in UV space sized to ~3.4 device pixels at the default view (density follows screen size and pixel ratio), two populations (long + fine underfur), locks that clump toward the tips, analytic anti-aliased coverage, alpha blended, shells write depth. A separate opaque skin layer underneath. Fade shells out where the surface is seen edge-on and discard faint fragments, so no dotted rim or ring appears at the outline.\n- Guard hairs: ~60,000 individual tapered camera-facing ribbons (instanced, 7 segments) following the same bend function, minimum width ~0.75 px. Draw them twice: before the shells and after them (depth-tested, no depth write), so the top coat stays crisp and faint edge fur never cuts holes in it.\n- Always render at the full device pixel ratio (max 2) and NEVER lower it for performance. If frames are slow, reduce the shell count first (down to 32), then the guard-hair count.\n\nINTERACTION\n- Drag to rotate freely (trackball style) with inertia after a flick. The fur lags behind the rotation through a damped spring and flops back. Gentle idle breeze; after 3 s without input, a slow auto-turn.\n- Mouse wheel / pinch zooms with a smooth dolly; close up you can see individual hairs. Double-click or \"0\" resets with an eased animation. Arrow keys rotate.\n- Custom cursor: the native grab hand plus a thin dark 46 px ring that follows the pointer and shrinks while dragging. Hovering over the pumpkin gently parts the fur under the cursor, as if stroking it.\n- Respect prefers-reduced-motion (no idle spin, no breeze).\n\nUI & ROBUSTNESS\n- Bottom-left caption: \"Fluffy Pumpkin\" and a hint \"Drag to rotate · Scroll to zoom · Double-click to reset\" (on touch devices: \"Drag to rotate · Pinch to zoom\") that fades after the first interaction.\n- Guard against a zero-sized container at load: clamp width/height to at least 1, and every frame recover from any non-finite camera distance or rotation state.\n- Show a small on-page note if the WebGL context is lost or a shader fails to compile, and a fallback message if WebGL is unavailable.",
+  "promptTranslations": {
+    "en": "PROMPT\n\nBuild a single self-contained HTML page (no build step) called \"Fluffy Pumpkin\": an interactive 3D pumpkin covered in long orange fur, rendered with WebGL using three.js r147 (UMD: https://t.co/RNs0IuB5XR) and custom ShaderMaterials. All UI text in English. Font: Onest (Google Fonts) with system fallbacks.\n\nLOOK\n- Full-screen canvas on a warm peach studio background: vertical gradient #E4B79C → #F0CAB3 (lighter band mid-screen) → #E0AD8F.\n- Pumpkin body: a sphere squashed vertically (height 0.68 of the width) with 10 lobes. Grooves between lobes pushed in ~13%, lobes slightly fuller, a deep dimple under the stem and a shallow dimple at the blossom end. Start in a gentle 3/4 view (−0.35 rad around Y, 0.06 rad tilt), camera FOV 30°, pumpkin plus stem filling ~88% of the height.\n- Stem: a thick, curved, ribbed green stem (7 twisting ridges, dark valleys #2B401A, ridges #6B803D, paling toward the tip #A3A166), flared where it meets the pumpkin, rising and bending to one side, ending in a pale beige domed cut cap (#CCC799) with a star of fibres.\n- One directional light from upper-left-front: wrap diffuse, Kajiya-Kay anisotropic highlight along the hair tangent, darker roots and darker grooves (occlusion), slight per-hair brightness variation, a soft warm rim.\n\nFUR (must look crisp, never blurry)\n- Fur length 0.2 units. Hairs grow along the normal, then comb from the stem down each lobe and PART along every groove (hair on each side leans toward its own lobe), plus gravity, so on the underside the fur spreads out like a star from the centre.\n- Colours: skin #8F3612, roots #BD4F1F, body #FF8C47, tips #FFB375. Each hair takes one colour from root to tip.\n- Undercoat: ~64 instanced shells of the body mesh. Procedural hair cells in UV space sized to ~3.4 device pixels at the default view (density follows screen size and pixel ratio), two populations (long + fine underfur), locks that clump toward the tips, analytic anti-aliased coverage, alpha blended, shells write depth. A separate opaque skin layer underneath. Fade shells out where the surface is seen edge-on and discard faint fragments, so no dotted rim or ring appears at the outline.\n- Guard hairs: ~60,000 individual tapered camera-facing ribbons (instanced, 7 segments) following the same bend function, minimum width ~0.75 px. Draw them twice: before the shells and after them (depth-tested, no depth write), so the top coat stays crisp and faint edge fur never cuts holes in it.\n- Always render at the full device pixel ratio (max 2) and NEVER lower it for performance. If frames are slow, reduce the shell count first (down to 32), then the guard-hair count.\n\nINTERACTION\n- Drag to rotate freely (trackball style) with inertia after a flick. The fur lags behind the rotation through a damped spring and flops back. Gentle idle breeze; after 3 s without input, a slow auto-turn.\n- Mouse wheel / pinch zooms with a smooth dolly; close up you can see individual hairs. Double-click or \"0\" resets with an eased animation. Arrow keys rotate.\n- Custom cursor: the native grab hand plus a thin dark 46 px ring that follows the pointer and shrinks while dragging. Hovering over the pumpkin gently parts the fur under the cursor, as if stroking it.\n- Respect prefers-reduced-motion (no idle spin, no breeze).\n\nUI & ROBUSTNESS\n- Bottom-left caption: \"Fluffy Pumpkin\" and a hint \"Drag to rotate · Scroll to zoom · Double-click to reset\" (on touch devices: \"Drag to rotate · Pinch to zoom\") that fades after the first interaction.\n- Guard against a zero-sized container at load: clamp width/height to at least 1, and every frame recover from any non-finite camera distance or rotation state.\n- Show a small on-page note if the WebGL context is lost or a shader fails to compile, and a fallback message if WebGL is unavailable."
+  },
+  "summary": "A self-contained HTML WebGL 3D fluffy pumpkin featuring 64 layers of underfur and 60,000 individual guard hairs, interactive trackball rotation with momentum, fur inertia, custom cursor petting, and smooth zoom built with Three.js and custom ShaderMaterials generated by Claude Opus 5.5.",
+  "summaryEn": "Interactive Fluffy Pumpkin with Three.js Fur Shaders",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2112165213504163990",
+    "canonicalUrl": "https://x.com/N1njaCodex/status/2112165213504163990",
+    "author": {
+      "username": "N1njaCodex",
+      "displayName": "NinjaCodex",
+      "profileUrl": "https://x.com/N1njaCodex"
+    },
+    "publishedAt": "2026-10-19T12:53:23.000Z",
+    "collectedAt": "2026-10-26T02:57:48.703Z",
+    "language": "en",
+    "originalText": "A fluffy pumpkin by Claude Opus 5.5 for $8.41 🎃\n\nOne HTML file built with three.js: 64 layers of underfur and 60,000 individual hairs. The fur bounces as you rotate it and gently sways - makes you want to pet it https://t.co/QSsegP6u4V",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/N1njaCodex/status/2112165213504163990",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2112165165017726977/img/H_W-yVCi5w4-Z1CB.jpg",
+        "analysisUrl": "https://x.com/N1njaCodex/status/2112165213504163990"
+      }
+    ],
+    "metrics": {
+      "likeCount": 26,
+      "repostCount": 5,
+      "replyCount": 12,
+      "quoteCount": 0,
+      "viewCount": 1037
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/N1njaCodex/status/2112193558707138666",
+        "text": "@DrstaOne haha\nthanks",
+        "author": "N1njaCodex"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/N1njaCodex/status/2112183993051316357",
+        "text": "@nano133com thanks",
+        "author": "N1njaCodex"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/N1njaCodex/status/2112169673164833090",
+        "text": "@deeponailabs gotta try it, haven't tested it on my phone yet",
+        "author": "N1njaCodex"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/N1njaCodex/status/2112168387023663339",
+        "text": "@Jackeline362114 yeah, love how it takes a moment to settle after you stop",
+        "author": "N1njaCodex"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/N1njaCodex/status/2112167981883052468",
+        "text": "@0xPifagor yeah, i wish i could reach through the screen and pet it",
+        "author": "N1njaCodex"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/N1njaCodex/status/2112167898315739560",
+        "text": "@AntarexBTC haha now i want a real one on my desk",
+        "author": "N1njaCodex"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/N1njaCodex/status/2112165722818580505",
+        "text": "https://t.co/UKG4qnL1XM",
+        "author": "N1njaCodex"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/N1njaCodex/status/2112165701679005750",
+        "text": "PROMPT\n\nBuild a single self-contained HTML page (no build step) called \"Fluffy Pumpkin\": an interactive 3D pumpkin covered in long orange fur, rendered with WebGL using three.js r147 (UMD: https://t.co/RNs0IuB5XR) and custom ShaderMaterials. All UI text in English. Font: Onest (Google Fonts) with system fallbacks.\n\nLOOK\n- Full-screen canvas on a warm peach studio background: vertical gradient #E4B79C → #F0CAB3 (lighter band mid-screen) → #E0AD8F.\n- Pumpkin body: a sphere squashed vertically (height 0.68 of the width) with 10 lobes. Grooves between lobes pushed in ~13%, lobes slightly fuller, a deep dimple under the stem and a shallow dimple at the blossom end. Start in a gentle 3/4 view (−0.35 rad around Y, 0.06 rad tilt), camera FOV 30°, pumpkin plus stem filling ~88% of the height.\n- Stem: a thick, curved, ribbed green stem (7 twisting ridges, dark valleys #2B401A, ridges #6B803D, paling toward the tip #A3A166), flared where it meets the pumpkin, rising and bending to one side, ending in a pale beige domed cut cap (#CCC799) with a star of fibres.\n- One directional light from upper-left-front: wrap diffuse, Kajiya-Kay anisotropic highlight along the hair tangent, darker roots and darker grooves (occlusion), slight per-hair brightness variation, a soft warm rim.\n\nFUR (must look crisp, never blurry)\n- Fur length 0.2 units. Hairs grow along the normal, then comb from the stem down each lobe and PART along every groove (hair on each side leans toward its own lobe), plus gravity, so on the underside the fur spreads out like a star from the centre.\n- Colours: skin #8F3612, roots #BD4F1F, body #FF8C47, tips #FFB375. Each hair takes one colour from root to tip.\n- Undercoat: ~64 instanced shells of the body mesh. Procedural hair cells in UV space sized to ~3.4 device pixels at the default view (density follows screen size and pixel ratio), two populations (long + fine underfur), locks that clump toward the tips, analytic anti-aliased coverage, alpha blended, shells write depth. A separate opaque skin layer underneath. Fade shells out where the surface is seen edge-on and discard faint fragments, so no dotted rim or ring appears at the outline.\n- Guard hairs: ~60,000 individual tapered camera-facing ribbons (instanced, 7 segments) following the same bend function, minimum width ~0.75 px. Draw them twice: before the shells and after them (depth-tested, no depth write), so the top coat stays crisp and faint edge fur never cuts holes in it.\n- Always render at the full device pixel ratio (max 2) and NEVER lower it for performance. If frames are slow, reduce the shell count first (down to 32), then the guard-hair count.\n\nINTERACTION\n- Drag to rotate freely (trackball style) with inertia after a flick. The fur lags behind the rotation through a damped spring and flops back. Gentle idle breeze; after 3 s without input, a slow auto-turn.\n- Mouse wheel / pinch zooms with a smooth dolly; close up you can see individual hairs. Double-click or \"0\" resets with an eased animation. Arrow keys rotate.\n- Custom cursor: the native grab hand plus a thin dark 46 px ring that follows the pointer and shrinks while dragging. Hovering over the pumpkin gently parts the fur under the cursor, as if stroking it.\n- Respect prefers-reduced-motion (no idle spin, no breeze).\n\nUI & ROBUSTNESS\n- Bottom-left caption: \"Fluffy Pumpkin\" and a hint \"Drag to rotate · Scroll to zoom · Double-click to reset\" (on touch devices: \"Drag to rotate · Pinch to zoom\") that fades after the first interaction.\n- Guard against a zero-sized container at load: clamp width/height to at least 1, and every frame recover from any non-finite camera distance or rotation state.\n- Show a small on-page note if the WebGL context is lost or a shader fails to compile, and a fallback message if WebGL is unavailable.",
+        "author": "N1njaCodex"
+      },
+      {
+        "url": "https://x.com/N1njaCodex/status/2112165213504163990",
+        "text": "NinjaCodex on X: \"A fluffy pumpkin by Claude Opus 5.5 for $8.41 🎃\n\nOne HTML file built with three.js: 64 layers of underfur and 60,000 individual hairs. The fur bounces as you rotate it and gently sways - makes you want to pet it\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nNinjaCodex on X: \"A fluffy pumpkin by Claude Opus 5.5 for $8.41 🎃\n\nOne HTML file built with three.js: 64 layers of underfur and 60,000 individual hairs. The fur bounces as you rotate it and gently sways - makes you want to pet it\"\n\n\n\nNinjaCodex\n\n@N1njaCodex\n\n\n\n\nA fluffy pumpkin by Claude Opus 5.5 for $8.41 🎃\n\nOne HTML file built with three.js: 64 layers of underfur and 60,000 individual hairs. The fur bounces as you rotate it and gently sways - makes you want to pet it\n\n\n\n00:00\n\n\n\n\n\n\n\n\n12:53 PM · Oct 19, 2026·1,037\nViews\n\n\n12\n5\n26\n9\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nNinjaCodex@N1njaCodexFollow\nvibe coding, testing ai models & sharing prompts. building cool stuff without spending a fortune 🥷\n\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNinjaCodex\n\n@N1njaCodex\n\n\n\n\nA fluffy pumpkin by Claude Opus 5.5 for $8.41 🎃\n\nOne HTML file built with three.js: 64 layers of underfur and 60,000 individual hairs. The fur bounces as you rotate it and gently sways - makes you want to pet it\n\n\n\n00:00\n\n\n\n\n\n\n\n\n12:53 PM · Oct 19, 2026·1,037\nViews\n\n\n12\n5\n26\n9\n\n\n\n\n\n\n\n\n\nNinjaCodex\n\n@N1njaCodex\nOct 19\n\n\n\n\n\nFluffy Pumpkin\n\n\nFrom claude.ai\n\n\n\n\n\n1\n65\n\n\n\n\n\n\n\n\n\n\n\nNinjaCodex\n\n@N1njaCodex\nOct 19\n\n\nPROMPT\n\nBuild a single self-contained HTML page (no build step) called \"Fluffy Pumpkin\": an interactive 3D pumpkin covered in long orange fur, rendered with WebGL using three.js r147 (UMD: cdn.jsdelivr.net/npm/[email&#160;protected]…) and custom ShaderMaterials. All UI text in English. Font: Onest Show more\n\n\n\n\n\n1\n346\n\n\n\n\n\n\n\n\n\n\n\nDustin Ng\n\n@dustinng_gs\nOct 20\n\n\n:3 you love these style righttt\n\n\n\n\n1\n11\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "N1njaCodex"
+      },
+      {
+        "url": "https://claude.ai/artifact/NaUEEiEUnLTvW6tbhqD3BC",
+        "text": "Claude Artifact\n\n\n Content is user-generated and unverified.\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "N1njaCodex"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/RNs0IuB5XR"
+    ]
+  },
+  "xUrl": "https://x.com/N1njaCodex/status/2112165213504163990",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2112165165017726977/img/H_W-yVCi5w4-Z1CB.jpg",
+  "coverPath": "data/covers/2112165213504163990-wide.jpg",
+  "gifPath": "data/gifs/2112165213504163990.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2112165165017726977",
+    "x-post:2112165213504163990"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive Fluffy Pumpkin with Three.js Fur Shaders",
+      "summary": "A self-contained HTML WebGL 3D fluffy pumpkin featuring 64 layers of underfur and 60,000 individual guard hairs, interactive trackball rotation with momentum, fur inertia, custom cursor petting, and smooth zoom built with Three.js and custom ShaderMaterials generated by Claude Opus 5.5.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude.ai",
+        "authorUseConfirmed": true,
+        "evidence": "A fluffy pumpkin by Claude Opus 5.5 for $8.41 🎃"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "PROMPT\n\nBuild a single self-contained HTML page (no build step) called \"Fluffy Pumpkin\": an interactive 3D pumpkin covered in long orange fur, rendered with WebGL using three.js r147 (UMD: https://t.co/RNs0IuB5XR) and custom ShaderMaterials. All UI text in English. Font: Onest (Google Fonts) with system fallbacks.\n\nLOOK\n- Full-screen canvas on a warm peach studio background: vertical gradient #E4B79C → #F0CAB3 (lighter band mid-screen) → #E0AD8F.\n- Pumpkin body: a sphere squashed vertically (height 0.68 of the width) with 10 lobes. Grooves between lobes pushed in ~13%, lobes slightly fuller, a deep dimple under the stem and a shallow dimple at the blossom end. Start in a gentle 3/4 view (−0.35 rad around Y, 0.06 rad tilt), camera FOV 30°, pumpkin plus stem filling ~88% of the height.\n- Stem: a thick, curved, ribbed green stem (7 twisting ridges, dark valleys #2B401A, ridges #6B803D, paling toward the tip #A3A166), flared where it meets the pumpkin, rising and bending to one side, ending in a pale beige domed cut cap (#CCC799) with a star of fibres.\n- One directional light from upper-left-front: wrap diffuse, Kajiya-Kay anisotropic highlight along the hair tangent, darker roots and darker grooves (occlusion), slight per-hair brightness variation, a soft warm rim.\n\nFUR (must look crisp, never blurry)\n- Fur length 0.2 units. Hairs grow along the normal, then comb from the stem down each lobe and PART along every groove (hair on each side leans toward its own lobe), plus gravity, so on the underside the fur spreads out like a star from the centre.\n- Colours: skin #8F3612, roots #BD4F1F, body #FF8C47, tips #FFB375. Each hair takes one colour from root to tip.\n- Undercoat: ~64 instanced shells of the body mesh. Procedural hair cells in UV space sized to ~3.4 device pixels at the default view (density follows screen size and pixel ratio), two populations (long + fine underfur), locks that clump toward the tips, analytic anti-aliased coverage, alpha blended, shells write depth. A separate opaque skin layer underneath. Fade shells out where the surface is seen edge-on and discard faint fragments, so no dotted rim or ring appears at the outline.\n- Guard hairs: ~60,000 individual tapered camera-facing ribbons (instanced, 7 segments) following the same bend function, minimum width ~0.75 px. Draw them twice: before the shells and after them (depth-tested, no depth write), so the top coat stays crisp and faint edge fur never cuts holes in it.\n- Always render at the full device pixel ratio (max 2) and NEVER lower it for performance. If frames are slow, reduce the shell count first (down to 32), then the guard-hair count.\n\nINTERACTION\n- Drag to rotate freely (trackball style) with inertia after a flick. The fur lags behind the rotation through a damped spring and flops back. Gentle idle breeze; after 3 s without input, a slow auto-turn.\n- Mouse wheel / pinch zooms with a smooth dolly; close up you can see individual hairs. Double-click or \"0\" resets with an eased animation. Arrow keys rotate.\n- Custom cursor: the native grab hand plus a thin dark 46 px ring that follows the pointer and shrinks while dragging. Hovering over the pumpkin gently parts the fur under the cursor, as if stroking it.\n- Respect prefers-reduced-motion (no idle spin, no breeze).\n\nUI & ROBUSTNESS\n- Bottom-left caption: \"Fluffy Pumpkin\" and a hint \"Drag to rotate · Scroll to zoom · Double-click to reset\" (on touch devices: \"Drag to rotate · Pinch to zoom\") that fades after the first interaction.\n- Guard against a zero-sized container at load: clamp width/height to at least 1, and every frame recover from any non-finite camera distance or rotation state.\n- Show a small on-page note if the WebGL context is lost or a shader fails to compile, and a fallback message if WebGL is unavailable.",
+        "englishText": "PROMPT\n\nBuild a single self-contained HTML page (no build step) called \"Fluffy Pumpkin\": an interactive 3D pumpkin covered in long orange fur, rendered with WebGL using three.js r147 (UMD: https://t.co/RNs0IuB5XR) and custom ShaderMaterials. All UI text in English. Font: Onest (Google Fonts) with system fallbacks.\n\nLOOK\n- Full-screen canvas on a warm peach studio background: vertical gradient #E4B79C → #F0CAB3 (lighter band mid-screen) → #E0AD8F.\n- Pumpkin body: a sphere squashed vertically (height 0.68 of the width) with 10 lobes. Grooves between lobes pushed in ~13%, lobes slightly fuller, a deep dimple under the stem and a shallow dimple at the blossom end. Start in a gentle 3/4 view (−0.35 rad around Y, 0.06 rad tilt), camera FOV 30°, pumpkin plus stem filling ~88% of the height.\n- Stem: a thick, curved, ribbed green stem (7 twisting ridges, dark valleys #2B401A, ridges #6B803D, paling toward the tip #A3A166), flared where it meets the pumpkin, rising and bending to one side, ending in a pale beige domed cut cap (#CCC799) with a star of fibres.\n- One directional light from upper-left-front: wrap diffuse, Kajiya-Kay anisotropic highlight along the hair tangent, darker roots and darker grooves (occlusion), slight per-hair brightness variation, a soft warm rim.\n\nFUR (must look crisp, never blurry)\n- Fur length 0.2 units. Hairs grow along the normal, then comb from the stem down each lobe and PART along every groove (hair on each side leans toward its own lobe), plus gravity, so on the underside the fur spreads out like a star from the centre.\n- Colours: skin #8F3612, roots #BD4F1F, body #FF8C47, tips #FFB375. Each hair takes one colour from root to tip.\n- Undercoat: ~64 instanced shells of the body mesh. Procedural hair cells in UV space sized to ~3.4 device pixels at the default view (density follows screen size and pixel ratio), two populations (long + fine underfur), locks that clump toward the tips, analytic anti-aliased coverage, alpha blended, shells write depth. A separate opaque skin layer underneath. Fade shells out where the surface is seen edge-on and discard faint fragments, so no dotted rim or ring appears at the outline.\n- Guard hairs: ~60,000 individual tapered camera-facing ribbons (instanced, 7 segments) following the same bend function, minimum width ~0.75 px. Draw them twice: before the shells and after them (depth-tested, no depth write), so the top coat stays crisp and faint edge fur never cuts holes in it.\n- Always render at the full device pixel ratio (max 2) and NEVER lower it for performance. If frames are slow, reduce the shell count first (down to 32), then the guard-hair count.\n\nINTERACTION\n- Drag to rotate freely (trackball style) with inertia after a flick. The fur lags behind the rotation through a damped spring and flops back. Gentle idle breeze; after 3 s without input, a slow auto-turn.\n- Mouse wheel / pinch zooms with a smooth dolly; close up you can see individual hairs. Double-click or \"0\" resets with an eased animation. Arrow keys rotate.\n- Custom cursor: the native grab hand plus a thin dark 46 px ring that follows the pointer and shrinks while dragging. Hovering over the pumpkin gently parts the fur under the cursor, as if stroking it.\n- Respect prefers-reduced-motion (no idle spin, no breeze).\n\nUI & ROBUSTNESS\n- Bottom-left caption: \"Fluffy Pumpkin\" and a hint \"Drag to rotate · Scroll to zoom · Double-click to reset\" (on touch devices: \"Drag to rotate · Pinch to zoom\") that fades after the first interaction.\n- Guard against a zero-sized container at load: clamp width/height to at least 1, and every frame recover from any non-finite camera distance or rotation state.\n- Show a small on-page note if the WebGL context is lost or a shader fails to compile, and a fallback message if WebGL is unavailable.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video shows a live interactive screen recording of the fluffy orange 3D pumpkin on the peach studio gradient background. Interaction demonstrates trackball rotation with fur spring physics, cursor interaction ring parting the fur, close-up dolly zoom revealing individual hairs, and UI caption 'Fluffy Pumpkin' in the lower left.",
+        "textualResultQuote": "One HTML file built with three.js: 64 layers of underfur and 60,000 individual hairs. The fur bounces as you rotate it and gently sways - makes you want to pet it"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Google Fonts (Onest)",
+          "role": "Web typography font dependency",
+          "evidence": "Font: Onest (Google Fonts) with system fallbacks.",
+          "sourceUrl": "https://x.com/N1njaCodex/status/2112165701679005750",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "three.js",
+          "role": "WebGL 3D rendering engine and custom ShaderMaterials",
+          "evidence": "rendered with WebGL using three.js r147 (UMD: https://t.co/RNs0IuB5XR) and custom ShaderMaterials",
+          "sourceUrl": "https://x.com/N1njaCodex/status/2112165701679005750",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "status": "author_confirmed",
+          "evidence": "One HTML file built with three.js: 64 layers of underfur and 60,000 individual hairs.",
+          "sourceUrl": "https://x.com/N1njaCodex/status/2112165213504163990"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "Build a single self-contained HTML page (no build step) called \"Fluffy Pumpkin\": an interactive 3D pumpkin covered in long orange fur, rendered with WebGL using three.js r147 (UMD: https://t.co/RNs0IuB5XR) and custom ShaderMaterials.",
+          "sourceUrl": "https://x.com/N1njaCodex/status/2112165701679005750",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Fluffy Pumpkin WebGL Experience",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "interactive-3d",
+          "shader-materials",
+          "fur-rendering",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 generated the complete self-contained HTML/WebGL Three.js code containing mesh geometry, custom shaders for instanced undercoat shells and guard hairs, physics simulation, and interactive event handlers.",
+      "outputSource": "Browser WebGL runtime rendering the HTML and Three.js application generated by Claude Opus 5.5",
+      "divisionEvidence": "Build a single self-contained HTML page (no build step) called \"Fluffy Pumpkin\": an interactive 3D pumpkin covered in long orange fur, rendered with WebGL using three.js r147",
+      "video": {
+        "shots": "Single continuous screen recording showing mouse drag rotation, fur spring physics, and dolly zoom interaction",
+        "duration": "10s",
+        "aspectRatio": "16:10",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Clear attribution to Claude Opus 5.5 with full verbatim prompt, explicit code generation role for an interactive Three.js WebGL scene, and screen recording showing consistent output and physics.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/N1njaCodex/status/2112165701679005750",
+        "start": 0,
+        "end": 3809
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/N1njaCodex/status/2112165213504163990",
+        "author": "N1njaCodex",
+        "postId": "2112165213504163990",
+        "publishedAt": "2026-10-19T12:53:23.000Z"
+      },
+      "checkedAt": "2026-10-26T03:08:51.956Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "verified",
+        "status": "publishable",
+        "reasons": []
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/N1njaCodex/status/2112165701679005750",
+        "evidence": ""
+      }
+    },
+    "summary": "A self-contained HTML WebGL 3D fluffy pumpkin featuring 64 layers of underfur and 60,000 individual guard hairs, interactive trackball rotation with momentum, fur inertia, custom cursor petting, and smooth zoom built with Three.js and custom ShaderMaterials generated by Claude Opus 5.5.",
+    "summaryEn": "Interactive Fluffy Pumpkin with Three.js Fur Shaders",
+    "originalPrompt": "PROMPT\n\nBuild a single self-contained HTML page (no build step) called \"Fluffy Pumpkin\": an interactive 3D pumpkin covered in long orange fur, rendered with WebGL using three.js r147 (UMD: https://t.co/RNs0IuB5XR) and custom ShaderMaterials. All UI text in English. Font: Onest (Google Fonts) with system fallbacks.\n\nLOOK\n- Full-screen canvas on a warm peach studio background: vertical gradient #E4B79C → #F0CAB3 (lighter band mid-screen) → #E0AD8F.\n- Pumpkin body: a sphere squashed vertically (height 0.68 of the width) with 10 lobes. Grooves between lobes pushed in ~13%, lobes slightly fuller, a deep dimple under the stem and a shallow dimple at the blossom end. Start in a gentle 3/4 view (−0.35 rad around Y, 0.06 rad tilt), camera FOV 30°, pumpkin plus stem filling ~88% of the height.\n- Stem: a thick, curved, ribbed green stem (7 twisting ridges, dark valleys #2B401A, ridges #6B803D, paling toward the tip #A3A166), flared where it meets the pumpkin, rising and bending to one side, ending in a pale beige domed cut cap (#CCC799) with a star of fibres.\n- One directional light from upper-left-front: wrap diffuse, Kajiya-Kay anisotropic highlight along the hair tangent, darker roots and darker grooves (occlusion), slight per-hair brightness variation, a soft warm rim.\n\nFUR (must look crisp, never blurry)\n- Fur length 0.2 units. Hairs grow along the normal, then comb from the stem down each lobe and PART along every groove (hair on each side leans toward its own lobe), plus gravity, so on the underside the fur spreads out like a star from the centre.\n- Colours: skin #8F3612, roots #BD4F1F, body #FF8C47, tips #FFB375. Each hair takes one colour from root to tip.\n- Undercoat: ~64 instanced shells of the body mesh. Procedural hair cells in UV space sized to ~3.4 device pixels at the default view (density follows screen size and pixel ratio), two populations (long + fine underfur), locks that clump toward the tips, analytic anti-aliased coverage, alpha blended, shells write depth. A separate opaque skin layer underneath. Fade shells out where the surface is seen edge-on and discard faint fragments, so no dotted rim or ring appears at the outline.\n- Guard hairs: ~60,000 individual tapered camera-facing ribbons (instanced, 7 segments) following the same bend function, minimum width ~0.75 px. Draw them twice: before the shells and after them (depth-tested, no depth write), so the top coat stays crisp and faint edge fur never cuts holes in it.\n- Always render at the full device pixel ratio (max 2) and NEVER lower it for performance. If frames are slow, reduce the shell count first (down to 32), then the guard-hair count.\n\nINTERACTION\n- Drag to rotate freely (trackball style) with inertia after a flick. The fur lags behind the rotation through a damped spring and flops back. Gentle idle breeze; after 3 s without input, a slow auto-turn.\n- Mouse wheel / pinch zooms with a smooth dolly; close up you can see individual hairs. Double-click or \"0\" resets with an eased animation. Arrow keys rotate.\n- Custom cursor: the native grab hand plus a thin dark 46 px ring that follows the pointer and shrinks while dragging. Hovering over the pumpkin gently parts the fur under the cursor, as if stroking it.\n- Respect prefers-reduced-motion (no idle spin, no breeze).\n\nUI & ROBUSTNESS\n- Bottom-left caption: \"Fluffy Pumpkin\" and a hint \"Drag to rotate · Scroll to zoom · Double-click to reset\" (on touch devices: \"Drag to rotate · Pinch to zoom\") that fades after the first interaction.\n- Guard against a zero-sized container at load: clamp width/height to at least 1, and every frame recover from any non-finite camera distance or rotation state.\n- Show a small on-page note if the WebGL context is lost or a shader fails to compile, and a fallback message if WebGL is unavailable.",
+    "sourceRange": {
+      "start": 0,
+      "end": 3809
+    },
+    "translations": {
+      "zh": "PROMPT\n\nBuild a single self-contained HTML page (no build step) called \"Fluffy Pumpkin\": an interactive 3D pumpkin covered in long orange fur, rendered with WebGL using three.js r147 (UMD: https://t.co/RNs0IuB5XR) and custom ShaderMaterials. All UI text in English. Font: Onest (Google Fonts) with system fallbacks.\n\nLOOK\n- Full-screen canvas on a warm peach studio background: vertical gradient #E4B79C → #F0CAB3 (lighter band mid-screen) → #E0AD8F.\n- Pumpkin body: a sphere squashed vertically (height 0.68 of the width) with 10 lobes. Grooves between lobes pushed in ~13%, lobes slightly fuller, a deep dimple under the stem and a shallow dimple at the blossom end. Start in a gentle 3/4 view (−0.35 rad around Y, 0.06 rad tilt), camera FOV 30°, pumpkin plus stem filling ~88% of the height.\n- Stem: a thick, curved, ribbed green stem (7 twisting ridges, dark valleys #2B401A, ridges #6B803D, paling toward the tip #A3A166), flared where it meets the pumpkin, rising and bending to one side, ending in a pale beige domed cut cap (#CCC799) with a star of fibres.\n- One directional light from upper-left-front: wrap diffuse, Kajiya-Kay anisotropic highlight along the hair tangent, darker roots and darker grooves (occlusion), slight per-hair brightness variation, a soft warm rim.\n\nFUR (must look crisp, never blurry)\n- Fur length 0.2 units. Hairs grow along the normal, then comb from the stem down each lobe and PART along every groove (hair on each side leans toward its own lobe), plus gravity, so on the underside the fur spreads out like a star from the centre.\n- Colours: skin #8F3612, roots #BD4F1F, body #FF8C47, tips #FFB375. Each hair takes one colour from root to tip.\n- Undercoat: ~64 instanced shells of the body mesh. Procedural hair cells in UV space sized to ~3.4 device pixels at the default view (density follows screen size and pixel ratio), two populations (long + fine underfur), locks that clump toward the tips, analytic anti-aliased coverage, alpha blended, shells write depth. A separate opaque skin layer underneath. Fade shells out where the surface is seen edge-on and discard faint fragments, so no dotted rim or ring appears at the outline.\n- Guard hairs: ~60,000 individual tapered camera-facing ribbons (instanced, 7 segments) following the same bend function, minimum width ~0.75 px. Draw them twice: before the shells and after them (depth-tested, no depth write), so the top coat stays crisp and faint edge fur never cuts holes in it.\n- Always render at the full device pixel ratio (max 2) and NEVER lower it for performance. If frames are slow, reduce the shell count first (down to 32), then the guard-hair count.\n\nINTERACTION\n- Drag to rotate freely (trackball style) with inertia after a flick. The fur lags behind the rotation through a damped spring and flops back. Gentle idle breeze; after 3 s without input, a slow auto-turn.\n- Mouse wheel / pinch zooms with a smooth dolly; close up you can see individual hairs. Double-click or \"0\" resets with an eased animation. Arrow keys rotate.\n- Custom cursor: the native grab hand plus a thin dark 46 px ring that follows the pointer and shrinks while dragging. Hovering over the pumpkin gently parts the fur under the cursor, as if stroking it.\n- Respect prefers-reduced-motion (no idle spin, no breeze).\n\nUI & ROBUSTNESS\n- Bottom-left caption: \"Fluffy Pumpkin\" and a hint \"Drag to rotate · Scroll to zoom · Double-click to reset\" (on touch devices: \"Drag to rotate · Pinch to zoom\") that fades after the first interaction.\n- Guard against a zero-sized container at load: clamp width/height to at least 1, and every frame recover from any non-finite camera distance or rotation state.\n- Show a small on-page note if the WebGL context is lost or a shader fails to compile, and a fallback message if WebGL is unavailable.",
+      "en": "PROMPT\n\nBuild a single self-contained HTML page (no build step) called \"Fluffy Pumpkin\": an interactive 3D pumpkin covered in long orange fur, rendered with WebGL using three.js r147 (UMD: https://t.co/RNs0IuB5XR) and custom ShaderMaterials. All UI text in English. Font: Onest (Google Fonts) with system fallbacks.\n\nLOOK\n- Full-screen canvas on a warm peach studio background: vertical gradient #E4B79C → #F0CAB3 (lighter band mid-screen) → #E0AD8F.\n- Pumpkin body: a sphere squashed vertically (height 0.68 of the width) with 10 lobes. Grooves between lobes pushed in ~13%, lobes slightly fuller, a deep dimple under the stem and a shallow dimple at the blossom end. Start in a gentle 3/4 view (−0.35 rad around Y, 0.06 rad tilt), camera FOV 30°, pumpkin plus stem filling ~88% of the height.\n- Stem: a thick, curved, ribbed green stem (7 twisting ridges, dark valleys #2B401A, ridges #6B803D, paling toward the tip #A3A166), flared where it meets the pumpkin, rising and bending to one side, ending in a pale beige domed cut cap (#CCC799) with a star of fibres.\n- One directional light from upper-left-front: wrap diffuse, Kajiya-Kay anisotropic highlight along the hair tangent, darker roots and darker grooves (occlusion), slight per-hair brightness variation, a soft warm rim.\n\nFUR (must look crisp, never blurry)\n- Fur length 0.2 units. Hairs grow along the normal, then comb from the stem down each lobe and PART along every groove (hair on each side leans toward its own lobe), plus gravity, so on the underside the fur spreads out like a star from the centre.\n- Colours: skin #8F3612, roots #BD4F1F, body #FF8C47, tips #FFB375. Each hair takes one colour from root to tip.\n- Undercoat: ~64 instanced shells of the body mesh. Procedural hair cells in UV space sized to ~3.4 device pixels at the default view (density follows screen size and pixel ratio), two populations (long + fine underfur), locks that clump toward the tips, analytic anti-aliased coverage, alpha blended, shells write depth. A separate opaque skin layer underneath. Fade shells out where the surface is seen edge-on and discard faint fragments, so no dotted rim or ring appears at the outline.\n- Guard hairs: ~60,000 individual tapered camera-facing ribbons (instanced, 7 segments) following the same bend function, minimum width ~0.75 px. Draw them twice: before the shells and after them (depth-tested, no depth write), so the top coat stays crisp and faint edge fur never cuts holes in it.\n- Always render at the full device pixel ratio (max 2) and NEVER lower it for performance. If frames are slow, reduce the shell count first (down to 32), then the guard-hair count.\n\nINTERACTION\n- Drag to rotate freely (trackball style) with inertia after a flick. The fur lags behind the rotation through a damped spring and flops back. Gentle idle breeze; after 3 s without input, a slow auto-turn.\n- Mouse wheel / pinch zooms with a smooth dolly; close up you can see individual hairs. Double-click or \"0\" resets with an eased animation. Arrow keys rotate.\n- Custom cursor: the native grab hand plus a thin dark 46 px ring that follows the pointer and shrinks while dragging. Hovering over the pumpkin gently parts the fur under the cursor, as if stroking it.\n- Respect prefers-reduced-motion (no idle spin, no breeze).\n\nUI & ROBUSTNESS\n- Bottom-left caption: \"Fluffy Pumpkin\" and a hint \"Drag to rotate · Scroll to zoom · Double-click to reset\" (on touch devices: \"Drag to rotate · Pinch to zoom\") that fades after the first interaction.\n- Guard against a zero-sized container at load: clamp width/height to at least 1, and every frame recover from any non-finite camera distance or rotation state.\n- Show a small on-page note if the WebGL context is lost or a shader fails to compile, and a fallback message if WebGL is unavailable."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Fluffy Pumpkin WebGL Experience",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a live interactive screen recording of the fluffy orange 3D pumpkin on the peach studio gradient background. Interaction demonstrates trackball rotation with fur spring physics, cursor interaction ring parting the fur, close-up dolly zoom revealing individual hairs, and UI caption 'Fluffy Pumpkin' in the lower left."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

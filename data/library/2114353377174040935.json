@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-26T04:02:40.304Z",
+  "model": "opus5.5",
+  "prompt": "Nvidia just dropped https://t.co/u5rRdZxZgQ, make sth cool",
+  "promptTranslations": {
+    "en": "Nvidia just dropped https://t.co/u5rRdZxZgQ, make sth cool"
+  },
+  "summary": "Claude Opus 5.5 orchestrates a physics simulation using MuJoCo and renders falling NVIDIA SimReady fruit and vegetable models in Blender from a short prompt.",
+  "summaryEn": "NVIDIA SimReady Produce Drop Physics Simulation",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2114353377174040935",
+    "canonicalUrl": "https://x.com/deptulaaa/status/2114353377174040935",
+    "author": {
+      "username": "deptulaaa",
+      "displayName": "Krzysztof Deptula",
+      "profileUrl": "https://x.com/deptulaaa"
+    },
+    "publishedAt": "2026-10-25T13:48:22.000Z",
+    "collectedAt": "2026-10-26T02:57:48.703Z",
+    "language": "en",
+    "originalText": "The whole prompt was: \"Nvidia just dropped https://t.co/u5rRdZxZgQ, make sth cool\"\n\n3D models: NVIDIA SimReady (CC BY 4.0)\nbuilt by Claude Opus 5.5 – MuJoCo physics, Blender render https://t.co/ceXc1RQxoV",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/deptulaaa/status/2114353377174040935",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2114352884481425408/img/ua2NDW3hXkF_-xfy.jpg",
+        "analysisUrl": "https://x.com/deptulaaa/status/2114353377174040935"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 24
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "url": "https://x.com/deptulaaa/status/2114353377174040935",
+        "text": "Krzysztof Deptula on X: \"The whole prompt was: \"Nvidia just dropped https://t.co/u5rRdZxZgQ, make sth cool\"\n\n3D models: NVIDIA SimReady (CC BY 4.0)\nbuilt by Claude Opus 5.5 – MuJoCo physics, Blender render\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nKrzysztof Deptula on X: \"The whole prompt was: \"Nvidia just dropped https://t.co/u5rRdZxZgQ, make sth cool\"\n\n3D models: NVIDIA SimReady (CC BY 4.0)\nbuilt by Claude Opus 5.5 – MuJoCo physics, Blender render\"\n\n\n\nKrzysztof Deptula\n@deptulaaa\n\n\n\n\nThe whole prompt was: \"Nvidia just dropped huggingface.co/datasets/nvidi…, make sth cool\"\n\n3D models: NVIDIA SimReady (CC BY 4.0)\nbuilt by Claude Opus 5.5 – MuJoCo physics, Blender render\n\n\n\n00:00\n\n\n\n\n\n\n\n\n1:48 PM · Oct 25, 2026·24\nViews\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nKrzysztof Deptula@deptulaaaFollow\nBuilding AI-native tools for AEC. BIM automation, prefab workflows, and construction software architecture.\n\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKrzysztof Deptula\n@deptulaaa\n\n\n\n\nThe whole prompt was: \"Nvidia just dropped huggingface.co/datasets/nvidi…, make sth cool\"\n\n3D models: NVIDIA SimReady (CC BY 4.0)\nbuilt by Claude Opus 5.5 – MuJoCo physics, Blender render\n\n\n\n00:00\n\n\n\n\n\n\n\n\n1:48 PM · Oct 25, 2026·24\nViews\n\n\n1\n\n1\n\n\n\n\n\n\n\n\n\n\ncare n · Wondful\n\n@caren633881\n8h\n\n\nGetting that falling produce to move with such convincing weight from the MuJoCo physics is a nice touch.\n\n\n\n\n1\n4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "deptulaaa"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/u5rRdZxZgQ,"
+    ]
+  },
+  "xUrl": "https://x.com/deptulaaa/status/2114353377174040935",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2114352884481425408/img/ua2NDW3hXkF_-xfy.jpg",
+  "coverPath": "data/covers/2114353377174040935-wide.jpg",
+  "gifPath": "data/gifs/2114353377174040935.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2114352884481425408",
+    "x-post:2114353377174040935"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "NVIDIA SimReady Produce Drop Physics Simulation",
+      "summary": "Claude Opus 5.5 orchestrates a physics simulation using MuJoCo and renders falling NVIDIA SimReady fruit and vegetable models in Blender from a short prompt.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "built by Claude Opus 5.5 – MuJoCo physics, Blender render"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Nvidia just dropped https://t.co/u5rRdZxZgQ, make sth cool",
+        "englishText": "Nvidia just dropped https://t.co/u5rRdZxZgQ, make sth cool",
+        "complete": true,
+        "reproducible": false,
+        "missing": []
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "Vertical video shows realistic 3D fruit and produce falling, bouncing, and stacking in a physics-driven column arranged in color gradients against a black background.",
+        "textualResultQuote": ""
+      },
+      "inputs": [
+        {
+          "kind": "3D dataset",
+          "description": "NVIDIA SimReady 3D models dataset under CC BY 4.0",
+          "available": true,
+          "evidence": "3D models: NVIDIA SimReady (CC BY 4.0)",
+          "sourceUrl": "https://t.co/u5rRdZxZgQ",
+          "origin": "downloaded"
+        }
+      ],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Blender",
+          "role": "3D scene assembly and final video rendering",
+          "evidence": "Blender render",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/deptulaaa/status/2114353377174040935"
+        },
+        {
+          "name": "MuJoCo",
+          "role": "Physics simulation of falling produce",
+          "evidence": "MuJoCo physics",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/deptulaaa/status/2114353377174040935"
+        }
+      ],
+      "purpose": {
+        "label": "Physics-based produce drop and 3D simulation render",
+        "topic": "3d-scenes",
+        "tags": [
+          "blender",
+          "mujoco",
+          "physics",
+          "nvidia-simready",
+          "3d-simulation"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 acted as the coding agent to ingest the dataset, set up the MuJoCo physics simulation, and script the Blender render pipeline.",
+      "outputSource": "Blender",
+      "divisionEvidence": "built by Claude Opus 5.5 – MuJoCo physics, Blender render",
+      "video": {
+        "shots": "Single continuous vertical shot",
+        "duration": "9s",
+        "aspectRatio": "9:16",
+        "referenceMaterials": []
+      },
+      "task": "blender",
+      "suitable": true,
+      "reason": "The post provides verified Claude Opus 5.5 attribution by the creator, documents the full original prompt, and includes the resulting video using Blender rendering and MuJoCo physics.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/deptulaaa/status/2114353377174040935",
+        "start": 23,
+        "end": 81
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/deptulaaa/status/2114353377174040935",
+        "author": "deptulaaa",
+        "postId": "2114353377174040935",
+        "publishedAt": "2026-10-25T13:48:22.000Z"
+      },
+      "checkedAt": "2026-10-26T03:19:17.304Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/deptulaaa/status/2114353377174040935",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 orchestrates a physics simulation using MuJoCo and renders falling NVIDIA SimReady fruit and vegetable models in Blender from a short prompt.",
+    "summaryEn": "NVIDIA SimReady Produce Drop Physics Simulation",
+    "originalPrompt": "Nvidia just dropped https://t.co/u5rRdZxZgQ, make sth cool",
+    "sourceRange": {
+      "start": 23,
+      "end": 81
+    },
+    "translations": {
+      "zh": "Nvidia just dropped https://t.co/u5rRdZxZgQ, make sth cool",
+      "en": "Nvidia just dropped https://t.co/u5rRdZxZgQ, make sth cool"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "blender",
+    "useCase": "Physics-based produce drop and 3D simulation render",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Vertical video shows realistic 3D fruit and produce falling, bouncing, and stacking in a physics-driven column arranged in color gradients against a black background."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-26T04:02:42.417Z",
+  "model": "opus5.5",
+  "prompt": "build the Eiffel Tower.",
+  "promptTranslations": {
+    "en": "build the Eiffel Tower."
+  },
+  "summary": "Sam compares four AI models (Kimi K3.1, GPT-6 Astra, Gemini 4 Argon, and Claude Opus 5.5) on the prompt 'build the Eiffel Tower', evaluating cost, execution time, and scene quality.",
+  "summaryEn": "Four AI Models Eiffel Tower Build Comparison",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2114080244046954999",
+    "canonicalUrl": "https://x.com/SamgreyAi/status/2114080244046954999",
+    "author": {
+      "username": "SamgreyAi",
+      "displayName": "Sam",
+      "profileUrl": "https://x.com/SamgreyAi"
+    },
+    "publishedAt": "2026-10-24T19:43:02.000Z",
+    "collectedAt": "2026-10-26T02:57:48.703Z",
+    "language": "en",
+    "originalText": "Four AI models. One prompt: “build the Eiffel Tower.”🗼 \nThe cheapest one made the most convincing tower.\n\nKimi K3.1: $2.04 · 8 mins\nGPT-6 Astra: $7.45 · 8 mins\nGemini 4 Argon: $6.10 · 9 mins\nOpus 5.5: $8.95 · 10 mins\nOpus cost over 4x more than Kimi and took longer.\nWhat I noticed:\n→ Kimi: the slimmest, most elegant silhouette, with the right taper and proportions\n→ Opus: the richest scene, with the lawns, trees and deep-blue sky\n→ Gemini: soft fluffy clouds, but a stockier tower\n→ GPT: the finest lattice, delicate but a little see-through\nPrice clearly didn’t buy accuracy in this test.\n\nWhich one looks closest to the real thing?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/SamgreyAi/status/2114080244046954999",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2114080188376010752/img/3XqjnCqQVDD3N0fs.jpg",
+        "analysisUrl": "https://x.com/SamgreyAi/status/2114080244046954999"
+      }
+    ],
+    "metrics": {
+      "likeCount": 38,
+      "repostCount": 1,
+      "replyCount": 10,
+      "quoteCount": 0,
+      "viewCount": 2342
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SamgreyAi/status/2114241465081835801",
+        "text": "@iamigorekk Maybe Opus 5.5?",
+        "author": "SamgreyAi"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SamgreyAi/status/2114241352300999166",
+        "text": "@leiroops Yeah, and it’s a main problem",
+        "author": "SamgreyAi"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SamgreyAi/status/2114241245711155359",
+        "text": "@tolik12308 For me too",
+        "author": "SamgreyAi"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SamgreyAi/status/2114241186487795798",
+        "text": "@aksenHQ Yep",
+        "author": "SamgreyAi"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SamgreyAi/status/2114102737692754254",
+        "text": "@gmartidesign yeah, you right",
+        "author": "SamgreyAi"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/SamgreyAi/status/2114086809680646543",
+        "text": "@AIPulseNewsX Well, I prefer use Gemini 4 Argon, for me its a best option",
+        "author": "SamgreyAi"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/SamgreyAi/status/2114080244046954999",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2114080188376010752/img/3XqjnCqQVDD3N0fs.jpg",
+  "coverPath": "data/covers/2114080244046954999-wide.jpg",
+  "gifPath": "data/gifs/2114080244046954999.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2114080188376010752",
+    "x-post:2114080244046954999"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Four AI Models Eiffel Tower Build Comparison",
+      "summary": "Sam compares four AI models (Kimi K3.1, GPT-6 Astra, Gemini 4 Argon, and Claude Opus 5.5) on the prompt 'build the Eiffel Tower', evaluating cost, execution time, and scene quality.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "Opus 5.5: $8.95 · 10 mins"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build the Eiffel Tower.",
+        "englishText": "build the Eiffel Tower.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "system prompt",
+          "agent execution harness",
+          "target 3D/voxel environment specifications"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a 4-way comparison orbit shot of 3D voxel/block Eiffel Tower scenes, with the Opus 5.5 quadrant matching the description of lawns, trees, and deep-blue sky.",
+        "textualResultQuote": "Opus: the richest scene, with the lawns, trees and deep-blue sky"
+      },
+      "inputs": [],
+      "inputsDocumented": false,
+      "tools": [],
+      "purpose": {
+        "label": "Eiffel Tower 3D Scene Generation",
+        "topic": "3d-scenes",
+        "tags": [
+          "3d-scenes",
+          "voxel",
+          "eiffel-tower",
+          "model-comparison",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Agent generating the 3D scene structure and surrounding landscape for the Eiffel Tower build.",
+      "outputSource": "unknown",
+      "divisionEvidence": "The post details Opus 5.5 cost ($8.95) and execution time (10 mins) generating the tower and scene, but does not disclose the specific 3D renderer or execution framework.",
+      "video": {
+        "shots": "Single 4-way split-screen rotating orbit shot",
+        "duration": "14s",
+        "aspectRatio": "3:4",
+        "referenceMaterials": []
+      },
+      "task": "3d-scenes",
+      "suitable": true,
+      "reason": "Demonstrates Claude Opus 5.5 generating a full 3D scene and structure showcased in a rotating video comparison.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/SamgreyAi/status/2114080244046954999",
+        "start": 29,
+        "end": 52
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/SamgreyAi/status/2114080244046954999",
+        "author": "SamgreyAi",
+        "postId": "2114080244046954999",
+        "publishedAt": "2026-10-24T19:43:02.000Z"
+      },
+      "checkedAt": "2026-10-26T03:44:56.525Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "necessary_inputs_unverified",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/SamgreyAi/status/2114080244046954999",
+        "evidence": ""
+      }
+    },
+    "summary": "Sam compares four AI models (Kimi K3.1, GPT-6 Astra, Gemini 4 Argon, and Claude Opus 5.5) on the prompt 'build the Eiffel Tower', evaluating cost, execution time, and scene quality.",
+    "summaryEn": "Four AI Models Eiffel Tower Build Comparison",
+    "originalPrompt": "build the Eiffel Tower.",
+    "sourceRange": {
+      "start": 29,
+      "end": 52
+    },
+    "translations": {
+      "zh": "build the Eiffel Tower.",
+      "en": "build the Eiffel Tower."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "3d-scenes",
+    "useCase": "Eiffel Tower 3D Scene Generation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "system prompt",
+        "agent execution harness",
+        "target 3D/voxel environment specifications"
+      ],
+      "evidence": "The video shows a 4-way comparison orbit shot of 3D voxel/block Eiffel Tower scenes, with the Opus 5.5 quadrant matching the description of lawns, trees, and deep-blue sky."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

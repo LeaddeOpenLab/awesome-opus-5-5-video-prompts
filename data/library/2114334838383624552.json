@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-26T04:02:41.700Z",
+  "model": "opus5.5",
+  "prompt": "build a \"How the Internet Works\" explainer website",
+  "promptTranslations": {
+    "en": "build a \"How the Internet Works\" explainer website"
+  },
+  "summary": "Claude Opus 5.5 generates an interactive 'How the Internet Works' explainer website across four effort levels (Low, Medium, High, xHigh), comparing visual polish, interactive simulations, code length, and cost.",
+  "summaryEn": "Interactive 'How the Internet Works' Explainer across Effort Levels",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2114334838383624552",
+    "canonicalUrl": "https://x.com/vatsaishere/status/2114334838383624552",
+    "author": {
+      "username": "vatsaishere",
+      "displayName": "Vatsa",
+      "profileUrl": "https://x.com/vatsaishere"
+    },
+    "publishedAt": "2026-10-25T12:34:42.000Z",
+    "collectedAt": "2026-10-26T02:57:48.703Z",
+    "language": "en",
+    "originalText": "Is Opus 5.5 on xHigh worth 40x the cost of Low?\n\nI gave Claude Opus 5.5 the same prompt at 4 effort levels: build a \"How the Internet Works\" explainer website.\n\n⚡ Low: $0.55 · 2m 48s · 535 lines\n⚖️ Medium: $4.97 · 24m 37s · 3,682 lines\n🔥 High: $15.32 · 1h 42m · 5,940 lines\n🚀 xHigh: $22.28 · 2h 39m · 6,216 lines\n\nThe jump from High to xHigh cost 45% more and took about an hour longer, for only 5% more code.\n\nxHigh definitely has the most taste out of all the effort levels. I don't know if it's worth the price for such explainer sites.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/vatsaishere/status/2114334838383624552",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2114330629617733634/img/lf0Sr9U_XIwaLF5h.jpg",
+        "analysisUrl": "https://x.com/vatsaishere/status/2114334838383624552"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 104
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vatsaishere/status/2114355642098180393",
+        "text": "@Davidariasfin Yeah, that’s true. That’s the reason having good design is more important than ever. Polished software is harder to come by now than ever. Everyone wants to add as many features as possible.",
+        "author": "vatsaishere"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/vatsaishere/status/2114340327708627259",
+        "text": "@lazeskid What does Business ops involve? \nFor most well structured coding tasks, low is good enough as well.",
+        "author": "vatsaishere"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/vatsaishere/status/2114334838383624552",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2114330629617733634/img/lf0Sr9U_XIwaLF5h.jpg",
+  "coverPath": "data/covers/2114334838383624552-wide.jpg",
+  "gifPath": "data/gifs/2114334838383624552.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2114330629617733634",
+    "x-post:2114334838383624552"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 'How the Internet Works' Explainer across Effort Levels",
+      "summary": "Claude Opus 5.5 generates an interactive 'How the Internet Works' explainer website across four effort levels (Low, Medium, High, xHigh), comparing visual polish, interactive simulations, code length, and cost.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "I gave Claude Opus 5.5 the same prompt at 4 effort levels: build a \"How the Internet Works\" explainer website."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "build a \"How the Internet Works\" explainer website",
+        "englishText": "build a \"How the Internet Works\" explainer website",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "complete verbatim instructions",
+          "design guidelines",
+          "feature specifications",
+          "architecture and library constraints"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video provides screen recordings of the interactive websites produced by Claude Opus 5.5 at each effort level, demonstrating interactive packet journeys, dynamic world map pulse animations, signal encoding diagrams, and live traceroute simulations.",
+        "textualResultQuote": "⚡ Low: $0.55 · 2m 48s · 535 lines\n⚖️ Medium: $4.97 · 24m 37s · 3,682 lines\n🔥 High: $15.32 · 1h 42m · 5,940 lines\n🚀 xHigh: $22.28 · 2h 39m · 6,216 lines"
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Web Browser",
+          "role": "Renders and executes the generated HTML, CSS, and JavaScript interactive explainer code.",
+          "evidence": "The screen recording displays the generated applications running inside a browser environment at URL paths such as 'claude-opus-5-5 / effort-level / index.html'.",
+          "sourceUrl": "https://x.com/vatsaishere/status/2114334838383624552",
+          "status": "inferred"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Networking Explainer",
+        "topic": "explainers",
+        "tags": [
+          "explainer",
+          "interactive",
+          "networking",
+          "opus-5-5",
+          "canvas-interactive",
+          "effort-levels"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 acts as the creative code generator, producing the structure, styling, and interactive JavaScript logic for the web-based explainer.",
+      "outputSource": "Web browser executing Opus-generated front-end application code.",
+      "divisionEvidence": "Post states 'Claude Opus 5.5 built the same website 4 times' and demonstrates the interactive front-end output rendered in a browser.",
+      "video": {
+        "shots": "Multi-segment comparative screen recordings showing four distinct website builds and their interactive features",
+        "duration": "PT44S",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Demonstrates Claude Opus 5.5 generating interactive explainer web applications with animated technical simulations, verified via high-quality video screen recordings.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/vatsaishere/status/2114334838383624552",
+        "start": 108,
+        "end": 158
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/vatsaishere/status/2114334838383624552",
+        "author": "vatsaishere",
+        "postId": "2114334838383624552",
+        "publishedAt": "2026-10-25T12:34:42.000Z"
+      },
+      "checkedAt": "2026-10-26T03:39:26.983Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/vatsaishere/status/2114334838383624552",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generates an interactive 'How the Internet Works' explainer website across four effort levels (Low, Medium, High, xHigh), comparing visual polish, interactive simulations, code length, and cost.",
+    "summaryEn": "Interactive 'How the Internet Works' Explainer across Effort Levels",
+    "originalPrompt": "build a \"How the Internet Works\" explainer website",
+    "sourceRange": {
+      "start": 108,
+      "end": 158
+    },
+    "translations": {
+      "zh": "build a \"How the Internet Works\" explainer website",
+      "en": "build a \"How the Internet Works\" explainer website"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Networking Explainer",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "complete verbatim instructions",
+        "design guidelines",
+        "feature specifications",
+        "architecture and library constraints"
+      ],
+      "evidence": "The video provides screen recordings of the interactive websites produced by Claude Opus 5.5 at each effort level, demonstrating interactive packet journeys, dynamic world map pulse animations, signal encoding diagrams, and live traceroute simulations."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

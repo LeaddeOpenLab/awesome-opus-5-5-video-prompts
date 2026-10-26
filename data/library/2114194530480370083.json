@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-26T04:02:43.145Z",
+  "model": "opus5.5",
+  "prompt": "create a phone wallpaper in the style of “The Great Wave off Kanagawa”",
+  "promptTranslations": {
+    "en": "create a phone wallpaper in the style of “The Great Wave off Kanagawa”"
+  },
+  "summary": "Vlad Rez tests Claude Opus 5.5 generating a Japanese woodblock-style phone wallpaper inside VectorCraft through its MCP server.",
+  "summaryEn": "The Great Wave Phone Wallpaper via VectorCraft MCP",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2114194530480370083",
+    "canonicalUrl": "https://x.com/vladrezdev/status/2114194530480370083",
+    "author": {
+      "username": "vladrezdev",
+      "displayName": "𝕕𝕖𝕧 / 𝕒𝕔𝕔 | Vlad Rez",
+      "profileUrl": "https://x.com/vladrezdev"
+    },
+    "publishedAt": "2026-10-25T03:17:10.000Z",
+    "collectedAt": "2026-10-26T02:57:48.703Z",
+    "language": "en",
+    "originalText": "I’ve been testing VectorCraft, the Adobe Illustrator clone, through its MCP server. So I prompted Claude Opus 5.5 to create a phone wallpaper in the style of “The Great Wave off Kanagawa”.\n\nSome observations:\n\nClaude rendered the canvas after every stage and fixed what it saw.\nBatches can be atomic, so one undo rolls back the whole batch.\nVectorCraft takes raw SVG path data. \nGradients, blend modes and live effects all come through the MCP.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/vladrezdev/status/2114194530480370083",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2114193781562195968/img/e_sx0e7qvquvadm8.jpg",
+        "analysisUrl": "https://x.com/vladrezdev/status/2114194530480370083"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HVcgdTNbUAAEjM4.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HVcgdTNbUAAEjM4.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 86
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/vladrezdev/status/2114194530480370083",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2114193781562195968/img/e_sx0e7qvquvadm8.jpg",
+  "coverPath": "data/covers/2114194530480370083-wide.jpg",
+  "gifPath": "data/gifs/2114194530480370083.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2114193781562195968",
+    "x-image:/media/HVcgdTNbUAAEjM4",
+    "x-post:2114194530480370083"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "The Great Wave Phone Wallpaper via VectorCraft MCP",
+      "summary": "Vlad Rez tests Claude Opus 5.5 generating a Japanese woodblock-style phone wallpaper inside VectorCraft through its MCP server.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "I prompted Claude Opus 5.5 to create a phone wallpaper in the style of “The Great Wave off Kanagawa”."
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "create a phone wallpaper in the style of “The Great Wave off Kanagawa”",
+        "englishText": "create a phone wallpaper in the style of “The Great Wave off Kanagawa”",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact initial prompt or system instructions",
+          "Canvas setup and resolution parameters",
+          "Vector styling guidelines and intermediate correction prompts"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording displays VectorCraft progressively assembling vector paths and layers into the final phone wallpaper.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "VectorCraft",
+          "role": "Adobe Illustrator-like vector drawing application driven via an MCP server to render SVG paths, gradients, and blend modes",
+          "evidence": "I’ve been testing VectorCraft, the Adobe Illustrator clone, through its MCP server. ... VectorCraft takes raw SVG path data. Gradients, blend modes and live effects all come through the MCP.",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Vector Illustration via MCP",
+        "topic": "motion-graphics",
+        "tags": [
+          "vector-art",
+          "mcp-server",
+          "illustration",
+          "wallpaper"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 acts as an autonomous design agent invoking VectorCraft MCP tools stage-by-stage and inspecting rendered progress.",
+      "outputSource": "VectorCraft",
+      "divisionEvidence": "Claude rendered the canvas after every stage and fixed what it saw. Batches can be atomic, so one undo rolls back the whole batch. VectorCraft takes raw SVG path data.",
+      "video": {
+        "shots": "Single UI screen recording showing progressive placement of vector spirals, clouds, and waves",
+        "duration": "8s",
+        "aspectRatio": "16:9",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": false,
+      "reason": "The showcase demonstrates static vector graphic illustration (phone wallpaper) generated via MCP rather than video production, motion graphics, animation, or interactive software scenes.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/vladrezdev/status/2114194530480370083",
+        "start": 117,
+        "end": 187
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/vladrezdev/status/2114194530480370083",
+        "author": "vladrezdev",
+        "postId": "2114194530480370083",
+        "publishedAt": "2026-10-25T03:17:10.000Z"
+      },
+      "checkedAt": "2026-10-26T03:52:33.197Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified",
+          "outside_repository_scope"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/vladrezdev/status/2114194530480370083",
+        "evidence": ""
+      }
+    },
+    "summary": "Vlad Rez tests Claude Opus 5.5 generating a Japanese woodblock-style phone wallpaper inside VectorCraft through its MCP server.",
+    "summaryEn": "The Great Wave Phone Wallpaper via VectorCraft MCP",
+    "originalPrompt": "create a phone wallpaper in the style of “The Great Wave off Kanagawa”",
+    "sourceRange": {
+      "start": 117,
+      "end": 187
+    },
+    "translations": {
+      "zh": "create a phone wallpaper in the style of “The Great Wave off Kanagawa”",
+      "en": "create a phone wallpaper in the style of “The Great Wave off Kanagawa”"
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Vector Illustration via MCP",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact initial prompt or system instructions",
+        "Canvas setup and resolution parameters",
+        "Vector styling guidelines and intermediate correction prompts"
+      ],
+      "evidence": "Screen recording displays VectorCraft progressively assembling vector paths and layers into the final phone wallpaper."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

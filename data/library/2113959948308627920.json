@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-26T04:02:41.367Z",
+  "model": "opus5.5",
+  "prompt": "Build a single-file interactive 3D web experience called \"Jelly Billiards.\" using Three.js (WebGL), all procedural, zero external assets. Soft, translucent jelly balls roll, collide and wobble on a round glass table in a dark, moody room.\n\nLOOK AND FEEL\n- Near-black warm background with a soft colored vignette glow that matches the current jelly color.\n- Serif title \"Jelly Billiards.\" top left with a small italic subtitle \"The Soft Play Collection\".\n- A round, shallow, frosted glass table seen from a three-quarter top view, with a soft rim highlight and a faint glow underneath.\n- Small refined UI. Quiet luxury feeling, like a limited edition design object.\n\nTHE BALLS\n- Smooth spheres of translucent jelly with glossy highlights, soft inner glow and a subtle subsurface look.\n- Each ball has a small white number disc or a soft circular marking, with numbers readable but delicate.\n- Pastel flavors: pink, lavender, mint, sky blue, butter yellow, peach. Balls in a set share the chosen flavor with slight tone variation.\n\nJELLY PHYSICS\n- Rigid body rolling and collisions with a soft-body wobble layer: balls squash on impact, jiggle and recover with damping.\n- Elastic collisions between balls and with the table rim, believable rolling friction, balls settle smoothly.\n- Click and drag on a ball to aim and release to shoot, with a faint aim line and power indicator. A ball can also be nudged by touch.\n- Soft deformation visible at the contact point during collisions.\n\nCONTROLS\n- A pill button \"Roll the balls\" that scatters all balls with a random but pleasant impulse.\n- Ball count stepper (1 to 9) with minus and plus buttons.\n- Jelly color swatches along the bottom left. Switching one smoothly recolors the balls and the ambient glow.\n- Top right buttons: \"Table view\" (top-down camera) and \"Settings\".\n- Settings panel: jelly softness slider, auto-rotate toggle, sound toggle.\n- Keyboard: Space to roll, plus and minus to change ball count, T for table view.\n\nSOUND AND POLISH\n- Soft squishy clacks and low thuds synthesized with WebAudio (no files), pitch and volume tied to impact speed.\n- 60 fps, adaptive pixel ratio, filmic tone mapping, subtle bloom on highlights, soft contact shadows on the glass.\n- Smooth camera orbit with inertia and a gentle auto-rotate option.\n- Works on desktop and mobile touch. Clean, commented code in one HTML file with constants grouped at the top.",
+  "promptTranslations": {
+    "en": "Build a single-file interactive 3D web experience called \"Jelly Billiards.\" using Three.js (WebGL), all procedural, zero external assets. Soft, translucent jelly balls roll, collide and wobble on a round glass table in a dark, moody room.\n\nLOOK AND FEEL\n- Near-black warm background with a soft colored vignette glow that matches the current jelly color.\n- Serif title \"Jelly Billiards.\" top left with a small italic subtitle \"The Soft Play Collection\".\n- A round, shallow, frosted glass table seen from a three-quarter top view, with a soft rim highlight and a faint glow underneath.\n- Small refined UI. Quiet luxury feeling, like a limited edition design object.\n\nTHE BALLS\n- Smooth spheres of translucent jelly with glossy highlights, soft inner glow and a subtle subsurface look.\n- Each ball has a small white number disc or a soft circular marking, with numbers readable but delicate.\n- Pastel flavors: pink, lavender, mint, sky blue, butter yellow, peach. Balls in a set share the chosen flavor with slight tone variation.\n\nJELLY PHYSICS\n- Rigid body rolling and collisions with a soft-body wobble layer: balls squash on impact, jiggle and recover with damping.\n- Elastic collisions between balls and with the table rim, believable rolling friction, balls settle smoothly.\n- Click and drag on a ball to aim and release to shoot, with a faint aim line and power indicator. A ball can also be nudged by touch.\n- Soft deformation visible at the contact point during collisions.\n\nCONTROLS\n- A pill button \"Roll the balls\" that scatters all balls with a random but pleasant impulse.\n- Ball count stepper (1 to 9) with minus and plus buttons.\n- Jelly color swatches along the bottom left. Switching one smoothly recolors the balls and the ambient glow.\n- Top right buttons: \"Table view\" (top-down camera) and \"Settings\".\n- Settings panel: jelly softness slider, auto-rotate toggle, sound toggle.\n- Keyboard: Space to roll, plus and minus to change ball count, T for table view.\n\nSOUND AND POLISH\n- Soft squishy clacks and low thuds synthesized with WebAudio (no files), pitch and volume tied to impact speed.\n- 60 fps, adaptive pixel ratio, filmic tone mapping, subtle bloom on highlights, soft contact shadows on the glass.\n- Smooth camera orbit with inertia and a gentle auto-rotate option.\n- Works on desktop and mobile touch. Clean, commented code in one HTML file with constants grouped at the top."
+  },
+  "summary": "Claude Opus 5.5 generates a complete single-file interactive 3D WebGL jelly billiards simulation using Three.js, featuring soft-body jelly physics, procedural audio, and customizable UI controls.",
+  "summaryEn": "Interactive 3D Jelly Billiards with Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2113959948308627920",
+    "canonicalUrl": "https://x.com/bluumik/status/2113959948308627920",
+    "author": {
+      "username": "bluumik",
+      "displayName": "bluumik",
+      "profileUrl": "https://x.com/bluumik"
+    },
+    "publishedAt": "2026-10-24T11:45:01.000Z",
+    "collectedAt": "2026-10-26T02:57:48.703Z",
+    "language": "en",
+    "originalText": "My dad plays pool every Sunday and he looked at this for a full minute 😭\n\nThen he said “does the cue come with it?”\n\nIt’s jelly billiards, built by Claude Opus 5.5 from one prompt, no cue, no table, just vibes. Would you play it?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/bluumik/status/2113959948308627920",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2113959638496403456/img/qnT1sHOz1gg0Yind.jpg",
+        "analysisUrl": "https://x.com/bluumik/status/2113959948308627920"
+      }
+    ],
+    "metrics": {
+      "likeCount": 8,
+      "repostCount": 3,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 493
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/bluumik/status/2113960283982975068",
+        "text": "PROMT- Build a single-file interactive 3D web experience called \"Jelly Billiards.\" using Three.js (WebGL), all procedural, zero external assets. Soft, translucent jelly balls roll, collide and wobble on a round glass table in a dark, moody room.\n\nLOOK AND FEEL\n- Near-black warm background with a soft colored vignette glow that matches the current jelly color.\n- Serif title \"Jelly Billiards.\" top left with a small italic subtitle \"The Soft Play Collection\".\n- A round, shallow, frosted glass table seen from a three-quarter top view, with a soft rim highlight and a faint glow underneath.\n- Small refined UI. Quiet luxury feeling, like a limited edition design object.\n\nTHE BALLS\n- Smooth spheres of translucent jelly with glossy highlights, soft inner glow and a subtle subsurface look.\n- Each ball has a small white number disc or a soft circular marking, with numbers readable but delicate.\n- Pastel flavors: pink, lavender, mint, sky blue, butter yellow, peach. Balls in a set share the chosen flavor with slight tone variation.\n\nJELLY PHYSICS\n- Rigid body rolling and collisions with a soft-body wobble layer: balls squash on impact, jiggle and recover with damping.\n- Elastic collisions between balls and with the table rim, believable rolling friction, balls settle smoothly.\n- Click and drag on a ball to aim and release to shoot, with a faint aim line and power indicator. A ball can also be nudged by touch.\n- Soft deformation visible at the contact point during collisions.\n\nCONTROLS\n- A pill button \"Roll the balls\" that scatters all balls with a random but pleasant impulse.\n- Ball count stepper (1 to 9) with minus and plus buttons.\n- Jelly color swatches along the bottom left. Switching one smoothly recolors the balls and the ambient glow.\n- Top right buttons: \"Table view\" (top-down camera) and \"Settings\".\n- Settings panel: jelly softness slider, auto-rotate toggle, sound toggle.\n- Keyboard: Space to roll, plus and minus to change ball count, T for table view.\n\nSOUND AND POLISH\n- Soft squishy clacks and low thuds synthesized with WebAudio (no files), pitch and volume tied to impact speed.\n- 60 fps, adaptive pixel ratio, filmic tone mapping, subtle bloom on highlights, soft contact shadows on the glass.\n- Smooth camera orbit with inertia and a gentle auto-rotate option.\n- Works on desktop and mobile touch. Clean, commented code in one HTML file with constants grouped at the top.",
+        "author": "bluumik"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/bluumik/status/2113959948308627920",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2113959638496403456/img/qnT1sHOz1gg0Yind.jpg",
+  "coverPath": "data/covers/2113959948308627920-wide.jpg",
+  "gifPath": "data/gifs/2113959948308627920.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2113959638496403456",
+    "x-post:2113959948308627920"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Jelly Billiards with Three.js",
+      "summary": "Claude Opus 5.5 generates a complete single-file interactive 3D WebGL jelly billiards simulation using Three.js, featuring soft-body jelly physics, procedural audio, and customizable UI controls.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Anthropic",
+        "authorUseConfirmed": true,
+        "evidence": "It’s jelly billiards, built by Claude Opus 5.5 from one prompt, no cue, no table, just vibes."
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build a single-file interactive 3D web experience called \"Jelly Billiards.\" using Three.js (WebGL), all procedural, zero external assets. Soft, translucent jelly balls roll, collide and wobble on a round glass table in a dark, moody room.\n\nLOOK AND FEEL\n- Near-black warm background with a soft colored vignette glow that matches the current jelly color.\n- Serif title \"Jelly Billiards.\" top left with a small italic subtitle \"The Soft Play Collection\".\n- A round, shallow, frosted glass table seen from a three-quarter top view, with a soft rim highlight and a faint glow underneath.\n- Small refined UI. Quiet luxury feeling, like a limited edition design object.\n\nTHE BALLS\n- Smooth spheres of translucent jelly with glossy highlights, soft inner glow and a subtle subsurface look.\n- Each ball has a small white number disc or a soft circular marking, with numbers readable but delicate.\n- Pastel flavors: pink, lavender, mint, sky blue, butter yellow, peach. Balls in a set share the chosen flavor with slight tone variation.\n\nJELLY PHYSICS\n- Rigid body rolling and collisions with a soft-body wobble layer: balls squash on impact, jiggle and recover with damping.\n- Elastic collisions between balls and with the table rim, believable rolling friction, balls settle smoothly.\n- Click and drag on a ball to aim and release to shoot, with a faint aim line and power indicator. A ball can also be nudged by touch.\n- Soft deformation visible at the contact point during collisions.\n\nCONTROLS\n- A pill button \"Roll the balls\" that scatters all balls with a random but pleasant impulse.\n- Ball count stepper (1 to 9) with minus and plus buttons.\n- Jelly color swatches along the bottom left. Switching one smoothly recolors the balls and the ambient glow.\n- Top right buttons: \"Table view\" (top-down camera) and \"Settings\".\n- Settings panel: jelly softness slider, auto-rotate toggle, sound toggle.\n- Keyboard: Space to roll, plus and minus to change ball count, T for table view.\n\nSOUND AND POLISH\n- Soft squishy clacks and low thuds synthesized with WebAudio (no files), pitch and volume tied to impact speed.\n- 60 fps, adaptive pixel ratio, filmic tone mapping, subtle bloom on highlights, soft contact shadows on the glass.\n- Smooth camera orbit with inertia and a gentle auto-rotate option.\n- Works on desktop and mobile touch. Clean, commented code in one HTML file with constants grouped at the top.",
+        "englishText": "Build a single-file interactive 3D web experience called \"Jelly Billiards.\" using Three.js (WebGL), all procedural, zero external assets. Soft, translucent jelly balls roll, collide and wobble on a round glass table in a dark, moody room.\n\nLOOK AND FEEL\n- Near-black warm background with a soft colored vignette glow that matches the current jelly color.\n- Serif title \"Jelly Billiards.\" top left with a small italic subtitle \"The Soft Play Collection\".\n- A round, shallow, frosted glass table seen from a three-quarter top view, with a soft rim highlight and a faint glow underneath.\n- Small refined UI. Quiet luxury feeling, like a limited edition design object.\n\nTHE BALLS\n- Smooth spheres of translucent jelly with glossy highlights, soft inner glow and a subtle subsurface look.\n- Each ball has a small white number disc or a soft circular marking, with numbers readable but delicate.\n- Pastel flavors: pink, lavender, mint, sky blue, butter yellow, peach. Balls in a set share the chosen flavor with slight tone variation.\n\nJELLY PHYSICS\n- Rigid body rolling and collisions with a soft-body wobble layer: balls squash on impact, jiggle and recover with damping.\n- Elastic collisions between balls and with the table rim, believable rolling friction, balls settle smoothly.\n- Click and drag on a ball to aim and release to shoot, with a faint aim line and power indicator. A ball can also be nudged by touch.\n- Soft deformation visible at the contact point during collisions.\n\nCONTROLS\n- A pill button \"Roll the balls\" that scatters all balls with a random but pleasant impulse.\n- Ball count stepper (1 to 9) with minus and plus buttons.\n- Jelly color swatches along the bottom left. Switching one smoothly recolors the balls and the ambient glow.\n- Top right buttons: \"Table view\" (top-down camera) and \"Settings\".\n- Settings panel: jelly softness slider, auto-rotate toggle, sound toggle.\n- Keyboard: Space to roll, plus and minus to change ball count, T for table view.\n\nSOUND AND POLISH\n- Soft squishy clacks and low thuds synthesized with WebAudio (no files), pitch and volume tied to impact speed.\n- 60 fps, adaptive pixel ratio, filmic tone mapping, subtle bloom on highlights, soft contact shadows on the glass.\n- Smooth camera orbit with inertia and a gentle auto-rotate option.\n- Works on desktop and mobile touch. Clean, commented code in one HTML file with constants grouped at the top.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The attached screen recording shows the interactive application exactly matching the prompt: title 'Jelly Billiards.' with subtitle 'The Soft Play Collection', frosted glass round table, pastel jelly balls with numbers rolling and wobbling upon collision, color palette swatches, ball counter, 'Roll the balls' pill button, and top-right controls with jelly softness slider.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "WebGL 3D graphics rendering and soft-body ball physics simulation",
+          "evidence": "using Three.js (WebGL), all procedural, zero external assets",
+          "sourceUrl": "https://x.com/bluumik/status/2113960283982975068",
+          "status": "author_confirmed"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "Build a single-file interactive 3D web experience called \"Jelly Billiards.\" using Three.js (WebGL), all procedural, zero external assets.",
+          "sourceUrl": "https://x.com/bluumik/status/2113960283982975068",
+          "status": "required"
+        },
+        {
+          "name": "WebAudio API",
+          "role": "Procedural real-time sound synthesis for collision clacks and thuds",
+          "evidence": "Soft squishy clacks and low thuds synthesized with WebAudio (no files)",
+          "sourceUrl": "https://x.com/bluumik/status/2113960283982975068",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive Jelly Billiards Simulation",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "webgl",
+          "interactive",
+          "physics",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Generates the complete single-file HTML, CSS, and Three.js/JavaScript application code",
+      "outputSource": "Web browser rendering Three.js code authored by Claude Opus 5.5",
+      "divisionEvidence": "Author confirms Claude Opus 5.5 wrote the application code from prompt ('built by Claude Opus 5.5 from one prompt'), and execution is handled via Three.js (WebGL) in the browser.",
+      "video": {
+        "shots": "Single continuous screen recording showing interactive manipulation and UI response",
+        "duration": "0:19",
+        "aspectRatio": "2:1",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Clear author confirmation of Claude Opus 5.5 model version, complete verbatim prompt provided in the author thread, accompanied by screen recording demonstrating the Three.js interactive simulation.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/bluumik/status/2113960283982975068",
+        "start": 7,
+        "end": 2410
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/bluumik/status/2113959948308627920",
+        "author": "bluumik",
+        "postId": "2113959948308627920",
+        "publishedAt": "2026-10-24T11:45:01.000Z"
+      },
+      "checkedAt": "2026-10-26T03:25:53.334Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/bluumik/status/2113960283982975068",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generates a complete single-file interactive 3D WebGL jelly billiards simulation using Three.js, featuring soft-body jelly physics, procedural audio, and customizable UI controls.",
+    "summaryEn": "Interactive 3D Jelly Billiards with Three.js",
+    "originalPrompt": "Build a single-file interactive 3D web experience called \"Jelly Billiards.\" using Three.js (WebGL), all procedural, zero external assets. Soft, translucent jelly balls roll, collide and wobble on a round glass table in a dark, moody room.\n\nLOOK AND FEEL\n- Near-black warm background with a soft colored vignette glow that matches the current jelly color.\n- Serif title \"Jelly Billiards.\" top left with a small italic subtitle \"The Soft Play Collection\".\n- A round, shallow, frosted glass table seen from a three-quarter top view, with a soft rim highlight and a faint glow underneath.\n- Small refined UI. Quiet luxury feeling, like a limited edition design object.\n\nTHE BALLS\n- Smooth spheres of translucent jelly with glossy highlights, soft inner glow and a subtle subsurface look.\n- Each ball has a small white number disc or a soft circular marking, with numbers readable but delicate.\n- Pastel flavors: pink, lavender, mint, sky blue, butter yellow, peach. Balls in a set share the chosen flavor with slight tone variation.\n\nJELLY PHYSICS\n- Rigid body rolling and collisions with a soft-body wobble layer: balls squash on impact, jiggle and recover with damping.\n- Elastic collisions between balls and with the table rim, believable rolling friction, balls settle smoothly.\n- Click and drag on a ball to aim and release to shoot, with a faint aim line and power indicator. A ball can also be nudged by touch.\n- Soft deformation visible at the contact point during collisions.\n\nCONTROLS\n- A pill button \"Roll the balls\" that scatters all balls with a random but pleasant impulse.\n- Ball count stepper (1 to 9) with minus and plus buttons.\n- Jelly color swatches along the bottom left. Switching one smoothly recolors the balls and the ambient glow.\n- Top right buttons: \"Table view\" (top-down camera) and \"Settings\".\n- Settings panel: jelly softness slider, auto-rotate toggle, sound toggle.\n- Keyboard: Space to roll, plus and minus to change ball count, T for table view.\n\nSOUND AND POLISH\n- Soft squishy clacks and low thuds synthesized with WebAudio (no files), pitch and volume tied to impact speed.\n- 60 fps, adaptive pixel ratio, filmic tone mapping, subtle bloom on highlights, soft contact shadows on the glass.\n- Smooth camera orbit with inertia and a gentle auto-rotate option.\n- Works on desktop and mobile touch. Clean, commented code in one HTML file with constants grouped at the top.",
+    "sourceRange": {
+      "start": 7,
+      "end": 2410
+    },
+    "translations": {
+      "zh": "Build a single-file interactive 3D web experience called \"Jelly Billiards.\" using Three.js (WebGL), all procedural, zero external assets. Soft, translucent jelly balls roll, collide and wobble on a round glass table in a dark, moody room.\n\nLOOK AND FEEL\n- Near-black warm background with a soft colored vignette glow that matches the current jelly color.\n- Serif title \"Jelly Billiards.\" top left with a small italic subtitle \"The Soft Play Collection\".\n- A round, shallow, frosted glass table seen from a three-quarter top view, with a soft rim highlight and a faint glow underneath.\n- Small refined UI. Quiet luxury feeling, like a limited edition design object.\n\nTHE BALLS\n- Smooth spheres of translucent jelly with glossy highlights, soft inner glow and a subtle subsurface look.\n- Each ball has a small white number disc or a soft circular marking, with numbers readable but delicate.\n- Pastel flavors: pink, lavender, mint, sky blue, butter yellow, peach. Balls in a set share the chosen flavor with slight tone variation.\n\nJELLY PHYSICS\n- Rigid body rolling and collisions with a soft-body wobble layer: balls squash on impact, jiggle and recover with damping.\n- Elastic collisions between balls and with the table rim, believable rolling friction, balls settle smoothly.\n- Click and drag on a ball to aim and release to shoot, with a faint aim line and power indicator. A ball can also be nudged by touch.\n- Soft deformation visible at the contact point during collisions.\n\nCONTROLS\n- A pill button \"Roll the balls\" that scatters all balls with a random but pleasant impulse.\n- Ball count stepper (1 to 9) with minus and plus buttons.\n- Jelly color swatches along the bottom left. Switching one smoothly recolors the balls and the ambient glow.\n- Top right buttons: \"Table view\" (top-down camera) and \"Settings\".\n- Settings panel: jelly softness slider, auto-rotate toggle, sound toggle.\n- Keyboard: Space to roll, plus and minus to change ball count, T for table view.\n\nSOUND AND POLISH\n- Soft squishy clacks and low thuds synthesized with WebAudio (no files), pitch and volume tied to impact speed.\n- 60 fps, adaptive pixel ratio, filmic tone mapping, subtle bloom on highlights, soft contact shadows on the glass.\n- Smooth camera orbit with inertia and a gentle auto-rotate option.\n- Works on desktop and mobile touch. Clean, commented code in one HTML file with constants grouped at the top.",
+      "en": "Build a single-file interactive 3D web experience called \"Jelly Billiards.\" using Three.js (WebGL), all procedural, zero external assets. Soft, translucent jelly balls roll, collide and wobble on a round glass table in a dark, moody room.\n\nLOOK AND FEEL\n- Near-black warm background with a soft colored vignette glow that matches the current jelly color.\n- Serif title \"Jelly Billiards.\" top left with a small italic subtitle \"The Soft Play Collection\".\n- A round, shallow, frosted glass table seen from a three-quarter top view, with a soft rim highlight and a faint glow underneath.\n- Small refined UI. Quiet luxury feeling, like a limited edition design object.\n\nTHE BALLS\n- Smooth spheres of translucent jelly with glossy highlights, soft inner glow and a subtle subsurface look.\n- Each ball has a small white number disc or a soft circular marking, with numbers readable but delicate.\n- Pastel flavors: pink, lavender, mint, sky blue, butter yellow, peach. Balls in a set share the chosen flavor with slight tone variation.\n\nJELLY PHYSICS\n- Rigid body rolling and collisions with a soft-body wobble layer: balls squash on impact, jiggle and recover with damping.\n- Elastic collisions between balls and with the table rim, believable rolling friction, balls settle smoothly.\n- Click and drag on a ball to aim and release to shoot, with a faint aim line and power indicator. A ball can also be nudged by touch.\n- Soft deformation visible at the contact point during collisions.\n\nCONTROLS\n- A pill button \"Roll the balls\" that scatters all balls with a random but pleasant impulse.\n- Ball count stepper (1 to 9) with minus and plus buttons.\n- Jelly color swatches along the bottom left. Switching one smoothly recolors the balls and the ambient glow.\n- Top right buttons: \"Table view\" (top-down camera) and \"Settings\".\n- Settings panel: jelly softness slider, auto-rotate toggle, sound toggle.\n- Keyboard: Space to roll, plus and minus to change ball count, T for table view.\n\nSOUND AND POLISH\n- Soft squishy clacks and low thuds synthesized with WebAudio (no files), pitch and volume tied to impact speed.\n- 60 fps, adaptive pixel ratio, filmic tone mapping, subtle bloom on highlights, soft contact shadows on the glass.\n- Smooth camera orbit with inertia and a gentle auto-rotate option.\n- Works on desktop and mobile touch. Clean, commented code in one HTML file with constants grouped at the top."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive Jelly Billiards Simulation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached screen recording shows the interactive application exactly matching the prompt: title 'Jelly Billiards.' with subtitle 'The Soft Play Collection', frosted glass round table, pastel jelly balls with numbers rolling and wobbling upon collision, color palette swatches, ball counter, 'Roll the balls' pill button, and top-right controls with jelly softness slider."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

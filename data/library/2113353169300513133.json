@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-10-26T04:02:44.188Z",
+  "model": "opus5.5",
+  "prompt": "Build a single-file HTML + three.js interactive scene called \"Bloom Pool\": a sunlit swimming pool seen from a pitched perspective camera. You drop tropical flowers onto the water and play with them.\n\nPool and look:\n- A rounded-rectangle pool with a shallow end on the left and a deep end on the right.\n- Glassy mosaic tiles: a field, a border, and a band at the waterline. Each tile has a bevel and a soft glaze highlight.\n- Stone coping with a bullnose lip overhanging the water, deck pavers around it, and splash-darkened stone near the edge.\n- A dappled shadow from a palm crown leaning over one corner.\n- Size the pool and fit the camera to any screen, portrait or landscape.\n\nWater:\n- A real-time ripple heightfield updated at about 90 Hz.\n- Refraction of the tiled floor through the surface.\n- Animated Voronoi caustics on the floor.\n- Fresnel reflection of the sky and sun, and of the pool's own edge (the tiled wall band and the coping).\n- Crests and troughs, foam from splashes, a coping shadow and a meniscus along the walls.\n- Gentle circulation from the return jets.\n- Touch or drag across the water to make ripples.\n\nFlowers (five species, modeled procedurally from petal profiles):\n- White water lily: green sepals, three whorls of pointed petals.\n- Pink lotus: cupped petals around a seed pod and a ring of stamens.\n- Spotted tiger lily: six recurved tepals, long stamens.\n- Ruffled hibiscus: dark eye, long staminal column.\n- Waxy plumeria: a five-petal pinwheel.\n\nEach flower is a small physics body:\n- Drop it from a card at the bottom, or drag it over the water. It falls with turbulence and lands with a splash, droplets and rings.\n- It floats and bobs, radiating ripples. It glides with a wake, and floating flowers collide with each other.\n- A breeze turns them. They spin into a whirlpool.\n- Petals open and close on a spring, splay on impact and catch the airflow.\n- Water beads sit on wet petals and dry in the sun.\n- Hold a flower still to press it under; it resurfaces with bubbles. Shake it to fling water off.\n\nControls:\n- A minimal panel with a bloom counter and the five flower cards. The cards are buttons (each drops that flower) and can also be dragged onto the water.\n- Toggles: Breeze, Rain (raindrop rings), Whirlpool (a funnel with foam arms) and Sound (soft Web Audio water: lapping, drips, gurgles).\n- Buttons: Clear pool, and Hide UI.\n\nDesign: an elegant serif title \"Bloom Pool\" and a clean sans-serif UI. Works on phones with touch. Original design, no real brands.",
+  "promptTranslations": {
+    "en": "Build a single-file HTML + three.js interactive scene called \"Bloom Pool\": a sunlit swimming pool seen from a pitched perspective camera. You drop tropical flowers onto the water and play with them.\n\nPool and look:\n- A rounded-rectangle pool with a shallow end on the left and a deep end on the right.\n- Glassy mosaic tiles: a field, a border, and a band at the waterline. Each tile has a bevel and a soft glaze highlight.\n- Stone coping with a bullnose lip overhanging the water, deck pavers around it, and splash-darkened stone near the edge.\n- A dappled shadow from a palm crown leaning over one corner.\n- Size the pool and fit the camera to any screen, portrait or landscape.\n\nWater:\n- A real-time ripple heightfield updated at about 90 Hz.\n- Refraction of the tiled floor through the surface.\n- Animated Voronoi caustics on the floor.\n- Fresnel reflection of the sky and sun, and of the pool's own edge (the tiled wall band and the coping).\n- Crests and troughs, foam from splashes, a coping shadow and a meniscus along the walls.\n- Gentle circulation from the return jets.\n- Touch or drag across the water to make ripples.\n\nFlowers (five species, modeled procedurally from petal profiles):\n- White water lily: green sepals, three whorls of pointed petals.\n- Pink lotus: cupped petals around a seed pod and a ring of stamens.\n- Spotted tiger lily: six recurved tepals, long stamens.\n- Ruffled hibiscus: dark eye, long staminal column.\n- Waxy plumeria: a five-petal pinwheel.\n\nEach flower is a small physics body:\n- Drop it from a card at the bottom, or drag it over the water. It falls with turbulence and lands with a splash, droplets and rings.\n- It floats and bobs, radiating ripples. It glides with a wake, and floating flowers collide with each other.\n- A breeze turns them. They spin into a whirlpool.\n- Petals open and close on a spring, splay on impact and catch the airflow.\n- Water beads sit on wet petals and dry in the sun.\n- Hold a flower still to press it under; it resurfaces with bubbles. Shake it to fling water off.\n\nControls:\n- A minimal panel with a bloom counter and the five flower cards. The cards are buttons (each drops that flower) and can also be dragged onto the water.\n- Toggles: Breeze, Rain (raindrop rings), Whirlpool (a funnel with foam arms) and Sound (soft Web Audio water: lapping, drips, gurgles).\n- Buttons: Clear pool, and Hide UI.\n\nDesign: an elegant serif title \"Bloom Pool\" and a clean sans-serif UI. Works on phones with touch. Original design, no real brands."
+  },
+  "summary": "Claude Opus 5.5 generated a Three.js interactive simulation of tropical flowers floating in a sunlit swimming pool with water physics and caustics.",
+  "summaryEn": "Bloom Pool Interactive 3D Scene",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2113353169300513133",
+    "canonicalUrl": "https://x.com/N1njaCodex/status/2113353169300513133",
+    "author": {
+      "username": "N1njaCodex",
+      "displayName": "NinjaCodex",
+      "profileUrl": "https://x.com/N1njaCodex"
+    },
+    "publishedAt": "2026-10-22T19:33:54.000Z",
+    "collectedAt": "2026-10-26T02:57:48.703Z",
+    "language": "en",
+    "originalText": "Claude Opus 5.5 built this flower pool for $10.09 🌺\n\nAn interactive 3D scene: add flowers, turn on the rain, make waves or create a whirlpool. The light patterns on the bottom and shadows in the water are mesmerizing\n\nWhat do you think of the result for $10.09? https://t.co/EeBN9D6YWR",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/N1njaCodex/status/2113353169300513133",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2113352884813189120/img/CJVMBLq_kHLG0VHX.jpg",
+        "analysisUrl": "https://x.com/N1njaCodex/status/2113353169300513133"
+      }
+    ],
+    "metrics": {
+      "likeCount": 35,
+      "repostCount": 6,
+      "replyCount": 10,
+      "quoteCount": 0,
+      "viewCount": 1271
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Top:part1:tasks"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/N1njaCodex/status/2113353456019009855",
+        "text": "https://t.co/62CoxTS5zW",
+        "author": "N1njaCodex"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/N1njaCodex/status/2113353404684648788",
+        "text": "PROMPT:\n\nBuild a single-file HTML + three.js interactive scene called \"Bloom Pool\": a sunlit swimming pool seen from a pitched perspective camera. You drop tropical flowers onto the water and play with them.\n\nPool and look:\n- A rounded-rectangle pool with a shallow end on the left and a deep end on the right.\n- Glassy mosaic tiles: a field, a border, and a band at the waterline. Each tile has a bevel and a soft glaze highlight.\n- Stone coping with a bullnose lip overhanging the water, deck pavers around it, and splash-darkened stone near the edge.\n- A dappled shadow from a palm crown leaning over one corner.\n- Size the pool and fit the camera to any screen, portrait or landscape.\n\nWater:\n- A real-time ripple heightfield updated at about 90 Hz.\n- Refraction of the tiled floor through the surface.\n- Animated Voronoi caustics on the floor.\n- Fresnel reflection of the sky and sun, and of the pool's own edge (the tiled wall band and the coping).\n- Crests and troughs, foam from splashes, a coping shadow and a meniscus along the walls.\n- Gentle circulation from the return jets.\n- Touch or drag across the water to make ripples.\n\nFlowers (five species, modeled procedurally from petal profiles):\n- White water lily: green sepals, three whorls of pointed petals.\n- Pink lotus: cupped petals around a seed pod and a ring of stamens.\n- Spotted tiger lily: six recurved tepals, long stamens.\n- Ruffled hibiscus: dark eye, long staminal column.\n- Waxy plumeria: a five-petal pinwheel.\n\nEach flower is a small physics body:\n- Drop it from a card at the bottom, or drag it over the water. It falls with turbulence and lands with a splash, droplets and rings.\n- It floats and bobs, radiating ripples. It glides with a wake, and floating flowers collide with each other.\n- A breeze turns them. They spin into a whirlpool.\n- Petals open and close on a spring, splay on impact and catch the airflow.\n- Water beads sit on wet petals and dry in the sun.\n- Hold a flower still to press it under; it resurfaces with bubbles. Shake it to fling water off.\n\nControls:\n- A minimal panel with a bloom counter and the five flower cards. The cards are buttons (each drops that flower) and can also be dragged onto the water.\n- Toggles: Breeze, Rain (raindrop rings), Whirlpool (a funnel with foam arms) and Sound (soft Web Audio water: lapping, drips, gurgles).\n- Buttons: Clear pool, and Hide UI.\n\nDesign: an elegant serif title \"Bloom Pool\" and a clean sans-serif UI. Works on phones with touch. Original design, no real brands.",
+        "author": "N1njaCodex"
+      },
+      {
+        "url": "https://x.com/N1njaCodex/status/2113353169300513133",
+        "text": "NinjaCodex on X: \"Claude Opus 5.5 built this flower pool for $10.09 🌺\n\nAn interactive 3D scene: add flowers, turn on the rain, make waves or create a whirlpool. The light patterns on the bottom and shadows in the water are mesmerizing\n\nWhat do you think of the result for $10.09?\" / X\n\n\nPost\n\nLog inSign up\n\n\n\nPost\n\nLog inSign up\n\n\n\n\nNinjaCodex on X: \"Claude Opus 5.5 built this flower pool for $10.09 🌺\n\nAn interactive 3D scene: add flowers, turn on the rain, make waves or create a whirlpool. The light patterns on the bottom and shadows in the water are mesmerizing\n\nWhat do you think of the result for $10.09?\"\n\n\n\nNinjaCodex\n\n@N1njaCodex\n\n\n\n\nClaude Opus 5.5 built this flower pool for $10.09 🌺\n\nAn interactive 3D scene: add flowers, turn on the rain, make waves or create a whirlpool. The light patterns on the bottom and shadows in the water are mesmerizing\n\nWhat do you think of the result for $10.09?\n\n\n\n00:00\n\n\n\n\n\n\n\n\n7:33 PM · Oct 22, 2026·1,271\nViews\n\n\n10\n6\n35\n14\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog in or sign up for X\n\nSee what’s happening and join the conversation\nContinue with phoneContinue with AppleContinue with Google\n or \nLog in with username or email\nRelevant people\n\n\nNinjaCodex@N1njaCodexFollow\nvibe coding, testing ai models & sharing prompts. building cool stuff without spending a fortune 🥷\n\n\n\n\nTrending now\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNinjaCodex\n\n@N1njaCodex\n\n\n\n\nClaude Opus 5.5 built this flower pool for $10.09 🌺\n\nAn interactive 3D scene: add flowers, turn on the rain, make waves or create a whirlpool. The light patterns on the bottom and shadows in the water are mesmerizing\n\nWhat do you think of the result for $10.09?\n\n\n\n00:00\n\n\n\n\n\n\n\n\n7:33 PM · Oct 22, 2026·1,271\nViews\n\n\n10\n6\n35\n14\n\n\n\n\n\n\n\n\n\nNinjaCodex\n\n@N1njaCodex\nOct 22\n\n\nPROMPT:\n\nBuild a single-file HTML + three.js interactive scene called \"Bloom Pool\": a sunlit swimming pool seen from a pitched perspective camera. You drop tropical flowers onto the water and play with them.\n\nPool and look:\n- A rounded-rectangle pool with a shallow end on the Show more\n\n\n\n\n3\n225\n\n\n\n\n\n\n\n\n\n\n\nNinjaCodex\n\n@N1njaCodex\nOct 22\n\n\n\n\n\nBloom Pool\n\n\nFrom claude.ai\n\n\n\n\n\n1\n43\n\n\n\n\n\n\n\n\n\n\n\nDromexa\n\n@dromexa\nOct 23\n\n\nworth it, I&#x27;d pay $10 just for the whirlpool button\n\n\n\n\n1\n21\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "N1njaCodex"
+      },
+      {
+        "url": "https://claude.ai/artifact/FRRRtx46Sf8XHzd9zEfemt",
+        "text": "Claude Artifact\n\n\n Content is user-generated and unverified.\n\n\n\n\n",
+        "kind": "linked_public_material",
+        "author": "N1njaCodex"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/N1njaCodex/status/2113353169300513133",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2113352884813189120/img/CJVMBLq_kHLG0VHX.jpg",
+  "coverPath": "data/covers/2113353169300513133-wide.jpg",
+  "gifPath": "data/gifs/2113353169300513133.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2113352884813189120",
+    "x-post:2113353169300513133"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Bloom Pool Interactive 3D Scene",
+      "summary": "Claude Opus 5.5 generated a Three.js interactive simulation of tropical flowers floating in a sunlit swimming pool with water physics and caustics.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "claude.ai",
+        "authorUseConfirmed": true,
+        "evidence": "Claude Opus 5.5 built this flower pool for $10.09 🌺"
+      },
+      "prompt": {
+        "status": "full_original",
+        "text": "Build a single-file HTML + three.js interactive scene called \"Bloom Pool\": a sunlit swimming pool seen from a pitched perspective camera. You drop tropical flowers onto the water and play with them.\n\nPool and look:\n- A rounded-rectangle pool with a shallow end on the left and a deep end on the right.\n- Glassy mosaic tiles: a field, a border, and a band at the waterline. Each tile has a bevel and a soft glaze highlight.\n- Stone coping with a bullnose lip overhanging the water, deck pavers around it, and splash-darkened stone near the edge.\n- A dappled shadow from a palm crown leaning over one corner.\n- Size the pool and fit the camera to any screen, portrait or landscape.\n\nWater:\n- A real-time ripple heightfield updated at about 90 Hz.\n- Refraction of the tiled floor through the surface.\n- Animated Voronoi caustics on the floor.\n- Fresnel reflection of the sky and sun, and of the pool's own edge (the tiled wall band and the coping).\n- Crests and troughs, foam from splashes, a coping shadow and a meniscus along the walls.\n- Gentle circulation from the return jets.\n- Touch or drag across the water to make ripples.\n\nFlowers (five species, modeled procedurally from petal profiles):\n- White water lily: green sepals, three whorls of pointed petals.\n- Pink lotus: cupped petals around a seed pod and a ring of stamens.\n- Spotted tiger lily: six recurved tepals, long stamens.\n- Ruffled hibiscus: dark eye, long staminal column.\n- Waxy plumeria: a five-petal pinwheel.\n\nEach flower is a small physics body:\n- Drop it from a card at the bottom, or drag it over the water. It falls with turbulence and lands with a splash, droplets and rings.\n- It floats and bobs, radiating ripples. It glides with a wake, and floating flowers collide with each other.\n- A breeze turns them. They spin into a whirlpool.\n- Petals open and close on a spring, splay on impact and catch the airflow.\n- Water beads sit on wet petals and dry in the sun.\n- Hold a flower still to press it under; it resurfaces with bubbles. Shake it to fling water off.\n\nControls:\n- A minimal panel with a bloom counter and the five flower cards. The cards are buttons (each drops that flower) and can also be dragged onto the water.\n- Toggles: Breeze, Rain (raindrop rings), Whirlpool (a funnel with foam arms) and Sound (soft Web Audio water: lapping, drips, gurgles).\n- Buttons: Clear pool, and Hide UI.\n\nDesign: an elegant serif title \"Bloom Pool\" and a clean sans-serif UI. Works on phones with touch. Original design, no real brands.",
+        "englishText": "Build a single-file HTML + three.js interactive scene called \"Bloom Pool\": a sunlit swimming pool seen from a pitched perspective camera. You drop tropical flowers onto the water and play with them.\n\nPool and look:\n- A rounded-rectangle pool with a shallow end on the left and a deep end on the right.\n- Glassy mosaic tiles: a field, a border, and a band at the waterline. Each tile has a bevel and a soft glaze highlight.\n- Stone coping with a bullnose lip overhanging the water, deck pavers around it, and splash-darkened stone near the edge.\n- A dappled shadow from a palm crown leaning over one corner.\n- Size the pool and fit the camera to any screen, portrait or landscape.\n\nWater:\n- A real-time ripple heightfield updated at about 90 Hz.\n- Refraction of the tiled floor through the surface.\n- Animated Voronoi caustics on the floor.\n- Fresnel reflection of the sky and sun, and of the pool's own edge (the tiled wall band and the coping).\n- Crests and troughs, foam from splashes, a coping shadow and a meniscus along the walls.\n- Gentle circulation from the return jets.\n- Touch or drag across the water to make ripples.\n\nFlowers (five species, modeled procedurally from petal profiles):\n- White water lily: green sepals, three whorls of pointed petals.\n- Pink lotus: cupped petals around a seed pod and a ring of stamens.\n- Spotted tiger lily: six recurved tepals, long stamens.\n- Ruffled hibiscus: dark eye, long staminal column.\n- Waxy plumeria: a five-petal pinwheel.\n\nEach flower is a small physics body:\n- Drop it from a card at the bottom, or drag it over the water. It falls with turbulence and lands with a splash, droplets and rings.\n- It floats and bobs, radiating ripples. It glides with a wake, and floating flowers collide with each other.\n- A breeze turns them. They spin into a whirlpool.\n- Petals open and close on a spring, splay on impact and catch the airflow.\n- Water beads sit on wet petals and dry in the sun.\n- Hold a flower still to press it under; it resurfaces with bubbles. Shake it to fling water off.\n\nControls:\n- A minimal panel with a bloom counter and the five flower cards. The cards are buttons (each drops that flower) and can also be dragged onto the water.\n- Toggles: Breeze, Rain (raindrop rings), Whirlpool (a funnel with foam arms) and Sound (soft Web Audio water: lapping, drips, gurgles).\n- Buttons: Clear pool, and Hide UI.\n\nDesign: an elegant serif title \"Bloom Pool\" and a clean sans-serif UI. Works on phones with touch. Original design, no real brands.",
+        "complete": true,
+        "reproducible": true,
+        "missing": []
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "Screen recording demonstrates the interactive 3D pool, floating flowers, caustics, and UI controls matching the prompt requirements.",
+        "textualResultQuote": "An interactive 3D scene: add flowers, turn on the rain, make waves or create a whirlpool."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "Build a single-file HTML + three.js interactive scene called \"Bloom Pool\": a sunlit swimming pool seen from a pitched perspective camera.",
+          "sourceUrl": "https://x.com/N1njaCodex/status/2113353404684648788",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Pool Simulation",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "interactive",
+          "water-simulation",
+          "creative-coding"
+        ]
+      },
+      "targetModelRole": "Claude Opus 5.5 wrote the complete single-file HTML, CSS, Three.js, and Web Audio code.",
+      "outputSource": "Web browser executing the Claude-generated artifact via WebGL.",
+      "divisionEvidence": "Claude Opus 5.5 built this flower pool for $10.09... Build a single-file HTML + three.js interactive scene called 'Bloom Pool'",
+      "video": {
+        "shots": "Single camera overhead angle",
+        "duration": "0:14",
+        "aspectRatio": "16:10",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic Claude Opus 5.5 code production of a real-time interactive 3D Three.js scene with complete original prompt and screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/N1njaCodex/status/2113353404684648788",
+        "start": 9,
+        "end": 2517
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/N1njaCodex/status/2113353169300513133",
+        "author": "N1njaCodex",
+        "postId": "2113353169300513133",
+        "publishedAt": "2026-10-22T19:33:54.000Z"
+      },
+      "checkedAt": "2026-10-26T03:55:29.363Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/N1njaCodex/status/2113353404684648788",
+        "evidence": ""
+      }
+    },
+    "summary": "Claude Opus 5.5 generated a Three.js interactive simulation of tropical flowers floating in a sunlit swimming pool with water physics and caustics.",
+    "summaryEn": "Bloom Pool Interactive 3D Scene",
+    "originalPrompt": "Build a single-file HTML + three.js interactive scene called \"Bloom Pool\": a sunlit swimming pool seen from a pitched perspective camera. You drop tropical flowers onto the water and play with them.\n\nPool and look:\n- A rounded-rectangle pool with a shallow end on the left and a deep end on the right.\n- Glassy mosaic tiles: a field, a border, and a band at the waterline. Each tile has a bevel and a soft glaze highlight.\n- Stone coping with a bullnose lip overhanging the water, deck pavers around it, and splash-darkened stone near the edge.\n- A dappled shadow from a palm crown leaning over one corner.\n- Size the pool and fit the camera to any screen, portrait or landscape.\n\nWater:\n- A real-time ripple heightfield updated at about 90 Hz.\n- Refraction of the tiled floor through the surface.\n- Animated Voronoi caustics on the floor.\n- Fresnel reflection of the sky and sun, and of the pool's own edge (the tiled wall band and the coping).\n- Crests and troughs, foam from splashes, a coping shadow and a meniscus along the walls.\n- Gentle circulation from the return jets.\n- Touch or drag across the water to make ripples.\n\nFlowers (five species, modeled procedurally from petal profiles):\n- White water lily: green sepals, three whorls of pointed petals.\n- Pink lotus: cupped petals around a seed pod and a ring of stamens.\n- Spotted tiger lily: six recurved tepals, long stamens.\n- Ruffled hibiscus: dark eye, long staminal column.\n- Waxy plumeria: a five-petal pinwheel.\n\nEach flower is a small physics body:\n- Drop it from a card at the bottom, or drag it over the water. It falls with turbulence and lands with a splash, droplets and rings.\n- It floats and bobs, radiating ripples. It glides with a wake, and floating flowers collide with each other.\n- A breeze turns them. They spin into a whirlpool.\n- Petals open and close on a spring, splay on impact and catch the airflow.\n- Water beads sit on wet petals and dry in the sun.\n- Hold a flower still to press it under; it resurfaces with bubbles. Shake it to fling water off.\n\nControls:\n- A minimal panel with a bloom counter and the five flower cards. The cards are buttons (each drops that flower) and can also be dragged onto the water.\n- Toggles: Breeze, Rain (raindrop rings), Whirlpool (a funnel with foam arms) and Sound (soft Web Audio water: lapping, drips, gurgles).\n- Buttons: Clear pool, and Hide UI.\n\nDesign: an elegant serif title \"Bloom Pool\" and a clean sans-serif UI. Works on phones with touch. Original design, no real brands.",
+    "sourceRange": {
+      "start": 9,
+      "end": 2517
+    },
+    "translations": {
+      "zh": "Build a single-file HTML + three.js interactive scene called \"Bloom Pool\": a sunlit swimming pool seen from a pitched perspective camera. You drop tropical flowers onto the water and play with them.\n\nPool and look:\n- A rounded-rectangle pool with a shallow end on the left and a deep end on the right.\n- Glassy mosaic tiles: a field, a border, and a band at the waterline. Each tile has a bevel and a soft glaze highlight.\n- Stone coping with a bullnose lip overhanging the water, deck pavers around it, and splash-darkened stone near the edge.\n- A dappled shadow from a palm crown leaning over one corner.\n- Size the pool and fit the camera to any screen, portrait or landscape.\n\nWater:\n- A real-time ripple heightfield updated at about 90 Hz.\n- Refraction of the tiled floor through the surface.\n- Animated Voronoi caustics on the floor.\n- Fresnel reflection of the sky and sun, and of the pool's own edge (the tiled wall band and the coping).\n- Crests and troughs, foam from splashes, a coping shadow and a meniscus along the walls.\n- Gentle circulation from the return jets.\n- Touch or drag across the water to make ripples.\n\nFlowers (five species, modeled procedurally from petal profiles):\n- White water lily: green sepals, three whorls of pointed petals.\n- Pink lotus: cupped petals around a seed pod and a ring of stamens.\n- Spotted tiger lily: six recurved tepals, long stamens.\n- Ruffled hibiscus: dark eye, long staminal column.\n- Waxy plumeria: a five-petal pinwheel.\n\nEach flower is a small physics body:\n- Drop it from a card at the bottom, or drag it over the water. It falls with turbulence and lands with a splash, droplets and rings.\n- It floats and bobs, radiating ripples. It glides with a wake, and floating flowers collide with each other.\n- A breeze turns them. They spin into a whirlpool.\n- Petals open and close on a spring, splay on impact and catch the airflow.\n- Water beads sit on wet petals and dry in the sun.\n- Hold a flower still to press it under; it resurfaces with bubbles. Shake it to fling water off.\n\nControls:\n- A minimal panel with a bloom counter and the five flower cards. The cards are buttons (each drops that flower) and can also be dragged onto the water.\n- Toggles: Breeze, Rain (raindrop rings), Whirlpool (a funnel with foam arms) and Sound (soft Web Audio water: lapping, drips, gurgles).\n- Buttons: Clear pool, and Hide UI.\n\nDesign: an elegant serif title \"Bloom Pool\" and a clean sans-serif UI. Works on phones with touch. Original design, no real brands.",
+      "en": "Build a single-file HTML + three.js interactive scene called \"Bloom Pool\": a sunlit swimming pool seen from a pitched perspective camera. You drop tropical flowers onto the water and play with them.\n\nPool and look:\n- A rounded-rectangle pool with a shallow end on the left and a deep end on the right.\n- Glassy mosaic tiles: a field, a border, and a band at the waterline. Each tile has a bevel and a soft glaze highlight.\n- Stone coping with a bullnose lip overhanging the water, deck pavers around it, and splash-darkened stone near the edge.\n- A dappled shadow from a palm crown leaning over one corner.\n- Size the pool and fit the camera to any screen, portrait or landscape.\n\nWater:\n- A real-time ripple heightfield updated at about 90 Hz.\n- Refraction of the tiled floor through the surface.\n- Animated Voronoi caustics on the floor.\n- Fresnel reflection of the sky and sun, and of the pool's own edge (the tiled wall band and the coping).\n- Crests and troughs, foam from splashes, a coping shadow and a meniscus along the walls.\n- Gentle circulation from the return jets.\n- Touch or drag across the water to make ripples.\n\nFlowers (five species, modeled procedurally from petal profiles):\n- White water lily: green sepals, three whorls of pointed petals.\n- Pink lotus: cupped petals around a seed pod and a ring of stamens.\n- Spotted tiger lily: six recurved tepals, long stamens.\n- Ruffled hibiscus: dark eye, long staminal column.\n- Waxy plumeria: a five-petal pinwheel.\n\nEach flower is a small physics body:\n- Drop it from a card at the bottom, or drag it over the water. It falls with turbulence and lands with a splash, droplets and rings.\n- It floats and bobs, radiating ripples. It glides with a wake, and floating flowers collide with each other.\n- A breeze turns them. They spin into a whirlpool.\n- Petals open and close on a spring, splay on impact and catch the airflow.\n- Water beads sit on wet petals and dry in the sun.\n- Hold a flower still to press it under; it resurfaces with bubbles. Shake it to fling water off.\n\nControls:\n- A minimal panel with a bloom counter and the five flower cards. The cards are buttons (each drops that flower) and can also be dragged onto the water.\n- Toggles: Breeze, Rain (raindrop rings), Whirlpool (a funnel with foam arms) and Sound (soft Web Audio water: lapping, drips, gurgles).\n- Buttons: Clear pool, and Hide UI.\n\nDesign: an elegant serif title \"Bloom Pool\" and a clean sans-serif UI. Works on phones with touch. Original design, no real brands."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Pool Simulation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Screen recording demonstrates the interactive 3D pool, floating flowers, caustics, and UI controls matching the prompt requirements."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
