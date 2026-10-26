@@ -2,7 +2,7 @@
 
 [![749 prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner-20261026-040834-daily.svg)](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)
 
-**Create animations, explainers and product videos with Claude prompts and editable video templates.** Watch selected results, copy a creator’s prompt, or customize a template and export your own MP4.
+**An actively updated Claude prompt library for motion graphics, product videos, explainers, 3D scenes and interactive demos.** Explore a growing collection of creator-shared prompts, with selected visual previews, practical setup notes and editable templates for MP4 export.
 
 **[Watch previews →](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)** · **[Find a prompt](#start-here)** · **[Use a video template](#try-a-15-second-template)** · English / 简体中文
 
