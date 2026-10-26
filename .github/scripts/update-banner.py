@@ -1,9 +1,8 @@
 """Refresh the README banner after new content is published."""
 import json
-import os
 import re
-import urllib.request
-from datetime import datetime, timezone
+import subprocess
+from datetime import datetime, timedelta, timezone
 from html import escape
 from pathlib import Path
 
@@ -18,51 +17,38 @@ def update_date(value):
         then = then.replace(tzinfo=timezone.utc)
     return then.astimezone(timezone.utc).strftime('%d %b %Y · %H:%M UTC').upper()
 
-added = int(update.get('added', 0))
 addition_date = str(update.get('date', ''))
-# Published batch metadata is authoritative, including editorial withdrawals.
-history = [{'date': item['date'], 'added': item['published']}
-           for item in update.get('history', [])]
-if not history:
-    history = json.loads(os.environ.get('BANNER_UPDATES', '[]'))
-if not history and os.environ.get('GITHUB_TOKEN'):
-    repo = os.environ['GITHUB_REPOSITORY']
-    req = urllib.request.Request(
-        f'https://api.github.com/repos/{repo}/commits?path=data%2Flibrary&per_page=30',
-        headers={'Authorization': 'Bearer ' + os.environ['GITHUB_TOKEN'],
-                 'Accept': 'application/vnd.github+json', 'User-Agent': 'readme-banner'})
-    with urllib.request.urlopen(req) as response:
-        commits = json.load(response)
-    history = []
-    for commit in commits:
-        match = re.match(r'^Add ([1-9]\d*) prompts?(?: ·|$)', commit['commit']['message'].splitlines()[0])
-        if match:
-            batch_count = 0
-            page = 1
-            while True:
-                detail_req = urllib.request.Request(
-                    f'https://api.github.com/repos/{repo}/commits/{commit["sha"]}?per_page=100&page={page}',
-                    headers=req.headers)
-                with urllib.request.urlopen(detail_req) as response:
-                    files = json.load(response).get('files', [])
-                batch_count += sum(1 for file in files
-                    if re.fullmatch(r'data/library/[^/]+\.json', file['filename'])
-                    and file['status'] in ('added', 'modified'))
-                if len(files) < 100:
-                    break
-                page += 1
-            history.append({'date': commit['commit']['committer']['date'], 'added': batch_count})
-        if len(history) == 3:
-            break
-if history:
-    added, addition_date = history[0]['added'], history[0]['date']
-else:
-    history = [{'date': addition_date, 'added': added}]
-# Keep the collection headline while leaving room for featured work above the fold.
-headline = '2000+'
+# Count the actual library, and all additions on the latest publication day (UTC).
+# Git history avoids the three-batch limit in latest-update.json and excludes edits.
+headline = str(len(list((root / 'data/library').glob('*.json'))))
+added = 0
+addition_label = 'No additions yet'
+if addition_date:
+    day = datetime.fromisoformat(addition_date.replace('Z', '+00:00')).astimezone(timezone.utc)
+    start = day.replace(hour=0, minute=0, second=0, microsecond=0)
+    end = start + timedelta(days=1)
+    log = subprocess.check_output([
+        'git', 'log', '--first-parent', '--format=%cI', '--name-only', '--diff-filter=A',
+        f'--since={start.isoformat()}', f'--until={end.isoformat()}',
+        '--', 'data/library/*.json',
+    ], cwd=root, text=True)
+    paths = set()
+    in_day = False
+    for line in log.splitlines():
+        if not line:
+            continue
+        if line.startswith('data/library/'):
+            if in_day:
+                paths.add(line)
+        else:
+            committed = datetime.fromisoformat(line.replace('Z', '+00:00'))
+            in_day = start <= committed < end
+    added = len(paths)
+    # An explicit date stays accurate when the static banner is viewed tomorrow.
+    addition_label = f'+{added} added on {day.strftime("%d %b").upper()}'
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="200" viewBox="0 0 1440 200" role="img" aria-labelledby="title desc">
 <title id="title">{headline} prompts · Actively updated · Leadde Open Lab</title>
-<desc id="desc">Video prompts and creator previews. Latest batch: {added} prompts updated on {escape(update_date(addition_date))}.</desc>
+<desc id="desc">Video prompts and creator previews. Daily additions: {added} prompts added on {escape(update_date(addition_date))}.</desc>
 <rect x="1" y="1" width="1438" height="198" rx="18" fill="#FAF9FF" stroke="#E6E1F3"/>
 <g font-family="Arial, Helvetica, sans-serif">
 <text x="48" y="51" fill="#241C35" font-size="25" font-weight="700">Leadde <tspan font-weight="400" fill="#756C84">/ Open Lab</tspan></text>
@@ -71,7 +57,7 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="200" view
 <rect x="1116" y="26" width="276" height="40" rx="20" fill="#EEE8FF"/>
 <circle cx="1140" cy="46" r="5" fill="#6E4DFC"/>
 <text x="1158" y="53" fill="#6E4DFC" font-size="18" font-weight="700">ACTIVELY UPDATED</text>
-<text x="1392" y="113" text-anchor="end" fill="#241C35" font-size="26" font-weight="700">+{added} prompts updated</text>
+<text x="1392" y="113" text-anchor="end" fill="#241C35" font-size="26" font-weight="700">{addition_label}</text>
 <text x="1392" y="157" text-anchor="end" fill="#655D72" font-size="20">{escape(update_date(addition_date))}</text>
 </g>
 </svg>
@@ -83,7 +69,7 @@ print(f'Updated {target.relative_to(root)}')
 
 # Each content batch gets a new image URL, avoiding stale raw-image caches.
 stamp = datetime.fromisoformat(addition_date.replace('Z', '+00:00')).strftime('%Y%m%d-%H%M%S') if addition_date else 'pending'
-versioned = root / f'data/banner-{stamp}-compact.svg'
+versioned = root / f'data/banner-{stamp}-daily.svg'
 versioned.write_text(svg)
 readme = root / 'README.md'
-readme.write_text(re.sub(r'\]\(data/banner[^)]*\)', f']({versioned.relative_to(root)})', readme.read_text()))
+readme.write_text(re.sub(r'\]\(data/banner[^)]*\)', f']({versioned.relative_to(root)})', re.sub(r'!\[[^\]]*(?=\]\(data/banner)', f'![{headline} prompts · Actively updated · Leadde Open Lab. Explore the web collection.', readme.read_text())))

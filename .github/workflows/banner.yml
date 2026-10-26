@@ -26,6 +26,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: main
+          fetch-depth: 0
       - name: Keep runnable template cards
         run: python3 .github/scripts/update-template-cards.py
       - name: Render banner
