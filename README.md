@@ -2,15 +2,13 @@
 
 [![749 prompts · Actively updated · Leadde Open Lab. Explore the web collection.](data/banner-20261026-040834-daily.svg)](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)
 
-**Creator-shared prompts, visual previews, and practical setup notes — curated by Leadde Open Lab.** Find the original prompt and source, watch selected results, and check the tools and inputs before you try them. Return for fresh picks for your next video, animation or 3D project.
+**Create animations, explainers and product videos with Claude prompts and editable video templates.** Watch selected results, copy a creator’s prompt, or customize a template and export your own MP4.
 
-**☆ Star this repo to keep the prompts handy for your next project.**
+**[Watch previews →](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)** · **[Find a prompt](#start-here)** · **[Use a video template](#try-a-15-second-template)** · English / 简体中文
 
-**[Open the web collection →](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)** · Video previews, prompts & setup · English / 简体中文
+**New here?** Start with the [15-second Product UI template](templates/product-ui-15s/): change the copy, colors and screenshot, preview in your browser, then export with Node.js, Playwright and FFmpeg.
 
-[Motion graphics](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/collections/motion-graphics/) · [Explainers](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/collections/explainers/) · [3D worlds](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/collections/3d-worlds/)
-
-[Browse the full repository](#browse-the-full-library) · [Start with a prompt](#start-here) · [Latest additions](#recently-added)
+Community prompts include original sources and setup notes; they have not been independently reproduced by this collection. Editable templates include source code and export instructions.
 
 ## Featured creations
 
@@ -61,6 +59,8 @@ Read the prompt here on GitHub, or watch the preview and check setup notes on th
 </tr>
 </table>
 
+
+**☆ Star this repo to keep the prompts and templates handy for your next project.**
 
 <!-- runnable-templates:start -->
 ## Try a 15-second template
