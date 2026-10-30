@@ -4,9 +4,9 @@
 
 **An actively updated Claude prompt library for motion graphics, product videos, explainers, 3D scenes and interactive demos.** Explore a growing collection of creator-shared prompts, with selected visual previews, practical setup notes and editable templates for MP4 export.
 
-**[Watch previews →](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)** · **[Find a prompt](#start-here)** · **[Use a video template](#try-a-15-second-template)** · English / 简体中文
+**[Watch previews →](https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/)** · **[Find a prompt](#browse-the-full-library)** · **[Use a video template](#editable-video-starters)** · English / 简体中文
 
-**New here?** Start with the [15-second Product UI template](templates/product-ui-15s/): change the copy, colors and screenshot, preview in your browser, then export with Node.js, Playwright and FFmpeg.
+**New here?** [Browse prompts by use case](#browse-the-full-library), explore the [latest additions](#recently-added), or follow a [starter example](#start-here).
 
 Community prompts include original sources and setup notes; they have not been independently reproduced by this collection. Editable templates include source code and export instructions.
 
@@ -59,47 +59,44 @@ Read the prompt here on GitHub, or watch the preview and check setup notes on th
 </tr>
 </table>
 
+## Browse the full library
+
+- [Product & Brand Videos](data/categories/product-brand.md) (86)
+- [Motion Graphics & Typography](data/categories/motion-graphics.md) (242)
+- [UI & Web Animation](data/categories/ui-web.md) (19)
+- [Explainers & Education](data/categories/explainers.md) (91)
+- [Music & Storytelling](data/categories/music-storytelling.md) (35)
+- [3D Worlds & Simulations](data/categories/3d-scenes.md) (175)
+- [Games & Interactive Experiences](data/categories/games-interactive.md) (101)
+
+30 homepage picks · Original creator links on every card.
 
 **☆ Star this repo to keep the prompts and templates handy for your next project.**
 
-<!-- runnable-templates:start -->
-## Try a 15-second template
-
-Choose a use case. Open the preview, change the config, and render your own MP4.
+## Recently added
 
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="templates/product-ui-15s/example.mp4"><img src="templates/product-ui-15s/poster.jpg" alt="Product UI: 15-second runnable animation template" width="100%" /></a><br>
-<strong>Product UI</strong><br>
-Show a complete UI workflow.<br>
-<sub>Name · copy · color · screenshot</sub><br><br>
-<a href="templates/product-ui-15s/example.mp4">▶ Watch 15s</a> · <a href="templates/product-ui-15s/">Get template →</a><br>
-<sub><a href="templates/product-ui-15s/README.md">English guide</a> · <a href="templates/product-ui-15s/README.zh-CN.md">中文说明</a></sub>
+<a href="prompts/2114477100757561683.md"><img src="data/gifs/2114477100757561683.gif" alt="Opus 5.5 and After Effects Self-Introduction Motion Graphics Movie" width="100%" /></a><br>
+<strong>Opus 5.5 and After Effects Self-Introduction Motion Graphics Mov…</strong><br>
+
+<sub><a href="https://x.com/shun_cmdouga/status/2114477100757561683">Original post ↗</a> · <a href="prompts/2114477100757561683.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip</strong><br><code>Please make a self-introduction movie for me. Make it really cool, please!</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
+<!-- pro-tip:end -->
 </td>
 <td width="33%" valign="top">
-<a href="templates/feature-demo-15s/example.mp4"><img src="templates/feature-demo-15s/poster.jpg" alt="Feature Demo: 15-second runnable animation template" width="100%" /></a><br>
-<strong>Feature Demo</strong><br>
-Turn a problem into a clear result.<br>
-<sub>Tasks · result · copy · color</sub><br><br>
-<a href="templates/feature-demo-15s/example.mp4">▶ Watch 15s</a> · <a href="templates/feature-demo-15s/">Get template →</a><br>
-<sub><a href="templates/feature-demo-15s/README.md">English guide</a> · <a href="templates/feature-demo-15s/README.zh-CN.md">中文说明</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="templates/product-launch-15s/example.mp4"><img src="templates/product-launch-15s/poster.jpg" alt="Product Launch: 15-second runnable animation template" width="100%" /></a><br>
-<strong>Product Launch</strong><br>
-Introduce a product and three benefits.<br>
-<sub>Benefits · CTA · copy · color</sub><br><br>
-<a href="templates/product-launch-15s/example.mp4">▶ Watch 15s</a> · <a href="templates/product-launch-15s/">Get template →</a><br>
-<sub><a href="templates/product-launch-15s/README.md">English guide</a> · <a href="templates/product-launch-15s/README.zh-CN.md">中文说明</a></sub>
-</td>
+<a href="prompts/2112226981081153743.md"><img src="data/gifs/2112226981081153743.gif" alt="Interactive Premium Member Card UI Demo" width="100%" /></a><br>
+<strong>Interactive Premium Member Card UI Demo</strong><br>
+
+<sub><a href="https://x.com/aaaaaaaaaaafedb/status/2112226981081153743">Original post ↗</a> · <a href="prompts/2112226981081153743.md">Prompt ↗</a></sub>
+<!-- pro-tip:start -->
+<blockquote><strong>💡 Pro Tip</strong><br><code>make me a beautiful premium card to show off in society</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
+<!-- pro-tip:end -->
+</td><td></td>
 </tr>
 </table>
-
-**15 seconds · 1080p · Editable config · MIT**
-
-Preview: open `index.html`. Export MP4: Node.js + Playwright + FFmpeg. Original code animations with fictional demo products.
-<!-- runnable-templates:end -->
 
 ## Start here
 
@@ -134,43 +131,19 @@ Pick a result to try. Setup instructions are on each prompt page; these examples
 </tr>
 </table>
 
+<!-- runnable-templates:start -->
+## Editable video starters
 
-## Recently added
+Prefer working from source code? Customize a product video with your own copy, colors and screenshots.
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<a href="prompts/2114477100757561683.md"><img src="data/gifs/2114477100757561683.gif" alt="Opus 5.5 and After Effects Self-Introduction Motion Graphics Movie" width="100%" /></a><br>
-<strong>Opus 5.5 and After Effects Self-Introduction Motion Graphics Mov…</strong><br>
+- **[Product UI](templates/product-ui-15s/)** — Present a product workflow.
+- **[Feature Demo](templates/feature-demo-15s/)** — Show a problem and its outcome.
+- **[Product Launch](templates/product-launch-15s/)** — Introduce a product and its benefits.
 
-<sub><a href="https://x.com/shun_cmdouga/status/2114477100757561683">Original post ↗</a> · <a href="prompts/2114477100757561683.md">Prompt ↗</a></sub>
-<!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip</strong><br><code>Please make a self-introduction movie for me. Make it really cool, please!</code>: Add duration, aspect ratio, assets and delivery format to the short production brief.</blockquote>
-<!-- pro-tip:end -->
-</td>
-<td width="33%" valign="top">
-<a href="prompts/2112226981081153743.md"><img src="data/gifs/2112226981081153743.gif" alt="Interactive Premium Member Card UI Demo" width="100%" /></a><br>
-<strong>Interactive Premium Member Card UI Demo</strong><br>
+Preview locally in your browser. MP4 export requires Node.js, Playwright and FFmpeg. Each starter includes editable source code and English / 简体中文 instructions.
 
-<sub><a href="https://x.com/aaaaaaaaaaafedb/status/2112226981081153743">Original post ↗</a> · <a href="prompts/2112226981081153743.md">Prompt ↗</a></sub>
-<!-- pro-tip:start -->
-<blockquote><strong>💡 Pro Tip</strong><br><code>make me a beautiful premium card to show off in society</code>: The public fragment gives a creative direction only; add subject motion, visual constraints and delivery format without assuming the full production process.</blockquote>
-<!-- pro-tip:end -->
-</td><td></td>
-</tr>
-</table>
-
-## Browse the full library
-
-- [Product & Brand Videos](data/categories/product-brand.md) (86)
-- [Motion Graphics & Typography](data/categories/motion-graphics.md) (242)
-- [UI & Web Animation](data/categories/ui-web.md) (19)
-- [Explainers & Education](data/categories/explainers.md) (91)
-- [Music & Storytelling](data/categories/music-storytelling.md) (35)
-- [3D Worlds & Simulations](data/categories/3d-scenes.md) (175)
-- [Games & Interactive Experiences](data/categories/games-interactive.md) (101)
-
-30 homepage picks · Original creator links on every card.
+[Browse all templates →](templates/)
+<!-- runnable-templates:end -->
 
 ## Product & Brand Videos — homepage picks
 
