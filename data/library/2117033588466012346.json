@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-02T06:07:35.769Z",
+  "model": "opus5.5",
+  "prompt": "asked Claude for a handheld console.\nthen a cartridge.\nthen a game where you survive by turning into the right animal.\nfox. eagle. fish. bear.",
+  "promptTranslations": {
+    "en": "asked Claude for a handheld console.\nthen a cartridge.\nthen a game where you survive by turning into the right animal.\nfox. eagle. fish. bear."
+  },
+  "summary": "Dr. DIG showcases a 3D handheld console ('Pocket 99') and an embedded cartridge-based pixel game ('Nino Muta Wild Run') created by prompting Claude Opus 5.5 to write Three.js code.",
+  "summaryEn": "Interactive 3D Handheld Console and Pixel Game in Three.js",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2117033588466012346",
+    "canonicalUrl": "https://x.com/CiprianiRanieri/status/2117033588466012346",
+    "author": {
+      "username": "CiprianiRanieri",
+      "displayName": "Dr. DIG",
+      "profileUrl": "https://x.com/CiprianiRanieri"
+    },
+    "publishedAt": "2026-11-01T23:18:34.000Z",
+    "collectedAt": "2026-11-02T06:00:31.061Z",
+    "language": "en",
+    "originalText": "asked Claude for a handheld console.\nthen a cartridge.\nthen a game where you survive by turning into the right animal.\nfox. eagle. fish. bear.\n\nmade with opus 5.5 + three.js https://t.co/nHQJZlqs7j",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/CiprianiRanieri/status/2117033588466012346",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2117033516550459392/img/Ugxs7v4RtvKOMAST.jpg",
+        "analysisUrl": "https://x.com/CiprianiRanieri/status/2117033588466012346"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 3,
+      "quoteCount": 1,
+      "viewCount": 256
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part2"
+    ],
+    "sourceMaterials": [
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/CiprianiRanieri/status/2117040395305578948",
+        "text": "@claudeai @AnthropicAI",
+        "author": "CiprianiRanieri"
+      },
+      {
+        "kind": "author_thread",
+        "url": "https://x.com/CiprianiRanieri/status/2117033811317793043",
+        "text": "best record so far, pretty difficult, not gonna lie haha\n\nps should I release it? https://t.co/2GXAuYw46H",
+        "author": "CiprianiRanieri"
+      }
+    ],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit",
+      "public_material_unavailable:https://t.co/nHQJZlqs7j",
+      "public_material_unavailable:https://t.co/2GXAuYw46H"
+    ]
+  },
+  "xUrl": "https://x.com/CiprianiRanieri/status/2117033588466012346",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2117033516550459392/img/Ugxs7v4RtvKOMAST.jpg",
+  "coverPath": "data/covers/2117033588466012346-wide.jpg",
+  "gifPath": "data/gifs/2117033588466012346.gif",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2117033516550459392",
+    "x-post:2117033588466012346"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Interactive 3D Handheld Console and Pixel Game in Three.js",
+      "summary": "Dr. DIG showcases a 3D handheld console ('Pocket 99') and an embedded cartridge-based pixel game ('Nino Muta Wild Run') created by prompting Claude Opus 5.5 to write Three.js code.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": null,
+        "authorUseConfirmed": true,
+        "evidence": "made with opus 5.5 + three.js"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "asked Claude for a handheld console.\nthen a cartridge.\nthen a game where you survive by turning into the right animal.\nfox. eagle. fish. bear.",
+        "englishText": "asked Claude for a handheld console.\nthen a cartridge.\nthen a game where you survive by turning into the right animal.\nfox. eagle. fish. bear.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Exact initial prompt and multi-turn instructions for the Three.js 3D handheld model",
+          "Cartridge 3D asset/texture generation prompt",
+          "Full game logic, mechanics, and pixel-art canvas implementation prompt"
+        ]
+      },
+      "result": {
+        "kind": "screen_recording",
+        "consistent": true,
+        "evidence": "The video demonstrates a 3D handheld console loading a retro cartridge and zooming into a playable 2D pixel platformer where the player transforms into a fox, eagle, fish, and bear to overcome obstacles.",
+        "textualResultQuote": ""
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D scene renderer for the handheld console, lighting, and embedded interactive canvas display",
+          "evidence": "made with opus 5.5 + three.js",
+          "sourceUrl": "https://x.com/CiprianiRanieri/status/2117033588466012346",
+          "status": "author_confirmed"
+        }
+      ],
+      "purpose": {
+        "label": "3D Handheld Console & Pixel Game Simulation",
+        "topic": "games-interactive",
+        "tags": [
+          "threejs",
+          "webgl",
+          "interactive-game",
+          "pixel-art",
+          "3d-scene"
+        ]
+      },
+      "targetModelRole": "Interactive code generation for the Three.js 3D console model and the embedded 2D shape-shifting game logic",
+      "outputSource": "WebGL screen capture rendered with Three.js in a web browser",
+      "divisionEvidence": "Author states 'made with opus 5.5 + three.js', identifying Claude Opus 5.5 as the coding agent and Three.js as the runtime rendering engine.",
+      "video": {
+        "shots": "Single continuous take starting with an exterior 3D view of the console and cartridge, zooming into the screen to display gameplay",
+        "duration": "00:40",
+        "aspectRatio": "2802:1322",
+        "referenceMaterials": []
+      },
+      "task": "games-interactive",
+      "suitable": true,
+      "reason": "Directly demonstrates Claude Opus 5.5 interactive 3D and canvas video/game generation with author-confirmed model version and matching screen recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/CiprianiRanieri/status/2117033588466012346",
+        "start": 0,
+        "end": 142
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/CiprianiRanieri/status/2117033588466012346",
+        "author": "CiprianiRanieri",
+        "postId": "2117033588466012346",
+        "publishedAt": "2026-11-01T23:18:34.000Z"
+      },
+      "checkedAt": "2026-11-02T06:05:12.883Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt",
+          "opus_tool_responsibilities_unverified"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/CiprianiRanieri/status/2117033588466012346",
+        "evidence": ""
+      }
+    },
+    "summary": "Dr. DIG showcases a 3D handheld console ('Pocket 99') and an embedded cartridge-based pixel game ('Nino Muta Wild Run') created by prompting Claude Opus 5.5 to write Three.js code.",
+    "summaryEn": "Interactive 3D Handheld Console and Pixel Game in Three.js",
+    "originalPrompt": "asked Claude for a handheld console.\nthen a cartridge.\nthen a game where you survive by turning into the right animal.\nfox. eagle. fish. bear.",
+    "sourceRange": {
+      "start": 0,
+      "end": 142
+    },
+    "translations": {
+      "zh": "asked Claude for a handheld console.\nthen a cartridge.\nthen a game where you survive by turning into the right animal.\nfox. eagle. fish. bear.",
+      "en": "asked Claude for a handheld console.\nthen a cartridge.\nthen a game where you survive by turning into the right animal.\nfox. eagle. fish. bear."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "games-interactive",
+    "useCase": "3D Handheld Console & Pixel Game Simulation",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Exact initial prompt and multi-turn instructions for the Three.js 3D handheld model",
+        "Cartridge 3D asset/texture generation prompt",
+        "Full game logic, mechanics, and pixel-art canvas implementation prompt"
+      ],
+      "evidence": "The video demonstrates a 3D handheld console loading a retro cartridge and zooming into a playable 2D pixel platformer where the player transforms into a fox, eagle, fish, and bear to overcome obstacles."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-11-02T06:07:36.842Z",
+  "model": "opus5.5",
+  "prompt": "a tiny city inside a snow globe that gets shaken, then the snow settles back over the rooftops. One HTML file each, built with Three.js.",
+  "promptTranslations": {
+    "en": "a tiny city inside a snow globe that gets shaken, then the snow settles back over the rooftops. One HTML file each, built with Three.js."
+  },
+  "summary": "Author runs a benchmark comparing Haiku 5.5, Sonnet 5.5, Opus 5.5, and Opus 5.5 on max effort generating a standalone Three.js HTML snow globe simulation where snow shakes and settles over a miniature city.",
+  "summaryEn": "Three.js Snow Globe Animation Benchmark Across Claude 5.5 Models",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2117104758544633972",
+    "canonicalUrl": "https://x.com/Meddes0119/status/2117104758544633972",
+    "author": {
+      "username": "Meddes0119",
+      "displayName": "Meddes",
+      "profileUrl": "https://x.com/Meddes0119"
+    },
+    "publishedAt": "2026-11-02T04:01:22.000Z",
+    "collectedAt": "2026-11-02T05:44:10.444Z",
+    "language": "en",
+    "originalText": "Haiku vs Sonnet vs Opus vs Opus max, who did better?\nA non-scientific experiment. Four Claude runs got the exact same prompt: a tiny city inside a snow globe that gets shaken, then the snow settles back over the rooftops. One HTML file each, built with Three.js.\nTop left: Haiku 5.5, ~58 min (it crashed twice trying to write the whole page in one reply)\nTop right: Sonnet 5.5, 62 min\nBottom left: Opus 5.5, 36 min\nBottom right: Opus 5.5 on max effort, 39 min\nFunny part: Sonnet and both Opus runs each picked a walnut base with brass trim and blurry fairy lights behind it. And both Opus runs light up a Christmas tree once the snow settles.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Meddes0119/status/2117104758544633972",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2117104710565928960/img/1tReyy9H-9KOFTXo.jpg",
+        "analysisUrl": "https://x.com/Meddes0119/status/2117104758544633972"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 101
+    },
+    "matchedRuleIds": [
+      "group:opus:en:Latest:part1"
+    ],
+    "sourceMaterials": [],
+    "sourceMaterialErrors": [
+      "author_thread_page_limit"
+    ]
+  },
+  "xUrl": "https://x.com/Meddes0119/status/2117104758544633972",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2117104710565928960/img/1tReyy9H-9KOFTXo.jpg",
+  "coverPath": "data/covers/2117104758544633972-wide.jpg",
+  "gifPath": null,
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2117104710565928960",
+    "x-post:2117104758544633972"
+  ],
+  "analysis": {
+    "caseEvidence": {
+      "group": "opus",
+      "title": "Three.js Snow Globe Animation Benchmark Across Claude 5.5 Models",
+      "summary": "Author runs a benchmark comparing Haiku 5.5, Sonnet 5.5, Opus 5.5, and Opus 5.5 on max effort generating a standalone Three.js HTML snow globe simulation where snow shakes and settles over a miniature city.",
+      "sourceRelation": "original",
+      "model": {
+        "name": "Claude Opus",
+        "version": "5.5",
+        "platform": "Claude",
+        "authorUseConfirmed": true,
+        "evidence": "Bottom left: Opus 5.5, 36 min\\nBottom right: Opus 5.5 on max effort, 39 min"
+      },
+      "prompt": {
+        "status": "fragment",
+        "text": "a tiny city inside a snow globe that gets shaken, then the snow settles back over the rooftops. One HTML file each, built with Three.js.",
+        "englishText": "a tiny city inside a snow globe that gets shaken, then the snow settles back over the rooftops. One HTML file each, built with Three.js.",
+        "complete": false,
+        "reproducible": false,
+        "missing": [
+          "Complete verbatim system and user prompt instructions",
+          "Full implementation requirements and styling details"
+        ]
+      },
+      "result": {
+        "kind": "video",
+        "consistent": true,
+        "evidence": "The video shows a 4-way split comparison with animated 3D snow globes shaking and settling over tiny city rooftops, with walnut bases, fairy lights, and Christmas trees lighting up on both Opus 5.5 runs.",
+        "textualResultQuote": "Funny part: Sonnet and both Opus runs each picked a walnut base with brass trim and blurry fairy lights behind it. And both Opus runs light up a Christmas tree once the snow settles."
+      },
+      "inputs": [],
+      "inputsDocumented": true,
+      "tools": [
+        {
+          "name": "Three.js",
+          "role": "3D WebGL graphics and animation rendering inside an HTML file",
+          "evidence": "One HTML file each, built with Three.js.",
+          "status": "author_confirmed",
+          "sourceUrl": "https://x.com/Meddes0119/status/2117104758544633972"
+        },
+        {
+          "name": "Three.js",
+          "role": "3D browser renderer",
+          "evidence": "One HTML file each, built with Three.js.",
+          "sourceUrl": "https://x.com/Meddes0119/status/2117104758544633972",
+          "status": "required"
+        }
+      ],
+      "purpose": {
+        "label": "Interactive 3D Snow Globe Scene",
+        "topic": "3d-scenes",
+        "tags": [
+          "threejs",
+          "webgl",
+          "creative-coding",
+          "snow-globe",
+          "animation"
+        ]
+      },
+      "targetModelRole": "Writing standalone HTML and Three.js creative coding scripts for interactive 3D animation",
+      "outputSource": "Web browser WebGL execution of generated HTML files",
+      "divisionEvidence": "Four Claude runs got the exact same prompt: a tiny city inside a snow globe that gets shaken, then the snow settles back over the rooftops. One HTML file each, built with Three.js.",
+      "video": {
+        "shots": "Single split-screen comparison shot",
+        "duration": "12s",
+        "aspectRatio": "4:5",
+        "referenceMaterials": []
+      },
+      "task": "canvas-interactive",
+      "suitable": true,
+      "reason": "Authentic demonstration of Claude Opus 5.5 generating complete Three.js code for a 3D animated snow globe scene shown via video recording.",
+      "isAdvertisement": false,
+      "promptSource": {
+        "url": "https://x.com/Meddes0119/status/2117104758544633972",
+        "start": 126,
+        "end": 262
+      },
+      "policyVersion": 5,
+      "source": {
+        "url": "https://x.com/Meddes0119/status/2117104758544633972",
+        "author": "Meddes0119",
+        "postId": "2117104758544633972",
+        "publishedAt": "2026-11-02T04:01:22.000Z"
+      },
+      "checkedAt": "2026-11-02T06:03:41.367Z",
+      "checkMethod": "video",
+      "publication": {
+        "tier": "reference",
+        "status": "publishable",
+        "reasons": [
+          "author_model_use_unverified",
+          "prompt_disclosure_requires_editor_review:fragment",
+          "incomplete_or_unreproducible_prompt"
+        ]
+      },
+      "reproduction": {
+        "status": "not_tested",
+        "evidence": "No repository reproduction run is recorded. Author claims and media review are not reproduction."
+      },
+      "fieldReview": {
+        "version": 1,
+        "notes": [],
+        "sourceUrl": "https://x.com/Meddes0119/status/2117104758544633972",
+        "evidence": ""
+      }
+    },
+    "summary": "Author runs a benchmark comparing Haiku 5.5, Sonnet 5.5, Opus 5.5, and Opus 5.5 on max effort generating a standalone Three.js HTML snow globe simulation where snow shakes and settles over a miniature city.",
+    "summaryEn": "Three.js Snow Globe Animation Benchmark Across Claude 5.5 Models",
+    "originalPrompt": "a tiny city inside a snow globe that gets shaken, then the snow settles back over the rooftops. One HTML file each, built with Three.js.",
+    "sourceRange": {
+      "start": 126,
+      "end": 262
+    },
+    "translations": {
+      "zh": "a tiny city inside a snow globe that gets shaken, then the snow settles back over the rooftops. One HTML file each, built with Three.js.",
+      "en": "a tiny city inside a snow globe that gets shaken, then the snow settles back over the rooftops. One HTML file each, built with Three.js."
+    },
+    "targetModels": [
+      "opus5.5"
+    ],
+    "category": "canvas-interactive",
+    "useCase": "Interactive 3D Snow Globe Scene",
+    "hasReusablePrompt": false,
+    "promptResultConsistency": 1,
+    "mediaReview": "automated",
+    "promptValidation": {
+      "complete": false,
+      "reproducible": false,
+      "matchesMedia": true,
+      "missingElements": [
+        "Complete verbatim system and user prompt instructions",
+        "Full implementation requirements and styling details"
+      ],
+      "evidence": "The video shows a 4-way split comparison with animated 3D snow globes shaking and settling over tiny city rooftops, with walnut bases, fairy lights, and Christmas trees lighting up on both Opus 5.5 runs."
+    },
+    "isAdvertisement": false,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    }
+  }
+}
