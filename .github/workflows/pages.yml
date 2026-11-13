@@ -1,14 +1,8 @@
-name: Deploy prompt collection to GitHub Pages
+name: Deploy Fable showcase to the original Pages URL
 on:
   push:
     branches: [main]
     paths:
-      - "site/**"
-      - "data/library/**"
-      - "data/latest-update.json"
-      - "data/categories/**"
-      - "data/covers/**"
-      - "templates/**"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 permissions:
@@ -22,7 +16,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Check out Fable showcase and source data
+        uses: actions/checkout@v4
+        with:
+          repository: LeaddeOpenLab/awesome-fable-5.2-video-prompts
+          ref: main
+          path: fable-source
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -30,14 +29,14 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Build static pages
         env:
-          GA_MEASUREMENT_ID: ${{ vars.GA_MEASUREMENT_ID }}
-          GOOGLE_SITE_VERIFICATION: ${{ vars.GOOGLE_SITE_VERIFICATION }}
-        run: python3 site/build.py
+          SITE_URL: https://leaddeopenlab.github.io/awesome-opus-5-5-video-prompts/
+          GA_MEASUREMENT_ID: G-EWWVH9CVTM
+        run: python3 fable-source/site/build.py
       - name: Check pages and local links
-        run: python3 site/check.py
+        run: python3 fable-source/site/check.py
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: _site
+          path: fable-source/_site
   deploy:
     needs: build
     runs-on: ubuntu-latest
